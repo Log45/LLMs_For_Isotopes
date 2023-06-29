@@ -19,6 +19,8 @@ This is a repository with all of my research for the SULI program Summer 2023.
     - https://huggingface.co/docs/transformers/model_doc/bloom 
 - OPT https://arxiv.org/abs/2205.01068 
 - Pythia
+- GPT Neo
+- StableLM
 
 
 ## Other relevant papers:
