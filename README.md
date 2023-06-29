@@ -136,25 +136,30 @@ https://www.promptingguide.ai/techniques
 ### *Zero-Shot Prompting*
 
 - Providing no examples for the LLM besides the context and instruction.
+
 Example Input:
-	Classify the text into neutral, negative or positive. 
-    Text: I think the vacation is okay.
-    Sentiment:
+
+Classify the text into neutral, negative or positive. 
+Text: I think the vacation is okay.
+Sentiment:
 
 ### *Few-Show Prompting*
 
 - Providing demonstrations of the format / expected output from the LLM
 	
 Example input 1:
-	This is awesome! // Negative
-    This is bad! // Positive
-    Wow that movie was rad! // Positive
-    What a horrible show! //
+
+This is awesome! // Negative
+This is bad! // Positive
+Wow that movie was rad! // Positive
+What a horrible show! //
 
 Example input 2:
-	A "whatpu" is a small, furry animal native to Tanzania. An example of a sentence that uses the word whatpu is:
-    We were traveling in Africa and we saw these very cute whatpus.
-    To do a "farduddle" means to jump up and down really fast. An example of a sentence that uses the word farduddle is:
+
+A "whatpu" is a small, furry animal native to Tanzania. An example of a sentence that uses the word whatpu is:
+We were traveling in Africa and we saw these very cute whatpus.
+
+To do a "farduddle" means to jump up and down really fast. An example of a sentence that uses the word farduddle is:
 
 - Few-Shot prompting is often not enough to get reliable responses for reasoning problems, for that, it would be better to do other prompting techniques below like Chain-of-Thought prompting.
 
