@@ -1,7 +1,7 @@
 This is a repository with all of my research for the SULI program Summer 2023.
 
 
-**Models to use:**
+# Models to use:
 - Galactica (galai) https://arxiv.org/abs/2211.09085 
 - LLaMA (openllama) https://arxiv.org/abs/2302.13971 
     - Find version that is trained from scratch rather than using LLaMA Tokenizer
