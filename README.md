@@ -183,7 +183,7 @@ To do a "farduddle" means to jump up and down really fast. An example of a sente
 - Code: https://github.com/amazon-science/auto-cot 
 
 ### *Self-Consistency* 
--https://arxiv.org/abs/2203.11171
+- https://arxiv.org/abs/2203.11171
 - One of the more advanced techniques
 - Aims “to replace the naive greedy decoding used in chain-of-thought prompting”
 - Sample multiple, diverse reasoning paths through few-shot CoT and use the generations to select the most consistent answer. 
