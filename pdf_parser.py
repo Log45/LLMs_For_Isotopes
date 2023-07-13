@@ -4,27 +4,50 @@ This code is taken from https://www.freecodecamp.org/news/extract-data-from-pdf-
 import pdfquery
 from pdfquery import PDFQuery
 import pandas
+import os
 
-s = "To assess the quality and quantity of the produced 64Cu, we made 64Cu-DOTA-rituximab"
-print(len(s))
 
-pdf = PDFQuery('data/Establishing_Reliable_Cu-64_Production_Process.pdf')
-pdf.load()
+def convert_to_txt(pdf_file_name:str):
+    """
+    Parameters:
+        pdf_file_name: A string representation of the name of the pdf file.
+    """
+    if ".pdf" in pdf_file_name:
+        pdf_file_name = pdf_file_name[:-4]
 
-# Use CSS-like selectors to locate the elements
-text_elements = pdf.pq('LTTextLineHorizontal')
+    pdf = PDFQuery(f'data/pdf/{pdf_file_name}.pdf')
+    pdf.load()
 
-# Extract the text from the elements
-text = [t.text for t in text_elements]
+    # Use CSS-like selectors to locate the elements
+    text_elements = pdf.pq('LTTextLineHorizontal')
 
-print(text)
-i = 0
-for t in text:
-    if t == "" or t == " " or t == "  " or t == "\n" or t == "\t":
-        text.pop(i)
-    i+=1
+    # Extract the text from the elements
+    text = [t.text for t in text_elements]
 
-print(text)
+    i = 0
+    for t in text:
+        if t == "" or t == " " or t == "  " or t == "\n" or t == "\t":
+            text.pop(i)
+        i+=1
+
+    print(text)
+
+    ft = ""
+    for t in text:
+        ft += f"{t.strip()} "
+
+    with open(f"data/txt/{pdf_file_name}.txt", "w", encoding="utf-8") as f:
+        f.write(ft) 
+
+if __name__ == "__main__":
+    directory = "data/pdf"
+    for filename in os.listdir(directory):
+        f = os.path.join(directory, filename)
+        # checking if it is a file
+        if os.path.isfile(f) and f.endswith(".pdf"):
+            convert_to_txt(filename)
+
+
 
 """
 ftext = ""
