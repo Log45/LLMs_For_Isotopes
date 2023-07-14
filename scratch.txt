@@ -1,3 +1,34 @@
+
+"""
+ftext = ""
+for t in text:
+    t.strip()
+    #print(t)
+    if len(t) < 50:
+        text.remove(t)
+    ftext += t
+#print(ftext)
+ftext = ftext.strip()
+#print(ftext)
+
+f = ftext.split("\n")
+for x in f:
+    x = x.strip()
+
+print(f)
+    """
+#print(text)
+"""
+#read the PDF
+pdf = pdfquery.PDFQuery('data/Establishing_Reliable_Cu-64_Production_Process.pdf')
+pdf.load()
+
+
+#convert the pdf to XML
+pdf.tree.write('cu-64.xml', pretty_print = True)
+print(pdf)
+"""
+
 ['Article ', 'Establishing Reliable Cu-64 Production Process: ', 'From Target Plating to Molecular 
 Speciﬁc Tumor ', 'Micro-PET Imaging ', 'Qinghua Xie 1,2,†, Hua Zhu 2,†, Feng Wang 2, Xiangxi Meng 3,
 \ Qiushi Ren 3, Chuanqin Xia 1,* ', 'and Zhi Yang 2,* ', '1 College of Chemistry, Sichuan University, 

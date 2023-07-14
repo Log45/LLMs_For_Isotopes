@@ -3,10 +3,7 @@ This code is taken from https://www.freecodecamp.org/news/extract-data-from-pdf-
 """
 import pdfquery
 from pdfquery import PDFQuery
-import pandas
 import os
-
-print(len("Figure 2. The 64Ni target produced in this study. (a) Photo of the 64Ni target; (b) The SEM image of the 64Ni target; (c) The EDS spectrum of the 64Ni target; (d) The thickness measurement of the 64Ni solid target."))
 
 def convert_to_txt(pdf_file_name:str):
     """
@@ -24,13 +21,17 @@ def convert_to_txt(pdf_file_name:str):
 
     # Extract the text from the elements
     text = [t.text for t in text_elements]
-
+    """
     i = 0
+    remove = []
     for t in text:
         if t == "" or t == " " or t == "  " or t == "\n" or t == "\t":
-            text.pop(i)
+            remove.append(i)
         i+=1
-
+    
+    for i in remove:
+        text.pop(i)
+    """
     ft = ""
     for t in text:
         ft += f"{t.strip()} "
@@ -58,17 +59,27 @@ def extract_context(txt_file_name):
     context = s.split("  ")
 
     i = 0
+    remove = []
     print(len(context))
     for p in context:
         if len(p) < 220:
-            context.pop(i)
+            remove.append(i)
         i+=1
+    x=0
+    for i in remove:
+        context.pop(i-x)
+        x+=1
     print(len(context))
     return context
 
-
-if __name__ == "__main__":
-    
+def pdf_to_context():
+    """
+    Returns:
+        context: list with different paragraphs from the text file that may be able to be used as context for large language models.
+        
+    Note: While this program does split pdfs into different paragraphs, it is not guaranteed that the produced paragraphs are all usable, and there 
+    are still a good number of paragraphs that are simply acknowledgements or unusable blocks of text from the pdfs. 
+    """
     directory = "data/pdf"
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
@@ -77,43 +88,15 @@ if __name__ == "__main__":
             convert_to_txt(filename)
 
     directory = "data/txt"
+    context = []
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         # check if it is a file and run the context extractor
         if os.path.isfile(f) and f.endswith(".txt"):
-            context = extract_context(filename)
-            for _ in context:
-                print(_, end="\t \end/ \n\n")
+            context += (extract_context(filename))
+    for _ in context:
+        print(_, end="\t \end/ \n\n")
+    return context
 
-
-
-
-"""
-ftext = ""
-for t in text:
-    t.strip()
-    #print(t)
-    if len(t) < 50:
-        text.remove(t)
-    ftext += t
-#print(ftext)
-ftext = ftext.strip()
-#print(ftext)
-
-f = ftext.split("\n")
-for x in f:
-    x = x.strip()
-
-print(f)
-    """
-#print(text)
-"""
-#read the PDF
-pdf = pdfquery.PDFQuery('data/Establishing_Reliable_Cu-64_Production_Process.pdf')
-pdf.load()
-
-
-#convert the pdf to XML
-pdf.tree.write('cu-64.xml', pretty_print = True)
-print(pdf)
-"""
+if __name__ == "__main__":
+    pdf_to_context()
