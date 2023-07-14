@@ -6,6 +6,7 @@ from pdfquery import PDFQuery
 import pandas
 import os
 
+print(len("Figure 2. The 64Ni target produced in this study. (a) Photo of the 64Ni target; (b) The SEM image of the 64Ni target; (c) The EDS spectrum of the 64Ni target; (d) The thickness measurement of the 64Ni solid target."))
 
 def convert_to_txt(pdf_file_name:str):
     """
@@ -30,8 +31,6 @@ def convert_to_txt(pdf_file_name:str):
             text.pop(i)
         i+=1
 
-    print(text)
-
     ft = ""
     for t in text:
         ft += f"{t.strip()} "
@@ -39,13 +38,53 @@ def convert_to_txt(pdf_file_name:str):
     with open(f"data/txt/{pdf_file_name}.txt", "w", encoding="utf-8") as f:
         f.write(ft) 
 
+
+def extract_context(txt_file_name):
+    """
+    Parameters: 
+        txt_file_name: A string representation fo the name of the txt file (converted from pdf).
+    
+    Returns:
+        context: list with different paragraphs from the text file that may be able to be used as context for large language models.
+    """
+    if ".txt" not in txt_file_name:
+        txt_file_name = f"{txt_file_name}.txt"
+    
+    s = ""
+    with open(f"data/txt/{txt_file_name}", "r", encoding="utf-8") as f:
+        for line in f:
+            s += f"{line.strip()} "
+    
+    context = s.split("  ")
+
+    i = 0
+    print(len(context))
+    for p in context:
+        if len(p) < 220:
+            context.pop(i)
+        i+=1
+    print(len(context))
+    return context
+
+
 if __name__ == "__main__":
+    
     directory = "data/pdf"
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         # checking if it is a file
         if os.path.isfile(f) and f.endswith(".pdf"):
             convert_to_txt(filename)
+
+    directory = "data/txt"
+    for filename in os.listdir(directory):
+        f = os.path.join(directory, filename)
+        # check if it is a file and run the context extractor
+        if os.path.isfile(f) and f.endswith(".txt"):
+            context = extract_context(filename)
+            for _ in context:
+                print(_, end="\t \end/ \n\n")
+
 
 
 

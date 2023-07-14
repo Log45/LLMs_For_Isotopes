@@ -1,5 +1,7 @@
 This is a repository with all of my research for the SULI program Summer 2023.
 
+#### Ideas:
+- Create a docker image for a website to upload and convert pdf files into txt files and pipe contexts for prompts into language models with configured templates running on a workstation. 
 
 ## Models to use:
 - Galactica (galai) https://arxiv.org/abs/2211.09085 
