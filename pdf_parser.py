@@ -23,7 +23,7 @@ def convert_to_txt(pdf_file_name:str):
 
     # Extract the text from the elements
     text = [t.text for t in text_elements]
-    
+
     ft = ""
     for t in text:
         ft += f"{t.strip()} "
