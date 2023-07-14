@@ -1,5 +1,7 @@
 """
-This code is taken from https://www.freecodecamp.org/news/extract-data-from-pdf-files-with-python/ 
+pdf_parser.py is a program that uses the pdfquery library to take pdfs and convert them into a list of paragraphs that may be able to be used as context in prompts for large language models.
+Author: Logan Endes https://github.com/Log45
+Code for accessing pdfs with PDFQuery adapted from https://www.freecodecamp.org/news/extract-data-from-pdf-files-with-python/ 
 """
 import pdfquery
 from pdfquery import PDFQuery
@@ -71,6 +73,7 @@ def extract_context(txt_file_name):
         x+=1
     print(len(context))
     return context
+
 
 def pdf_to_context():
     """
