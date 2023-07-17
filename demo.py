@@ -47,13 +47,16 @@ questions_examples_dict = {target_question : target_example,
 def main():
     """"""
     contexts = pdf_to_context()
-    model = gal.load_model("standard")
+    model = gal.load_model("base")
+    generations = []
     for context in contexts:
         for q in questions:
             example = questions_examples_dict[q]
             input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
-            model.generate(input, max_length=400)
-    
+            generation = model.generate(input, max_length=1200)
+            print(generation)
+            generations.append(generation)
+    return generations
 
 
 if __name__ == "__main__":
