@@ -11,9 +11,10 @@ Goals: Using few-shot CoT, answer these questions with different prompts
     - (maybe) How long was the target irradiated?
     - (maybe) How long did the separation process take?
 """
+import time
 from pdf_parser import pdf_to_context
 import galai as gal
-import time
+
 
 
 keywords = {"separation", "Separation", "isolation", "Isolation", "chromatography", "Chromatograph", "ion exchange", "ion Exchange", "Ion Exchange", "Ion exchange",
@@ -64,9 +65,9 @@ def default_generate():
             print(f"Answer: {answer} \n")
             generations.append(generation)
             answers.append(answers)
-    time = time.perf_counter() - t1
-    print(f"{len(answers)} generations in {time} seconds.")
-    return generations, answers, time
+    t = time.perf_counter() - t1
+    print(f"{len(answers)} generations in {t} seconds.")
+    return generations, answers, t
 
 
 def keyword_filter_generate():
@@ -85,9 +86,9 @@ def keyword_filter_generate():
                 print(f"Answer: {answer} \n")
                 generations.append(generation)
                 answers.append(answers)
-    time = time.perf_counter() - t1
-    print(f"{len(answers)} generations in {time} seconds.")
-    return generations, answers, time
+    t = time.perf_counter() - t1
+    print(f"{len(answers)} generations in {t} seconds.")
+    return generations, answers, t
 
 
 def model_filter_generate():
@@ -109,9 +110,9 @@ def model_filter_generate():
                 print(f"Answer: {answer} \n")
                 generations.append(generation)
                 answers.append(answers)
-    time = time.perf_counter() - t1
-    print(f"{len(answers)} generations in {time} seconds.")
-    return generations, answers, time
+    t = time.perf_counter() - t1
+    print(f"{len(answers)} generations in {t} seconds.")
+    return generations, answers, t
 
 
 def main():
