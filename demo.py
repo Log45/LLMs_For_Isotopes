@@ -60,7 +60,7 @@ def default_generate():
         for q in questions:
             example = questions_examples_dict[q]
             input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
-            generation = model.generate(input, max_new_tokens=200)
+            generation = model.generate(input, max_new_tokens=50)
             answer = generation[len(input):]
             print(f"Answer: {answer} \n")
             generations.append(generation)
@@ -81,7 +81,7 @@ def keyword_filter_generate():
             for q in questions:
                 example = questions_examples_dict[q]
                 input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
-                generation = model.generate(input, max_new_tokens=200)
+                generation = model.generate(input, max_new_tokens=50)
                 answer = generation[len(input):]
                 print(f"Answer: {answer} \n")
                 generations.append(generation)
@@ -105,7 +105,7 @@ def model_filter_generate():
             for q in questions:
                 example = questions_examples_dict[q]
                 input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
-                generation = model.generate(input, max_new_tokens=200)
+                generation = model.generate(input, max_new_tokens=50)
                 answer = generation[len(input):]
                 print(f"Answer: {answer} \n")
                 generations.append(generation)
