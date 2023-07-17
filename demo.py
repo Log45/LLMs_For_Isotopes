@@ -13,6 +13,11 @@ Goals: Using few-shot CoT, answer these questions with different prompts
 """
 from pdf_parser import pdf_to_context
 import galai as gal
+import time
+
+
+keywords = {"separation", "Separation", "isolation", "Isolation", "chromatography", "Chromatograph", "ion exchange", "ion Exchange", "Ion Exchange", "Ion exchange",
+            "eluted", "Eluted", "elution", "Elution", "elute", "Elute", "fraction", "Fraction", "resin", "Resin", "exchange", "Exchange", "acid", "Acid", "target", "Target"}
 
 example_context = "After irradiation of 5 h, the 64Ni target was dissolved in 6 M hydrochloride acid, and then the solution was load to an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce the production cost of 64Cu, without sacriﬁcing the quality of subsequent 64Cu production. When the eluted was switched to 1 M HCl, the ﬁrst band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for further use. The separation process of 64Cu took about 2.5 h after irradiation."
 
@@ -44,19 +49,76 @@ questions_examples_dict = {target_question : target_example,
                            elution_question : elution_example,
                            products_question : products_example}
 
-def main():
-    """"""
+def default_generate():
+    t1 = time.perf_counter()
     contexts = pdf_to_context()
     model = gal.load_model("base")
     generations = []
+    answers = []
     for context in contexts:
         for q in questions:
             example = questions_examples_dict[q]
             input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
             generation = model.generate(input, max_length=1200)
-            print(generation)
+            answer = generation[len(input):]
+            print(f"Answer: {answer} \n")
             generations.append(generation)
-    return generations
+            answers.append(answers)
+    time = time.perf_counter() - t1
+    print(f"{len(answers)} generations in {time} seconds.")
+    return generations, answers, time
+
+
+def keyword_filter_generate():
+    t1 = time.perf_counter()
+    contexts = pdf_to_context()
+    model = gal.load_model("base")
+    generations = []
+    answers = []
+    for context in contexts:
+        if len(set(context.split()).intersection(keywords)) > 0:
+            for q in questions:
+                example = questions_examples_dict[q]
+                input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
+                generation = model.generate(input, max_length=1200)
+                answer = generation[len(input):]
+                print(f"Answer: {answer} \n")
+                generations.append(generation)
+                answers.append(answers)
+    time = time.perf_counter() - t1
+    print(f"{len(answers)} generations in {time} seconds.")
+    return generations, answers, time
+
+
+def model_filter_generate():
+    t1 = time.perf_counter()
+    contexts = pdf_to_context()
+    model = gal.load_model("base")
+    generations = []
+    answers = []
+    for context in contexts:
+        c = f"Context: {context}\n Question: Yes or no, does the above context describe a chemical extraction?\n Answer: "
+        filter = model.generate(c, max_new_tokens=20)
+        answer = filter[len(c):]
+        if "Yes" in answer or "yes" in answer:
+            for q in questions:
+                example = questions_examples_dict[q]
+                input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
+                generation = model.generate(input, max_length=1200)
+                answer = generation[len(input):]
+                print(f"Answer: {answer} \n")
+                generations.append(generation)
+                answers.append(answers)
+    time = time.perf_counter() - t1
+    print(f"{len(answers)} generations in {time} seconds.")
+    return generations, answers, time
+
+
+def main():
+    """"""
+    keyword_filter_generate()
+    model_filter_generate()
+    # default_generate()
 
 
 if __name__ == "__main__":
