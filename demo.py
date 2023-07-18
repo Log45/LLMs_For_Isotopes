@@ -115,33 +115,33 @@ def model_filter_generate():
     return generations, answers, t
 
 
-def write_to_file():
+def write_to_file(output_name : str = "keyword_filter_output.txt", filter : function = keyword_filter_generate):
     """"""
-    k_gen, k_ans, k_time = keyword_filter_generate()
+    _gen, _ans, _time = filter()
 
-    k_time = round(k_time, 2)
+    _time = round(_time, 2)
 
-    k = f"Generated {len(k_gen)} responses in {k_time} seconds. \n\n"
-    for i in range(len(k_gen)):
-        ans_idx = k_gen[i].index('Answer:')
-        gen = k_gen[i][ans_idx:]
+    k = f"Generated {len(_gen)} responses in {_time} seconds."
+    for i in range(len(_gen)):
+        ans_idx = _gen[i].index('Answer:')
+        gen = _gen[i][ans_idx:]
         gen = gen[gen.index('Context:'):]
         question_index = gen.index('Question:')
-        ans = k_ans[i]
+        ans = _ans[i]
         if i % 5 == 0:
             j = 0
-            print(i)
-            k += "\n\n\n" + gen[:question_index]
+            # print(i)
+            k += "\n\n\n" + gen[:question_index] + "\n"
         q = questions[j]
-        print(q)
-        if j % 4 == 0:
-            k += "\nQuestion: " + q + "\nAnswe" + ans.split("\n")[0]
+        # print(q)
+        if j % 4 == 0 and j != 0:
+            k += "\nQuestion: " + q + "\nAnswe" + ans.split("\n")[0] + "\n"
         else:
-            k += "\nQuestion: " + q + "\nAnswer" + ans.split("\n")[0]
-        print(k)
+            k += "\nQuestion: " + q + "\nAnswer" + ans.split("\n")[0] + "\n"
+        # print(k)
         j += 1
 
-    with open("output/keyword_filter_output.txt", "w", encoding="utf-8") as f:
+    with open(f"output/{output_name}" if '.txt' in output_name else f"output/{output_name}.txt", "w", encoding="utf-8") as f:
          f.write(k)
 
 def main():
