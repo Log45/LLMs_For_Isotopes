@@ -49,12 +49,13 @@ def extract_context(txt_file_name):
             s += f"{line.strip()} "
     
     context = s.split("  ")
-
+    
     i = 0
     remove = []
     print(len(context))
+    
     for p in context:
-        if len(p) < 220:
+        if len(p) < 5:
             remove.append(i)
         i+=1
     x=0
@@ -62,6 +63,7 @@ def extract_context(txt_file_name):
         context.pop(i-x)
         x+=1
     print(len(context))
+    
     return context
 
 
