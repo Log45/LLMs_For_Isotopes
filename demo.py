@@ -118,49 +118,23 @@ def model_filter_generate():
 def write_to_file():
     """"""
     k_gen, k_ans, k_time = keyword_filter_generate()
-    m_gen, m_ans, m_time = model_filter_generate()
-    d_gen, d_ans, d_time = default_generate()
 
-    k_time = round(k_time, 3)
-    m_time = round(m_time, 3)
-    d_time = round(d_time, 3)
+    k_time = round(k_time, 2)
 
     k = f"Generated {len(k_gen)} responses in {k_time} seconds. \n\n"
     for i in range(len(k_gen)):
         question_index = k_gen[i].index('Question:')
         ans = k_ans[i]
         if i % 5 == 0:
-            k += k_gen[i][:question_index]
+            print(i)
+            k += k_gen[i][:question_index] + "\n"
         for q in questions:
-            k += q + ans
+            print(q)
+            k += q + ans.split("\n")[0]
+        print(k)
 
     with open("output/keyword_filter_output.txt", "w", encoding="utf-8") as f:
          f.write(k)
-
-    m = f"Generated {len(m_gen)} responses in {m_time} seconds. \n\n"
-    for i in range(len(m_gen)):
-        question_index = m_gen[i].index('Question:')
-        ans = m_ans[i]
-        if i % 5 == 0:
-            m += m_gen[i][:question_index]
-        for q in questions:
-            m += q + ans
-
-    with open("output/model_filter_output.txt", "w", encoding="utf-8") as f:
-         f.write(m)
-
-    d = f"Generated {len(d_gen)} responses in {d_time} seconds. \n\n"
-    for i in range(len(d_gen)):
-        question_index = d_gen[i].index('Question:')
-        ans = d_ans[i]
-        if i % 5 == 0:
-            d += d_gen[i][:question_index]
-        for q in questions:
-            d += q + ans
-
-    with open("output/default_output.txt", "w", encoding="utf-8") as f:
-         f.write(k)
-
 
 def main():
     """"""
