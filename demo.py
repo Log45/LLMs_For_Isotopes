@@ -12,6 +12,7 @@ Goals: Using few-shot CoT, answer these questions with different prompts
     - (maybe) How long did the separation process take?
 """
 import time
+
 from pdf_parser import pdf_to_context
 import galai as gal
 
@@ -120,9 +121,9 @@ def write_to_file():
     m_gen, m_ans, m_time = model_filter_generate()
     d_gen, d_ans, d_time = default_generate()
 
-    k_time = "%.3f" % k_time
-    m_time = "%.3f" % k_time
-    d_time = "%.3f" % k_time
+    k_time = round(k_time, 3)
+    m_time = round(m_time, 3)
+    d_time = round(d_time, 3)
 
     k = f"Generated {len(k_gen)} responses in {k_time} seconds. \n\n"
     for i in range(len(k_gen)):
