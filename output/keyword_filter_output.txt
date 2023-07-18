@@ -1,353 +1,353 @@
-Generated 125 responses in 97.2 seconds. 
+Generated 125 responses in 98.04 seconds. 
+
 
 
 
 Context: Abstract—Lead-203 was produced by proton bombardment of natural thallium target. For producing 203Pb, natTl was electroplated on copper backing as target and was bombarded by energetic proton beam. After bom- bardment, the target was dissolved in 1 M HNO3. Ion exchange, solvent extraction, and nanomagnetic ion-imprinted polymer methods were used for separating 203Pb from thallium. The separation efficiency of these methods was studied. γ-Ray spectroscopy was applied for evaluating 203Pb and others radionuclides. The separation efficiency was determined from the γ-ray spectra. The separation efficiency of the methods us- ing ion exchange, solvent extraction, and nanomagnetic ion-imprinted adsorbent was 98, 99.3, and 96.4%, re- spectively.
  
-
-Question:What is the target material in the above reaction?
-Answer: 203Pb, or lead-203, must be the target.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answe: 203Pb, or lead-203, must be the target.
+Question: What acid is the target material dissolved in during the above reaction?
 Answer: 1 M HNO3 was used to dissolve the target.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answer: 203Pb was separated from thallium by ion exchange, solvent extraction, and nanomagnetic ion-imprinted polymer methods. The separation efficiency of these methods was determined from the γ-ray spectra. The separation efficiency of the methods us-
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answer: 1 M HNO3 was used in the elution.
-Question:What are the products of the above reaction?
-Answerr: 203Pb is the product of the above reaction.
+Question: What are the products of the above reaction?
+Answer: 203Pb is the product of the above reaction.
+
 
 Context: natural thallium [1]. Natural thallium contains 29.5% 203Tl and 70.5% 205Tl. The possible nuclear reactions and their threshold energies to produce 203Pb from natural thallium are listed in Table 1. Horlock et al. reported the use of solvent extraction for separating lead and iron [1]. Garmestani et al. de- scribed a simple and rapid method for purification of cyclotron-produced 203Pb using a commercially avail- able Pb(II)-selective ion-exchange resin [3]. Numerous studies on ion-imprinted polymers and their manipula-
  
-
-Question:What is the target material in the above reaction?
-Answer: 203Tl is the target.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answe: 203Tl is the target.
+Question: What acid is the target material dissolved in during the above reaction?
 Answer: 203Tl is a radioactive isotope of thallium. The 203Tl is produced by the 203Pb(n,2n)203Tl reaction. The 203Pb is
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answer: 203Tl is a radioactive isotope of thallium, and it is produced by the nuclear reaction 205Tl(n,2n)203Tl. The 203Tl is a radioactive
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answer: 1 M HCl is used in the elution.
-Question:What are the products of the above reaction?
-Answerr: 203Pb is the product of the reaction 203Tl(n,γ)203Pb.
+Question: What are the products of the above reaction?
+Answer: 203Pb is the product of the reaction 203Tl(n,γ)203Pb.
+
 
 Context:  There are at least three criteria in choosing the ra- dioactive isotope for in vivo and in vitro tracer studies. The radiation should be easy detectable; the half-life of the radioisotope should be neither too short nor too long; and the cost of the radioisotope should be moder- ate [1]. Lead-203 has a very simple decay mode (Fig. 1). It decays by electron capture followed by emission of γ-rays with energies of 279 (81%), 401 (5%), and 680 keV (0.9%). 203Pb with a half-life of 52 h is poten- tially useful for clinical scanning. High specific activ- ity and radiochemical purity of 203Pb are important for radiolabeling. 1–5 mCi of 203Pb radioisotope contains a trace amount of lead, which is less than 0.1% of the normal daily lead intake [2]. There are a number of methods for the 203Pb production [2–5]. Lead-203 is produced from either mercury or thal- lium target. Natural mercury has six stable isotopes. Several radionuclides of lead and thallium can be pro- duced by bombardment of natural mercury with 3He or 4He particles. Separation of 203Pb using this method is very difficult. The use of enriched mercury as a target material could partially solve this problem, but the cost of the obtained 203Pb will be very high. Therefore, the preferred target material for the production of 203Pb is
  
-
-Question:What is the target material in the above reaction?
-Answer: 203Pb is produced from the bombardment of natural mercury with 3He or 4He particles.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answe: 203Pb is produced from the bombardment of natural mercury with 3He or 4He particles.
+Question: What acid is the target material dissolved in during the above reaction?
 Answer: 6M hydrochloric acid is used to dissolve the target material.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answer: 203Pb is produced from the natural mercury target. The solution was loaded into a cation exchange column to separate into different components. The 203Pb was washed out with 0.1 M HCl and collected for recycling.
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answer: 1 M HCl is used in the elution.
-Question:What are the products of the above reaction?
-Answerr: 203Pb is produced by bombardment of natural mercury with 3He or 4He particles. The 203Pb is separated from the mercury by distillation. The 203Pb is dissolved in 0.1 M HCl
+Question: What are the products of the above reaction?
+Answer: 203Pb is produced by bombardment of natural mercury with 3He or 4He particles. The 203Pb is separated from the mercury by distillation. The 203Pb is dissolved in 0.1 M HCl
+
 
 Context: tion for selective separation of lead ions have been reported [6–14]. In this work, we considered produc- tion of 203Pb by proton bombardment of natural thal- lium and its purification by conventional ion exchange, ion- solvent extraction, and novel nanomagnetic imprinted polymer methods.
  
-
-Question:What is the target material in the above reaction?
-Answer: 203Pb is produced by proton bombardment of natural thallium.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answe: 203Pb is produced by proton bombardment of natural thallium.
+Question: What acid is the target material dissolved in during the above reaction?
 Answer: 203Pb was dissolved in 0.1 M HCl.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answer: 203Pb was separated from the solution by conventional ion exchange, ion-solvent extraction, and novel nanomagnetic imprinted polymer methods.
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answer: 1 M HCl is used in the elution.
-Question:What are the products of the above reaction?
-Answerr: 203Pb was produced by proton bombardment of natural thallium and was purified by conventional ion exchange, ion-solvent extraction, and novel nanomagnetic imprinted polymer methods.
+Question: What are the products of the above reaction?
+Answer: 203Pb was produced by proton bombardment of natural thallium and was purified by conventional ion exchange, ion-solvent extraction, and novel nanomagnetic imprinted polymer methods.
+
 
 Context: Materials and equipment. Thallium(I) sulfate (99.9%) was purchased from UCB (Union Chimique Belge). Lead nitrate was purchased from Fluka. Stan- dard 1000 mg L−1 solutions of lead and thallium were purchased from Sigma–Aldrich. All the other chemi- cals were purchased from Merck. Cu backings were produced in our workshop. All chemicals used in this study were analytical grade and were used without fur- ther purification. Working solutions of Pb and Tl were prepared by diluting appropriate amounts of the stock solutions. A Hydro Ultrapure water purification system was used for making deionized water needed to prepare all the required solutions. An HPGe detector system (CanberraTM, GC1020-7500SL) in conjugation with a PC-based MCA and A Metrohm 827 pH meter was used. Target preparation. Natural thallium(I) sulfate (Tl2SO4), was chosen as the target material. High- quality thallium targets (70 μm) were prepared by elec- trodeposition of 1 g of Tl on 12 cm2 copper backings. The first plating bath is prepared by dissolving a por- tion of natTl2SO4 in an aqueous alkaline solution con- taining EDTA as a complexing agent, hydrazine hy- drate as an anodic depolarizer, and Brij-35 as a wetting agent. Constant-current electrolysis was carried out by applying a bipolar chopped saw-tooth voltage between the Pt anode and copper cathode. Target irradiation. The proton-induced nuclear reaction cross section data are very important for the production of medical radioisotopes using cyclo- trons. The excitation functions of 203Tl(p,2n)202Pb, 205Tl(p,2n)204Pb, 203Tl(p,4n)200Pb, 203Tl(p,3n)201Pb, 205Tl(p,3n)203Pb, and 205Tl(p,4n)202Pb reactions have been reported in the literature [15–19]. The 203Pb ra- 203Tl(p,n)203Pb and dioisotope 205Tl(p,3n)203Pb reactions (Table 2).
  
-
-Question:What is the target material in the above reaction?
-Answer: 203Pb and 205Tl are the target materials.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answe: 203Pb and 205Tl are the target materials.
+Question: What acid is the target material dissolved in during the above reaction?
 Answer: 203Pb and 205Tl are produced in the 203Tl(p,n)203Pb and 205Tl(p,3n)203Pb reactions, respectively
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answer: 203Pb and 205Tl were separated by using a cation exchange column. The 203Pb was eluted with 0.1 M HCl and collected for recycling. The 205Tl was eluted with
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answer: 1 M HCl is used in the elution.
-Question:What are the products of the above reaction?
-Answerr: 203Pb and 205Tl are the products of the above reactions.
+Question: What are the products of the above reaction?
+Answer: 203Pb and 205Tl are the products of the above reactions.
+
 
 Context: 203Tl(p,n)203Pb 205Tl(p,3n)203Pb 203Tl(p,2n)202Pb 205Tl(p,4n)202Pb 203Tl(p,3n)201Pb 205Tl(p,5n)201Pb 203Tl(p,4n)200Pb 205Tl(p,6n)200Pb Threshold energy, MeV 1.766 16.037 8.724 22.996 17.515 31.786 24.636 38.907 Optimum energy range, MeV 15–20 25–35 15–25 35–45 25–35 40–60 40–50 55–65 backing was cooled with circulating cooled water. The setup is shown in Fig. 2. 203Pb was detected by 279.2 and 401.3 keV lines in the γ-ray spectra of the samples. Only the more intense 279.2 keV line was used for the quantitative evalua- tion. Target dissolution. To separate 203Pb, the target (after irradiation) should be dissolved in an appropriate solvent. The target was eluted with 1 M HNO3, and natTl and 203Pb were collected in a beaker. This solution was stored and tagged with A. The target was irradiated for 30 min with 28.5 MeV protons at a beam current of 150 μA. The back of the Fig. 2. Target holder, beam current, and cooling water system (inlet and outlet).
  
-
-Question:What is the target material in the above reaction?
-Answer: 203Pb is the target.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answe: 203Pb is the target.
+Question: What acid is the target material dissolved in during the above reaction?
 Answer: 1 M HNO3 was used to dissolve the target.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answer: 203Pb was detected by 279.2 and 401.3 keV lines in the γ-ray spectra of the samples. Only the more intense 279.2 keV line was used for the quantitative evaluation
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answer: 1 M HNO3 was used in the elution.
-Question:What are the products of the above reaction?
-Answerr: 203Pb is the product of the above reaction.
+Question: What are the products of the above reaction?
+Answer: 203Pb is the product of the above reaction.
+
 
 Context: The γ-ray spectrum of the dissolved target is shown in Fig. 3. Radioisotopes of Tl and Pb are manifested in the spectrum. The γ-ray spectrum of the 203Pb solution is shown in Fig. 4. The 279.2 keV peak (fundamental γ-photon energy of 203Pb) is in the middle of the opti- mum range for detection with high efficiency. Samples for analysis of radionuclidic impurities were taken with a coring needle and analyzed by γ-ray spectros- copy. The radionuclidic purity of 203Pb exceeded 99.5%.
  
-
-Question:What is the target material in the above reaction?
-Answer: 203Pb is the target.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answe: 203Pb is the target.
+Question: What acid is the target material dissolved in during the above reaction?
 Answer: 203Pb is dissolved in 0.1 M HCl.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answer: 203Pb is a radionuclide of Pb, and the 203Pb solution is loaded into an anion exchange column to separate into different components.
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answer: 1 M HCl is used in the elution.
-Question:What are the products of the above reaction?
-Answerr: 203Pb is the product of the reaction.
+Question: What are the products of the above reaction?
+Answer: 203Pb is the product of the reaction.
+
 
 Context:  The total amount of 203Pb before and after separa- tion was determined in all cases by the region of inter- est (ROI) values. The separation yield was evaluated by dividing the amount of 203Pb after the separation by that before the separation. The yields of the ion ex- change and solvent extraction methods were 98.2 and 99.3%, respectively. No detectable radioactive impuri- ties were observed in the γ-ray spectrum. The characteristics of MNPs and magnetic ion- imprinted polymers (MIIPs) and the effect exerted by the type, concentration, volume, and pH were con- sidered. The lead ions were removed from MIIPs with 1 M HNO3, and the solution containing 203Pb (solution A) was loaded onto the sorbent at pH 6. Lead-203 was eluted from the sorbent with quantita- tive recovery (96.3%) in 2.5 mL of the eluent. Thus, the suggested method ensures high sensitivity of Pb determination. Thus, the cyclotron production of 203Pb from thal- lium provides a convenient source of this isotope for both tracer applications and SPECT imaging. The 203Tl(p,n)203Pb reaction is an efficient route to this iso- tope. The loss of 203Pb is less than 2% in both solvent extraction and ion exchange methods. The irradiation yield is 2.2 mCi μA–1 h–1.
  
-
-Question:What is the target material in the above reaction?
-Answer: 203Pb is produced by the 203Tl(p,n)203Pb reaction.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answe: 203Pb is produced by the 203Tl(p,n)203Pb reaction.
+Question: What acid is the target material dissolved in during the above reaction?
 Answer: 6M hydrochloride acid must be the acid used to dissolve the target.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answer: 203Pb was separated from the solution by solvent extraction using 1 M HNO3. The 203Pb was eluted from the sorbent with 2.5 mL of the eluent. Thus, the suggested method ensures high sensitivity of Pb
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answer: 1 M HNO3 is used in the elution.
-Question:What are the products of the above reaction?
-Answerr: 203Pb is the product of the 203Tl(p,n)203Pb reaction.
+Question: What are the products of the above reaction?
+Answer: 203Pb is the product of the 203Tl(p,n)203Pb reaction.
+
 
 Context: Article Establishing Reliable Cu-64 Production Process: From Target Plating to Molecular Specific Tumor Micro-PET Imaging Qinghua Xie 1,2,†, Hua Zhu 2,†, Feng Wang 2, Xiangxi Meng 3, Qiushi Ren 3, Chuanqin Xia 1,* and Zhi Yang 2,* 1 College of Chemistry, Sichuan University, Chengdu 610064, China; qinghxie@163.com 2 Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education), Department of Nuclear Medicine, Peking University Cancer Hospital & Institute, Beijing 100142, China; zhuhuananjing@163.com (H.Z.); windtigerwf@163.com (F.W.)
  
-
-Question:What is the target material in the above reaction?
-Answerr: 64Cu is produced by irradiating 64Ni target with 18 MeV protons. The target material is 64Ni.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answer: 64Cu is produced by irradiating 64Ni target with 18 MeV protons. The target material is 64Ni.
+Question: What acid is the target material dissolved in during the above reaction?
 Answerr: 6M hydrochloric acid is used to dissolve the target.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answerr: 'Anion exchange column' is a resin/column, so an anion exchange column must be the resin/column.
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answerr: 1 M HCl is used in the elution.
-Question:What are the products of the above reaction?
-Answerer: 64Cu is the product of the above reaction.
+Question: What are the products of the above reaction?
+Answeer: 64Cu is the product of the above reaction.
+
 
 Context: Academic Editor: Derek J. McPhee Received: 21 February 2017; Accepted: 11 April 2017; Published: 17 April 2017 Abstract: Copper-64 is a useful radioisotope for positron emission tomography (PET). Due to the wide range of applications, the demand of 64Cu with low metallic impurities is increasing. Here we report a simple method for the efficient production of high specific activity 64Cu using a cyclotron for biomedical application. We designed new equipment based on the plating of enriched 64Ni as the target, and used automated ion exchange chromatography to purify copper-64 efficiently after irradiation and dissolution of the target in good radiochemical and chemical yield and purity. The 64Cu radionuclide produced using 99.32% enriched 64Ni with a density of 61.4 ± 5.0 mg/cm2, reaching a total radioactivity greater than 200 mCi, with specific activity up to 5.6 GBq/μmoL. It was further incorporated into modified monoclonal antibody DOTA-rituximab to synthesize 64Cu-DOTA-rituximab, which was used successfully for micro-PET imaging.
  
-
-Question:What is the target material in the above reaction?
-Answernswer: 64Ni, or Nickel-64, must be the target.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answenswer: 64Ni, or Nickel-64, must be the target.
+Question: What acid is the target material dissolved in during the above reaction?
 Answernswer: 6M hydrochloride acid must be the acid used to dissolve the target.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answernswer: 'Anion exchange column' is a resin/column, so an anion exchange column must be the resin/column.
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answernswer: 1 M HCl is used in the elution.
-Question:What are the products of the above reaction?
-AnswerAnswer: 64Cu is the product of the reaction.
+Question: What are the products of the above reaction?
+AnsweAnswer: 64Cu is the product of the reaction.
+
 
 Context: techniques, to determine the uniformity, to characterize the metallic impurities, and to measure the thickness of 64Ni layer on Au-disk. The SEM (scanning electron microscopy) image (Figure 2b) of the 64Ni solid target showed the uniform layer of Ni on Au surface. The EDS (energy dispersive X-ray spectroscopy) (Table 1 and Figure 2c) results showed no significant amount of metallic impurities in the 64Ni layer. The 64Ni target thickness on Au-disk was measured to be 10.73 μm by alpha step apparatus (Figure 2d).
  
-
-Question:What is the target material in the above reaction?
-Answerr: 64Ni, or Nickel-64, must be the target.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answer: 64Ni, or Nickel-64, must be the target.
+Question: What acid is the target material dissolved in during the above reaction?
 Answerr: 6M hydrochloride acid must be the acid used to dissolve the target.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answerr: 64Ni was loaded into an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answerr: 1 M HCl is used in the elution.
-Question:What are the products of the above reaction?
-Answerer: 64Ni is the product of the reaction.
+Question: What are the products of the above reaction?
+Answeer: 64Ni is the product of the reaction.
+
 
 Context: After irradiation of 5 h, the 64Ni target was dissolved in 6 M hydrochloride acid, and then the solution was load to an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce the production cost of 64Cu, without sacrificing the quality of subsequent 64Cu production. When the eluted was switched to 1 M HCl, the first band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for further use. The separation process of 64Cu took about 2.5 h after irradiation.
  
-
-Question:What is the target material in the above reaction?
-Answerer: 64Ni, or Nickel-64, must be the target.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answeer: 64Ni, or Nickel-64, must be the target.
+Question: What acid is the target material dissolved in during the above reaction?
 Answerer: 6M hydrochloride acid must be the acid used to dissolve the target.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answerer: 64Ni is a radioactive isotope of nickel, and it is a radioactive isotope of nickel. Therefore, it is a radioactive isotope of nickel. Therefore, it is a radioactive isotope of nickel. Therefore, it is a radioactive isotope of nickel. Therefore
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answerer: 1 M HCl is used in the elution.
-Question:What are the products of the above reaction?
-Answerwer: 64Cu is the product of the above reaction.
+Question: What are the products of the above reaction?
+Answewer: 64Cu is the product of the above reaction.
+
 
 Context: High purity reagents were used for production of 64Cu in this study. Isotopically enriched 64Ni (99.32% 64Ni; 0.13% 58Ni; 0.07% 60Ni; 0.01% 61Ni; 0.47% 62Ni) was from Isoflex Company (San Francisco, CA, USA); (NH4)2SO4 (99.999% metals basis) from Alfa Aesar (Ward Hill, MA, USA); concentrated HCl (99.999% trace metals basis), HNO3 (99.999% trace metals basis), and NH4OH (99.99% trace metals basis) were purchased from Sigma-Aldrich (St. Louis, MO, USA); AG®1-X8 ion exchange resin was from Bio-Rad Laboratories (Hercules, CA, USA); platinum wire (99.997% metals basis) from Alfa Aesar (Ward Hill, MA, USA); Ni2+ analytical test strips from Qtantofix (Sigma-Aldrich, St. Louis, MO, USA); disposable PD-10 desalting columns were from GE Healthcare (Piscataway, NJ, USA).
  
-
-Question:What is the target material in the above reaction?
-Answerer: 64Ni, or Nickel-64, must be the target.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answeer: 64Ni, or Nickel-64, must be the target.
+Question: What acid is the target material dissolved in during the above reaction?
 Answerer: 6M HCl was used to dissolve the target material.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answerer: (NH4)2SO4 was used as the eluent for the separation of 64Cu from the 64Ni. The 64Ni was eluted with 0.1 M HCl, and the 64Cu was eluted
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answerer: 1 M HCl was used in the elution.
-Question:What are the products of the above reaction?
-Answerwer: 64Cu was produced by irradiating 64Ni with 18 MeV protons. The 64Ni was irradiated in a 10 cm diameter by 10 cm long cylindrical target. The target was placed in a 1
+Question: What are the products of the above reaction?
+Answewer: 64Cu was produced by irradiating 64Ni with 18 MeV protons. The 64Ni was irradiated in a 10 cm diameter by 10 cm long cylindrical target. The target was placed in a 1
+
 
 Context:  The alpha step apparatus (Alpha-step IQ, KLA-Tencor, Milpitas, CA, USA), scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM-EDS) (1910FE, AMRAY, Pawtucket, RI, USA) were used to characterize the quality of the 64Ni solid target produced in this study. The irradiation experiments were performed using a Sumitomo HM-20 cyclotron (20 MeV, Sumitomo Heavy Industries, Ltd., Tokyo, Japan). The separation of 64Cu was performed using a 64Cu separation system (Industrial Equipment Division, Sumitomo Heavy Industries, Ltd., Tokyo, Japan). Inductively coupled plasma-mass spectrometry (ICP-MS) (ELEMENT XR mass spectrometer, Thermo Fisher, Bremen, Germany) was used to analyze the purity of the 64Cu sample. The Agilent Technologies 1200 series of high performance liquid chromatography (HPLC) system (Agilent, Lake Forest, CA, USA) equipped with both a UV absorption detector and a B-Fc-1000 HPLC radioactivity detector (Bioscan, Washington, DC, USA) and the radioactive thin-layer chromatography scanner (Radio-TLC) (Bioscan, IAR-2000, Washington, DC, USA) were used to analyze the radiochemical purity of tracers.
  
-
-Question:What is the target material in the above reaction?
-Answer: 64Ni, or Nickel-64, must be the target.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answe: 64Ni, or Nickel-64, must be the target.
+Question: What acid is the target material dissolved in during the above reaction?
 Answer: 6M hydrochloric acid was used to dissolve the target material.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answer: 64Ni was loaded into an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answer: 1 M HCl was used in the elution.
-Question:What are the products of the above reaction?
-Answerr: 64Cu is the product of the reaction.
+Question: What are the products of the above reaction?
+Answer: 64Cu is the product of the reaction.
+
 
 Context: After electroplating, the 64Ni solid target was examined by measuring 64Ni thickness, composition and structure. The thickness was measured by alpha step apparatus, the composition was measured by scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM-EDS), and the structure was characterized by scanning electron microscopy (SEM). Meanwhile, the identity of metallic impurities of the 64Ni target was further analyzed by energy dispersive X-ray spectroscopy (EDS).
  
-
-Question:What is the target material in the above reaction?
-Answer: 64Ni solid target was electroplated on a copper substrate.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answe: 64Ni solid target was electroplated on a copper substrate.
+Question: What acid is the target material dissolved in during the above reaction?
 Answer: 6M hydrochloric acid was used to dissolve the 64Ni target.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answer: 64Ni solid target was examined by measuring 64Ni thickness, composition and structure. The thickness was measured by alpha step apparatus, the composition was measured by scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM-EDS),
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answer: 1 M HCl is used in the elution.
-Question:What are the products of the above reaction?
-Answerr: 64Ni was electroplated on the copper substrate, and the 64Ni was electroplated on the copper substrate, and the 64Ni was electroplated on the copper substrate, and the 64Ni was electroplated on the
+Question: What are the products of the above reaction?
+Answer: 64Ni was electroplated on the copper substrate, and the 64Ni was electroplated on the copper substrate, and the 64Ni was electroplated on the copper substrate, and the 64Ni was electroplated on the
+
 
 Context: The 64Ni targets were prepared by electrodeposition of the enriched 64Ni (99.32%) solution prepared as described above. Electroplating of 64Ni was realized using a plating vessel of our own design and manufacture (Figure 1), where the Au disk was used as a cathode and platinum wire as an anode. The electrodeposition of 64Ni was achieved at 2.4–2.6 V and 15–25 mA with the platinum anode at ~1 cm from the Au disk electrode. This process took 48–72 h. The enriched 64Ni target was irradiated at 12.5 MeV (which decreased by Al) with 20 μA current on a Sumitomo HM-20 cyclotron (20 MeV) for about 5–7 h. 64Cu was produced from the 64Ni (p, n) 64Cu nuclear reaction.
  
-
-Question:What is the target material in the above reaction?
-Answer: 64Ni, or Nickel-64, must be the target.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answe: 64Ni, or Nickel-64, must be the target.
+Question: What acid is the target material dissolved in during the above reaction?
 Answer: 6M hydrochloric acid was used to dissolve the target.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answer: 64Ni was loaded into an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answer: 1 M HCl was used in the elution.
-Question:What are the products of the above reaction?
-Answerr: 64Cu was produced from the 64Ni (p, n) 64Cu nuclear reaction.
+Question: What are the products of the above reaction?
+Answer: 64Cu was produced from the 64Ni (p, n) 64Cu nuclear reaction.
+
 
 Context: dissolution of the target material took about 40 min under heating, and then the solution was loaded on an anion exchange column (AG 1-X8) pretreated with 18 MΩ·cm water and 6 M HCl, sequentially. The enriched 64Ni was eluted with 6 M HCl and collected for recycling, and the 64Cu fraction was eluted with 1 M HCl, which was further evaporated to dryness. The residue was finally dissolved in 0.1 M HCl for further use. All of these procedures were performed using an automated system and carried out in a hot cell with remote control (Figure 7, Sumitomo Heavy Industries, Ltd., Tokyo, Japan).
  
-
-Question:What is the target material in the above reaction?
-Answerr: 64Ni, or Nickel-64, must be the target.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answer: 64Ni, or Nickel-64, must be the target.
+Question: What acid is the target material dissolved in during the above reaction?
 Answerr: 6M HCl was used to dissolve the target material.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answerr: 64Ni was eluted with 6 M HCl and collected for recycling, and the 64Cu fraction was eluted with 1 M HCl, which was further evaporated to dryness. The residue was finally dissolved in 0.1 M HCl for
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answerr: 1 M HCl is used in the elution.
-Question:What are the products of the above reaction?
-Answerer: 64Cu was the product of the above reaction.
+Question: What are the products of the above reaction?
+Answeer: 64Cu was the product of the above reaction.
+
 
 Context: loaded on an anion exchange column (AG 1-X8) pretreated with 18 MΩ·cm water and 6 M HCl, sequentially. The enriched 64Ni was eluted with 6 M HCl and collected for recycling, and the 64Cu fraction was eluted with 1 M HCl, which was further evaporated to dryness. The residue was finally dissolved in 0.1 M HCl for further use. All of these procedures were performed using an automated system and carried out in a hot cell with remote control (Figure 7, Sumitomo Heavy
  
-
-Question:What is the target material in the above reaction?
-Answer: 64Ni, or Nickel-64, must be the target.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answe: 64Ni, or Nickel-64, must be the target.
+Question: What acid is the target material dissolved in during the above reaction?
 Answer: 6M HCl was used to dissolve the target material.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answer: 64Ni was loaded on an anion exchange column (AG 1-X8) pretreated with 18 MΩ·cm water and 6 M HCl, sequentially. The enriched 64Ni was eluted with 6 M HCl
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answer: 1 M HCl.
-Question:What are the products of the above reaction?
-Answerr: 64Cu was the product of the above reaction.
+Question: What are the products of the above reaction?
+Answer: 64Cu was the product of the above reaction.
+
 
 Context: In this study, we presented the improved method for the preparation of 64Cu, especially the improved efficiency of electroplating of 64Ni. The 64Ni solid target on an Au-disk has a uniform surface, with the thickness of 10.73 μm, and no metallic impurities. The total plated 64Ni was 70.6 ± 5.8 mg and the density of the plated 64Ni was 61.4 ± 5.0 mg/cm2 (assuming a uniform thickness). After irradiation of the target and purification, the gamma spectrum of the produced 64Cu showed its radionuclide purity to be >99%, with both peaks at 511 keV and 1346 keV. In addition, the produced 64CuCl2 solution has high specific activity up to 5.6 GBq/μmoL. It was further incorporated into the modified monoclonal antibody DOTA-rituximab to synthesize 64Cu-DOTA-rituximab, which was further used successfully for micro-PET imaging. Acknowledgments: This work was supported, in part, by the National Natural Science Foundation of China (No. 81371592, No. 81401467, No. 81501519, No. 81571705 and No. 81671733), Beijing Natural Science Foundation (No. 7162041 and No. 7171002), Beijing Municipal Commission of Health and Family Planning (215 backbone program), and 2017 Beijing Science & Technology Nova Star Program (xx2017016). Author Contributions: Q.X., H.Z., X.M., Q.R., C.X. and Z.Y. conceived and designed the experiments; Q.X., H.Z., F.W. and X.M. performed the experiments; Q.X., H.Z. and X.M. analyzed the data; Q.X. and H.Z. wrote the paper.
  
-
-Question:What is the target material in the above reaction?
-Answerswer: 64Ni solid target on an Au-disk has a uniform surface, with the thickness of 10.73 μm, and no metallic impurities. The total plated 64Ni was 70.6 ± 5.8
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answeswer: 64Ni solid target on an Au-disk has a uniform surface, with the thickness of 10.73 μm, and no metallic impurities. The total plated 64Ni was 70.6 ± 5.8
+Question: What acid is the target material dissolved in during the above reaction?
 Answerswer: 6M hydrochloride acid must be the acid used to dissolve the target.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answerswer: 'The solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answerswer: 1 M HCl is used in the elution.
-Question:What are the products of the above reaction?
-Answernswer: 64Cu is the product of the above reaction.
+Question: What are the products of the above reaction?
+Answenswer: 64Cu is the product of the above reaction.
+
 
 Context: To take full benefit of excitation function and to avoid the formation of the radionuclidic impurities, the proton entrance energy should be 14 MeV.18,19 The physical thickness of the silver layer is chosen in such way that for a given beam/target angle geometry the particle exit energy should be 5 MeV. According to SRIM code (The Stopping and Range of Ions in Matter);25 the thickness has to be 352 μm for 90° geometry. To minimize the thickness of the silver layer, a 6° geometry is preferred, in which case a 35 μm layer is recommended. Silver targets are prepared by DC-CCE (constant current electrolysis) of the metal from alkaline plating solutions. An electrolysis solution is a volume of about 450 ml and a composition of 5.1 g.l–1 AgCN, 5.1 g.l–1 KCN, 3 g.l–1 Na2CO3, while the current between the electrodes is adjusted to 0.05 A. The silver electroplating was performed in constant current. In 2 hours, a silver target of 36.75 mg.cm–2 thickness is prepared. Prior to the silver plating and to ensure a good adhesion, copper plate was cleaned using sandpaper of 1000 grade followed by rinsing copper plate with deionized water. Non-reactive plating vessels are hollow Perspex cylinders (diameter 6 cm, height 20 cm) fitted with an axial Pt anode wire mounted at the bottom by means of a tube-end fitting with perforated septum. Akadémiai Kiadó, Budapest Springer, Dordrecht Cadmium-109 is a radionuclide that can be used as an X-ray fluorescence source. It has a half-life of 462.6 days and decays by electron capture to 109mAg with γ- ray emission of 88.03 keV (3.79%) along with characteristic X-ray from the K level of Ag, with an energy of 22.54 keV (102%).1 This radionuclide can be employed for calibration of detectors and as a radioactive tracer of Cd.2–9 It can also be used in the (EDXRF) energy dispersion X-ray technique.10,11
  
-
-Question:What is the target material in the above reaction?
-Answer: 109Cd is produced by bombarding a cadmium target with protons. The target material is cadmium, which is a non-radioactive element.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answe: 109Cd is produced by bombarding a cadmium target with protons. The target material is cadmium, which is a non-radioactive element.
+Question: What acid is the target material dissolved in during the above reaction?
 Answer: 1 M HCl is used to dissolve the target.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answer: 109Cd is a radionuclide that can be used as an X-ray fluorescence source. It has a half-life of 462.6 days and decays by electron capture to 109mAg with γ- ray emission
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answer: 1 M HCl is used in the elution.
-Question:What are the products of the above reaction?
-Answerr: 109Cd is produced by proton irradiation of 109Cd target. The target is prepared by DC-CCE of the metal from alkaline plating solutions. An electrolysis solution is a volume of about 450 ml and a composition
+Question: What are the products of the above reaction?
+Answer: 109Cd is produced by proton irradiation of 109Cd target. The target is prepared by DC-CCE of the metal from alkaline plating solutions. An electrolysis solution is a volume of about 450 ml and a composition
+
 
 Context: Cadmium-109 has found application in physiological research on animals and plants for more than forty years informations. This which has provided useful radionuclide can probably be used for inhibition of liver cancerous cells,12,13 as well as for tissue imaging with computed SPECT (single photon tomography).14 Additionally, to investigate the ecosystem.15 emission it can be used The production of 109Cd with a proton beam can be performed by reactions: In+p,16 that needs an energy of about 96 MeV, Ag+d17 with energy 13.4 MeV and Ag+p,18,19 with an energy range between 14 and 9 MeV. Cyclotron is ideal for this work. Accelerator production of 109Cd is largely achieved via nuclear reactions 109Ag(p,n)109Cd and 109Ag(d,2n)109Cd which are well suited for medium to low-energy cyclotrons. Our centre in Karaj employs a Cyclone-30 (IBA, Belgium). Solid targetry systems on these accelerators are made of pure copper backing onto which target materials are electrodeposited. It is noted that silver electrodeposits prepared from nitrate solutions, free of any organic or inorganic additive, are not smooth or compact, regardless of plating condition used. They consist of grains growing independently of each other and under given plating conditions may degenerate as dendrites.20 Since most of the work directed at replacing cyanide in silver plating 0236–5731/USD 20.00 © 2008 Akadémiai Kiadó, Budapest
  
-
-Question:What is the target material in the above reaction?
-Answer: 109Cd is produced by the reaction 109Ag(p,n)109Cd. The target material is silver.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answe: 109Cd is produced by the reaction 109Ag(p,n)109Cd. The target material is silver.
+Question: What acid is the target material dissolved in during the above reaction?
 Answer: 109Cd is dissolved in 0.1 M HCl.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answer: 109Cd is produced by the reaction 109Ag(p,n)109Cd. The solution loaded into the column is 0.1 M HCl.
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answer: 1 M HCl is used in the elution.
-Question:What are the products of the above reaction?
-Answerr: 109Cd is produced by the reaction: 109Ag(p,n)109Cd. The proton beam energy is 96 MeV. The target is a 109Ag foil of 10 mg
+Question: What are the products of the above reaction?
+Answer: 109Cd is produced by the reaction: 109Ag(p,n)109Cd. The proton beam energy is 96 MeV. The target is a 109Ag foil of 10 mg
+
 
 Context:  Four symmetrical windows (22.36 or 11.69 cm2) on the vertical side wall allow up to four copper targets backing positioning. Each slot is sealed by an O-ring fitted window. The geometrical shape of the slot determines the actual target electrodeposition area. The liquid-tight sealing of the windows is realized by stainless steel mechanical pestles mounted on a PVC ring surrounding plating vessel and by pressing the copper backing against O-ring seal. An external PVC ring is fitted with four supporting pins to hold a motor-stirrer combination in position. The stirrer is a hollow perforated POM cylinder mounted on the axis of a DC motor and surrounding the platinum anode. The stirrer rotation speed is set at 600 rpm; during the process, its rotating direction is reversed after 8 seconds improving deposit homogeneity. To keep the desired temperature at a preset level, a heater (a series of six isolated 1 Ω/W resistors, through which an appropriate DC-current is forced (1.1 A, 40 °C up to 1.8 A, 60 °C) is circularly mounted at the bottom of the vessel. An insulated sensor, introduced through the stirrer support-plate, temperature. As monitors electrolysis to depletion requires long-time (up to 24 hours) plating, evaporation of plating solution occurs. To maintain a constant liquid volume (450 ml), a conductivity glass/graphite sensor monitors the solution level and actuates a peristaltic pump at the required rate, supplying distilled water to compensate evaporation losses. The rack-mounted home-made electronics includes a motor/stirrer control, an adjustable DC voltage generator card and four V/I converters coupled to current boosters.
  
-
-Question:What is the target material in the above reaction?
-Answer: 64Cu is the target material.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answe: 64Cu is the target material.
+Question: What acid is the target material dissolved in during the above reaction?
 Answer: 6M hydrochloric acid is used to dissolve the target.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answer: 'The solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answer: 1 M HCl is used in the elution.
-Question:What are the products of the above reaction?
-Answerr: 64Cu is the product of the reaction.
+Question: What are the products of the above reaction?
+Answer: 64Cu is the product of the reaction.
+
 
 Context: The freshly prepared solution of silver was poured into the plating vessel. This refined procedure is a result of several repeated experiments with different acidity and compositions of bath, different temperature and electroplating currents. The morphology of all electrodeposited Ag target layers were examined in by a scanning electron microscope (SEM) (using a Joel Model JSM 6400 at an accelerating voltage of 20 kV). The thermal shock tests involved the heating of the target up to 500 °C (the temperature that the Ag layer can experience during a high current irradiation) for 1 hour followed by submersion of the hot target in cold (8 °C) water.
  
-
-Question:What is the target material in the above reaction?
-Answer: 64Ni, or Nickel-64, must be the target.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answe: 64Ni, or Nickel-64, must be the target.
+Question: What acid is the target material dissolved in during the above reaction?
 Answer: 1 M HCl was used to dissolve the target.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answer: 'Anion exchange column' is a resin/column, so an anion exchange column must be the resin/column.
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answer: 1 M HCl is used in the elution.
-Question:What are the products of the above reaction?
-Answerr: 64Cu is the product of the above reaction.
+Question: What are the products of the above reaction?
+Answer: 64Cu is the product of the above reaction.
+
 
 Context: Silver is a relatively noble metal; most metals being less noble than silver form immersion deposits on the surface. This tends to happen even when the base metal enters the silver solution hot or live, that is, with a voltage already applied. The inevitable result of this phenomenon is poor adhesion of subsequent deposits. To minimize this effect, it is essential to employ a silver strike coating prior to the main deposit.21,24 In this work experiments were carried out on adhesion with and without strike coating. It was concluded that if the plating were carried out very rapidly, a good adhesion would be obtained in all electroplated targets without the need for strike coating. Embrittlement of metals has been recognized for many years but, as two authors have pointed out, some other defects in electrodeposits, such as blistering, cracking, gas pits, peeling off and poor adhesion, may also be related to hydrogen in ways not yet identified.26 Plating on a dietary or greasy surface inevitably leads to blistering or peeling of deposit. Cathodic cleaning in either acid or alkaline solutions provides large quantities of hydrogen for absorption.26 In all experiments, the substrate surface was cleaned with sandpaper of 1000 grade and immersed in the nitric acid bath of 0.3M. Then the surface was washed by water and its oil contaminators were removed by a mixture of the alkali cleaning powders. Finally, the surface was washed with acetone.
  
-
-Question:What is the target material in the above reaction?
-Answer: 64Cu was electroplated on the silver substrate.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answe: 64Cu was electroplated on the silver substrate.
+Question: What acid is the target material dissolved in during the above reaction?
 Answer: 0.3M nitric acid was used to dissolve the target material.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answer: 'The solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answer: 0.3 M nitric acid was used in the elution.
-Question:What are the products of the above reaction?
-Answerr: 64Cu is the product of the above reaction.
+Question: What are the products of the above reaction?
+Answer: 64Cu is the product of the above reaction.
+
 
 Context: The morphology of all electrodeposited Ag target layers were examined by scanning electron microscopy (SEM) technique. The evaluation of quality of the layers was achieved by comparison of the photomicrographs in terms of size and form of the Ag nuclei and the extent to which they overlapped each other. The smaller, more spherical and the more overlapping nuclei were considered to be a good plating quality. The thermal shock tests involved the heating of the target up to 500 °C for 1 hour followed by submersion of the hot target in cold (8 °C) water. Observation of neither crack formation nor peeling off of the silver layers indicated a good adhesion for the purpose. SEM photomicrograph showed that the granulometry of electroplated targets with current density of 8.54–12.82 mA.cm–2 were not as desired (Figs 1a and 1b). Hence, current density of 4.27 mA.cm–2 was chosen and the SEM photomicrograph showed a suitable granulometry (Figs 2 and 3). The SEM photomicrograph of the best electrodeposition of these baths is shown in Fig. 3.
  
-
-Question:What is the target material in the above reaction?
-Answer: 64Ni target was used in the above reaction.
-Question:What acid is the target material dissolved in during the above reaction?
+Question: What is the target material in the above reaction?
+Answe: 64Ni target was used in the above reaction.
+Question: What acid is the target material dissolved in during the above reaction?
 Answer: 6M hydrochloric acid was used to dissolve the target.
-Question:What resin/column is the solution loaded into during the above reaction?
+Question: What resin/column is the solution loaded into during the above reaction?
 Answer: 'Anion exchange column' is a resin/column, so an anion exchange column must be the resin/column.
-Question:What acid is used in the elution during the above reaction?
+Question: What acid is used in the elution during the above reaction?
 Answer: 1 M HCl was used in the elution.
-Question:What are the products of the above reaction?
-Answerr: 64Cu is the product of the above reaction.
+Question: What are the products of the above reaction?
+Answer: 64Cu is the product of the above reaction.
