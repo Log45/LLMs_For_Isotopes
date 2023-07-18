@@ -115,7 +115,7 @@ def model_filter_generate():
     return generations, answers, t
 
 
-def write_to_file(output_name : str = "keyword_filter_output.txt", filter : function = keyword_filter_generate):
+def write_to_file(output_name = "keyword_filter_output.txt", filter = keyword_filter_generate):
     """"""
     _gen, _ans, _time = filter()
 
