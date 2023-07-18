@@ -131,11 +131,10 @@ def write_to_file():
         if i % 5 == 0:
             j = 0
             print(i)
-            k += "\n" + gen[:question_index] + "\n"
+            k += "\n\n" + gen[:question_index] + "\n"
         q = questions[j]
         print(q)
-        k += "\n" + q + ans.split("\n")[0]
-        k += "\n"
+        k += "\nQuestion:" + q + "\nAnswer" + ans.split("\n")[0]
         print(k)
         j += 1
 
