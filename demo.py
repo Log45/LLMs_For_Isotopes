@@ -62,9 +62,9 @@ def default_generate():
             input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
             generation = model.generate(input, max_new_tokens=50)
             answer = generation[len(input):]
-            print(f"Answer: {answer} \n")
+            # print(f"Answer: {answer} \n")
             generations.append(generation)
-            answers.append(answers)
+            answers.append(answer)
     t = time.perf_counter() - t1
     print(f"{len(answers)} generations in {t} seconds.")
     return generations, answers, t
@@ -83,9 +83,9 @@ def keyword_filter_generate():
                 input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
                 generation = model.generate(input, max_new_tokens=50)
                 answer = generation[len(input):]
-                print(f"Answer: {answer} \n")
+                # print(f"Answer: {answer} \n")
                 generations.append(generation)
-                answers.append(answers)
+                answers.append(answer)
     t = time.perf_counter() - t1
     print(f"{len(answers)} generations in {t} seconds.")
     return generations, answers, t
@@ -107,9 +107,9 @@ def model_filter_generate():
                 input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
                 generation = model.generate(input, max_new_tokens=50)
                 answer = generation[len(input):]
-                print(f"Answer: {answer} \n")
+                # print(f"Answer: {answer} \n")
                 generations.append(generation)
-                answers.append(answers)
+                answers.append(answer)
     t = time.perf_counter() - t1
     print(f"{len(answers)} generations in {t} seconds.")
     return generations, answers, t
@@ -128,10 +128,11 @@ def write_to_file():
     k = f"Generated {len(k_gen)} responses in {k_time} seconds. \n\n"
     for i in range(len(k_gen)):
         question_index = k_gen[i].index('Question:')
+        ans = k_ans[i]
         if i % 5 == 0:
             k += k_gen[i][:question_index]
         for q in questions:
-            k += q + k_ans[i]
+            k += q + ans
 
     with open("output/keyword_filter_output.txt", "w", encoding="utf-8") as f:
          f.write(k)
@@ -139,10 +140,11 @@ def write_to_file():
     m = f"Generated {len(m_gen)} responses in {m_time} seconds. \n\n"
     for i in range(len(m_gen)):
         question_index = m_gen[i].index('Question:')
+        ans = m_ans[i]
         if i % 5 == 0:
             m += m_gen[i][:question_index]
         for q in questions:
-            m += q + m_ans[i]
+            m += q + ans
 
     with open("output/model_filter_output.txt", "w", encoding="utf-8") as f:
          f.write(m)
@@ -150,10 +152,11 @@ def write_to_file():
     d = f"Generated {len(d_gen)} responses in {d_time} seconds. \n\n"
     for i in range(len(d_gen)):
         question_index = d_gen[i].index('Question:')
+        ans = d_ans[i]
         if i % 5 == 0:
             d += d_gen[i][:question_index]
         for q in questions:
-            d += q + d_ans[i]
+            d += q + ans
 
     with open("output/default_output.txt", "w", encoding="utf-8") as f:
          f.write(k)
