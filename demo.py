@@ -129,13 +129,15 @@ def write_to_file():
         question_index = gen.index('Question:')
         ans = k_ans[i]
         if i % 5 == 0:
+            j = 0
             print(i)
             k += "\n" + gen[:question_index] + "\n"
-        for q in questions:
-            print(q)
-            k += "\n" + q + ans.split("\n")[0]
+        q = questions[j]
+        print(q)
+        k += "\n" + q + ans.split("\n")[0]
         k += "\n"
         print(k)
+        j += 1
 
     with open("output/keyword_filter_output.txt", "w", encoding="utf-8") as f:
          f.write(k)
