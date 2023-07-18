@@ -123,14 +123,18 @@ def write_to_file():
 
     k = f"Generated {len(k_gen)} responses in {k_time} seconds. \n\n"
     for i in range(len(k_gen)):
-        question_index = k_gen[i].index('Question:')
+        ans_idx = k_gen[i].index('Answer:')
+        gen = k_gen[i][ans_idx:]
+        gen = gen[gen.index('Context:'):]
+        question_index = gen.index('Question:')
         ans = k_ans[i]
         if i % 5 == 0:
             print(i)
-            k += k_gen[i][:question_index] + "\n"
+            k += gen[:question_index] + "\n"
         for q in questions:
             print(q)
-            k += q + ans.split("\n")[0]
+            k += "\n" + q + ans.split("\n")[0]
+        k += "\n"
         print(k)
 
     with open("output/keyword_filter_output.txt", "w", encoding="utf-8") as f:
