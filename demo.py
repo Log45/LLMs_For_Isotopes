@@ -130,7 +130,7 @@ def write_to_file():
         ans = k_ans[i]
         if i % 5 == 0:
             print(i)
-            k += gen[:question_index] + "\n"
+            k += "\n" + gen[:question_index] + "\n"
         for q in questions:
             print(q)
             k += "\n" + q + ans.split("\n")[0]
