@@ -15,8 +15,6 @@ import time
 from pdf_parser import pdf_to_context
 import galai as gal
 
-
-
 keywords = {"separation", "Separation", "isolation", "Isolation", "chromatography", "Chromatograph", "ion exchange", "ion Exchange", "Ion Exchange", "Ion exchange",
             "eluted", "Eluted", "elution", "Elution", "elute", "Elute", "fraction", "Fraction", "resin", "Resin", "exchange", "Exchange", "acid", "Acid", "target", "Target"}
 
@@ -49,6 +47,7 @@ questions_examples_dict = {target_question : target_example,
                            resin_question : resin_example,
                            elution_question : elution_example,
                            products_question : products_example}
+
 
 def default_generate():
     t1 = time.perf_counter()
@@ -115,11 +114,53 @@ def model_filter_generate():
     return generations, answers, t
 
 
+def write_to_file():
+    """"""
+    k_gen, k_ans, k_time = keyword_filter_generate()
+    m_gen, m_ans, m_time = model_filter_generate()
+    d_gen, d_ans, d_time = default_generate()
+
+    k_time = "%.3f" % k_time
+    m_time = "%.3f" % k_time
+    d_time = "%.3f" % k_time
+
+    k = f"Generated {len(k_gen)} responses in {k_time} seconds. \n\n"
+    for i in range(len(k_gen)):
+        question_index = k_gen[i].index('Question:')
+        if i % 5 == 0:
+            k += k_gen[i][:question_index]
+        for q in questions:
+            k += q + k_ans[i]
+
+    with open("output/keyword_filter_output.txt", "w", encoding="utf-8") as f:
+         f.write(k)
+
+    m = f"Generated {len(m_gen)} responses in {m_time} seconds. \n\n"
+    for i in range(len(m_gen)):
+        question_index = m_gen[i].index('Question:')
+        if i % 5 == 0:
+            m += m_gen[i][:question_index]
+        for q in questions:
+            m += q + m_ans[i]
+
+    with open("output/model_filter_output.txt", "w", encoding="utf-8") as f:
+         f.write(m)
+
+    d = f"Generated {len(d_gen)} responses in {d_time} seconds. \n\n"
+    for i in range(len(d_gen)):
+        question_index = d_gen[i].index('Question:')
+        if i % 5 == 0:
+            d += d_gen[i][:question_index]
+        for q in questions:
+            d += q + d_ans[i]
+
+    with open("output/default_output.txt", "w", encoding="utf-8") as f:
+         f.write(k)
+
+
 def main():
     """"""
-    keyword_filter_generate()
-    model_filter_generate()
-    default_generate()
+    write_to_file()
 
 
 if __name__ == "__main__":
