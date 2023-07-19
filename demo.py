@@ -270,6 +270,10 @@ def write_to_file(output_name = "keyword_model_expert_check_output.txt", filter 
 def main():
     """"""
     write_to_file()
+    write_to_file("default_output", default_generate)
+    write_to_file("keyword_filter_output", keyword_filter_generate)
+    write_to_file("model_filter_output", model_filter_generate)
+    write_to_file("keyword_model_output", keyword_model_generate)
 
 
 if __name__ == "__main__":
