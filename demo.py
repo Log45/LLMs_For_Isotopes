@@ -261,7 +261,7 @@ def write_to_file(output_name = "keyword_model_expert_check_output.txt", filter 
         gen = gen[gen.index('Context:'):]
         question_index = gen.index('Question:')
         ans = _ans[i]
-        if i % 5 == 0:
+        if answer_questions_dict[ans] == questions[0]:
             #j = 0
             # print(i)
             k += "\n\n\n" + gen[:question_index] + "\n"
