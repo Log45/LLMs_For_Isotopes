@@ -51,6 +51,8 @@ questions_examples_dict = {target_question : target_example,
 
 galactica_models = {"mini", "base", "standard", "large", "huge"}
 
+answer_questions_dict = {}
+
 
 def default_generate():
     """
@@ -76,6 +78,7 @@ def default_generate():
             generation = model.generate(input, max_new_tokens=50)
             answer = generation[len(input):]
             # print(f"Answer: {answer} \n")
+            answer_questions_dict[answer] = q
             generations.append(generation)
             answers.append(answer)
     t = time.perf_counter() - t1
@@ -109,6 +112,7 @@ def keyword_filter_generate():
                 generation = model.generate(input, max_new_tokens=50)
                 answer = generation[len(input):]
                 # print(f"Answer: {answer} \n")
+                answer_questions_dict[answer] = q
                 generations.append(generation)
                 answers.append(answer)
     t = time.perf_counter() - t1
@@ -145,6 +149,7 @@ def model_filter_generate():
                 generation = model.generate(input, max_new_tokens=50)
                 answer = generation[len(input):]
                 # print(f"Answer: {answer} \n")
+                answer_questions_dict[answer] = q
                 generations.append(generation)
                 answers.append(answer)
     t = time.perf_counter() - t1
@@ -183,6 +188,7 @@ def keyword_model_generate():
                     generation = model.generate(input, max_new_tokens=50)
                     answer = generation[len(input):]
                     # print(f"Answer: {answer} \n")
+                    answer_questions_dict[answer] = q
                     generations.append(generation)
                     answers.append(answer)
     t = time.perf_counter() - t1
@@ -228,6 +234,7 @@ def keyword_model_expert_check_generate():
                     gen = model.generate(check, max_new_tokens=20)
                     confirm = gen[len(check):]
                     print(confirm)
+                    answer_questions_dict[answer] = q
                     if "yes" in confirm or "Yes" in confirm:
                         generations.append(generation)
                         answers.append(answer)
@@ -255,17 +262,24 @@ def write_to_file(output_name = "keyword_model_expert_check_output.txt", filter 
         question_index = gen.index('Question:')
         ans = _ans[i]
         if i % 5 == 0:
-            j = 0
+            #j = 0
             # print(i)
             k += "\n\n\n" + gen[:question_index] + "\n"
-        q = questions[j]
+        #q = questions[j]
+        q = answer_questions_dict[ans]
+        if q == questions[4]:
+            k += "\nQuestion: " + q + "\nAnswe" + ans.split("\n")[0] + "\n"
+        else:
+            k += "\nQuestion: " + q + "\nAnswer" + ans.split("\n")[0] + "\n"
         # print(q)
+        """
         if j % 4 == 0 and j != 0:
             k += "\nQuestion: " + q + "\nAnswe" + ans.split("\n")[0] + "\n"
         else:
             k += "\nQuestion: " + q + "\nAnswer" + ans.split("\n")[0] + "\n"
         # print(k)
-        j += 1
+        """
+        #j += 1
 
     with open(f"output/{output_name}" if '.txt' in output_name else f"output/{output_name}.txt", "w", encoding="utf-8") as f:
          f.write(k)
