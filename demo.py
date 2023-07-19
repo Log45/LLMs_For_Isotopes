@@ -144,6 +144,7 @@ def write_to_file(output_name = "keyword_filter_output.txt", filter = keyword_fi
     with open(f"output/{output_name}" if '.txt' in output_name else f"output/{output_name}.txt", "w", encoding="utf-8") as f:
          f.write(k)
 
+
 def main():
     """"""
     write_to_file()
