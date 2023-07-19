@@ -52,7 +52,7 @@ def extract_context(txt_file_name):
     
     i = 0
     remove = []
-    print(len(context))
+    # print(len(context))
     
     for p in context:
         if len(p) < 5:
@@ -62,7 +62,7 @@ def extract_context(txt_file_name):
     for i in remove:
         context.pop(i-x)
         x+=1
-    print(len(context))
+    # print(len(context))
     
     return context
 
@@ -89,8 +89,8 @@ def pdf_to_context():
         # check if it is a file and run the context extractor
         if os.path.isfile(f) and f.endswith(".txt"):
             context += (extract_context(filename))
-    for _ in context:
-        print(_, end="\t \end/ \n\n")
+    # for _ in context:
+        # print(_, end="\t \end/ \n\n")
     return context
 
 if __name__ == "__main__":
