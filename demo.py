@@ -224,7 +224,9 @@ def keyword_model_expert_check_generate():
                     answer = generation[len(input):]
                     # print(f"Answer: {answer} \n")
                     check = f"Act as if you are an expert in chemistry. In regards to the context, {context}, is it correct to say that the response: {answer} is the correct evaluation of the question: {q} \n Respond yes or no: "
-                    if "yes" or "Yes" in check:
+                    gen = model.generate(check, max_new_tokens=10)
+                    confirm = gen[len(check)-1:]
+                    if "yes" or "Yes" in confirm:
                         generations.append(generation)
                         answers.append(answer)
     t = time.perf_counter() - t1
