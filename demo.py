@@ -223,11 +223,11 @@ def keyword_model_expert_check_generate():
                     generation = model.generate(input, max_new_tokens=50)
                     answer = generation[len(input):]
                     # print(f"Answer: {answer} \n")
-                    check = f"Act as if you are an expert in chemistry. In regards to the context, {context}, is it correct to say that the response: {answer} is the correct evaluation of the question: {q} \n Respond yes or no: "
-                    gen = model.generate(check, max_new_tokens=10)
-                    confirm = gen[len(check)-1:]
+                    check = f"In regards to the context, {context}, is it correct to say that the response: {answer} is the correct evaluation of the question: {q} \n Respond yes or no: "
+                    gen = model.generate(check, max_new_tokens=20)
+                    confirm = gen[len(check):]
                     print(confirm)
-                    if "yes" or "Yes" in confirm:
+                    if "yes" in confirm or "Yes" in confirm:
                         generations.append(generation)
                         answers.append(answer)
     t = time.perf_counter() - t1
