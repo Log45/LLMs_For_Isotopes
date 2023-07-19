@@ -73,7 +73,7 @@ def default_generate():
 def keyword_filter_generate():
     t1 = time.perf_counter()
     contexts = pdf_to_context()
-    model = gal.load_model("standard")
+    model = gal.load_model("base")
     generations = []
     answers = []
     for context in contexts:
