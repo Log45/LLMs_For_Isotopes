@@ -223,7 +223,8 @@ def keyword_model_expert_check_generate():
                     generation = model.generate(input, max_new_tokens=50)
                     answer = generation[len(input):]
                     # print(f"Answer: {answer} \n")
-                    check = f"In regards to the context, {context}, is it correct to say that the response: {answer} is the correct evaluation of the question: {q} \n Respond yes or no: "
+                    # check = f"In regards to the context, {context}, is it correct to say that the response: {answer} is the correct evaluation of the question: {q} \n Respond yes or no: "
+                    check = f"Question: Answer yes or no: is the response, '{answer}' a truthful statement in regards to the context '{context}'? \n Answer:"
                     gen = model.generate(check, max_new_tokens=20)
                     confirm = gen[len(check):]
                     print(confirm)
