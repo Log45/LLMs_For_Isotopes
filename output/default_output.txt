@@ -1,4 +1,4 @@
-Generated 1095 responses in 739.69 seconds.
+Generated 1095 responses in 731.4 seconds.
 
 
 Context: Application of Ion Exchange, Solvent Extraction, and Ion-Imprinted Methods for Separation of 203Pb
