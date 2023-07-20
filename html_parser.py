@@ -52,6 +52,7 @@ def html_to_context(html_file_name):
         #print(tag)
         #print(tag.get("html-p"))
         t += tag.text
+        # look into .text, .item alternatives strip away formatting
         t = t.strip()
         # print(f'{tag.name}: {tag.text}')
     #print(t)

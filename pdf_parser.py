@@ -15,21 +15,24 @@ def convert_to_txt(pdf_file_name:str):
     if ".pdf" in pdf_file_name:
         pdf_file_name = pdf_file_name[:-4]
 
-    pdf = PDFQuery(f'data/pdf/{pdf_file_name}.pdf')
-    pdf.load()
+    if os.path.isfile(f"data/txt/{pdf_file_name}.txt"):
+        pass
+    else:
+        pdf = PDFQuery(f'data/pdf/{pdf_file_name}.pdf')
+        pdf.load()
 
-    # Use CSS-like selectors to locate the elements
-    text_elements = pdf.pq('LTTextLineHorizontal')
+        # Use CSS-like selectors to locate the elements
+        text_elements = pdf.pq('LTTextLineHorizontal')
 
-    # Extract the text from the elements
-    text = [t.text for t in text_elements]
+        # Extract the text from the elements
+        text = [t.text for t in text_elements]
 
-    ft = ""
-    for t in text:
-        ft += f"{t.strip()} "
+        ft = ""
+        for t in text:
+            ft += f"{t.strip()} "
 
-    with open(f"data/txt/{pdf_file_name}.txt", "w", encoding="utf-8") as f:
-        f.write(ft) 
+        with open(f"data/txt/{pdf_file_name}.txt", "w", encoding="utf-8") as f:
+            f.write(ft) 
 
 
 def extract_context(txt_file_name):
