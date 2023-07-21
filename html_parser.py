@@ -40,6 +40,10 @@ def html_to_context(html_file_name):
     # relevant ids all contain 'secx-diagnostics'
     
     h = HTMLParser.handle_starttag(S, "p")
+    # look for "p p-first"
+    # look for "p p-first-last"
+    # look for "p p-last"
+    # look for h3 id="secx... for section headers
     print(h.attrs)
     
 
