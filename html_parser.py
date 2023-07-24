@@ -6,22 +6,6 @@ This code is adapted from the tutorial at https://www.scaler.com/topics/python-h
 from bs4 import BeautifulSoup
 from html.parser import HTMLParser
 
-def format_html(html_file_name):
-    """"""
-    HTMLFile = open(f"data/html/{html_file_name}" if ".html" in html_file_name else f"data/html/{html_file_name}.html", 
-                    "r", encoding="utf-8")
-
-    # Reading the file
-    index = HTMLFile.read()
-    HTMLFile.close()
-    # Creating a BeautifulSoup object and specifying the parser
-    S = BeautifulSoup(index, 'lxml')
-    S = S.prettify()
-
-    with open(f"data/html/{html_file_name}" if ".html" in html_file_name else f"data/html/{html_file_name}.html", "w", encoding="utf-8") as f:
-        f.write(S)
-
-
 def html_to_context(html_file_name):
     """"""
     HTMLFile = open(f"data/html/{html_file_name}" if ".html" in html_file_name else f"data/html/{html_file_name}.html", 
@@ -32,53 +16,57 @@ def html_to_context(html_file_name):
     HTMLFile.close()
     # Creating a BeautifulSoup object and specifying the parser
     S = BeautifulSoup(index, 'html.parser')
-    # Look for these classes:
-    # html-p
-    # title hypothesis_container
-    # h2 for section headers
-    # h4 for subsection headers
-    # relevant ids all contain 'secx-diagnostics'
-    
 
-    # look for "p p-first"
-    # look for "p p-first-last"
-    # look for "p p-last"
-    # look for h3 id="secx... for section headers
-
-    
 
     doc_title = S.title.string
-    t = ""
-    #print(body)
-    #print(S.find_all(class_ = 'p-first'))
-    
+    print(doc_title)
     
     # Create a list of section names that are potentially relevant
-    s = S.find_all(class_ = 'head no_bottom_margin ui-helper-clearfix')
+    s = S.find_all(attrs={"data-nested": "1"})#, class_ = 'html-body')
     sections = []
     for sec in s:
-        st = sec.text.strip()
-        if "Acknowledgements" in st or "References" in st or "Funding" in st or "Conflicts" in st or "Footnotes" in st or "Author" in st or "Abbreviations" in st:
+        st = sec.get_text().strip()
+        if "Acknowledgements" in st or "References" in st or "Funding" in st or "Conflicts" in st or "Footnotes" in st or "Author" in st or "Abbreviations" in st or "Cite" in st or "Article" in st:
             pass
         else:
-            sections.append(st)
+            sections.append(st.replace("/n", ""))
+
+    # Add any subsections to the sections list
+    s = S.find_all(attrs={"data-nested": "2"})
+    for sec in s:
+        st = sec.get_text().strip()
+        if "Acknowledgements" in st or "References" in st or "Funding" in st or "Conflicts" in st or "Footnotes" in st or "Author" in st or "Abbreviations" in st or "Cite" in st or "Article" in st:
+            pass
+        else:
+            sections.append(st.replace("/n", ""))
+    sections.sort()
+
+    # Insert Abstract at index 0
+    s = S.find_all(id="html-abstract-title")
+    sections.insert(0, s[0].get_text().strip().replace("/n", ""))
     print(sections)
 
-    for tag in S.find_all('section'):
+
+
+    # Create a string with every paragraph from the paper in it.
+    t = ""
+    paragraphs = []
+    for tag in S.find_all(class_ = 'html-p'):
         #print(tag)
         #print(tag.get("html-p"))
-        t += tag.text
+        t += tag.get_text().strip()
         # look into .text, .item alternatives strip away formatting
-        t = t.strip()
-        # print(f'{tag.name}: {tag.text}')
-    #print(t)
+        t = t.strip().replace("\n", "")
+        paragraphs.append(t)
+    print(paragraphs)
     
-    #if not f"data/html_text/{html_file_name[:-5]}.txt" if ".html" in html_file_name else f"data/html/{html_file_name}.txt":
-    with open(f"data/html_text/{html_file_name[:-5]}.txt" if ".html" in html_file_name else f"data/html/{html_file_name}.txt", 
+    #if not f"data/html_text/{html_file_name[:-5]}.txt" if ".html" in html_file_name else f"data/html_text/{html_file_name}.txt":
+    with open(f"data/html_text/{html_file_name[:-5]}.txt" if ".html" in html_file_name else f"data/html_text/{html_file_name}.txt", 
                     "w", encoding="utf-8") as f:
         f.write(t)
         
 
 if __name__ == "__main__":
-    format_html("Production-Purification-and-Applications-of-a-Potential-Theranostic-Pair_Cobalt-55-and-Cobalt-58m-PMC.html")
-    #html_to_context("Production-Purification-and-Applications-of-a-Potential-Theranostic-Pair_Cobalt-55-and-Cobalt-58m-PMC.html")
+    #format_html("Production_Purification_and_Applications_of_a_Potential_Theranostic_Pair_Cobalt-55_and_Cobalt-58m")
+    html_to_context("641")
+    html_to_context("Production_Purification_and_Applications_of_a_Potential_Theranostic_Pair_Cobalt-55_and_Cobalt-58m")
