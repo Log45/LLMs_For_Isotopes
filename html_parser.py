@@ -1,5 +1,12 @@
 """
-This code is adapted from the tutorial at https://www.scaler.com/topics/python-html-parser/
+html_parser.py
+
+This is a program to parse through research papers from mdpi.com
+** THIS WILL LIKELY NOT WORK WITH PAPERS FROM ANY OTHER WEBSITE **
+
+Author: Logan Endes 
+Github: https://github.com/Log45
+This code is adapted from the tutorial at https://www.scaler.com/topics/python-html-parser/ and https://scrapeops.io/python-web-scraping-playbook/python-beautifulsoup-findall/#findall-by-class-and-ids
 """
 
 # Importing BeautifulSoup class from the bs4 module
