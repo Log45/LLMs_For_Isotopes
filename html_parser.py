@@ -31,7 +31,7 @@ def html_to_context(html_file_name):
     index = HTMLFile.read()
     HTMLFile.close()
     # Creating a BeautifulSoup object and specifying the parser
-    S = BeautifulSoup(index, 'lxml')
+    S = BeautifulSoup(index, 'html.parser')
     # Look for these classes:
     # html-p
     # title hypothesis_container
@@ -39,19 +39,31 @@ def html_to_context(html_file_name):
     # h4 for subsection headers
     # relevant ids all contain 'secx-diagnostics'
     
-    h = HTMLParser.handle_starttag(S, "p")
+
     # look for "p p-first"
     # look for "p p-first-last"
     # look for "p p-last"
     # look for h3 id="secx... for section headers
-    print(h.attrs)
+
     
 
     doc_title = S.title.string
     t = ""
-    body = S("html-body")
     #print(body)
-    print(S.find_all('section'))
+    #print(S.find_all(class_ = 'p-first'))
+    
+    
+    # Create a list of section names that are potentially relevant
+    s = S.find_all(class_ = 'head no_bottom_margin ui-helper-clearfix')
+    sections = []
+    for sec in s:
+        st = sec.text.strip()
+        if "Acknowledgements" in st or "References" in st or "Funding" in st or "Conflicts" in st or "Footnotes" in st or "Author" in st or "Abbreviations" in st:
+            pass
+        else:
+            sections.append(st)
+    print(sections)
+
     for tag in S.find_all('section'):
         #print(tag)
         #print(tag.get("html-p"))
@@ -68,5 +80,5 @@ def html_to_context(html_file_name):
         
 
 if __name__ == "__main__":
-    #format_html("Production-Purification-and-Applications-of-a-Potential-Theranostic-Pair_Cobalt-55-and-Cobalt-58m-PMC.html")
-    html_to_context("Production-Purification-and-Applications-of-a-Potential-Theranostic-Pair_Cobalt-55-and-Cobalt-58m-PMC.html")
+    format_html("Production-Purification-and-Applications-of-a-Potential-Theranostic-Pair_Cobalt-55-and-Cobalt-58m-PMC.html")
+    #html_to_context("Production-Purification-and-Applications-of-a-Potential-Theranostic-Pair_Cobalt-55-and-Cobalt-58m-PMC.html")
