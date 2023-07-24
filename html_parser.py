@@ -3,10 +3,11 @@ This code is adapted from the tutorial at https://www.scaler.com/topics/python-h
 """
 
 # Importing BeautifulSoup class from the bs4 module
+import os
 from bs4 import BeautifulSoup
 from html.parser import HTMLParser
 
-def html_to_context(html_file_name):
+def extract_context(html_file_name):
     """"""
     HTMLFile = open(f"data/html/{html_file_name}" if ".html" in html_file_name else f"data/html/{html_file_name}.html", 
                     "r", encoding="utf-8")
@@ -19,10 +20,9 @@ def html_to_context(html_file_name):
 
 
     doc_title = S.title.string
-    print(doc_title)
-    
+
     # Create a list of section names that are potentially relevant
-    s = S.find_all(attrs={"data-nested": "1"})#, class_ = 'html-body')
+    s = S.find_all(attrs={"data-nested": "1"})
     sections = []
     for sec in s:
         st = sec.get_text().strip()
@@ -44,9 +44,6 @@ def html_to_context(html_file_name):
     # Insert Abstract at index 0
     s = S.find_all(id="html-abstract-title")
     sections.insert(0, s[0].get_text().strip().replace("/n", ""))
-    print(sections)
-
-
 
     # Create a string with every paragraph from the paper in it.
     t = ""
@@ -58,15 +55,25 @@ def html_to_context(html_file_name):
         # look into .text, .item alternatives strip away formatting
         t = t.strip().replace("\n", "")
         paragraphs.append(t)
-    print(paragraphs)
     
-    #if not f"data/html_text/{html_file_name[:-5]}.txt" if ".html" in html_file_name else f"data/html_text/{html_file_name}.txt":
     with open(f"data/html_text/{html_file_name[:-5]}.txt" if ".html" in html_file_name else f"data/html_text/{html_file_name}.txt", 
                     "w", encoding="utf-8") as f:
         f.write(t)
+
+    return paragraphs
         
 
+def html_to_context():
+    """"""
+    directory = "data/html"
+    context = []
+    for filename in os.listdir(directory):
+        f = os.path.join(directory, filename)
+        # checking if it is a file
+        if os.path.isfile(f) and f.endswith(".html"):
+            context += extract_context(filename)
+    return context
+
+
 if __name__ == "__main__":
-    #format_html("Production_Purification_and_Applications_of_a_Potential_Theranostic_Pair_Cobalt-55_and_Cobalt-58m")
-    html_to_context("641")
-    html_to_context("Production_Purification_and_Applications_of_a_Potential_Theranostic_Pair_Cobalt-55_and_Cobalt-58m")
+    html_to_context()
