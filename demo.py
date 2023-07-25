@@ -59,13 +59,13 @@ answer_questions_dict = {}
 
 def load_model(model_name: str):
     """"""
-    
+    device = "cuda" if torch.cuda.is_available() else "cpu"
     if "galactica" in model_name:
         tokenizer = AutoTokenizer.from_pretrained(model_name)
         if "6.7b" in model_name or "7b" in model_name or "30b" in model_name or "120b" in model_name:
-            model = OPTForCausalLM.from_pretrained(model_name, device_map="auto", load_in_8bit=True)
+            model = OPTForCausalLM.from_pretrained(model_name, device_map="auto", load_in_8bit=True).to(device)
         else:
-            model = OPTForCausalLM.from_pretrained(model_name, device_map="auto")
+            model = OPTForCausalLM.from_pretrained(model_name, device_map="auto").to(device)
     elif "pythia" in model_name:
         if "6.7b" in model_name or "7b" in model_name or "30b" in model_name or "120b" in model_name:
             model = GPTNeoXForCausalLM.from_pretrained(
@@ -73,13 +73,13 @@ def load_model(model_name: str):
                     revision="step3000",
                     cache_dir=f"./{model_name[model_name.index('/')+1:]}/step3000",
                     load_in_8bit=True
-                    )
+                    ).to(device)
         else:
             model = GPTNeoXForCausalLM.from_pretrained(
                     model_name,
                     revision="step3000",
                     cache_dir=f"./{model_name[model_name.index('/')+1:]}/step3000",
-                    )
+                    ).to(device)
         tokenizer = AutoTokenizer.from_pretrained(
                 model_name,
                 revision="step3000",
@@ -87,15 +87,15 @@ def load_model(model_name: str):
                     )
     elif "bloom" in model_name:
         if "6.7b" in model_name or "7b" in model_name or "30b" in model_name or "120b" in model_name:
-            model = BloomForCausalLM.from_pretrained(model_name, load_in_8bit=True)
+            model = BloomForCausalLM.from_pretrained(model_name, load_in_8bit=True).to(device)
         else:
-            model = BloomForCausalLM.from_pretrained(model_name)
+            model = BloomForCausalLM.from_pretrained(model_name).to(device)
             tokenizer = BloomTokenizerFast.from_pretrained(model_name)
     else:
         if "6.7b" in model_name or "7b" in model_name or "30b" in model_name or "120b" in model_name:
-            model = AutoModelForCausalLM.from_pretrained(model_name)
+            model = AutoModelForCausalLM.from_pretrained(model_name).to(device)
         else:
-            model = AutoModelForCausalLM.from_pretrained(model_name)
+            model = AutoModelForCausalLM.from_pretrained(model_name).to(device)
         tokenizer = AutoTokenizer.from_pretrained(model_name)    
     return model, tokenizer
 
