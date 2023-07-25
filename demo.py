@@ -13,7 +13,10 @@ Goals: Using few-shot CoT, answer these questions with different prompts
 """
 import time
 
+import torch
+from html_parser import html_to_context
 from pdf_parser import pdf_to_context
+from transformers import AutoTokenizer, OPTForCausalLM, AutoModelForCausalLM, BloomForCausalLM, BloomTokenizerFast, GPTNeoXForCausalLM, pipeline
 import galai as gal
 
 keywords = {"separation", "Separation", "isolation", "Isolation", "chromatography", "Chromatograph", "ion exchange", "ion Exchange", "Ion Exchange", "Ion exchange",
@@ -54,7 +57,61 @@ galactica_models = {"mini", "base", "standard", "large", "huge"}
 answer_questions_dict = {}
 
 
-def default_generate():
+def load_model(model_name: str):
+    """"""
+    
+    if "galactica" in model_name:
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
+        if "6.7b" in model_name or "7b" in model_name or "30b" in model_name or "120b" in model_name:
+            model = OPTForCausalLM.from_pretrained(model_name, device_map="auto", load_in_8bit=True)
+        else:
+            model = OPTForCausalLM.from_pretrained(model_name, device_map="auto")
+    elif "pythia" in model_name:
+        if "6.7b" in model_name or "7b" in model_name or "30b" in model_name or "120b" in model_name:
+            model = GPTNeoXForCausalLM.from_pretrained(
+                    model_name,
+                    revision="step3000",
+                    cache_dir=f"./{model_name[model_name.index('/')+1:]}/step3000",
+                    load_in_8bit=True
+                    )
+        else:
+            model = GPTNeoXForCausalLM.from_pretrained(
+                    model_name,
+                    revision="step3000",
+                    cache_dir=f"./{model_name[model_name.index('/')+1:]}/step3000",
+                    )
+        tokenizer = AutoTokenizer.from_pretrained(
+                model_name,
+                revision="step3000",
+                cache_dir=f"./{model_name[model_name.index('/')+1:]}/step3000",
+                    )
+    elif "bloom" in model_name:
+        if "6.7b" in model_name or "7b" in model_name or "30b" in model_name or "120b" in model_name:
+            model = BloomForCausalLM.from_pretrained(model_name, load_in_8bit=True)
+        else:
+            model = BloomForCausalLM.from_pretrained(model_name)
+            tokenizer = BloomTokenizerFast.from_pretrained(model_name)
+    else:
+        if "6.7b" in model_name or "7b" in model_name or "30b" in model_name or "120b" in model_name:
+            model = AutoModelForCausalLM.from_pretrained(model_name)
+        else:
+            model = AutoModelForCausalLM.from_pretrained(model_name)
+        tokenizer = AutoTokenizer.from_pretrained(model_name)    
+    return model, tokenizer
+
+
+def generate(model_name: str, input: str, max_new_tokens=50):
+    """"""
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+    model, tokenizer = load_model(model_name)
+    input_ids = tokenizer(input, return_tensors="pt").input_ids.to(device)
+
+    outputs = model.generate(input_ids, max_new_tokens=max_new_tokens)
+    output = tokenizer.decode(outputs[0])
+    return output
+
+
+def default_generate(model_name: str):
     """
     This function uses no filtering or accuracy techniques to act as a base benchmark for other techniques.
     
@@ -68,14 +125,13 @@ def default_generate():
     """
     t1 = time.perf_counter()
     contexts = pdf_to_context()
-    model = gal.load_model("base")
     generations = []
     answers = []
     for context in contexts:
         for q in questions:
             example = questions_examples_dict[q]
             input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
-            generation = model.generate(input, max_new_tokens=50)
+            generation = generate(model_name, input)
             answer = generation[len(input):]
             # print(f"Answer: {answer} \n")
             answer_questions_dict[answer] = q
@@ -86,7 +142,7 @@ def default_generate():
     return generations, answers, t
 
 
-def keyword_filter_generate():
+def keyword_filter_generate(model_name: str):
     """
     This function uses keyword filtering only to make responses as efficient:
         keyword_filtering: Throws away all context paragraphs that don't contain any keywords specified in the keywords set at the top of the file.
@@ -101,7 +157,6 @@ def keyword_filter_generate():
     """
     t1 = time.perf_counter()
     contexts = pdf_to_context()
-    model = gal.load_model("base")
     generations = []
     answers = []
     for context in contexts:
@@ -109,7 +164,7 @@ def keyword_filter_generate():
             for q in questions:
                 example = questions_examples_dict[q]
                 input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
-                generation = model.generate(input, max_new_tokens=50)
+                generation = generate(model_name, input)
                 answer = generation[len(input):]
                 # print(f"Answer: {answer} \n")
                 answer_questions_dict[answer] = q
@@ -120,7 +175,7 @@ def keyword_filter_generate():
     return generations, answers, t
 
 
-def model_filter_generate():
+def model_filter_generate(model_name: str):
     """
     This function uses model filtering only to be less wasteful in generating responses:
         model_filtering: Asks the model to determine if the context paragraph contains a chemical extraction and continues if 'yes' in generated in the response.
@@ -135,18 +190,17 @@ def model_filter_generate():
     """
     t1 = time.perf_counter()
     contexts = pdf_to_context()
-    model = gal.load_model("base")
     generations = []
     answers = []
     for context in contexts:
         c = f"Context: {context}\n Question: Yes or no, does the above context describe a chemical extraction?\n Answer: "
-        filter = model.generate(c, max_new_tokens=20)
+        filter = generate(model_name, c, max_new_tokens=20)
         answer = filter[len(c):]
         if "Yes" in answer or "yes" in answer:
             for q in questions:
                 example = questions_examples_dict[q]
                 input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
-                generation = model.generate(input, max_new_tokens=50)
+                generation = generate(model_name, input)
                 answer = generation[len(input):]
                 # print(f"Answer: {answer} \n")
                 answer_questions_dict[answer] = q
@@ -157,7 +211,7 @@ def model_filter_generate():
     return generations, answers, t
 
 
-def keyword_model_generate():
+def keyword_model_generate(model_name: str):
     """
     This function combines two techniques to make responses as accurate as possible:
         keyword_filtering: Throws away all context paragraphs that don't contain any keywords specified in the keywords set at the top of the file.
@@ -173,19 +227,18 @@ def keyword_model_generate():
     """
     t1 = time.perf_counter()
     contexts = pdf_to_context()
-    model = gal.load_model("base")
     generations = []
     answers = []
     for context in contexts:
         if len(set(context.split()).intersection(keywords)) > 0:
             c = f"Context: {context}\n Question: Yes or no, does the above context describe a chemical extraction?\n Answer: "
-            filter = model.generate(c, max_new_tokens=20)
+            filter = generate(model_name, c, max_new_tokens=20)
             answer = filter[len(c):]
             if "Yes" in answer or "yes" in answer:
                 for q in questions:
                     example = questions_examples_dict[q]
                     input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
-                    generation = model.generate(input, max_new_tokens=50)
+                    generation = generate(model_name, input)
                     answer = generation[len(input):]
                     # print(f"Answer: {answer} \n")
                     answer_questions_dict[answer] = q
@@ -196,7 +249,7 @@ def keyword_model_generate():
     return generations, answers, t
 
 
-def keyword_model_expert_check_generate():
+def keyword_model_expert_check_generate(model_name: str):
     """
     This function combines four techniques to make responses as accurate as possible:
         keyword_filtering: Throws away all context paragraphs that don't contain any keywords specified in the keywords set at the top of the file.
@@ -214,24 +267,23 @@ def keyword_model_expert_check_generate():
     """
     t1 = time.perf_counter()
     contexts = pdf_to_context()
-    model = gal.load_model("base")
     generations = []
     answers = []
     for context in contexts:
         if len(set(context.split()).intersection(keywords)) > 0:
             c = f"Context: {context}\n Question: Yes or no, does the above context describe a chemical extraction?\n Answer: "
-            filter = model.generate(c, max_new_tokens=20)
+            filter = generate(model_name, c, max_new_tokens=20)
             answer = filter[len(c):]
             if "Yes" in answer or "yes" in answer:
                 for q in questions:
                     example = questions_examples_dict[q]
                     input = f"{example}\n Context: {context}\n Question: {q}\n Respond as if you are an expert at chemistry.\n Answer: "
-                    generation = model.generate(input, max_new_tokens=50)
+                    generation = generate(model_name, input)
                     answer = generation[len(input):]
                     # print(f"Answer: {answer} \n")
                     # check = f"In regards to the context, {context}, is it correct to say that the response: {answer} is the correct evaluation of the question: {q} \n Respond yes or no: "
                     check = f"Question: Answer yes or no: is the response, '{answer}' a truthful statement in regards to the context '{context}'? \n Answer:"
-                    gen = model.generate(check, max_new_tokens=20)
+                    gen = generate(model_name, check, max_new_tokens=20)
                     confirm = gen[len(check):]
                     print(confirm)
                     answer_questions_dict[answer] = q
@@ -243,14 +295,14 @@ def keyword_model_expert_check_generate():
     return generations, answers, t
 
 
-def write_to_file(output_name = "keyword_model_expert_check_output.txt", filter = keyword_model_expert_check_generate):
+def write_to_file(model_name: str, output_name = "keyword_model_expert_check_output.txt", filter = keyword_model_expert_check_generate):
     """_summary_
 
     Args:
         output_name (str, optional): _description_. Defaults to "keyword_filter_output.txt".
         filter (_type_, optional): _description_. Defaults to keyword_filter_generate.
     """
-    _gen, _ans, _time = filter()
+    _gen, _ans, _time = filter(model_name)
 
     _time = round(_time, 2)
 
@@ -287,11 +339,16 @@ def write_to_file(output_name = "keyword_model_expert_check_output.txt", filter 
 
 def main():
     """"""
-    write_to_file()
-    # write_to_file("default_output", default_generate)
-    # write_to_file("keyword_filter_output", keyword_filter_generate)
-    # write_to_file("model_filter_output", model_filter_generate)
-    # write_to_file("keyword_model_output", keyword_model_generate)
+    filters = {keyword_model_expert_check_generate, keyword_model_generate, model_filter_generate,
+                keyword_filter_generate, default_generate}
+   
+    models = {"EleutherAI/pythia-2.8b-deduped", "EleutherAI/pythia-1.4b-deduped", "EleutherAI/gpt-neo-2.7B", 
+              "EleutherAI/gpt-neo-1.3B", "bigscience/bloom-1b7", "mosaicml/mpt-1b-redpajama-200b-dolly", "tiiuae/falcon-rw-1b",
+              "facebook/opt-2.7b", "facebook/opt-1.3b", "facebook/opt-6.7b", "facebook/galactica-1.3b", "facebook/galactica-6.7b"}
+   
+    for model in models:
+        for filter in filters:
+            write_to_file(model, output_name=f"{str(filter)}-{model[model.index('/')+1:]}", filter=filter)
 
 
 if __name__ == "__main__":
