@@ -192,7 +192,7 @@ def default_generate(model_name: str, contexts: list):
             input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
             generation = generate(model_name, input)
             answer = generation[len(input):]
-            # print(f"Answer: {answer} \n")
+            print(f"Answer: {answer} \n")
             answer_questions_dict[answer] = q
             generations.append(generation)
             answers.append(answer)
@@ -228,7 +228,7 @@ def keyword_filter_generate(model_name: str, contexts: list):
                 input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
                 generation = generate(model_name, input)
                 answer = generation[len(input):]
-                # print(f"Answer: {answer} \n")
+                print(f"Answer: {answer} \n")
                 answer_questions_dict[answer] = q
                 generations.append(generation)
                 answers.append(answer)
@@ -267,7 +267,7 @@ def model_filter_generate(model_name: str, contexts: list):
                 input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
                 generation = generate(model_name, input)
                 answer = generation[len(input):]
-                # print(f"Answer: {answer} \n")
+                print(f"Answer: {answer} \n")
                 answer_questions_dict[answer] = q
                 generations.append(generation)
                 answers.append(answer)
@@ -308,7 +308,7 @@ def keyword_model_generate(model_name: str, contexts: list):
                     input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
                     generation = generate(model_name, input)
                     answer = generation[len(input):]
-                    # print(f"Answer: {answer} \n")
+                    print(f"Answer: {answer} \n")
                     answer_questions_dict[answer] = q
                     generations.append(generation)
                     answers.append(answer)
@@ -351,7 +351,7 @@ def keyword_model_expert_check_generate(model_name: str, contexts: list):
                     input = f"{example}\n Context: {context}\n Question: {q}\n Respond as if you are an expert at chemistry.\n Answer: "
                     generation = generate(model_name, input)
                     answer = generation[len(input):]
-                    # print(f"Answer: {answer} \n")
+                    print(f"Answer: {answer} \n")
                     # check = f"In regards to the context, {context}, is it correct to say that the response: {answer} is the correct evaluation of the question: {q} \n Respond yes or no: "
                     check = f"Question: Answer yes or no: is the response, '{answer}' a truthful statement in regards to the context '{context}'? \n Answer:"
                     gen = generate(model_name, check, max_new_tokens=20)
