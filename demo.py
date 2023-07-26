@@ -381,7 +381,18 @@ def write_to_file(model_name: str, context: list, output_name = "keyword_model_e
 
     _time = round(_time, 2)
 
-    k = f"Generated {len(_gen)} responses in {_time} seconds."
+    model, tokenizer = load_model(model_name)
+
+    perplexity_scores = []
+    total_score = 0
+    for _ in _ans:
+        score = round(calculate_perplexity(model, tokenizer, _).item(), 2)
+        total_score+=score
+        perplexity_scores.append(score)
+
+    avg_score = total_score/len(perplexity_scores)
+
+    k = f"Generated {len(_gen)} responses in {_time} seconds with average perplexity score of {round(avg_score), 2}"
     for i in range(len(_gen)):
         ans_idx = _gen[i].index('Answer:')
         gen = _gen[i][ans_idx:]
@@ -393,9 +404,9 @@ def write_to_file(model_name: str, context: list, output_name = "keyword_model_e
 
         q = answer_questions_dict[ans]
         if q == questions[4]:
-            k += "\nQuestion: " + q + "\nAnswer:" + ans.split("\n")[0] + "\n"
+            k += "\nQuestion: " + q + "\nAnswer:" + ans.split("\n")[0] + f"\nScore: {perplexity_scores[i]}\n"  
         else:
-            k += "\nQuestion: " + q + "\nAnswer:" + ans.split("\n")[0] + "\n"
+            k += "\nQuestion: " + q + "\nAnswer:" + ans.split("\n")[0] + f"\nScore: {perplexity_scores[i]}\n"
 
     with open(f"output/{output_name}" if '.txt' in output_name else f"output/{output_name}.txt", "w", encoding="utf-8") as f:
          f.write(k)
