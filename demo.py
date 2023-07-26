@@ -314,24 +314,13 @@ def write_to_file(model_name: str, output_name = "keyword_model_expert_check_out
         question_index = gen.index('Question:')
         ans = _ans[i]
         if answer_questions_dict[ans] == questions[0]:
-            #j = 0
-            # print(i)
             k += "\n\n\n" + gen[:question_index] + "\n"
-        #q = questions[j]
+
         q = answer_questions_dict[ans]
         if q == questions[4]:
-            k += "\nQuestion: " + q + "\nAnswe" + ans.split("\n")[0] + "\n"
+            k += "\nQuestion: " + q + "\nAnswer:" + ans.split("\n")[0] + "\n"
         else:
-            k += "\nQuestion: " + q + "\nAnswer" + ans.split("\n")[0] + "\n"
-        # print(q)
-        """
-        if j % 4 == 0 and j != 0:
-            k += "\nQuestion: " + q + "\nAnswe" + ans.split("\n")[0] + "\n"
-        else:
-            k += "\nQuestion: " + q + "\nAnswer" + ans.split("\n")[0] + "\n"
-        # print(k)
-        """
-        #j += 1
+            k += "\nQuestion: " + q + "\nAnswer:" + ans.split("\n")[0] + "\n"
 
     with open(f"output/{output_name}" if '.txt' in output_name else f"output/{output_name}.txt", "w", encoding="utf-8") as f:
          f.write(k)
