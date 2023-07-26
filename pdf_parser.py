@@ -3,7 +3,6 @@ pdf_parser.py is a program that uses the pdfquery library to take pdfs and conve
 Author: Logan Endes https://github.com/Log45
 Code for accessing pdfs with PDFQuery adapted from https://www.freecodecamp.org/news/extract-data-from-pdf-files-with-python/ 
 """
-import pdfquery
 from pdfquery import PDFQuery
 import os
 

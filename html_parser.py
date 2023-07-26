@@ -12,7 +12,6 @@ This code is adapted from the tutorial at https://www.scaler.com/topics/python-h
 # Importing BeautifulSoup class from the bs4 module
 import os
 from bs4 import BeautifulSoup
-from html.parser import HTMLParser
 
 def extract_context(html_file_name):
     """"""
