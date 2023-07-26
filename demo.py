@@ -334,10 +334,14 @@ def main():
     models = {"EleutherAI/pythia-2.8b-deduped", "EleutherAI/pythia-1.4b-deduped", "EleutherAI/gpt-neo-2.7B", 
               "EleutherAI/gpt-neo-1.3B", "bigscience/bloom-1b7", "mosaicml/mpt-1b-redpajama-200b-dolly", "tiiuae/falcon-rw-1b",
               "facebook/opt-2.7b", "facebook/opt-1.3b", "facebook/opt-6.7b", "facebook/galactica-1.3b", "facebook/galactica-6.7b"}
-   
+    
+
     for model in models:
         for filter in filters:
-            write_to_file(model, output_name=f"{str(filter)[10:str(filter).index('at')-1]}-{model[model.index('/')+1:]}", filter=filter)
+            try:
+                write_to_file(model, output_name=f"{str(filter)[10:str(filter).index('at')-1]}-{model[model.index('/')+1:]}", filter=filter)
+            except:
+                continue
 
 
 if __name__ == "__main__":
