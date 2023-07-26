@@ -348,7 +348,7 @@ def main():
    
     for model in models:
         for filter in filters:
-            write_to_file(model, output_name=f"{str(filter)}-{model[model.index('/')+1:]}", filter=filter)
+            write_to_file(model, output_name=f"{str(filter)[10:str(filter).index('at')-1]}-{model[model.index('/')+1:]}", filter=filter)
 
 
 if __name__ == "__main__":
