@@ -1,0 +1,985 @@
+Generated 210 responses in 1258.65 seconds with average perplexity score of (38, 2)
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: _____________________________________________
+Score: 19.75
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: ____________________________________________
+Score: 70.24
+
+Question: What are the products of the above reaction?
+Answer:er:                                                   
+Score: 2.06
+
+Question: What are the products of the above reaction?
+Answer:er:                                                   
+Score: 2.06
+
+Question: What are the products of the above reaction?
+Answer:er:                                                   
+Score: 2.06
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er:  HCl is used in the elution.
+Score: 67.8
+
+Question: What are the products of the above reaction?
+Answer:er:                                                   
+Score: 2.06
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: х-xylene.
+Score: 51.62
+
+Question: What are the products of the above reaction?
+Answer:er:                                                   
+Score: 2.06
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: х-chloroacetic acid (HCl)
+Score: 44.41
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 106.25
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: __________
+Score: 119.05
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: _______________
+Score: 117.72
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 106.25
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: хoххххххххххххххххххххххх�
+Score: 3.34
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: х-hydroxybenzoic acid (HOBT)
+Score: 174.41
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+
+
+Context:  2. Lebedev, V.M., Kornilov, A.S., Nekotorye osobennosti razdeleniya vesovogo kolichestva ameritsiya i kyuriya (Some Features of the Separation of the Weight Amounts of Americium and Curium), Dimitrovgrad: NIIAR, 2019. 3. Toporov, Yu.G., Tarasov, V.A., Romanov, E.G., Kupriyanov, A.V., Andreev, O.I., Shimbarev, E.V., Gordeev, Ya.N., Petelin, A.L., Sazontov, S.A., Uzikov, V.A., Sb. tr. AO “GNTs NIIAR” (Proceedings of JSC “SSC RIAR”), Dimitrovgrad: NIIAR, 2018
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er:  The target material is the 64Ni.
+Score: 402.42
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er:  6 M hydrochloride acid.
+Score: 60.19
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  The solution was loaded into an anion exchange column to separate into different components.
+Score: 55.75
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er:  1. HCl is used in the elution.
+Score: 45.73
+
+
+
+Context: Application of Ion Exchange, Solvent Extraction, and Ion-Imprinted Methods for Separation of 203Pb
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: _____________________________________________
+Score: 72.14
+
+
+
+Context: Materials and equipment. Thallium(I) sulfate (99.9%) was purchased from UCB (Union Chimique Belge). Lead nitrate was purchased from Fluka. Stan- dard 1000 mg L−1 solutions of lead and thallium were purchased from Sigma–Aldrich. All the other chemi- cals were purchased from Merck. Cu backings were produced in our workshop. All chemicals used in this study were analytical grade and were used without fur- ther purification. Working solutions of Pb and Tl were prepared by diluting appropriate amounts of the stock solutions. A Hydro Ultrapure water purification system was used for making deionized water needed to prepare all the required solutions. An HPGe detector system (CanberraTM, GC1020-7500SL) in conjugation with a PC-based MCA and A Metrohm 827 pH meter was used. Target preparation. Natural thallium(I) sulfate (Tl2SO4), was chosen as the target material. High- quality thallium targets (70 μm) were prepared by elec- trodeposition of 1 g of Tl on 12 cm2 copper backings. The first plating bath is prepared by dissolving a por- tion of natTl2SO4 in an aqueous alkaline solution con- taining EDTA as a complexing agent, hydrazine hy- drate as an anodic depolarizer, and Brij-35 as a wetting agent. Constant-current electrolysis was carried out by applying a bipolar chopped saw-tooth voltage between the Pt anode and copper cathode. Target irradiation. The proton-induced nuclear reaction cross section data are very important for the production of medical radioisotopes using cyclo- trons. The excitation functions of 203Tl(p,2n)202Pb, 205Tl(p,2n)204Pb, 203Tl(p,4n)200Pb, 203Tl(p,3n)201Pb, 205Tl(p,3n)203Pb, and 205Tl(p,4n)202Pb reactions have been reported in the literature [15–19]. The 203Pb ra- 203Tl(p,n)203Pb and dioisotope 205Tl(p,3n)203Pb reactions (Table 2).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: _____________________________________________
+Score: 9.36
+
+
+
+Context: Fig. 3. γ-Ray spectrum of the dissolved target (EOB, before separation).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: ____________________________________________
+Score: 50.03
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 〈The solution was loaded into an anion exchange column to separate into different components〉
+Score: 101.25
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: __________
+Score: 45.79
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 40.87
+
+
+
+Context:  The total amount of 203Pb before and after separa- tion was determined in all cases by the region of inter- est (ROI) values. The separation yield was evaluated by dividing the amount of 203Pb after the separation by that before the separation. The yields of the ion ex- change and solvent extraction methods were 98.2 and 99.3%, respectively. No detectable radioactive impuri- ties were observed in the γ-ray spectrum. The characteristics of MNPs and magnetic ion- imprinted polymers (MIIPs) and the effect exerted by the type, concentration, volume, and pH were con- sidered. The lead ions were removed from MIIPs with 1 M HNO3, and the solution containing 203Pb (solution A) was loaded onto the sorbent at pH 6. Lead-203 was eluted from the sorbent with quantita- tive recovery (96.3%) in 2.5 mL of the eluent. Thus, the suggested method ensures high sensitivity of Pb determination. Thus, the cyclotron production of 203Pb from thal- lium provides a convenient source of this isotope for both tracer applications and SPECT imaging. The 203Tl(p,n)203Pb reaction is an efficient route to this iso- tope. The loss of 203Pb is less than 2% in both solvent extraction and ion exchange methods. The irradiation yield is 2.2 mCi μA–1 h–1.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er:  The target material is the 64Ni.
+Score: 79.11
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er:  The target material is dissolved in 6 M hydrochloride acid.
+Score: 82.58
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  The solution was loaded into an anion exchange column to separate into different components.
+Score: 81.02
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er:  The acid used in the elution is 1 M HCl.
+Score: 13.12
+
+Question: What are the products of the above reaction?
+Answer:er:  The products of the above reaction are:
+Score: 9.18
+
+
+
+Context: Abstract—A method has been developed for isolation of 228Ac from aged samples of natural 232Th. Macroscopic amounts of the thorium bulk (20 g) were separated by its extraction by a solution of di(2-ethylhexyl)phosphoric acid in toluene from 4 M HNO3 solutions, with microamounts of 228Ra and 228Ac remaining in the aqueous phase. 228Ac was selectively extracted from the resulting solution by the method of extraction chromatography on a col- umn with RE resin sorbent, and 228Ra quantitatively remained in the 4 M HNO3 eluate. 228Ac was washed out of the column with 0.05 M HNO3, it could be used as a radioisotope for research purposes. After the accumulation of the daughter 228Ac the solution of 228Ra in 4 M HNO3 was repeatedly passed through an identical column. The resulting 228Ac was used in the study to examine its sorption on commercial and modiﬁ ed carbon nanomaterials (CNMs) instead of the diﬃ cultly accessible 225Ac. It is shown that the application of CNMs as carriers of actinium isotopes for nuclear medicine purposes is promising.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: ____________________________________________
+Score: 93.39
+
+Question: What are the products of the above reaction?
+Answer:er: ____________________________________________________________
+Score: 93.27
+
+
+
+Context: Studies concerned with the possibility of targeted delivery of actinium examined the sorption of 225Ac on various supports in radiopharmpreparations. For example, it has been shown that it is possible to use liposomal carriers [11–14] or nanoparticles based on inorganic substances: LaPO4 [15–19], InPO4 [20], GdVO4 [21], and TiO2 [22]. At the same time, application of carbon nanomaterials (CNMs) seems to be promising because of the important properties: potential biocompatibility of their separate forms, accessibility in industrial amounts, low cost as compared with vector molecules, and the possibility of varying their biodistribution upon an appropriate modiﬁ cation. However, the evidence about using CNMs as actinium supports is extremely scarce [23, 24]. In this context, the goal of the present study was to develop a method for quantitative isolation of 228Ac as a product of 228Ra decay from natural thorium, with their subsequent separation and using the isolated 228Ac in the radiochemically pure state to examine the sorption of actinium on CNM sample with varied structure and physicochemical properties.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: ____________________________________________
+Score: 58.26
+
+Question: What are the products of the above reaction?
+Answer:er: ____________________________________________________________
+Score: 58.05
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:????
+Score: 137.74
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:????
+Score: 137.74
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: _______________________________________________
+Score: 87.53
+
+Question: What are the products of the above reaction?
+Answer:er: __________________________________________________________________________
+Score: 93.09
+
+
+
+Context:  Fig. 2. Extractive-chromatographic separation of 228Ra and 228Ac on RE sorbent in HNO3. Column volume 2 mL, diameter 0.7 cm. Fig. 3. Kinetics of Ac(III) sorption on CNM in PBS at 25°C, m/V ratio 100 μg/mL. found here that the yield of 228Ac is nearly quantitative (not less than 95% relative to the amount placed on the column), with the separation factor of 228Ra and 228Ac being 2.2 × 104. According to [31], 208Pb is eluted from the column together with 228Ra. Thus, we developed a method for separation 228Ac in the radiochemically pure state from large amounts of natural thorium. The isolated 228Ac can be used in scientiﬁ c studies, including in vivo experiments. It was found that, with the developed method implemented, the loss of 228Ra does not exceed 0.005% of the amount placed in the column. Therefore, the starting 228Ra preparation can be repeatedly used. For this purpose, the fractions from 1 to 9 mL were evaporated and again dissolved in 1 mL of 4 M HNO3. It was shown that the results are reproducible because 228Ac could be eluted from the generator we developed not less than 20 times. In a prolonged use of the solution of 228Ra, there occurs accumulation of 228Th occurs due to the decay of 228Ac, but 228Th is quantitatively sorbed on the column with RE in the process of separation of 228Ra and 228Ac [31]. It is supposed that the columns with the sorbent are intended for single use, and, therefore, 228Th does not contaminate the solution of 228Ac being prepared. In the many-years use of the generator, the extract of 232Th can be repeatedly used to extract 228Ra accumulated in it.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er:????
+Score: 12.12
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:??????
+Score: 55.12
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er:??????
+Score: 17.17
+
+Question: What are the products of the above reaction?
+Answer:er:????
+Score: 10.94
+
+
+
+Context:  Synthesis of 125I-atorvastatin was carried out by direct electrophilic substitution with no-carrier-added 125I (T1/2 = 60 days) under oxidative conditions in the presence of CAT. The presumable reaction is shown in Scheme 1. The TLC results show that radioiodide stayed near the origin (Rf = 0–0.1), while 125I-atorvastatin proceeded with the solvent front (Rf = 0.8–1). The radiolabeling yield was 94.3 ± 1.4% (n = 5). It was determined by HPLC analysis, where the retention times of free iodide and 125I-atorvastatin were 1.5 and 4.6 min, respectively, as given in the chromatogram (Fig. 1). The HPLC system allowed the separation of the radiolabeled compound from the free radioiodide and the unlabeled atorvastatin as well as the puriﬁ cation and quality control of the radiolabeled compound. The in vitro stability of the radiolabeled compound was considered in order to estimate the appropriate time for injection to exclude the formation of unacceptable products resulting from the radiolysis of 125I-atorvastatin. These products might be accumulated in non-target organs. As we found, 125I-atorvastatin was stable for up to 24 h. The lipophilicity was determined by measuring the distribution of 125I-atorvastatin between n-octanol and
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er:  The target material is the iodide.
+Score: 48.58
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er:  The acid used in the elution is HCl.
+Score: 39.67
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  The 64Ni was loaded into a column (Agilent Technologies 1200 series of HPLC system) equipped with both a UV absorption detector and a B-Fc-1000 HPLC radioactivity detector (Bioscan, Washington, DC, USA
+Score: 88.76
+
+Question: What are the products of the above reaction?
+Answer:er:                                                   
+Score: 2.06
+
+Question: What are the products of the above reaction?
+Answer:er: __________________________________________________
+Score: 58.47
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈
+Score: 2.31
+
+
+
+Context: In this study, we presented the improved method for the preparation of 64Cu, especially the improved efﬁciency of electroplating of 64Ni. The 64Ni solid target on an Au-disk has a uniform surface, with the thickness of 10.73 µm, and no metallic impurities. The total plated 64Ni was 70.6 ± 5.8 mg and the density of the plated 64Ni was 61.4 ± 5.0 mg/cm2 (assuming a uniform thickness). After irradiation of the target and puriﬁcation, the gamma spectrum of the produced 64Cu showed its radionuclide purity to be >99%, with both peaks at 511 keV and 1346 keV. In addition, the produced 64CuCl2 solution has high speciﬁc activity up to 5.6 GBq/µmoL. It was further incorporated into the modiﬁed monoclonal antibody DOTA-rituximab to synthesize 64Cu-DOTA-rituximab, which was further used successfully for micro-PET imaging. Acknowledgments: This work was supported, in part, by the National Natural Science Foundation of China (No. 81371592, No. 81401467, No. 81501519, No. 81571705 and No. 81671733), Beijing Natural Science Foundation (No. 7162041 and No. 7171002), Beijing Municipal Commission of Health and Family Planning (215 backbone program), and 2017 Beijing Science & Technology Nova Star Program (xx2017016). Author Contributions: Q.X., H.Z., X.M., Q.R., C.X. and Z.Y. conceived and designed the experiments; Q.X., H.Z., F.W. and X.M. performed the experiments; Q.X., H.Z. and X.M. analyzed the data; Q.X. and H.Z. wrote the paper.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: _____________________________________________
+Score: 13.25
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: _____________________________________________
+Score: 14.91
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 〈The solution was loaded into an anion exchange column to separate into different components〉
+Score: 18.81
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: _______________________________________________
+Score: 15.26
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 19.51
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 52.58
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 52.58
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: _______________________________________________
+Score: 51.62
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: _______________________________________________
+Score: 51.62
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 52.58
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  – dilution of the initial solution; – determination of the 106Ru speciﬁ c activity in the SNF working solution, on the walls of the reﬂ ux condenser, in trap solutions, and in undiss
+Score: 183.07
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  – dilution of the initial solution; – determination of the 106Ru speciﬁ c activity in the SNF working solution, on the walls of the reﬂ ux condenser, in trap solutions, and in undiss
+Score: 183.07
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  The solution was loaded into an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-
+Score: 56.47
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  The solution is loaded into the AG1X8 anion-exchange resin packed column.
+Score: 42.56
+
+Question: What are the products of the above reaction?
+Answer:er:  The products of the above reaction are:
+Score: 10.37
+
+
+
+Context: The cell surface protein gastrin-releasing peptide receptor (GRPR) has become a popu- lar imaging target in recent years. GRPR is overexpressed by a large number of cancers including prostate, pancreatic, colon, and non-small cell lung cancers [108]. Agonist pep- tides such as bombesin bind to GRPR, trigger downstream signaling and are subsequently internalized into the cell. They have higher binding afﬁnity than antagonists and are taken up in organs with endogenous GRPR expression such as the pancreas, stomach, intestines and adrenal glands [109]. The lower binding afﬁnity of GRPR antagonists, however, may be advantageous for imaging studies as it leads to lower uptake in normal tissues [110]. The ﬁrst cobalt-55 imaging of GRPR was reported in 2016 by Dam et al. [111] and compared 55Co-, 57Co-, and 68Ga-labeled GRPR agonist NOTA-AMBA (NOTA-Gly-4-ABz- Gln-Trp-Ala-Gly-His-Leu-Met-NH2) in a PC3 prostate cancer. 57Co- and 68Ga-labeled NOTA-AMBA were found to have similar receptor afﬁnities, serum stabilities, and phar- macokinetics at 1 h and 4 h PI [55Co]Co-NOTA-AMBA enabled PET imaging at a 24 h timepoint (and beyond) which is not possible with [68Ga]Ga-NOTA-AMBA and revealed encouraging clearance of the tracer and stable late uptake of [5xCo]Co-NOTA-AMBA in the tumor [111]. In 2017, Mitran et al. reported radiolabeling GRPR antagonist RM26 (NOTA-PEG2- [D-Phe, Sta, Leu] bombesin [6–14]) with cobalt-55 and cobalt-57 [13]. Cell binding and internalization were investigated in PC3 cells and a mouse PC3 xenograft tumor model. They observed 12% cell internalization at 24 h which is similar to what has been reported for [111In]In-NOTA-PEG2-RM26 [112]. Biodistribution studies in PC3 tumor-bearing mice showed that at 3 h PI the tumor uptake was greater than uptake in any other organ including the kidneys. PET imaging studies using [55Co]Co-NOTA-PEG2-RM26 showed clear tumor uptake at 3 h PI and by 24 h PI the tumor showed high uptake (Figure 20). The IC50 for Co-NOTA-PEG2-RM26 (5.54 ± 0.4 nM) [10] is approximately 10-fold higher than Co-NOTA-AMBA (0.46 ± 0.20 nM) [13,111]. In vivo comparisons between [57Co]Co-NOTA-AMBA and [57Co]Co-NOTA-PEG2-RM26 are complicated as the early imaging times are not matched between studies. However, comparison at the 24 h timepoint shows greater uptake of [57Co]Co-NOTA-AMBA than [57Co]Co-NOTA-PEG2-RM26 in the tumor as well as many other organs. Even though the tumor uptake was less, the tumor to organ ratios for [57Co]Co-NOTA-PEG2-RM26 were sometimes 100-fold greater than what was observed with [57Co]Co-NOTA-AMBA. This was most notable in tissues with high GRPR expression such as the colon, pancreas, and stomach. The 24 h PI PET images provided, with both papers similarly showing lower non-target organ accumulation with the [55Co]Co-NOTA-PEG2-RM26 than with [55Co]Co-NOTA-AMBA. Recently, Mitran et al. investigated the impact chelator modiﬁcation had on PEG2- RM26 cell binding, internalization, and biodistribution in PC-3 prostate cancer [113]. PEG2- RM26 was bound to NOTA, DOTA, NODAGA, or DOTAGA and radiolabeled with cobalt- 55 and cobalt-57. The NOTA- and DOTA-labeled peptides showed the highest uptake in PC-3 cells in vitro and DOTA-labeled peptide had the highest tumor uptake in vivo by 24 h PI. In PET imaging studies, NOTA and DOTA PEG2-RM26 showed near-complete clearance of the radiotracer from the kidneys and GI tract by 24 h, whereas NODAGA and DOTAGA had residual GI and kidney uptake respectively.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: ____________________________________________
+Score: 21.26
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:????
+Score: 21.39
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 21.16
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: _______________________________________________
+Score: 11.71
+
+Question: What are the products of the above reaction?
+Answer:er: _______________________________________________________
+Score: 13.19
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: ____________________________________________
+Score: 35.65
+
+
+
+Context: 26. Valdovinos, H.F.; Hernandez, R.; Graves, S.; Ellison, P.A.; Barnhart, T.E.; Theuer, C.P.; Engle, J.W.; Cai, W.; Nickles, R.J. Cyclotron production and radiochemical separation of 55Co and 58mCo from 54Fe, 58Ni and 57Fe targets. Appl. Radiat. Isot. 2017, 130, 90–101. [CrossRef] [PubMed] 27. Vlasov, N.A.; Kalinin, S.P.; Ogloblin, A.A.; Pankramov, V.M.; Rudakov, V.P.; Serikov, I.N.; Sidorov, V.A. Excitation functions for the reactions Mg21(d, α)Na22, Fe54(d, α)Mn52 Fe54(d, n)Co55, and Zn56(d, 2n)Ga66. Sov. J. At. Energy 1957, 2, 189–192. [CrossRef] 28. Zaman, M.; Spellerberg, S.; Qaim, S. Production of Co-55 via the Fe-54(d, n)-process and excitation functions of Fe-54(d, t)Fe-53
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: _____________________________________________
+Score: 11.64
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 41.3
+
+Question: What are the products of the above reaction?
+Answer:er: __________________________________________________________________________
+Score: 56.81
+
+
+
+Context: Fig. 1. Scheme of 225Ac isolation from irradiated thorium target. We believe that the most promising route of pro- duction of 225Ac, 223Ra, and some other important ra- dionuclides is irradiation of natural 232Th targets with medium-energy protons, followed by product isolation. In the early 1960s, Lefort et al. experimentally meas- ured the production cross sections of 225Ac and 223Ra from 232Th at a proton energy of 150 MeV [14], and Gauvin measured the 225Ac production cross sections at proton energies in the range 43–115 MeV [15]. Also, 232Th was irradiated with the aim of 225Ac pro- duction with 660-MeV protons at an accelerator in Dubna [16] and with 600-MeV protons at an accelera- tor in CERN [17]. The possibility of producing 225Ac from thorium by its irradiation with protons of the en- ergy lower than 40 MeV was noted recently [18], but no experimental data confirming this assumption were presented. On the whole, only limited information is available on optimization of production of various ra- dionuclides from a thorium target and on radiochemi- cal procedures for isolation of 225Ac and 223Ra from irradiated Th and on their purification to remove other radionuclides. Up to now, 225Ac and 223Ra were not actually produced by this procedure. The major goal of this study was measuring the 225Ac and 223Ra production cross sections in reactions of Th with 90–135-MeV protons with the aim to opti- mize the conditions for production of large amounts of these radionuclides on the proton beam of the Moscow Meson Factory [Institute for Nuclear Research (INR), Russian Academy of Sciences, Troitsk]. In the course of our study, we developed efficient radiochemical procedures for isolating Ac and Ra in the radiochemi- cally pure state. It can be expected that wide use of 225Ac and 223Ra in medicine will allow in the future cardinal solution of the problem of treating many tu- mor diseases. Th irradiation. In irradiation experiments we used 10 × 10 mm2 pieces of 5-μm-thick Th metal foil. The foils were irradiated with a beam of accelerated pro- tons of energy 128, 143, and 158 MeV at the linear accelerator of the Institute for Nuclear Research, Rus- sian Academy of Sciences [19], at a beam current of approximately 5 μA. In the course of irradiation, tho- rium foils wrapped in aluminum foil were intensely cooled with a water flow. To decrease the proton en- ergy to 90, 110, and 135 MeV, graphite absorbers were arranged before the target. The accuracy in the proton energy determination was approximately ±2.5 MeV. The uncertainty was determined by the accelerator pa- rameters and by proton scattering as a result of their absorption by graphite and cooling water. The proton flux was monitored with Al and Cu foils by production of 22Na and 62Zn, respectively, whose production cross sections are known [20]. The foils after irradiation were withdrawn and sub- jected to γ-ray spectrometric analysis using a spec- trometer equipped with a HPGe detector with a beryl- lium window (Canberra GR 3818). 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chroma-
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: _____________________________________________
+Score: 5.9
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: _____________________________________________
+Score: 51.39
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: _____________________________________________
+Score: 39.26
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 19.31
+
+
+
+Context:  tography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solu- tion was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatogra- phy in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-di- (TRU- isobutylcarbamoylmethylphosphine oxide resin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solu- tion was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra). 223Ra isolation. Chemical isolation of Ra from irra- diated metallic Th was performed by a gas-chemical method. For this purpose, a piece of irradiated thorium foil (3 mg) together with metallic La (280 mg) was placed in a crucible of metallic Zr. Addition of La (Тm = 918°С) leads to formation of a melt with Th (for Th, Тm = 1755°С), and in the liquid metal diffusion and, correspondingly, release of the sublimed micro- elements are considerably faster than in solid Th. The crucible was heated for 1 h in succession at 970, 1040, 1130, 1190, 1270°С in a stream of helium purified with a titanium getter (the heating temperature was determined with an accuracy of ±15°С). Radium and other radionuclides were deposited at the furnace out- let on tantalum collectors in the form of foils which were replaced when changing the heating temperature. In another experiment (Fig. 2), an irradiated tho- rium sample with metallic La was heated for 1 h at 1200 ± 15°С, and the released products were trans- ferred with a helium stream into a thermochroma- tographic column (quartz tube lined with titanium foil from the inside); the sublimed elements were deposited on the Ti surface in different temperature zones. After the heating completion, the titanium foil serving as collector for sublimed products was cut into pieces (corresponding to temperature zones), and the γ-ray spectrum of each piece of the collector was measured. After that, the piece of the collector with the deposited Ra, Ba, and Sr was subjected to further purification by
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er:  The target material is the La, which is the source of the Ra, Ba, and Sr.
+Score: 11.13
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  The solution was loaded into an anion exchange column to separate into different components.
+Score: 8.68
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What are the products of the above reaction?
+Answer:er:  The products of the above reaction are Ra, Ba, and Sr.
+Score: 7.23
+
+
+
+Context: 0.8 0.4 0.2 52.7 25.5 13.1 45.8 73.8 86.5 0.7 0.3 0.2 232Th(p,2p6n)225Ac (Table 1). Thus, the experimentally measured production cross sections are cumulative, and they cannot be accurate, because the production cross sections of the parent 225Th, 225Ra, 229Pa, and 225Ra were not determined sufficiently reliably. Never- theless, these cumulative cross sections allow estima- tion of 225Ac yields in irradiation of targets in different ranges of proton energy. The 225Ac production cross sections that we calcu- lated from γ-ray spectrometric data are plotted in Fig. 4 in comparison with the theoretical values obtained us- ing different models: ALICE (ALICE-IPPE version) and cascade evaporation (СЕF). For the proton ener- gies of 90, 110, and 135 MeV, the experimental cross sections were 6.7 ± 0.9, 9.8 ± 1.9, and 13.9 ± 1.5 mb, respectively. Figure 4 also shows the experimental data obtained previously [14, 15]. Our experimental data lie between the theoretical data calculated by different models and better agree with the previous experimental data reported in [14], rather than in [15]. Figure 5 shows the 225Ac yields that we calculated for a thorium target in relation to its thickness and ini- tial (“inlet”) energy of protons incident on the thick target (the energy of protons leaving the target was taken equal to 40 MeV; below this energy, the 225Ac yield is extremely low). Figure 5 shows the experimen- tal yield curve plotted on the basis of compilation of our data with those reported in [14] (at relatively high energies) and [15] (at lower energies). The yield curve plotted on the basis of theoretical cross section calcula- tions (ALICE-IPPE model) is also given. The values from [15] are in poor agreement with the results of
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: _____________________________________________
+Score: 4.33
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: _____________________________________________
+Score: 82.72
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: _____________________________________________
+Score: 82.72
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 4.97
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈〈
+Score: 2.31
+
+Question: What are the products of the above reaction?
+Answer:er:                                                   
+Score: 2.06
+
+
+
+Context: 2.6 (4.1) 3.1 (4.9) 0.7 (1.3) 0.5 (0.7) 0.2 (0.7) 9.2 (18.4) 8.3 (16.6) 6.1 (12.1) 3.0 (6.0) 2.2 (4.3) theoretical calculations for low proton energies and, apparently, require additional experimental verifica- tion. As can be seen, it is more appropriate to produce 225Ac at proton energies exceeding 100 MeV. On the basis of the available experimental and theo- retical data (Table 2), we calculated the amounts of 225Ac that can be produced in one 10-day irradiation run at various accelerators: in INR, Brookhaven Na- tional Laboratory (USA), Los Alamos National Labo- ratory (USA), TRIUMF (Canada), and Arronax (France). The real beam current attainable at these in- stallations on thorium targets, taking into account the possibilities of their cooling, is given. The proton en- ergy decreases on passing through inlet windows, cool- ing water layer, and target shell, so the energy of pro- tons incident on the target (“inlet” energy) is usually lower by 5–15 MeV than the initial accelerated proton energy. Some installations use multilayer targets for better cooling, and certain energy loss is observed in water gaps between the target layers and in the shells (this loss was taken equal to 10%). The chemical yield was taken equal to 90%. The target was kept after irra- diation for 10 days in the case of 225Ac and 16 days in the case of 223Ra (the best time for accumulation from 227Th). As can be seen, the Ac yield monotonically in- creases with an increase in the proton energy, and effi- cient production is possible by irradiation of a metallic Th target with accelerated protons of the energy ex- ceeding 100 MeV. 227Th production cross sections and 223Ra yields. Theoretical calculations show that the major pathway of 223Ra formation is via α-decay of 227Th (Т1/2 = 18.7 days) produced by the (p,p5n) reaction and via
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: _____________________________________________
+Score: 5.5
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 14.4
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+
+
+Context: Fig. 2. Logarithm of the mother liquor activity as a function of pH of the Ag reduction (precipitation) at HAS/Ag = 2. precipitate and solution depends on the concentration ratio of metal, ammonium, and carbonate ions and molecular ammonia as a complexing agent. For the efficient separation of Ag and Cd, it is necessary to find conditions at which Cd would completely occur in the carbonate precipitate and Ag would occur in the solution the ammine complex. Apparently, the minimal concentration of ammonia should be sufficient for dissolving Ag and Cd nitrates with the formation of the corresponding soluble ammine complexes of Ag and Cd. The maximal concentration of ammonia should be so as to allow no less than 95% precipitation of cadmium carbonate.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: _____________________________________________
+Score: 14.09
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 12.93
+
+
+
+Context:  Fig. 3. Degree of precipitation of cadmium carbonate as a function of the NH4OH concentration at duifferent NH4NO3 concentrations. [NH4NO3], M: (1) 0, (2) 0.3, (3) 0.4, (4) 0.5, and (5) 0.6. Figure 2 shows how pH of the solution influences the degree of reduction (precipitation) of Ag in an am- monia buffer solution at the molar ratio HAS/Ag = 2. As seen from the above data, the best results are ob- tained when the HAS/Ag molar ratio is higher than unity and pH is higher than 6. Under these conditions, the weight fraction of Ag in the mother liquor does not exceed 0.014%.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: _____________________________________________
+Score: 19.41
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:??????
+Score: 69.34
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 10.54
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er:  The acid is hydrochloric acid.
+Score: 10.27
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  The solution is loaded into an anion exchange column to separate into different components.
+Score: 19.49
+
+Question: What are the products of the above reaction?
+Answer:er:  The products of the above reaction are:
+Score: 11.64
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: _____________________________________________
+Score: 36.87
+
+
+
+Context: ISSN 1066-3622, Radiochemistry, 2006, Vol. 48, No. 5, pp. 497(cid:0)500. (cid:0) Pleiades Publishing, Inc., 2006. Original Russian Text (cid:0) I.E. Alekseev, V.V. Lazarev, 2006, published in Radiokhimiya, 2006, Vol. 48, No. 5, pp. 446 (cid:0) 449. (cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0)(cid:0) Cyclotron Production and Radiochemical Isolation of the Therapeutical Radionuclide 186Re I. E. Alekseev and V. V. Lazarev
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: _______________________________________________
+Score: 8.89
+
+Question: What are the products of the above reaction?
+Answer:er:                                                   
+Score: 2.06
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er:  The acid is hydrochloric acid.
+Score: 6.18
+
+Question: What are the products of the above reaction?
+Answer:er:                                                   
+Score: 2.06
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 25.68
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: _______________
+Score: 29.45
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 25.68
+
+
+
+Context: americium into an independent fraction with followed its transmutation in fast neutron reactors [1]. Previously, we proposed a method for separating the actinide–lanthanide fraction from a highly active raﬃ nate during the extraction with TBP in an isoparaﬃ n diluent in the presence of iron nitrate as a salting- out agent [2]. In this case, one of the most important radiochemical problems is the subsequent separation of americium from curium and lanthanides. This separation is necessary for a number of reasons. First, the lanthanides are neutron poisons; some isotopes have a high neutron capture cross section, and their presence in the fuel will inhibit the transmutation of americium [3, 4]. Secondly, the involvement of curium isotopes in a closed nuclear fuel cycle is problematic, since it has a high level of neutron and thermal radiation, which will complicate the manufacture and operation of regenerated homogeneous nuclear fuel or americium targets for its transmutation.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: _____________________________________________
+Score: 71.74
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 49.99
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  The solution is loaded into an anion exchange column to separate into different components.
+Score: 24.73
+
+Question: What are the products of the above reaction?
+Answer:er:                                                   
+Score: 2.06
+
+Question: What are the products of the above reaction?
+Answer:er:                                                   
+Score: 2.06
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 47.2
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 47.2
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: _____________________________________________
+Score: 51.6
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: _______________________________________________
+Score: 45.72
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 47.2
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 79.61
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 79.61
+
+Question: What are the products of the above reaction?
+Answer:er: __________________________________________________________________________
+Score: 109.42
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: іn the above reaction, the solution is loaded into an anion exchange column to separate into different components. The solution is loaded into an anion exchange column to separate into different components. The solution is loaded into an anion exchange column to
+Score: 9.94
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: _____________________________________________
+Score: 26.36
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+
+
+Context: gamma radiation during decay into stable 119Sn, does not interfere with medical use of 117mSn. Therefore, the implementation of the nat,123Sb(p,x)117mSn approach on cyclotrons of the Cyclone 70-type for producing large amounts of 117mSn of medical quality seems especially promising. In [15], we proposed a method for obtaining no-carrier-added 117mSn from a thick target of metallic antimony irradiated with protons. After dissolution of the antimony target, the radiotin was isolated by liquid- liquid extraction (LLE) with dibutyl ether, followed by exhaustive puriﬁ cation on silica gel. The method provides production of up to 3 Ci (100 GBq) 117mSn of high radionuclidic purity with a speciﬁ c activity of about 1000 Ci/g (more than 40 GBq/mg). However, since metallic antimony has low thermal conductivity, low melting point and high vapor pressure, antimony targets cannot withstand prolonged exposure to high-intensity proton currents. In addition, antimony actively interacts with many materials that are usually used for the manufacture of the target shell, which leads to its radiation damage. Instead of metallic antimony, intermetallic compounds, such as TiSb, NiSb, and AlSb, were considered as a target material, of which TiSb turned out to be the most promising [16]. The TiSb properties, unique in many respects, have been studied since the 1950s [17]. The compound combines high stability (the enthalpy of formation is estimated as –167 kJ/mol [18]), and a high melting point of 1160°C with pronounced metallic properties, including high electrical and thermal conductivity. According to our estimate, the value of the latter is twice the thermal conductivity of titanium and antimony taken separately. In the chemical separation of 117mSn from irradiated TiSb, it is necessary to remove not only macro-quantites of antimony, but also macroquantites of titanium. Previously, removal of antimony was studied in [15]. Removal of titanium is diﬃ cult due to the similarity of its chemical behavior with that of tin; in the few studies described in the literature, extraction and chromatographic separation methods are used. Sn(IV) can be extracted with methyl isobutyl ketone from 7 M HCl solutions, while Ti(IV) remains in the aqueous phase [19]. Then, the tin is reextracted with dilute solutions of hydrochloric or sulfuric acid [20]. In analytical practice, tin is also extracted with benzene from HI solutions. The extraction of tin with
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: _____________________________________________
+Score: 9.35
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 17.13
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 12.62
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: _____________________________________________
+Score: 36.87
+
+Question: What are the products of the above reaction?
+Answer:er:                                                   
+Score: 2.06
+
+Question: What are the products of the above reaction?
+Answer:er:                                                   
+Score: 2.06
+
+Question: What are the products of the above reaction?
+Answer:er:                                                   
+Score: 2.06
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: _____________________________________________
+Score: 44.96
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:r: _____________________________________________
+Score: 45.35
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: _____________________________________________
+Score: 58.57
+
+
+
+Context: Dissolution of irradiated TiSb target
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: __________________________________________________
+Score: 39.18
+
+
+
+Context: To conclude, the processes of separation of no-carrier- added 117mSn from the TiSb intermetallic compound irradiated with protons have been investigated. The dissolution of TiSb in the HCl and HNO3 acids with the addition of HNO3 and H2O2 has been studied. It was shown that the presence of titanium in the resulting solutions does not impede the eﬀ ective extraction of most of the antimony with dibutyl ether. For further separation of radiotin from macroquantities of titanium, both chromatography and extraction can be used. Using the chromatography method, we studied the possibility of separating radiotin in the form of [SnCl6]2– from titanium in the form of an oppositely charged complex [TiO (H2O2)]2+ on strong AG 1 × 8 and
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: _____________________________________________
+Score: 20.11
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: _____________________________________________
+Score: 44.96
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: _____________________________________________
+Score: 15.54
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 18.18
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er:  Since they say: 'the 64Ni target was dissolved in 6 M hydrochloride acid', then 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 107.77
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er:  Since they say: 'When the eluted was switched to 1 M HCl', then 1 M HCl must be the acid used in the elution.
+Score: 118.98
+
+Question: What are the products of the above reaction?
+Answer:er:  The products of the above reaction are:
+Score: 10.61
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Chromatography SiO2 1. Sorption 0.5 M Na3Cit pH = 5.5 2. Desorption 6 M HCl Sb, Ti, 121m, 123mTe
+Score: 81.45
+
+Question: What are the products of the above reaction?
+Answer:er:                                                   
+Score: 2.06
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Chromatography SiO2 1. Sorption 0.5 M Na3Cit pH = 5.5 2. Desorption 6 M HCl Sb, Ti, 121m, 123mTe
+Score: 81.45
+
+Question: What are the products of the above reaction?
+Answer:er:  The products are:
+Score: 12.49
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  The solution was loaded into an AG-1 × 8 anion exchanger from a 6 M HCl solution in the presence of H2O2. It was shown that AG-1 × 8 provides higher puriﬁ cation e
+Score: 66.92
+
+
+
+Context:  (Fig. 1). The threshold of the 68Zn((cid:3), p) reaction is 9.99 MeV, and the capture cross section is maximal at 19 MeV. As seen from the (cid:3)-ray spectrometric data, along the targets contain 64Cu, with the desired product which is probably formed by the 66Zn((cid:3), np) reaction (Ethr 19 MeV). At a beam current of 10 (cid:5)A and irradiation time of 10 h, the yield of 67Cu from the 25-g target [a stack of (cid:6)natural(cid:7) zinc discs (12 mm in diameter), total thickness 30 mm] was 9.25 MBq. In the case of enriched 68Zn, the yield of 67Cu can be increased to 0.5 MBq (cid:5)A(cid:2)1 h(cid:2)1; simultaneously, the procedure of radiochemical treatment of the zinc targets becomes simpler. Taking into account rather limited number of high- energy accelerators [LANL; BNL; PSI; National Ac- celerator Centre, NAC; Faure (Republic of South Fig. 1. Accumulation of 67Cu and 64Cu in the course of ir- radiation of the zinc targets with the bremsstrahlung beam from an electron accelerator [12]; (A) activity.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er:  (Fig. 2). The 68Zn((cid:3), p) reaction is a reaction of the form: 68Zn(cid:3), p. The 68Zn(cid:3), p reaction is a
+Score: 23.33
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er:  (Fig. 2). The threshold of the 68Zn((cid:3), p) reaction is 9.99 MeV, and the capture cross section is maximal at 19 MeV. As seen from the (cid:3)-
+Score: 61.17
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er:  (Fig. 2). The threshold of the 68Zn((cid:3), p) reaction is 9.99 MeV, and the capture cross section is maximal at 19 MeV. As seen from the (cid:3)-
+Score: 61.17
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er:  (Fig. 2). The threshold of the 68Zn((cid:3), p) reaction is 9.99 MeV, and the capture cross section is maximal at 19 MeV. As seen from the (cid:3)-
+Score: 61.17
+
+Question: What are the products of the above reaction?
+Answer:er:  (Fig. 2). The 68Zn((cid:3), p) reaction is a reaction of the form: 68Zn(cid:3), p. The 68Zn(cid:3), p is a product
+Score: 24.17
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er:  1 M HCl.
+Score: 93.36
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  The solution is loaded into an anion exchange column to separate into different components.
+Score: 51.13
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er:  1 M HCl is used in the elution.
+Score: 43.85
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: __________________________________________________
+Score: 13.9
+
+
+
+Context: (cid:0)m (cid:4) (cid:4) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:6)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:6)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:6)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:6)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:6)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:6)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) 0.75 Inlet window (cid:4)Ti (foil VT-1-0) (cid:4) 3.38 (cid:4)Te Target (cid:4) Support 8.17 (cid:4)Ta, electron-beam melting(cid:4) (cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:7)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:7)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:7)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:7)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:7)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:7)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2) (cid:4) 12.3/11.55 (cid:4) (cid:4) 11.55/8.17 (cid:4) (cid:4) 8.17/0 (cid:4) 1.98 (cid:4) 109 1.8 (cid:4) 109 7.6 (cid:4) 109 11.2 50.7 122.5 50 250 143 (cid:4) (cid:4) (cid:4) (cid:4) (cid:4) (cid:4)
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: _______________________________________________
+Score: 10.32
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: ____________
+Score: 10.17
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er:  Since they say: 'the 64Ni target was dissolved in 6 M hydrochloride acid', then 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 96.11
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er:  Since they say: 'When the eluted was switched to 1 M HCl', then 1 M HCl must be the acid used in the elution.
+Score: 39.55
+
+
+
+Context: Abstract—Deep puriﬁ cation of the stripped 90Y obtained after the 90Sr/90Y pair extraction separation with D2EHPA from chemical impurities (Cr, Mn, Ni, Pb, Fe, Zr) employing the TODGA-containing sorbent AXIONIT MND 40T was considered. Also, a two-stage sorption separation of the 90Sr/90Y pair without using the extraction method was developed. At the ﬁ rst stage the 90Y was separated from 90Sr with Purolite D5041 phosphate cation exchange resin, and at the second stage, 90Y deep puriﬁ cation was carried out on the AXIONIT MND 40T sorbent. The prepared 90Y in radiochemical purity meets the requirements for radiopharmaceuticals. Keywords: sorption, separation, strontium, yttrium, radiopharmaceutical DOI: 10.1134/S1066362221060102
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: _____________________________________________
+Score: 12.31
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: _____________________________________________
+Score: 37.97
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: _______________________________________________
+Score: 14.5
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 25.29
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 11.0
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er:  The acid used in the above reaction is hydrochloric acid.
+Score: 84.07
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er:  The acid used in the elution is HNO3.
+Score: 130.33
+
+
+
+Context: Abstract—Recovery of lutetium and ytterbium with solutions of 2-ethylhexylphosphonic acid mono-2-ethylhexyl ester in isopar-M and m-nitrobenzotriﬂ uoride (F3), as well as with solutions of bis(2,4,4-trimethylpentyl)phosphinic acid in isopar M was investigated. Using the equilibrium shift method, it was shown that ytterbium and lutetium are recovered by the cation exchange mechanism in the form of the Ln[HA2]3 adduct up to 3 M HNO3, and with a further increase in the concentration of nitric acid in an aqueous solution, the separation mechanism changes to a solvate one. The separation factors β(Lu/Yb) in the studied separation systems are 1.4–1.6. The obtained data can be used for subsequent calculations of the extraction cascade for the separation of lutetium and ytterbium. Mathematical processing of experimental data was carried out to derive separation constants. Keywords: lutetium, ytterbium, liquid extraction, 2-ethylhexylphosphonic acid mono-2-ethylhexyl ester, bis(2,4,4- trimethylpentyl)phosphinic acid, extraction separation, mathematical modeling DOI: 10.1134/S1066362222030067
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: _____________________________________________
+Score: 19.16
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: _____________________________________________
+Score: 23.52
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: ____________
+Score: 35.88
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: ____________
+Score: 23.42
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 21.16
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: _____________________________________________
+Score: 44.96
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: ____________.
+Score: 67.46
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: ____________.
+Score: 19.21
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 11.02
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: ____________________________________________
+Score: 59.09
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: _______________________________________________
+Score: 35.66
+
+Question: What are the products of the above reaction?
+Answer:er: _____________________________________________
+Score: 12.38
+
+
+
+Context: The separation of REE from nitric acid media with solutions of organophosphorus acids can be represented as the reaction equation
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: _____________________________________________
+Score: 72.95
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: ____________________________________________
+Score: 59.09
+
+
+
+Context:  Fig. 1. Eﬀ ect of equilibrium HNO3 concentration on distribution coeﬃ cients of (а) Yb and (b) Lu at extraction with Р507 solution in isopar M. Initial REE concentration 0.2–0.4 g/L. (Point) experiment, (line) calculation. acid molecule. Most authors believe that the extractant is present in the organic phase as a dimer (HA)2 [15], since the dimerization constants of P507 and Cyanex-272 are very high (log K = 20 and 4.2, respectively [16]). In the separation of rare earth elements with P507 solutions in the range of HNO3 concentrations not higher than 4 M, a linear relationship between the logarithms of Yb and Lu distribution coeﬃ cients and the logarithm of the HNO3 concentration is observed with a slope close to –3 (Fig. 1), which allows the reaction equation to be applied: The deviation from the linearity (Fig. 1) at a concentration of 4 M HNO3 and higher may be due to the transition to extraction by the solvate (donor- acceptor) mechanism, which occurs, for example, in the extraction of REE with HDEHP solutions from acidic media [17, 18]. It is assumed that from 1 to 3 extractant molecules take part in the formation of the solvate [19], however, in view of the insigniﬁ cance of this reaction contribution to the overall extraction mechanism and the lack of data at higher HNO3 concentrations, the value of m was taken equal to 1, as in [4].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: ѕhould be the target material in the above reaction.
+Score: 26.18
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: іn the above reaction, the acid is HNO3.
+Score: 22.0
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: ѕhould be a resin/column.
+Score: 29.08
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What are the products of the above reaction?
+Answer:er: ххххххххххххххххххххххххх
+Score: 2.34
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: ____________________________________________________________
+Score: 45.0

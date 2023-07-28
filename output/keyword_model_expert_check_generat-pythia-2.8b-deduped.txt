@@ -1,0 +1,75 @@
+Generated 15 responses in 1124.8 seconds with average perplexity score of (20, 2)
+
+
+Context: Academic Editor: Derek J. McPhee Received: 21 February 2017; Accepted: 11 April 2017; Published: 17 April 2017 Abstract: Copper-64 is a useful radioisotope for positron emission tomography (PET). Due to the wide range of applications, the demand of 64Cu with low metallic impurities is increasing. Here we report a simple method for the efﬁcient production of high speciﬁc activity 64Cu using a cyclotron for biomedical application. We designed new equipment based on the plating of enriched 64Ni as the target, and used automated ion exchange chromatography to purify copper-64 efﬁciently after irradiation and dissolution of the target in good radiochemical and chemical yield and purity. The 64Cu radionuclide produced using 99.32% enriched 64Ni with a density of 61.4 ± 5.0 mg/cm2, reaching a total radioactivity greater than 200 mCi, with speciﬁc activity up to 5.6 GBq/µmoL. It was further incorporated into modiﬁed monoclonal antibody DOTA-rituximab to synthesize 64Cu-DOTA-rituximab, which was used successfully for micro-PET imaging.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 5.2
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 7.32
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 6.42
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 3.53
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 38.41
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 30.03
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 38.41
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 9.88
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 71.75
+
+
+
+Context: 0.8 0.4 0.2 52.7 25.5 13.1 45.8 73.8 86.5 0.7 0.3 0.2 232Th(p,2p6n)225Ac (Table 1). Thus, the experimentally measured production cross sections are cumulative, and they cannot be accurate, because the production cross sections of the parent 225Th, 225Ra, 229Pa, and 225Ra were not determined sufficiently reliably. Never- theless, these cumulative cross sections allow estima- tion of 225Ac yields in irradiation of targets in different ranges of proton energy. The 225Ac production cross sections that we calcu- lated from γ-ray spectrometric data are plotted in Fig. 4 in comparison with the theoretical values obtained us- ing different models: ALICE (ALICE-IPPE version) and cascade evaporation (СЕF). For the proton ener- gies of 90, 110, and 135 MeV, the experimental cross sections were 6.7 ± 0.9, 9.8 ± 1.9, and 13.9 ± 1.5 mb, respectively. Figure 4 also shows the experimental data obtained previously [14, 15]. Our experimental data lie between the theoretical data calculated by different models and better agree with the previous experimental data reported in [14], rather than in [15]. Figure 5 shows the 225Ac yields that we calculated for a thorium target in relation to its thickness and ini- tial (“inlet”) energy of protons incident on the thick target (the energy of protons leaving the target was taken equal to 40 MeV; below this energy, the 225Ac yield is extremely low). Figure 5 shows the experimen- tal yield curve plotted on the basis of compilation of our data with those reported in [14] (at relatively high energies) and [15] (at lower energies). The yield curve plotted on the basis of theoretical cross section calcula- tions (ALICE-IPPE model) is also given. The values from [15] are in poor agreement with the results of
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 5.79
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 8.36
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 60.91
+
+
+
+Context:  Fig. 3. γ-Ray spectra: (a) irradiated thorium target (2 days after irradiation completion), (b) Ac fraction isolated from irradiated Th, and (c) Ra fraction isolated from irradiated Th. Fig. 4. Cumulative production cross sections of 225Ac: (1) experimental data of this study, (2) experimental data of [15], (3) experimental data of [14], (4) theoretical calcula- tion by the cascade evaporation model, and (5) theoretical calculation by the ALICE-IPPE model.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 6.43
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 5.64
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 5.76

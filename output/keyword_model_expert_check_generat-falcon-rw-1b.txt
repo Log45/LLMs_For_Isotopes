@@ -1,0 +1,326 @@
+Generated 74 responses in 523.33 seconds with average perplexity score of (31, 2)
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 6.44
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 40.3
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 40.3
+
+Question: What are the products of the above reaction?
+Answer:рН 5.0.
+Score: 91.72
+
+Question: What are the products of the above reaction?
+Answer:рН 5.0.
+Score: 91.72
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:рН 5.0 is the resin/column.
+Score: 97.05
+
+Question: What are the products of the above reaction?
+Answer:рН 5.0.
+Score: 91.72
+
+Question: What are the products of the above reaction?
+Answer:рН 5.0.
+Score: 91.72
+
+
+
+Context: Table 4. Dynamic separation characteristics of Cf, Eu, Am, Cm Element A Element B Selectivity (separation factor) α
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 3.89
+
+Question: What are the products of the above reaction?
+Answer:__________________________________________
+Score: 4.16
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 76.3
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 9.37
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 26.09
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 34.37
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 34.37
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 34.37
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 10.72
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 37.45
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 37.45
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 29.82
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 20.22
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 7.69
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 58.79
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 8.58
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 32.2
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 32.2
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 14.23
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 32.2
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 11.3
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 32.2
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 32.2
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 32.2
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 32.2
+
+
+
+Context: Fig. 1. Scheme of 225Ac isolation from irradiated thorium target. We believe that the most promising route of pro- duction of 225Ac, 223Ra, and some other important ra- dionuclides is irradiation of natural 232Th targets with medium-energy protons, followed by product isolation. In the early 1960s, Lefort et al. experimentally meas- ured the production cross sections of 225Ac and 223Ra from 232Th at a proton energy of 150 MeV [14], and Gauvin measured the 225Ac production cross sections at proton energies in the range 43–115 MeV [15]. Also, 232Th was irradiated with the aim of 225Ac pro- duction with 660-MeV protons at an accelerator in Dubna [16] and with 600-MeV protons at an accelera- tor in CERN [17]. The possibility of producing 225Ac from thorium by its irradiation with protons of the en- ergy lower than 40 MeV was noted recently [18], but no experimental data confirming this assumption were presented. On the whole, only limited information is available on optimization of production of various ra- dionuclides from a thorium target and on radiochemi- cal procedures for isolation of 225Ac and 223Ra from irradiated Th and on their purification to remove other radionuclides. Up to now, 225Ac and 223Ra were not actually produced by this procedure. The major goal of this study was measuring the 225Ac and 223Ra production cross sections in reactions of Th with 90–135-MeV protons with the aim to opti- mize the conditions for production of large amounts of these radionuclides on the proton beam of the Moscow Meson Factory [Institute for Nuclear Research (INR), Russian Academy of Sciences, Troitsk]. In the course of our study, we developed efficient radiochemical procedures for isolating Ac and Ra in the radiochemi- cally pure state. It can be expected that wide use of 225Ac and 223Ra in medicine will allow in the future cardinal solution of the problem of treating many tu- mor diseases. Th irradiation. In irradiation experiments we used 10 × 10 mm2 pieces of 5-μm-thick Th metal foil. The foils were irradiated with a beam of accelerated pro- tons of energy 128, 143, and 158 MeV at the linear accelerator of the Institute for Nuclear Research, Rus- sian Academy of Sciences [19], at a beam current of approximately 5 μA. In the course of irradiation, tho- rium foils wrapped in aluminum foil were intensely cooled with a water flow. To decrease the proton en- ergy to 90, 110, and 135 MeV, graphite absorbers were arranged before the target. The accuracy in the proton energy determination was approximately ±2.5 MeV. The uncertainty was determined by the accelerator pa- rameters and by proton scattering as a result of their absorption by graphite and cooling water. The proton flux was monitored with Al and Cu foils by production of 22Na and 62Zn, respectively, whose production cross sections are known [20]. The foils after irradiation were withdrawn and sub- jected to γ-ray spectrometric analysis using a spec- trometer equipped with a HPGe detector with a beryl- lium window (Canberra GR 3818). 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chroma-
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 27.07
+
+Question: What are the products of the above reaction?
+Answer:__________________________________________
+Score: 1.47
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 33.98
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 7.09
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 6.24
+
+
+
+Context: 2.6 (4.1) 3.1 (4.9) 0.7 (1.3) 0.5 (0.7) 0.2 (0.7) 9.2 (18.4) 8.3 (16.6) 6.1 (12.1) 3.0 (6.0) 2.2 (4.3) theoretical calculations for low proton energies and, apparently, require additional experimental verifica- tion. As can be seen, it is more appropriate to produce 225Ac at proton energies exceeding 100 MeV. On the basis of the available experimental and theo- retical data (Table 2), we calculated the amounts of 225Ac that can be produced in one 10-day irradiation run at various accelerators: in INR, Brookhaven Na- tional Laboratory (USA), Los Alamos National Labo- ratory (USA), TRIUMF (Canada), and Arronax (France). The real beam current attainable at these in- stallations on thorium targets, taking into account the possibilities of their cooling, is given. The proton en- ergy decreases on passing through inlet windows, cool- ing water layer, and target shell, so the energy of pro- tons incident on the target (“inlet” energy) is usually lower by 5–15 MeV than the initial accelerated proton energy. Some installations use multilayer targets for better cooling, and certain energy loss is observed in water gaps between the target layers and in the shells (this loss was taken equal to 10%). The chemical yield was taken equal to 90%. The target was kept after irra- diation for 10 days in the case of 225Ac and 16 days in the case of 223Ra (the best time for accumulation from 227Th). As can be seen, the Ac yield monotonically in- creases with an increase in the proton energy, and effi- cient production is possible by irradiation of a metallic Th target with accelerated protons of the energy ex- ceeding 100 MeV. 227Th production cross sections and 223Ra yields. Theoretical calculations show that the major pathway of 223Ra formation is via α-decay of 227Th (Т1/2 = 18.7 days) produced by the (p,p5n) reaction and via
+ 
+
+Question: What is the target material in the above reaction?
+Answer:становится на программу в программу в программу в �
+Score: 2.88
+
+Question: What are the products of the above reaction?
+Answer:становить как в процессе после подготовки на про
+Score: 2.73
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 33.98
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 7.43
+
+
+
+Context: Fig. 9. Temperature dependence of the release of Ra and some other elements from a melt of Th with La (stepwise heating of the same sample at successively increasing tem- peratures, for 1 h at each temperature): (1) 223Ra, (2) 140Ba, (3) 136Cs, (4) 22Na, (5) 7Be, and (6) 131I. Fig. 10. Thermochromatogram of radioelements in a tita- nium column, sublimed in a helium stream from Th dis- solved in La. Other elements: Th, Ac, Pa, La, Pm, Ce, Nd, Cr, Zr, Mo, Nb, Tc, Te, Sn, and Sb. Cs, I, and Br, 350 ± 50; and that of Cd, 220 ± 30°С. Apparently, Ra, Ba, Sr, Be, Cs, and Cd are transported along the thermochromatographic column in the ele- mentary state, whereas I and Br form compounds with Ti. As can be seen, by depositing the sublimed ele- ments on the Ti collector in the temperature range 1100–600°С (the range is refined depending on the isolation conditions), it is possible to obtain a fraction of Ra containing only Ва and Sr impurities. The subsequent extraction-chromatographic purifi- cation of this fraction allows us to obtain a fraction of pure Ra containing 223Ra with impurities of 225Ra and 224Ra (Fig. 3c). Thus, we have developed an efficient procedure for isolating 225Ac and 223Ra from metallic Th irradiated with medium-energy accelerated protons. The proce- dure involves liquid extraction and extraction chroma-
+ 
+
+Question: What is the target material in the above reaction?
+Answer:статья на сайте последние предложения на поставку
+Score: 2.34
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:статья на сайте последние предложения
+Score: 5.83
+
+Question: What acid is used in the elution during the above reaction?
+Answer:статья на сайте последние предложения
+Score: 4.67
+
+Question: What are the products of the above reaction?
+Answer:такие приведенные приведенные приведенные приведен
+Score: 1.74
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 4.56
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 6.4
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 3.77
+
+
+
+Context: Fig. 5. Elution profile of 99mTc from column (1) 0.46, (2) 0.6 and (3) 1.1 cm i.d., packed with 1 g of ZSM, with 10 mL of 0.9% NaCl solution at a flow rate of 1 mL min–1 and room temperature (~25°C). Fig. 6. Elution profile of 99mTc from columns (1.1 cm i.d.) containing (1) 1, (2) 3, and (3) 6 g of ZSM with 10 mL of 0.9% NaCl solution at a flow rate of 1 mL min–1 and room temperature (~25°C). Fig. 7. Elution profile of 99mTc from a column (0.6 cm i.d.) containing 1 g of ZSM with 10 mL of 0.9% NaCl solution at flow rates of (1) 0.5, (2) 1, and (3) 2 mL min–1 and room temperature (~25°C). creasing amount of the matrix from 1 to 3 g but is shifted to larger eluate volumes (4 mL) with increasing amount of the matrix from 3 to 6 g. About 89.9, 77.3, and 48% of the generated 99mTc activity was eluted
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 17.76
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 15.4
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 25.31
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 33.98
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 40.11
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 40.11
+
+
+
+Context: Abstract—Various methods have been developed for the extraction of a promising medical radionuclide 117mSn from proton-irradiated TiSb intermetallic compound, a target material suitable for irradiation with an intense beam of accelerated protons. To separate radiotin from Ti, Sb, and radionuclides of other elements, methods of ion- exchange chromatography and liquid extraction were used, in particular, the anion-exchange separation of tin and titanium in the form of a peroxide complex in HCl solution, extraction of tin with benzene from iodide solutions, and chromatographic puriﬁ cation on silica gel from citrate solutions. As a result, 117mSn of high purity, which meets the requirements for nuclear medicine, was obtained. Keywords: 117mSn, TiSb intermetallic compound, proton irradiation, separation of radiotin and titanium, ion exchange, extraction. DOI: 10.1134/S1066362221060114 In recent decades, the therapy of oncological and other human diseases with the use of radiopharmaceuticals (RP) has developed signiﬁ cantly. More than 80% of cancer patients suﬀ er from bone metastases [1]. Interstitial radionuclide therapy using RP based on radionuclides releasing electrons is one of the eﬀ ective methods of treating patients with widespread bone metastases. RP based on the 117mSn radionuclide (in particular, 117mSn4+DTPA) [2–5] have a number of advantages over other drugs. The decay of the metastable radionuclide 117mSn is accompanied by the release of monoenergetic conversion electrons (127, 129, and 152 keV) with a short and discrete range of 0.2–0.3 mm in biological tissue. Soft radiation leads to a local eﬀ ect on tumor cells without damaging healthy tissues. The γ-radiation (159 keV) during the decay of 117mSn may be used to control the therapeutic eﬀ ect (theranostics). Clinical trials of drugs 117mSn4+DTPA for the relief of bone pain, 117mSn4+DOTA-annexin for the treatment of cardiovascular diseases, and the 117mSn colloid for the relief of pain in osteoarthritis and rheumatoid arthritis are being successfully carried out [1, 6]. Until recently, 117mSn was produced mainly from the reactions of stable tin isotopes, 116Sn(n,γ)117mSn or 117Sn(n,n’γ)117mSn, with neutrons. In this case, the speciﬁ c activity of 117mSn did not exceed 740 GBq/g (20 Ci/g) [2, 7]. The presence of stable tin seriously limits the possibilities of medical application of the reactor-produced 117mSn. A product with a high speciﬁ c activity can be obtained via reactions with accelerated charged particles, of which two approaches are the most promising and demonstrate comparable production rates of 117mSn: nat,121,123Sb(p,x)117mSn [8, 9] and 116Cd(α,3n)117mSn [10,11]. Nowadays, powerful and compact cyclotrons of the Cyclone 70-type, developed and manufactured by the IBA Company (Belgium), are becoming more widespread, capable of accelerating proton beams with an intensity of more than 300 μA to an energy of 70 MeV. Such cyclotrons are successfully applied for large-scale production of radioisotopes, mainly for medical purposes [12, 13]. On the basis of experimentally determined cross sections, it was shown [14] that the 117mSn radionuclide can be produced by proton irradiation of an antimony target with an initial energy of 145 MeV and below. Irradiation of natural antimony or antimony enriched with 123Sb with the proton energy 55 or 70 MeV, respectively, leads to the formation of 117mSn, which contains a trace amount of the undesirable long-lived radioisotope 113Sn. The presence of another long-lived radioisotope 119mSn (Т1/2 = 293 days), as impurity, which releases soft
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 22.94
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 20.88
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 20.53
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 22.33
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 19.24
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 32.2
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:Context: The target material was dissolved in 6 M hydrochloride acid, and then the solution was load to an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling.
+Score: 30.99
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:Context: The above reaction is a reaction of a metal with a metal ion. The metal ion is a metal cation. The metal cation is a metal anion. The metal anion is a metal cation. The metal cation
+Score: 4.5
+
+Question: What acid is used in the elution during the above reaction?
+Answer:Context: The elution of the eluted solution was carried out with a 1 M HCl solution. The eluted solution was then washed with a 6 M HCl solution. The eluted solution was then dried and evaporated to dryness
+Score: 7.37
+
+Question: What are the products of the above reaction?
+Answer: (Fig. 2). The threshold of the 68Zn((cid:3), p) reaction is 9.99 MeV, and the capture cross section is maximal at 19 MeV. As seen from the (cid:3)-
+Score: 39.96
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 15.11
+
+Question: What are the products of the above reaction?
+Answer: Fig. 4. Cross section of the target assembly of the COSTIS system: (1) fitting for connecting the target assembly to the derived beam of the IBA Cyclone 18/9 accelerator, (2) graphite insert in the coll
+Score: 46.7
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 3.7
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 104.24
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 63.12
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 63.12
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 63.12
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 63.12
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 63.12
