@@ -466,5 +466,12 @@ def main():
                 continue
 
 
+def test():
+    context = get_context("pdf")
+    model = "facebook/galactica-6.7b"
+    print(f"Model: {model} generating with {str(filter)[10:str(filter).index(' at')]} filter with {len(context)*len(questions)} potential generations.")
+    write_to_file(model, context, output_name=f"{str(filter)[10:str(filter).index(' at')]}-{model[model.index('/')+1:]}", filter=filter)
+
 if __name__ == "__main__":
-    main()
+    # main()
+    test()
