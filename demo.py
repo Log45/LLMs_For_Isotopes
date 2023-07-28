@@ -469,6 +469,7 @@ def main():
 def test():
     context = get_context("pdf")
     model = "facebook/galactica-6.7b"
+    filter = keyword_model_expert_check_generate
     print(f"Model: {model} generating with {str(filter)[10:str(filter).index(' at')]} filter with {len(context)*len(questions)} potential generations.")
     write_to_file(model, context, output_name=f"{str(filter)[10:str(filter).index(' at')]}-{model[model.index('/')+1:]}", filter=filter)
 
