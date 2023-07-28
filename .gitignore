@@ -1,3 +1,4 @@
 *.pyc
 pythia-1.4b-deduped/
 __pycache__/
+pythia-2.8b-deduped/
