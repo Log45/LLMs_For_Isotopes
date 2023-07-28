@@ -93,15 +93,16 @@ def load_model(model_name: str):
     if "galactica" in model_name:
         tokenizer = AutoTokenizer.from_pretrained(model_name)
         if "6.7b" in model_name or "7b" in model_name or "30b" in model_name or "120b" in model_name:
-            model = OPTForCausalLM.from_pretrained(model_name, device_map="auto", load_in_8bit=True)
+            model = OPTForCausalLM.from_pretrained(model_name, device_map="auto", pad_token_id=tokenizer.eos_token_id, load_in_8bit=True)
         else:
-            model = OPTForCausalLM.from_pretrained(model_name, device_map="auto").to(device)
+            model = OPTForCausalLM.from_pretrained(model_name, device_map="auto", pad_token_id=tokenizer.eos_token_id).to(device)
     elif "pythia" in model_name:
         if "6.7b" in model_name or "7b" in model_name or "30b" in model_name or "120b" in model_name:
             model = GPTNeoXForCausalLM.from_pretrained(
                     model_name,
                     revision="step3000",
                     cache_dir=f"./{model_name[model_name.index('/')+1:]}/step3000",
+                    pad_token_id=tokenizer.eos_token_id,
                     load_in_8bit=True
                     )
         else:
@@ -109,6 +110,7 @@ def load_model(model_name: str):
                     model_name,
                     revision="step3000",
                     cache_dir=f"./{model_name[model_name.index('/')+1:]}/step3000",
+                    pad_token_id=tokenizer.eos_token_id,
                     ).to(device)
         tokenizer = AutoTokenizer.from_pretrained(
                 model_name,
@@ -117,15 +119,15 @@ def load_model(model_name: str):
                     )
     elif "bloom" in model_name:
         if "6.7b" in model_name or "7b" in model_name or "30b" in model_name or "120b" in model_name:
-            model = BloomForCausalLM.from_pretrained(model_name, load_in_8bit=True)
+            model = BloomForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id, load_in_8bit=True)
         else:
-            model = BloomForCausalLM.from_pretrained(model_name).to(device)
+            model = BloomForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id,).to(device)
             tokenizer = BloomTokenizerFast.from_pretrained(model_name)
     else:
         if "6.7b" in model_name or "7b" in model_name or "30b" in model_name or "120b" in model_name:
-            model = AutoModelForCausalLM.from_pretrained(model_name)
+            model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id,)
         else:
-            model = AutoModelForCausalLM.from_pretrained(model_name).to(device)
+            model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id,).to(device)
         tokenizer = AutoTokenizer.from_pretrained(model_name)  
 
     load_time = time.perf_counter()-lt1
@@ -380,11 +382,14 @@ def keyword_model_expert_check_generate(model_name: str, contexts: list):
                     print(f"Time to check answer: {check_time}")
 
                     confirm = gen[len(check):]
-                    print(confirm)
+                    # print(confirm)
                     answer_questions_dict[answer] = q
                     if "yes" in confirm or "Yes" in confirm:
-                        generations.append(generation)
-                        answers.append(answer)
+                        if "no" in confirm or "No" in confirm:
+                            pass
+                        else:
+                            generations.append(generation)
+                            answers.append(answer)
     t = time.perf_counter() - t1
     print(f"{len(answers)} generations in {t} seconds.")
     return generations, answers, t
