@@ -149,7 +149,7 @@ def generate(model, tokenizer, input: str, max_new_tokens=50):
     device = "cuda" if torch.cuda.is_available() else "cpu"
     input_ids = tokenizer(input, return_tensors="pt").input_ids.to(device)
 
-    outputs = model.generate(input_ids, max_new_tokens=max_new_tokens)
+    outputs = model.generate(input_ids, max_new_tokens=max_new_tokens, pad_token_id=tokenizer.eos_token_id)
     output = tokenizer.decode(outputs[0])
     return output
 
@@ -199,7 +199,7 @@ def default_generate(model_name: str, contexts: list):
             input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
             generation = generate(model, tokenizer, input)
             answer = generation[len(input):]
-            print(f"Answer: {answer} \n")
+            # print(f"Answer: {answer} \n")
             answer_questions_dict[answer] = q
             generations.append(generation)
             answers.append(answer)
@@ -236,7 +236,7 @@ def keyword_filter_generate(model_name: str, contexts: list):
                 input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
                 generation = generate(model, tokenizer, input)
                 answer = generation[len(input):]
-                print(f"Answer: {answer} \n")
+                # print(f"Answer: {answer} \n")
                 answer_questions_dict[answer] = q
                 generations.append(generation)
                 answers.append(answer)
@@ -276,7 +276,7 @@ def model_filter_generate(model_name: str, contexts: list):
                 input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
                 generation = generate(model, tokenizer, input)
                 answer = generation[len(input):]
-                print(f"Answer: {answer} \n")
+                # print(f"Answer: {answer} \n")
                 answer_questions_dict[answer] = q
                 generations.append(generation)
                 answers.append(answer)
@@ -420,7 +420,7 @@ def write_to_file(model_name: str, context: list, output_name = "keyword_model_e
     print(f"Time to calculate average perplexity: {avg_time}")
 
 
-    k = f"Generated {len(_gen)} responses in {_time} seconds with average perplexity score of {round(avg_score), 2}"
+    k = f"Generated {len(_gen)} responses in {_time} seconds with average perplexity score of {round(avg_score, 2)}"
     for i in range(len(_gen)):
         ans_idx = _gen[i].index('Answer:')
         gen = _gen[i][ans_idx:]
@@ -459,10 +459,10 @@ def main():
     for model in models:
         for filter in filters:
             try:
-                print(f"Model: {model} generating with {str(filter)[10:str(filter).index(' at')-1]} filter with {len(context)} potential generations.")
-                write_to_file(model, context, output_name=f"{str(filter)[10:str(filter).index(' at')-1]}-{model[model.index('/')+1:]}", filter=filter)
+                print(f"Model: {model} generating with {str(filter)[10:str(filter).index(' at')]} filter with {len(context)*len(questions)} potential generations.")
+                write_to_file(model, context, output_name=f"{str(filter)[10:str(filter).index(' at')]}-{model[model.index('/')+1:]}", filter=filter)
             except:
-                print(f"Error encountered running {model} with {str(filter)[10: str(filter).index(' at')-1]} filter.")
+                print(f"Error encountered running {model} with {str(filter)[10: str(filter).index(' at')]} filter.")
                 continue
 
 
