@@ -1,0 +1,906 @@
+Generated 199 responses in 8727.18 seconds with average perplexity score of 23.65
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'The solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 39.72
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:nswer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.03
+
+Question: What acid is used in the elution during the above reaction?
+Answer:nswer: 1 M HCl is the acid used in the elution.
+Score: 10.77
+
+
+
+Context: We determined the distribution ratios for each extraction system. The highest distribution ratio D is reached in the HBF4–TAPO system: 1.5 at low acid concentrations. High distribution ratio D is an advantage in commercial separation of boron isotopes, because at one extraction step the larger fraction of the substance is extracted, and thus the amount of the enriched product obtained increases.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:: 64Ni, or Nickel-64, must be the target.
+Score: 23.58
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:: 6M hydrochloric acid must be the acid used to dissolve the target.
+Score: 23.2
+
+Question: What are the products of the above reaction?
+Answer:r: 64Cu is the product.
+Score: 8.54
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer: Answer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.92
+
+Question: What acid is used in the elution during the above reaction?
+Answer: Answer: 1 M HCl is the acid used in the elution.
+Score: 19.39
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 38.5
+
+Question: What are the products of the above reaction?
+Answer:wer: 64Cu is the product.
+Score: 6.16
+
+
+
+Context: Variation of the extractants infl uences the isotope separation not so strongly as the kind of the extractable substance does. The isotope separation factors in the HBF4-TBP and HBF4–TAPO systems are close and coincide within the uncertainty. The kind of the extractant infl uences to a greater extent the degree of extraction of the acid from the aqueous phase into the organic phase than the isotope eff ects. Studies of extraction isotherms have shown that the HBF4–TAPO system gives the highest distribution ratio despite the 0.0 0.5 1.0 1.5 2.0 2.5 3.0 n* aq ((cid:572)), mM Fig. 1. Isotherms of boric acid extraction with TBP and TAPO. (1) Extraction of H3BO3 with 0.5 M TAPO in o-xylene, (2) Extraction of H3BO3 with 1.5 M TBP in o-xylene. The extraction mechanism in each system was determined from the shape of the extraction isotherm. In the H3BO3∙C4H6O6–TBP, H3BO3∙C4H6O6–TAPO, and HBF4–TBP systems, the substance distribution is mainly physical. In the HBF4–TAPO system, the extraction occurs by the chemical mechanism with the chemical interaction between HBF4 and TAPO. The chemical interaction between the system components is 1 2
+ 
+
+Question: What is the target material in the above reaction?
+Answer:wer: 64Ni, or Nickel-64, must be the target.
+Score: 15.83
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:wer: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 11.99
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 73.5
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 29.62
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:swer: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 53.34
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:swer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 40.5
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 38.41
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer: Answer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.75
+
+
+
+Context:  components can be enhanced. The chelating reagent α-hydroxyisobutyric acid (α-HIBA) and its salts (main- ly ammonium) are used in ion-exchange processes of intra- and intergroup separation of REE and TPE radio- nuclides of [5–17]. Cation exchange methods are used to separate REE and TPE radionuclides by elution with solutions containing α-HIBA and its salts. Strongly acidic styrene–divinylbenzene sulfonic cation exchange resins, such as Dowex 50W-X8, Bio-Rad AG 50W-X8, and a number of their other analogues, are utilized as sorbents [6, 10, 12–16]. As a rule, in the technique used [5, 6, 9–12], trivalent actinides are fi rst adsorbed from a dilute (<0.5 M) HNO3 solution on a cation exchange + form, resin. Then the sorbent is converted into the NH4 and the actinides are eluted with a chelating reagent (α-HIBA). It was noted in [8, 14] that, without prelimi- nary conversion of the cation exchange resin to the am- monium form by eluating with an α-HIBA ammonium salt solution, the released H+ ions have a strong inhibi- tory eff ect on poorly sorbed elements, such as Cf. Anion exchange chromatography using a strongly basic anionite Bio-Rad AG X8 was chosen as a method for purifying Am, Cm from Pu impurities. According to the literature data, Pu(IV) sorption on strongly basic anion exchange resins is possible from nitric acid and hydrochloric acid media [18–20]. In nitric acid media, Pu(IV) can be sorbed starting from 1 M HNO3, 2– therewith the maximum concentration of the Pu(NO3)6 anion is reached at 7.7 M HNO3 [18]. Sorption of Pu on anion exchange resins is also possible from high concentration HCl solutions. The distribution coeffi cient of Pu(IV) increases monotonically with a rise in the HCl concentration and, starting from a 9 M concentration, exceeds 1 × 103 [19]. Under these conditions, Am(III) and Cm(III) are not retained by the sorbent. This work was aimed at developing regimes for the purifi cation of Cm and Am from Fe and Pu impurities, as well as developing the regimes for the separation of Am and Cm and their purifi cation from Cf and Eu by ion exchange chromatography.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:Answer: 64Ni, or Nickel-64, must be the target.
+Score: 6.58
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:Answer: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 11.24
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:Answer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 26.81
+
+Question: What acid is used in the elution during the above reaction?
+Answer:Answer: 1 M HCl is the acid used in the elution.
+Score: 8.84
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 34.16
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is the acid used in the elution.
+Score: 48.56
+
+Question: What are the products of the above reaction?
+Answer:wer: 64Cu, 64Zn, 64Ni, 64Co, 64Mn, 64Cu, 64Zn, 64Ni, 64Co, 64Mn, 
+Score: 2.71
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 35.03
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:r: 6M hydrochloric acid must be the acid used to dissolve the target.
+Score: 26.5
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'cation exchange chromatography with Bio-Rad AG 50W-X8 cation exchange resin (200– + form was chosen as a method for 400 mesh) in the NH4 separating Am and Cm, as
+Score: 28.61
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.11
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.47
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 36.38
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:wer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.55
+
+Question: What acid is used in the elution during the above reaction?
+Answer:wer: 1 M HCl is the acid used in the elution.
+Score: 11.35
+
+Question: What are the products of the above reaction?
+Answer:swer: 248Cm and 241Am are products of the above reaction.
+Score: 13.75
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 35.59
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.11
+
+Question: What are the products of the above reaction?
+Answer:r: 203Pb, 203Bi, 203Po, 203At, 203Rn, 203Fr, 203Ra, 203Ac, 20
+Score: 2.57
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:: 1 M HNO3 is the acid used to dissolve the target.
+Score: 8.55
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:: 30% w/v HCl is the acid used to dissolve the target.
+Score: 26.77
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'The solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.22
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 33.06
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.41
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 13.2
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.41
+
+Question: What are the products of the above reaction?
+Answer:er: 228Ra and 228Ac are the products.
+Score: 7.85
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:wer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 33.06
+
+Question: What acid is used in the elution during the above reaction?
+Answer:wer: 1 M HCl is the acid used in the elution.
+Score: 9.73
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 36.16
+
+Question: What are the products of the above reaction?
+Answer:er: 125I-atorvastatin, which is a radiolabeled compound, and free radioiodide, which is a by-product.
+Score: 13.83
+
+Question: What are the products of the above reaction?
+Answer:y.
+Score: 16.17
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.66
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloric acid must be the acid used to dissolve the target.
+Score: 12.62
+
+Question: What are the products of the above reaction?
+Answer:wer: 64Cu is the product.
+Score: 13.15
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:r: 6M hydrochloric acid is the acid used to dissolve the target.
+Score: 12.38
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 37.22
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu is the product.
+Score: 8.57
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:: 6M hydrochloric acid is the acid used to dissolve the target.
+Score: 14.41
+
+
+
+Context: Abstract—The results of destructive radiochemical and elemental analysis of samples of experimental mixed nitride uranium-plutonium (MNUP) fuel irradiated in the BN-600 reactor are presented. Data on the nuclide composition and weight content of U, Pu, Am, Cm, Nd were obtained, the specifi c activity of 14C, 3H, 106Ru, the weight content of Zr, Mo, Pd, Rh in solution and in the undissolved residue of MNUP SNF were determined. The burn-up depth of MNUP fuel is calculated from the ratio of the number of fi ssion product atoms, burn-up monitor, to the number of heavy atoms. The total accumulation of 145Nd and 146Nd isotopes, as well as 148Nd, was used as burn-up monitor. Keywords: mixed nitride uranium-plutonium irradiated nuclear fuel, destructive radiochemical analysis, α-spectrometry, γ-spectrometry, liquid scintillation spectrometry, mass spectrometry, isotope dilution, atomic emission spectrometry, ion exchange, extraction chromatography DOI: 10.1134/S1066362222010064
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 8.55
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 14.22
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is the acid used in the elution.
+Score: 9.51
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:nswer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.03
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:Answer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 26.25
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 38.19
+
+Question: What are the products of the above reaction?
+Answer:wer: 64Cu, which is a radioactive isotope of copper, is the product.
+Score: 29.28
+
+
+
+Context:  be 8.2 × 103 Bq, and the 129I specifi c activity will be 41 Bq/mL. For radiochemical studies of SNF samples, a hundredfold dilution of the initial solution is utilizsed. We failed to determine the 129I content in a dilute solution against the background of other SNF components. For detecting iodine, it is necessary to develop special procedures for its isolation from a SNF sample. The results of determining the isotopic composition and weight content of the nuclides U, Pu, Nd, Am, Cm in the MNUP SNF are given in Table 4. In parentheses are the values of the total absolute error in units of the last digits of the result for a confi dence level of 0.95. When fi ltering the MNUP SNF solution through a double cellulose fi lter, a light gray coating was observed on the upper fi lter. The sediment weight could not be fi xed, since the initial weight of the cellulose fi lter turned out to be greater than the weight of the fi lter with sediment. This experimental fact is probably associated with the destruction of cellulose under the action of α- and γ-emitting nuclides. According to the data of [19–21], the sediment weight upon uranium oxide SNF dissolution in nitric acid is no more than 0.6% of the dissolved fuel weight. It was found in [22] that, upon dissolution of irradiated mixed-oxide fuel with a burn- up of 31.7 to 54.7 GW/t in 3 HNO3 at 95°С, the the undissolved sediment weight does not exceed 1.3% of the SNF weight. When studying the dissolution of model nitride SNF [23], the volumes of 7.8 and 9.44 M HNO3 required for dissolution were calculated based on the nal concentration of metals in the solution: 280 and fi 400 g/L, respectively. It is shown that the weight of the undissolved residue is 1.8 and 2.26%, respectively. The results of detecting the content of Mo, Pd, Rh, Zr in the solution and the undissolved residue of the MNUP fuel irradiated in the BN-600 reactor as part of KETVS-1 are presented in Table 5. The presence of Mo, Pd, Rh, Zr was registered only on the upper cellulose fi lter; there were no these elements on the lower fi lter. The content of these elements in the solution obtained after the dissolution of the upper fi lter was equivalent to their content in the undissolved residue of MNUP SNF. The total weight of Mo, Pd, Rh, Zr in the undissolved residue of MNUP SNF irradiated in the BN-600 reactor as part of KETVS-1 was 0.0019 g, which is 0.07% of the dissolved SNF weight. The results of determining the uranium and plutonium content in the undissolved residue of the MNUP fuel irradiated in the BN-600 reactor as part of KETVS-1 are presented in Table 6. The data in Table 6 indicate that the U and Pu contents in the upper and lower fi lters are comparable. The close values of these quantities evidence that most of the U and Pu we found in solutions after the dissolution of the lters were sorbed by cellulose. fi The excess of the U content in the upper fi lter compared to the lower fi lter may indicate the presence of undissolved uranium-containing compounds. The weight of undissolved U estimated from the diff erence between the U weight on the upper and lower fi lters, is 2.5 mg, or 0.09% of the total uranium content in the analyzed SNF sample.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:chemistry.
+Score: 7.74
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.11
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.41
+
+
+
+Context:  Figure 12. Excitation functions for the production of cobalt-58 from (α,n) reaction (a) and cobalt-57 (b) on manganese- 55 [29,30,32,35,78–84]. In addition to charged particle-induced reactions, several alternative and less prag- matic routes to cobalt-58m can be contemplated, e.g., quasi-monoenergetic neutron or triton irradiations. Quasi-monoenergetic neutrons can be produced via 2H(d,n)3He re- action on hydrogen-2 gas targets. The neutrons bombard nickel or cobalt induce the 58Ni(n,p)58mCo and 59Co(n,2n)58mCo reactions [29,75]. Tritons can be generated via the 6Li(n,α)3H reaction within a nuclear reactor with an energy of 2.736 MeV. These ions go on to bombard [56Fe]Fe2O3 targets to produce cobalt-58m,g via the 56Fe(t,n)58mCo reaction route [76,85]. These alternative reactions currently rely on rare accelerator infrastructure or on significantly increased scale in terms of beam intensities. Overall, while the high cross section of 55Mn(α,n)58mCo makes it appealing, the 58Fe(p,n)58mCo and 57Fe(d,n)58mCo reactions are more practical for widespread use due to the accessibility of protons and deuterons in global accelerator installations. These are the only reactions whose literature descriptions include thick target yield measurements obtained in conjunction with radiochemical separations and radiolabeling efforts. A com- parison of the experimentally determined thick target yields and theoretical yields are shown in Figures 13–16. Figure 13. Thick target yield comparison between theoretical data and experimentally collected data for iron-54 targets at (a) 8.2 MeV and (b) 12 MeV [26,86,87].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:r: 55Mn, or Manganese-55, is the target.
+Score: 39.41
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 33.44
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 43.38
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.16
+
+
+
+Context: While not widely used for radiochemistry, early studies showed that cobalt can be separated from iron 3+ and nickel 2+ with the use of inorganic and organic absorbents [94]. Many of the inorganic separations were using alumina, a polar column chromatography absorbent [96]. The organic separations from iron 2+ and nickel 2+ rely on columns of 8-hydroxyquinoline, naphthaquinoline, and cupferron mixed with potato starch or dimethylglyoxime compound columns, as reported by Bate and Leddicotte, [94]. 5. Applications of Cobalt-55,58m 5.1. Free Cobalt-55 Free cobalt in the form of cobalt 2+ has been found to behave in the body similarly to calcium 2+ [97]. This has been found to be especially useful in tissues damaged by ischemia as these tissues contain high levels of intracellular calcium [98]. [55Co]CoCl2 PET has been used to image areas of the brain affected by ischemic stroke, showing that [55Co]CoCl2 uptake is inversely correlated to relative cerebral blood flow (rCBF) [99]. Additionally,
+ 
+
+Question: What is the target material in the above reaction?
+Answer:r: [55Co]CoCl2 is produced by the 55Mn(p,n)55Co reaction.
+Score: 7.04
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:r: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 15.67
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: [55Co]CoCl2 is loaded into a cation exchange column.
+Score: 13.17
+
+Question: What acid is used in the elution during the above reaction?
+Answer:r: 1 M HCl is the acid used in the elution.
+Score: 8.29
+
+Question: What are the products of the above reaction?
+Answer:er: [55Co]CoCl2, [55Co]CoCl3, [55Co]CoCl4, [55Co]CoCl2O, [55Co]CoCl2O
+Score: 3.14
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:nswer: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 14.95
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:nswer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.03
+
+Question: What are the products of the above reaction?
+Answer:Answer: [57Co]Co-DOTATOC, [58mCo]Co-DOTATOC, and [55Co]Co-DOTATOC.
+Score: 5.08
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:nswer: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 14.95
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:nswer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.03
+
+
+
+Context: Folate receptors (FR) are expressed on the surface of cells and reduce extracellular folic acid derivatives, delivering them across the cell membrane [119]. Their overexpression by many cancers makes them interesting pharmacological targets [119,120]. Radford et al. 55Co-labeled two folate receptor-targeting constructs, cm10 (DOTA tagged) and rf42
+ 
+
+Question: What is the target material in the above reaction?
+Answer:: 55Co, or Cobalt-55, must be the target.
+Score: 11.01
+
+Question: What acid is used in the elution during the above reaction?
+Answer:: 1 M HCl is the acid used in the elution.
+Score: 17.38
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 36.94
+
+Question: What are the products of the above reaction?
+Answer:r: 26. Valdovinos, H.F.; Hernandez, R.; Graves, S.; Ellison, P.A.; Barnhart, T.E.; Theuer, C.P.; Engle,
+Score: 16.23
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:wer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 37.31
+
+Question: What are the products of the above reaction?
+Answer:swer: 92. VOSBURGH, G.J.; FLEXNER, L.B.; COWIE, D.B. The determination of radioactive iron in biological material with particular reference to purification and separation of iron with isopropyl
+Score: 28.27
+
+Question: What acid is used in the elution during the above reaction?
+Answer:: 1 M HCl is the acid used in the elution.
+Score: 22.72
+
+Question: What are the products of the above reaction?
+Answer:r: 225Ac, 223Ra, and 221Fr.
+Score: 7.64
+
+
+
+Context: Irradiated metallic Th target Dissolution in conc. HNO3, evaporation to dryness Dissolution of resi- due in 3–8 M HNO3 Removal: RNG isotopes Liquid extraction: TOPO or TBP in toluene Organic phase: Th, Pa, major fraction of Zr, I, Nb Aqueous phase: 225Ac, 223Ra, 105Ru, 136Cs, REE isotopes, etc. Evaporation to dry- ness in conc. HClO4
+ 
+
+Question: What is the target material in the above reaction?
+Answer:: 225Ac, 223Ra, 105Ru, 136Cs, REE isotopes, etc.
+Score: 22.53
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:: 7 M HNO3 is the acid used to wash off the elements from the surface of the titanium foil-collector.
+Score: 23.12
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.11
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 13.99
+
+Question: What acid is used in the elution during the above reaction?
+Answer:: 1 M HCl is the acid used in the elution.
+Score: 13.56
+
+Question: What are the products of the above reaction?
+Answer:r: 225Ac is a product of the above reaction.
+Score: 14.87
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to a titanium thermochromatographic column to separate into different components', and a 'titanium thermochromatographic column' is a resin/column, then a titanium thermochromatographic column must be the resin
+Score: 23.95
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.11
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 18.94
+
+Question: What are the products of the above reaction?
+Answer:r: 225Ac and 223Ra are the products.
+Score: 7.93
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.16
+
+
+
+Context:  Cadmium-109 is used for fabricating reference ion- izing radiation sources. It can be produced by neutron irradiation of silver. In irradiation of the starting material with >98% enrichment for 6 months in the SM reactor with ther- mal neutrons at a flux density of 1 × 1015 n cm–2 s–1, the total yield of all the Cd isotopes is about 50% rela- tive to the initial silver weight; the specific activity of 109Cd is 4–4.2 Ci g–1. The production of the desired radionuclide is accompanied by the production of a significant amount of 110mAg. The subsequent radio- chemical processing of the irradiated sample is per- formed to remove 110mAg from 109Cd, obtain the re- quired chemical form of the product, and regenerate expensive 107Ag for the repeated irradiation. The 110mAg/109Cd activity ratio in the final product should not exceed 3 × 10–4%. Extensive experimental data are available on the separation of Ag and Cd by ion exchange, extraction, and selective precipitation of Ag [1, 2]. The over- whelming majority of methods are methods of analyti- cal chemistry, unsuitable for operation with gram amounts of Ag and Cd in hot cells under the conditions of remote control. Only the precipitation methods based on precipitation of poorly soluble silver halides or of Ag metal after the silver reduction are an excep- tion. We believe that the precipitation of Ag metal, which is a compact readily settling powder that can be readily washed, is the easiest in implementation. This method was used for isolation and purification of 109Cd [3]; silver was precipitated from 0.1–2 M HNO3 in the presence of NaNO3 on SKN carbon sorbent. At equal initial activity of 109Cd and 110mAg, the Cd/Ag separa- tion factor was approximately 500–800. Final purifica- tion of Cd to remove Ag was performed by isotope dilution of Ag, followed by the AgCl precipitation. In contrast to [3], in numerous procedures for re- covering Ag from wastes the reduction, as a rule, is performed in weakly alkaline or ammonia solutions, because specifically in these media it is most complete [4]. This study was aimed at developing a procedure for Cd purification to remove Ag in one process cycle by reduction and precipitation of Ag from ammonia solutions, followed by the Cd concentration in the form convenient for the subsequent preparation of the 109Cd product (hydrochloric acid solution with preset HCl concentration). We chose as reductant hydroxylamine sulfate (HAS), which does not react with Cd. The precipitated Ag metal is the ready starting product for fabricating targets. Then, Cd is precipitated from the mother liquor in the form of basic cadmium carbonate, which is then readily dissolved in hydrochloric acid. In this study, we determined the conditions for the most complete reduction of Ag and precipitation of basic cadmium carbonate from ammonia solutions.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:: 109Ag is the target material.
+Score: 5.83
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.11
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.11
+
+Question: What acid is used in the elution during the above reaction?
+Answer:: 1 M HCl is the acid used in the elution.
+Score: 9.64
+
+Question: What are the products of the above reaction?
+Answer:r: (1) [Ag(NH3)2]+, (2) Ag(NH3)2NO3, (3) Ag(NH3)2NO3, (4) Ag(NH3)2
+Score: 2.85
+
+Question: What acid is used in the elution during the above reaction?
+Answer:: 1 M HCl is the acid used in the elution.
+Score: 8.12
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.03
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.11
+
+Question: What are the products of the above reaction?
+Answer:r: 64Cu, 64Zn, 64Ni, 64Co, 64Mn, 64Fe, 64Cr, 64V, 64Ti, 64Cu, 
+Score: 3.1
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.11
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.11
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.39
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.11
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.11
+
+Question: What are the products of the above reaction?
+Answer:r: 99mTc is a product of the above reaction.
+Score: 9.58
+
+
+
+Context: Elution of 99mTc. Figure 5 shows how the internal diameter of the column and the amount of the matrix influence the 99mTc elution profile. As can be seen, large size of the bed matrix is the major factor influ- encing the 99mTc elution performance. The position of the maximum elution is displaced to higher eluate vol- umes with increasing inside diameter of the column (0.46, 0.6, and 1.1 cm i.d.), i.e., with decreasing height of the zirconium selenomolybdate bed. About 97, 86.2, and 69.9% of the eluted 99mTc radioactivity was eluted with the first 3 mL. The elution yield was found to be 83.3, 81.7, and 76.8% for 0.46, 0.6, and 1.1 cm inside diameter, respectively. The elution profiles of 99mTc from the 1.1 cm i.d. column containing different amounts of the molybdate matrix (1, 3, and 6 g) are shown in Fig. 6. As can be seen, the position of the maximum elution remains unchanged (3 mL) with in-
+ 
+
+Question: What is the target material in the above reaction?
+Answer:: 99mTc is produced by the 99Mo(p,n)99mTc reaction.
+Score: 13.78
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.66
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.11
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.11
+
+Question: What are the products of the above reaction?
+Answer:r: 186Re, 186W, 186ReO3, 186Re2O7, 186ReO4, 186ReO5, 186ReO
+Score: 3.47
+
+Question: What acid is used in the elution during the above reaction?
+Answer:wer: 1 M HCl is the acid used in the elution.
+Score: 8.91
+
+
+
+Context: The well-known problem of separating Am, Cm, and lanthanides is caused by the similarity in their chemical properties [5, 6]. TPE and lanthanides are 5f- and 4f-elements, respectively, they are characterized by the fi lling of internal f-orbitals with increasing atomic number, which has little eff ect on the chemical properties that depend mainly on processes in the outer electron shells. In view of this fact, these elements predominantly exist in aqueous solutions in the oxidation state(III). The ionic radii of these cations are also comparable. Americium and curium ions have isostructural analogs in the lanthanide series: r(Nd3+) ≈ r(Am3+), r(Sm3+) ≈ r(Cm3+). Thus, it is diffi cult to separate trivalent Am and Cm from lanthanides by adjusting only the size of the coordination sphere of organic ligands. There are several approaches to the separation of Am from Cm and lanthanides, and most of them are based on extraction methods [7, 8]. The key diff erence between these cations is that americium can be oxidized to higher oxidation states Am(V,VI), which changes its extraction behavior [9, 10]. Previously, in our works [11, 12], it was shown that, generating Am(VI) in weakly acidic solutions makes it possible to extract Cm(III) from their mixture using the extractants 1-phenyl-3-methyl- 4-benzoylpyrosolone-5 and trioctylphosphine oxide, while Am(VI), being reduced by the organic phase to Am(V), remains in the aqueous solution. At the same time, the use of these extractants in industrial conditions is challenging. For this reason, it was proposed [13] to use TBP as a reliable and well-tested extractant in the technology to solve the problem of separating Am from Cm. For example, curium was extracted almost quantitatively from solutions containing ≤0.1 M HNO3 and ~8 M NH4NO3 using 30% TBP in Isopar-M, while americium was only partially (≤30%) transferred to the organic phase in the Am(III) form. In this case, a high degree of separation of Cm from Am(V) remaining in the aqueous phase was attained (≥99.9%). At the moment, only a few other works [14–16] are known on the use of TBP as an extractant for separating Am from other transuranium elements or lanthanides. For example, in [14, 16], it was proposed to extract Am(VI) directly from nitric acid solutions without adding a salting-out agent. Reaching high distribution coeffi cients can be performed by adjusting the solution acidity. At the initial stage, a decrease in acidity is provided for the effi cient oxidation of Am(III) to Am(VI), then its increase it to 1 M relative to HNO3. The separation factor for the Am–Nd pair was about 50; therewith separation of the Am–Np pair did not occur. In [15], it was proposed to use dihydrogen phosphate to bind Nd into a more stable complex compared to Am(VI), which allowed to reach a separation factor of about 120. This work is aimed at studying the extraction of Am in higher oxidation states in weakly acidic solutions— simulants of the actinide–lanthanide fraction of a highly active raffi nate, containing americium and curium isotopes and weight amounts of lanthanides (with praseodymium as an example)—using TBP and in the presence of ammonium nitrate as a salting-out agent, not forming insoluble salts with actinides and fi ssion products, including lanthanides.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:ry.
+Score: 7.27
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:ry.
+Score: 10.32
+
+
+
+Context: Figure 1 shows the spectrum (1) of an initial 0.1 M HNO3 solution containing trivalent Am, Cm, and Pr with the concentrations given in Table 1 as well as spectrum (2) of the same solution after the quantitative oxidation of Am(III) to Am(VI) according to the procedure described in the experimental part. As can be seen from Fig. 1, the presence in the solution of an almost 100-fold excess of Pr compared to Am (10.5 and 0.13 g/L, respectively) does not aff ect the Am(III) oxidation. We preliminarily studied the extraction of Am(VI) and trivalent Cm and Pr from 0.1 M HNO3 in the pres- ence of 8 M NH4NO3 with 30% TBP in Isopar-M (Table 1). It can be seen from the data in Table 1 that both trivalent Cm and Pr and Am(VI) are extracted to a high degree (up to 95 wt %) under the conditions of the study. The distribution coeffi cients (D) of Am(VI), Cm(III), and Pr(III) per an extraction were about 2.5, 3.6, and 1.8, respectively. DAm(VI) = 2.5 correlates with the data of [21], where the maximum distribution co- effi cient was achieved at 4 M HNO3 and the minimum phase contact time, and, however, it was slightly lower than in [16], where 100% TBP was used for extraction. Spectrophotometric method was applied to prove that agent by heating the solution at 90°C for 20 min according to the procedure described in [11]. The effi ciency of this method is usually limited by nitric acid concentrations of no more than 0.5 M [18]. At higher acid concentrations, ammonium persulfate decomposes to form hydrogen peroxide, an eff ective reducing agent 2+ [19]. However, this eff ect, apparently, can be for AmO2 leveled by increasing the concentration of the oxidizing agent to 1.6 M [14], which enabled oxidation of Am(III) to Am(VI) in 1 M HNO3 by 90 ± 5%. A solution containing Am(V) was obtained by adding 1 μL of a 37% H2O2 solution to 1 mL of an Am(VI) solution in 0.1 M HNO3 previously prepared as described above. The authors of [20] report the possibility of direct preparation of Am(V) in 0.1 M HNO3 by heating to 80–100°C and an ammonium persulfate concentration of 1 M. The completeness of Am(III) oxidation to Am(VI) and its subsequent reduction to Am(V), their behavior during extraction, as well as the concentration of Pr(III) in the solution were monitored by a spectrophotometric method (Unicam UV-300, Unicam Instruments, UK) according to absorption bands at 503 and 814 nm for Am(III), 513 and 717 nm for Am(V), 666 and 996 nm for Am(VI), and 445 and 592 nm for Pr. In extraction experiments, a 30% TBP solution in Isopar-M was used, which was preliminarily contacted for 5 min with an equal volume of a 0.1 M HNO3 solution containing 0.2 M (NH4)2S2O8. Before extraction, a weighed portion of NH4NO3 was introduced into the resulting solutions containing Am(VI) or Am(V), as well as trivalent Cm and Pr, to achieve its concentration in the solution of 8 M, as in [13]. Extraction of actinides and Pr was carried out for 1 min at a ratio of aqueous (A) and organic (O) phases of 1 : 5. As we determined earlier [13], 1 min is enough to set thermodynamic equilibrium at the distribution of Am(III) and Cm between a nitric acid solution containing NH- 4NO3 as a salting-out agent and 30% TBP in isopar-M. The phases were brought into contact with each other by shaking the tubes by hand for 1 min. The phases were then centrifuged to separate them for about 1 min at 2000 rpm. After the phases were separated and analyzed. The total concentration of Am and Cm in the used solutions was found by alpha spectrometry (Alpha Analyst, Canberra, USA).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:.
+Score: 7.23
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:.
+Score: 14.75
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:.
+Score: 27.67
+
+Question: What acid is used in the elution during the above reaction?
+Answer:.
+Score: 7.61
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.16
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.98
+
+
+
+Context: 1. OECD-NEA Potential Benefi ts and Impacts of Advanced Nuclear Fuel Cycles with Actinide Partitioning and Transmutation; Nuclear Energy Agency (NEA), Paris: OECD, 2011. The extraction of Am(V) and trivalent Cm and Pr from 0.1 M HNO3 in the presence of 8 M NH4NO3 with 30% TBP in Isopar-M was studied. It was preliminarily confi rmed that the addition of the salting-out agent NH4NO3 to the solution does not lead to a change in the oxidation state of Am(V) (Fig. 2). Experiments were conducted in which the Pr content was 1.05 or 10.5 g/L at a constant content of Am(V) and Cm; extraction was performed at a ratio of A : O = 1 : 5. Data of Table 2 show that diff erent Pr content does not lead to a change in the degree of extraction of Am(V) in a one-stage extraction. The distribution coeffi cient of Am(V) is found to be about 0.1; americium is extracted in organic phase by no more than 30% of its content in the initial solution, which is consistent with the data of [13]. At the same time, the distribution coeffi cients of Pr and Cm are found to be very close, about 1 (Table 2), and the degree of their extraction is 80–85% per extraction cycle. It was noted that the separation factor SFCm/Am is found to be signifi cantly lower than in [13], when it was possible to extract Cm almost completely in organic phase (SFCm/Am was 65). Obviously, this can be explained by the eff ect of more than a hundredfold amount of Pr present in the solution relative to the initial Am content. It should also be taken into account that the concentrations of Am and Cm in the initial solution were several orders of magnitude higher (0.13 and 1.38 × 10–4, respectively) than in [13]. At the same time, it was shown that the separation fac- tor can be increased by using a three-stage extraction at a volume ratio of A : O = 1 : 1, as it was demonstrated for Pr in the absence of TPE (Table 3). In this case, the degree of its extraction reached 98%, even though the total volume of the extractant was 1.6 times less than in the case of one-stage extraction with the ratio A : O = 1 : 5.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:.
+Score: 7.23
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:.
+Score: 14.75
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:.
+Score: 27.67
+
+Question: What are the products of the above reaction?
+Answer:y.
+Score: 3.62
+
+
+
+Context:  4π, with an error not exceeding 10%. The concentration of 2,3-dihydroxynaphthalene in the aqueous phase was determined on a Shimadzu UV-2600 UV spectrometer by absorbance at 237 nm. Aqueous media with diff erent pH and constant ionic strength were prepared by mix- ing solutions of 1 M NaHCO3 and 1 M NaOH. The pH values of the solutions were determined using a Hanna Instruments HI-8314 pH meter with an I-1330B micro- electrode. The distribution coeffi cients (D), separation factors (SF), and the degree of extraction (E, %) were calculated using Eqs. (1)–(3)
+ 
+
+Question: What is the target material in the above reaction?
+Answer:wer: 2,3-Dihydroxynaphthalene, or 2,3-DHN, is the target.
+Score: 18.19
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:wer: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 36.5
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:wer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 39.56
+
+Question: What acid is used in the elution during the above reaction?
+Answer:wer: 1 M HCl is the acid used in the elution.
+Score: 21.38
+
+Question: What are the products of the above reaction?
+Answer:swer: 2,3-dihydroxynaphthalene and 2,3-dihydroxynaphthalene-6,7-quinone.
+Score: 7.77
+
+
+
+Context:  Model experiments with natural samples were conducted as follows. A sample of building sand was homogenized, sifted through a sieve and dried in an oven. After that, a sample of sand weighing 1 g was taken. A solution of stable yttrium nitrate was added to the sample in such an amount that its concentration in the fi nal sample was 30 mg/L, everything was thoroughly mixed and dried in an oven, after which 3 g of Na2CO3 and K2CO3 were added to the sample. The resulting mixture was calcined in a muffl e for 1 h at 500°C. After cooling the mixture to room temperature, the sample was placed in a polypropylene test tube, 50 mL of the leaching agent solution was added to the sample (5 leaching agents were tested in total—H2O/H2O2 (3 : 2), NaHCO3/H2O2, NH4HCO3/H2O2, and (NH4)2CO3/H2O2, (NH4)2CO3). For 2 h, a sample of sand was contacted at stirring with the aqueous phase to transfer yttrium carbonate into the aqueous phase. Then the aqueous phase was separated and sent for extraction with a mixture of 0.01 M 2.3DHN + 0.015 M MTOAC in toluene at a volume ratio of the organic and aqueous phases O : A = 1 : 1 and a contact time of 10 min. Afterwards, the phases were separated by centrifugation. Yttrium was stripped from the organic phase with a 0.05 M HNO3 solution at O : A = 5 : 1, after which the nitric acid aqueous solution was separated by centrifugation. The content of stable yttrium was measured therein by the spectrophotometric method. A soil sample (500 g), taken in a forest belt on the territory of the Leningrad Region, was homogenized, sifted through a sieve and mixed with a radioactive label containing a 90Y/90Sr pair being in radioactive equilibrium with a total activity of 530 Bq (the specifi c activity of the soil was about 1 Bq/g ). A soil sample labelled with 90Y/90Sr was dried in an oven, after which a sample (2 g) was taken. Solutions of stable yttrium and strontium nitrates in the molar ratio Y : Sr = 10 : 1 were added to the sample, everything was thoroughly stirred and dried in an oven; then 10 g of Na2CO3 and K2CO3 were added to the sample. The resulting mixture was calcined in a muffl e for 1 h at a temperature of 300°С, and then for another 4 h at a temperature of 550°С. After the mixture was cooled to room temperature, the sample was placed in a polypropylene test tube, and 50 mL of distilled water was added. The sample was contacted for 2 h at stirring with water to transfer yttrium carbonate into the aqueous phase. Then the aqueous phase was
+ 
+
+Question: What is the target material in the above reaction?
+Answer:Answer: 90Y/90Sr, or Yttrium-90/Strontium-90, must be the target.
+Score: 10.92
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:Answer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 31.23
+
+Question: What acid is used in the elution during the above reaction?
+Answer:Answer: 0.05 M HNO3 is the acid used in the elution.
+Score: 10.02
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:swer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 36.59
+
+Question: What are the products of the above reaction?
+Answer:nswer: 2,3-dihydroxybenzoic acid (2,3DHB), 1,2-dihydroxybenzene (1,2DHB), 2,3-dihydroxy-1,4-naphthoquinone (2,
+Score: 2.93
+
+
+
+Context: Recovery of 90Y and its separation from 90Sr are eff ectively carried out in carbonate media using synergistic extraction mixtures of aromatic dihydroxy compounds with methyltrioctylammonium carbonate. In the presence of MTOAC, the distribution coeffi cients of both the extractant itself and its solvate with yttrium increase. In alkaline carbonate media with pH 12–13.5, mixtures of 0.01 M 2,3-dihydroxynaphthalene and 0.015 M MTOAC in toluene and butyl acetate extract yttrium with distribution coeffi cients of more than 80 and 90Y/90Sr separation factors of more than 105. Yttrium is easily stripped with dilute inorganic acids. Leaching of yttrium from sand samples showed that ammonium carbonate with the addition of hydrogen HNO3 HCl H2 SO4 1 2 3 4 Cycles
+ 
+
+Question: What is the target material in the above reaction?
+Answer:nswer: 90Y is a radioisotope of yttrium, which is a chemical element with atomic number 39.
+Score: 13.12
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:nswer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 37.66
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:swer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 36.59
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer: Answer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 26.66
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:wer: 10 M HCl is the acid used to dissolve the target.
+Score: 8.3
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:wer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.55
+
+
+
+Context:  For the chromatographic purifi cation of radiotin from titanium, we prepared 10 mL of model solutions containing Ti, Sb, H2O2, 6 M HCl, and a label (113Sn, 124Sb, 121mTe, 123mTe, and 114mIn). The content of Ti varied from 1.5 to 30 g/L, the Sb content varied from (2–5)×10–3 g/L, a value corresponding to the addition of the 124Sb label, to 14.4 g/L, the H2O2 : Ti molar ratio was from 1 : 1 to 1.5 : 1. The label was obtained from an irradiated antimony target. The sorption and desorption of tin was performed under dynamic conditions by passing the solution through a column (d = 0.6 cm) with a sorbent layer 6 cm high. Two anion-exchange resins were used as sorbents: Dowex 1 × 8 and AG 1 × 8. Before fi lling the column, the sorbents were kept in 6 M HCl for 12 h. First, 10 mL of the initial solution was passed through the fi lled column at a rate of 0.8 mL/min and then 40–50 mL of a 6 M HCl washing solution passed. For desorption of radiotin, 1–4 M HNO3 solutions were used. Model solutions used for extraction have a total acidity of 6.6 M and a volume of 30 mL and contain 4.66 М HClO4, 1 M H2SO4, Ti (20 g/L), Sb in the form of antimony chloride with a concentration from (2– 5)×10–3 to 1 g/L, and 0.2–1 М KI. Also, (113Sn, 124Sb, 121mTe, 123mTe, and 114mIn) produced from the irradiated antimony target was added to the model solution as label. To prepare a model solution, a weighed portion of KI was preliminarily dissolved in a minor amount of water and added, with vigorous stirring, to a mixture of HClO4 and H2SO4 acids. Iodine was formed, and the larger the weight of KI sample, the darker the solution. However, even at low KI concentrations, when the solution was light yellow, a precipitate formed, presumably HIO. The solution was left for a day to reach equilibrium. Then, it was fi ltered, and the label and stable titanium and antimony were added, and after that, the extraction was performed. The prepared solution was stored for no more than a week. As the organic phase, we used benzene previously saturated with a solution of 4.66 М HClO4 +
+ 
+
+Question: What is the target material in the above reaction?
+Answer:wer: 64Ni, or Nickel-64, must be the target.
+Score: 51.19
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:wer: 'The solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 35.94
+
+Question: What acid is used in the elution during the above reaction?
+Answer:wer: 4.66 М HClO4 + 1 M H2SO4
+Score: 11.78
+
+Question: What are the products of the above reaction?
+Answer:swer: 113Sn, 124Sb, 121mTe, 123mTe, and 114mIn.
+Score: 18.5
+
+
+
+Context: and titanium in the working solution was 60 and 24 g/L, respectively. Most of the antimony was removed from the solution by extraction with dibutyl ether (three stages of extraction with dibutyl ether, previously saturated with 10 M HCl [15]). One portion of the aqueous phase was purifi ed from titanium by chromatography on anion exchangers, and the other, by extraction with benzene from iodide solu- tions using the optimal conditions found in model experi- ments. The fi nal purifi cation of radiotin on silica gel from citrate solutions was performed, as described in [15].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:wer: 64Ni, or Nickel-64, must be the target.
+Score: 23.34
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:nswer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 38.25
+
+Question: What acid is used in the elution during the above reaction?
+Answer:nswer: 1 M HCl is the acid used in the elution.
+Score: 12.79
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 31.36
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:Answer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 26.81
+
+Question: What acid is used in the elution during the above reaction?
+Answer:: 1 M HCl is the acid used in the elution.
+Score: 9.23
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.28
+
+Question: What acid is used in the elution during the above reaction?
+Answer:: 1 M HCl is the acid used in the elution.
+Score: 10.0
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.11
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.28
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.75
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 33.56
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 38.34
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 31.47
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.16
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:: 6M hydrochloric acid must be the acid used to dissolve the target.
+Score: 65.62
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.98
+
+Question: What acid is used in the elution during the above reaction?
+Answer:: 1 M HCl is the acid used in the elution.
+Score: 62.34
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 13.99
+
+Question: What are the products of the above reaction?
+Answer:r: 64Cu is a product of the above reaction.
+Score: 6.7
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 37.75
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:wer: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 13.78
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:r: 6M hydrochloric acid is the acid used to dissolve the target.
+Score: 29.69
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.41
+
+Question: What acid is used in the elution during the above reaction?
+Answer:r: 1 M HCl is the acid used in the elution.
+Score: 6.07
+
+
+
+Context: Sorption purifi cation of stripped 90Y. In the extraction separation of the 90Sr/90Y pair using D2EHPA, the stripped 90Y is obtained containing 5 M nitric acid, trace amounts of 90Sr, and chemical impurities, mainly corrosion products of structural materials. Table 1 shows the composition of the model solution simulating the stripped 90Y. The experiments were carried out under dynamic conditions employing a TODGA-containing TVEX of AXIONIT MND 40T grade (“Axion–Rare and Precious Metals” JSC, Russia). A styrene–
+ 
+
+Question: What is the target material in the above reaction?
+Answer:r: 90Y, or Yttrium-90, is the target.
+Score: 10.52
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'The solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 49.53
+
+Question: What acid is used in the elution during the above reaction?
+Answer:r: 5 M nitric acid is the acid used in the elution.
+Score: 10.84
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:Answer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 26.81
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:nswer: 6M hydrochloric acid must be the acid used to dissolve the target.
+Score: 11.13
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:wer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.55
+
+
+
+Context:  The studies carried out made it possible to develop a sorption method for deep purifi cation of nitric acid 90Y desorbate after extraction separation of a pair of 90Sr/90Y with D2EHPA from 90Sr and chemical impurities, corrosion products of equipment. The method consists in the features of 90Y sorption by a TOGDA-based solid extractant—AXIONIT MND 40T sorbent. In HNO3
+ 
+
+Question: What is the target material in the above reaction?
+Answer:r: 90Y is the target.
+Score: 35.19
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:r: 6M hydrochloric acid must be the acid used to dissolve the target.
+Score: 63.59
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'The solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 40.91
+
+Question: What acid is used in the elution during the above reaction?
+Answer:r: 1 M HCl is the acid used in the elution.
+Score: 10.12
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:y.
+Score: 32.34
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.11
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.47
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 37.38
+
+Question: What are the products of the above reaction?
+Answer:r: (1) [141]Pr, (2) [142]Pr, (3) [143]Pr, (4) [144]Pr, (5
+Score: 2.6
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 30.62
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:swer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 41.47
+
+Question: What acid is used in the elution during the above reaction?
+Answer:swer: 1 M HNO3 is the acid used in the elution.
+Score: 23.39
+
+
+
+Context: With increasing the acid concentration in the aqueous phase above 3 M, the REE extraction brings about an increase in the distribution coeffi cients, which can be due to a gradual transition to the solvate mechanism of extraction. At the same time, with an increase in the concentration of Cyanex-272, the slope of the ascending section of the function of the distribution coeffi cient vs. the HNO3 concentration diminishes (Fig. 6), which can be described by Eqs. (5) and (9) derived from Eq. (1) at m = 1 and n = 2:
+ 
+
+Question: What is the target material in the above reaction?
+Answer:swer: 64Ni, or Nickel-64, must be the target.
+Score: 24.47
+
+Question: What acid is used in the elution during the above reaction?
+Answer:swer: 1 M HCl is the acid used in the elution.
+Score: 12.82
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.03
