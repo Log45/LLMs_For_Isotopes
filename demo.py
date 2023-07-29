@@ -15,7 +15,7 @@ import time
 import torch
 from html_parser import html_to_context
 from pdf_parser import pdf_to_context
-from transformers import AutoTokenizer, OPTForCausalLM, AutoModelForCausalLM, BloomForCausalLM, BloomTokenizerFast, GPTNeoXForCausalLM
+from transformers import AutoTokenizer, OPTForCausalLM, AutoModelForCausalLM, BloomForCausalLM, BloomTokenizerFast, GPTNeoXForCausalLM, LlamaTokenizer
 
 keywords = {"separation", "Separation", "isolation", "Isolation", "chromatography", "Chromatography", "ion exchange", "ion Exchange", "Ion Exchange", "Ion exchange",
             "eluted", "Eluted", "elution", "Elution", "elute", "Elute", "fraction", "Fraction", "resin", "Resin", "exchange", "Exchange", "acid", "Acid", "target", "Target"}
@@ -125,7 +125,7 @@ def load_model(model_name: str):
             tokenizer = BloomTokenizerFast.from_pretrained(model_name)
     else:
         if "6.7b" in model_name or "7b" in model_name or "30b" in model_name or "120b" in model_name:
-            model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id,)
+            model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id, load_in_8bit=True)
         else:
             model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id,).to(device)
         tokenizer = AutoTokenizer.from_pretrained(model_name)  
