@@ -92,12 +92,12 @@ def load_model(model_name: str):
     lt1 = time.perf_counter()
     if "galactica" in model_name:
         tokenizer = AutoTokenizer.from_pretrained(model_name)
-        if "6.7b" in model_name or "7b" in model_name or "30b" in model_name or "120b" in model_name:
+        if "6.7b" in model_name or "7b" in model_name or "13b" in model_name or "30b" in model_name or "120b" in model_name:
             model = OPTForCausalLM.from_pretrained(model_name, device_map="auto", pad_token_id=tokenizer.eos_token_id, load_in_8bit=True)
         else:
             model = OPTForCausalLM.from_pretrained(model_name, device_map="auto", pad_token_id=tokenizer.eos_token_id).to(device)
     elif "pythia" in model_name:
-        if "6.7b" in model_name or "7b" in model_name or "30b" in model_name or "120b" in model_name:
+        if "6.7b" in model_name or "7b" in model_name or "13b" in model_name or "30b" in model_name or "120b" in model_name:
             model = GPTNeoXForCausalLM.from_pretrained(
                     model_name,
                     revision="step3000",
@@ -118,13 +118,13 @@ def load_model(model_name: str):
                 cache_dir=f"./{model_name[model_name.index('/')+1:]}/step3000",
                     )
     elif "bloom" in model_name:
-        if "6.7b" in model_name or "7b" in model_name or "30b" in model_name or "120b" in model_name:
+        if "6.7b" in model_name or "7b" in model_name or "13b" in model_name or "30b" in model_name or "120b" in model_name:
             model = BloomForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id, load_in_8bit=True)
         else:
             model = BloomForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id,).to(device)
             tokenizer = BloomTokenizerFast.from_pretrained(model_name)
     else:
-        if "6.7b" in model_name or "7b" in model_name or "30b" in model_name or "120b" in model_name:
+        if "6.7b" in model_name or "7b" in model_name or "13b" in model_name or "30b" in model_name or "120b" in model_name:
             model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id, load_in_8bit=True)
         else:
             model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id,).to(device)
@@ -472,11 +472,22 @@ def main():
 
 
 def test():
-    context = get_context("pdf")
-    model = "facebook/galactica-6.7b"
-    filter = keyword_model_expert_check_generate
-    print(f"Model: {model} generating with {str(filter)[10:str(filter).index(' at')]} filter with {len(context)*len(questions)} potential generations.")
-    write_to_file(model, context, output_name=f"{str(filter)[10:str(filter).index(' at')]}-{model[model.index('/')+1:]}", filter=filter)
+
+    parser = "html"
+    context = get_context(parser)
+
+    relevant_models = {"facebook/galactica-6.7b", "facebook/galactica-1.3b", "facebook/opt-6.7b", "facebook/opt-2.7b", "meta-llama/Llama-2-13b-hf", "meta-llama/Llama-2-7b-hf"}
+    filters = {keyword_model_expert_check_generate, keyword_model_generate, keyword_filter_generate}
+    
+    for model in relevant_models:
+        for filter in filters:
+            try:
+                print(f"Model: {model} generating with {str(filter)[10:str(filter).index(' at')]} filter with {len(context)*len(questions)} potential generations.")
+                write_to_file(model, context, output_name=f"{str(filter)[10:str(filter).index(' at')]}-{model[model.index('/')+1:]}-{parser}", filter=filter)
+            except:
+                print(f"Error encountered running {model} with {str(filter)[10: str(filter).index(' at')]} filter.")
+                continue
+
 
 if __name__ == "__main__":
     # main()
