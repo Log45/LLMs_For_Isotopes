@@ -55,12 +55,12 @@ def extract_context(html_file_name):
     t = ""
     paragraphs = []
     for tag in S.find_all(class_ = 'html-p'):
-        #print(tag)
-        #print(tag.get("html-p"))
-        t += tag.get_text().strip()
+        p = ""
+        p += tag.get_text().strip()
         # look into .text, .item alternatives strip away formatting
-        t = t.strip().replace("\n", "")
-        paragraphs.append(t)
+        p = p.strip().replace("\n", "")
+        t += p
+        paragraphs.append(p)
     
     with open(f"data/html_text/{html_file_name[:-5]}.txt" if ".html" in html_file_name else f"data/html_text/{html_file_name}.txt", 
                     "w", encoding="utf-8") as f:

@@ -125,9 +125,9 @@ def load_model(model_name: str):
             tokenizer = BloomTokenizerFast.from_pretrained(model_name)
     else:
         if "6.7b" in model_name or "7b" in model_name or "13b" in model_name or "30b" in model_name or "120b" in model_name:
-            model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id, load_in_8bit=True)
+            model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id, trust_remote_code=True, load_in_8bit=True)
         else:
-            model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id,).to(device)
+            model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id, trust_remote_code=True).to(device)
         tokenizer = AutoTokenizer.from_pretrained(model_name)  
 
     load_time = time.perf_counter()-lt1
