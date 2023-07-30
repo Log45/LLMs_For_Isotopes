@@ -97,6 +97,11 @@ def load_model(model_name: str):
         else:
             model = OPTForCausalLM.from_pretrained(model_name, device_map="auto", pad_token_id=tokenizer.eos_token_id).to(device)
     elif "pythia" in model_name:
+        tokenizer = AutoTokenizer.from_pretrained(
+                model_name,
+                revision="step3000",
+                cache_dir=f"./{model_name[model_name.index('/')+1:]}/step3000",
+                    )
         if "6.7b" in model_name or "7b" in model_name or "13b" in model_name or "30b" in model_name or "120b" in model_name:
             model = GPTNeoXForCausalLM.from_pretrained(
                     model_name,
@@ -112,23 +117,21 @@ def load_model(model_name: str):
                     cache_dir=f"./{model_name[model_name.index('/')+1:]}/step3000",
                     pad_token_id=tokenizer.eos_token_id,
                     ).to(device)
-        tokenizer = AutoTokenizer.from_pretrained(
-                model_name,
-                revision="step3000",
-                cache_dir=f"./{model_name[model_name.index('/')+1:]}/step3000",
-                    )
+        
     elif "bloom" in model_name:
+        tokenizer = BloomTokenizerFast.from_pretrained(model_name)
         if "6.7b" in model_name or "7b" in model_name or "13b" in model_name or "30b" in model_name or "120b" in model_name:
             model = BloomForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id, load_in_8bit=True)
         else:
             model = BloomForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id,).to(device)
-            tokenizer = BloomTokenizerFast.from_pretrained(model_name)
+            
     else:
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
         if "6.7b" in model_name or "7b" in model_name or "13b" in model_name or "30b" in model_name or "120b" in model_name:
             model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id, trust_remote_code=True, load_in_8bit=True)
         else:
             model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id, trust_remote_code=True).to(device)
-        tokenizer = AutoTokenizer.from_pretrained(model_name)  
+          
 
     load_time = time.perf_counter()-lt1
     print(f"Time to load model {model_name}: {load_time}")
