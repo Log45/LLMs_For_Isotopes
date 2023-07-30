@@ -1,0 +1,1485 @@
+Generated 215 responses in 391.24 seconds with average perplexity score of 8.16
+
+
+Context: Copper-64 is a useful radioisotope for positron emission tomography (PET). Due to the wide range of applications, the demand of 64Cu with low metallic impurities is increasing. Here we report a simple method for the efficient production of high specific activity 64Cu using a cyclotron for biomedical application. We designed new equipment based on the plating of enriched 64Ni as the target, and used automated ion exchange chromatography to purify copper-64 efficiently after irradiation and dissolution of the target in good radiochemical and chemical yield and purity. The 64Cu radionuclide produced using 99.32% enriched 64Ni with a density of 61.4 ± 5.0 mg/cm2, reaching a total radioactivity greater than 200 mCi, with specific activity up to 5.6 GBq/μmoL. It was further incorporated into modified monoclonal antibody DOTA-rituximab to synthesize 64Cu-DOTA-rituximab, which was used successfully for micro-PET imaging.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 11.16
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 3.84
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 50.09
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 3.48
+
+
+
+Context: Copper-64 is a useful radioisotope for positron emission tomography (PET). Due to the wide range of applications, the demand of 64Cu with low metallic impurities is increasing. Here we report a simple method for the efficient production of high specific activity 64Cu using a cyclotron for biomedical application. We designed new equipment based on the plating of enriched 64Ni as the target, and used automated ion exchange chromatography to purify copper-64 efficiently after irradiation and dissolution of the target in good radiochemical and chemical yield and purity. The 64Cu radionuclide produced using 99.32% enriched 64Ni with a density of 61.4 ± 5.0 mg/cm2, reaching a total radioactivity greater than 200 mCi, with specific activity up to 5.6 GBq/μmoL. It was further incorporated into modified monoclonal antibody DOTA-rituximab to synthesize 64Cu-DOTA-rituximab, which was used successfully for micro-PET imaging.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: Copper-64 (64Cu) is an attractive radionuclide of considerable interest for positron emission tomography (PET) imaging and radiotherapy due to its intrinsic physical and chemical properties. It has high spatial resolution comparable to 18F radionuclide, with comparable average free travel distance for their generated positrons (Rave.(β+) = 0.70 and 0.69 mm, respectively), due to their comparable positron energy (0.656 MeV and 0.635 MeV, respectively) [1,2]. It has a relatively long half-life of 12.7 h, compared with fluorine-18 (t1/2 = 110 min) and carbon-11 (t1/2 = 20.4 min). In addition, 64Cu also emits β− and Auger electrons, enabling it to be useful for both PET imaging and radiotherapy. Moreover, the versatile coordination chemistry of 64Cu allows for its reaction with a wide variety of chelator systems, such as DOTA, NOTA, TETA and CB-TE2A, that can be linked to antibodies, peptides and nanoparticles [3]. The 64Cu radioisotope can be used for the design and synthesis of a wide range of radio-probes, providing attractive candidates for PET imaging.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 8.88
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 19.39
+
+
+
+Context: Copper-64 (64Cu) is an attractive radionuclide of considerable interest for positron emission tomography (PET) imaging and radiotherapy due to its intrinsic physical and chemical properties. It has high spatial resolution comparable to 18F radionuclide, with comparable average free travel distance for their generated positrons (Rave.(β+) = 0.70 and 0.69 mm, respectively), due to their comparable positron energy (0.656 MeV and 0.635 MeV, respectively) [1,2]. It has a relatively long half-life of 12.7 h, compared with fluorine-18 (t1/2 = 110 min) and carbon-11 (t1/2 = 20.4 min). In addition, 64Cu also emits β− and Auger electrons, enabling it to be useful for both PET imaging and radiotherapy. Moreover, the versatile coordination chemistry of 64Cu allows for its reaction with a wide variety of chelator systems, such as DOTA, NOTA, TETA and CB-TE2A, that can be linked to antibodies, peptides and nanoparticles [3]. The 64Cu radioisotope can be used for the design and synthesis of a wide range of radio-probes, providing attractive candidates for PET imaging.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 4.5
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 10.96
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 3.49
+
+
+
+Context: A number of radiotracers involving 64Cu as radionuclide have been applied in nuclear medicine as a means of studying their PET imaging [4,5,6]. Incorporation of 64Cu into diacetyl-bis(N4-methylthiosemicarbazone) (ATSM) ligand was used for PET hypoxia imaging, such as in head and neck cancer, and cardiac conditions [7,8]. More radiotracers are in clinical development [9,10,11,12], especially those with peptides and antibodies. For example, 64Cu-DOTA-trastuzumab was used to conduct PET imaging of HER2-positive lesions in patients with primary and metastatic breast cancer [13]. The PET image of 64Cu-DOTATATE provided superior image quality, and detected more lesions than 111In-DTPA-octreotide [14]. Grubmüller, B. et al. investigated the diagnostic potential of 64Cu-PSMA-617 in patients with prostate adenocarcinoma [15].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 15.13
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 7.03
+
+
+
+Context: A number of radiotracers involving 64Cu as radionuclide have been applied in nuclear medicine as a means of studying their PET imaging [4,5,6]. Incorporation of 64Cu into diacetyl-bis(N4-methylthiosemicarbazone) (ATSM) ligand was used for PET hypoxia imaging, such as in head and neck cancer, and cardiac conditions [7,8]. More radiotracers are in clinical development [9,10,11,12], especially those with peptides and antibodies. For example, 64Cu-DOTA-trastuzumab was used to conduct PET imaging of HER2-positive lesions in patients with primary and metastatic breast cancer [13]. The PET image of 64Cu-DOTATATE provided superior image quality, and detected more lesions than 111In-DTPA-octreotide [14]. Grubmüller, B. et al. investigated the diagnostic potential of 64Cu-PSMA-617 in patients with prostate adenocarcinoma [15].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 4.5
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 10.42
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 14.47
+
+
+
+Context: 64Cu has been produced at many centers [16,17,18,19]. Among the nuclear reactions examined, the 64Ni (p, n) 64Cu method is the best and widely used, since high production yield of the 64Cu can be obtained with low energy protons in this route [20,21]. At Washington University, an effective method was investigated to produce high specific activity 64Cu on a small biomedical cyclotron using the 64Ni (p, n) 64Cu nuclear reaction, and 64Cu has been produced for more than 17 years by the irradiation of electroplated enriched 64Ni targets in this center [20,22]. The Turku PET Centre has been producing 64Cu since 2008 using 64Ni (p, n) 64Cu reaction, and also handles the irradiated target, radioactive liquids and gases using automated equipment [23,24]. At the University of Wisconsin, 64Cu and 61Co radionuclides have been simultaneously produced using the 64Ni (p, n) 64Cu nuclear reaction on a low energy proton-only cyclotron [25]. Ohya, T. et al. (2016) produced high-quality 64Cu for routine use via an electrodeposited 64Ni target, and successfully reduced the metallic impurities level of the 64Cu product, such as Co and Ni [21]. Other nuclear reactions examined include 64Ni (d, 2n) 64Cu, 64Zn (d, 2p) 64Cu, 64Zn (n, p) 64Cu [26,27]. In China, researchers also have a growing interest in 64Cu, and the demand of no-carrier added 64Cu has started to increase.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 11.55
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 4.42
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 16.17
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 2.82
+
+
+
+Context: 64Cu has been produced at many centers [16,17,18,19]. Among the nuclear reactions examined, the 64Ni (p, n) 64Cu method is the best and widely used, since high production yield of the 64Cu can be obtained with low energy protons in this route [20,21]. At Washington University, an effective method was investigated to produce high specific activity 64Cu on a small biomedical cyclotron using the 64Ni (p, n) 64Cu nuclear reaction, and 64Cu has been produced for more than 17 years by the irradiation of electroplated enriched 64Ni targets in this center [20,22]. The Turku PET Centre has been producing 64Cu since 2008 using 64Ni (p, n) 64Cu reaction, and also handles the irradiated target, radioactive liquids and gases using automated equipment [23,24]. At the University of Wisconsin, 64Cu and 61Co radionuclides have been simultaneously produced using the 64Ni (p, n) 64Cu nuclear reaction on a low energy proton-only cyclotron [25]. Ohya, T. et al. (2016) produced high-quality 64Cu for routine use via an electrodeposited 64Ni target, and successfully reduced the metallic impurities level of the 64Cu product, such as Co and Ni [21]. Other nuclear reactions examined include 64Ni (d, 2n) 64Cu, 64Zn (d, 2p) 64Cu, 64Zn (n, p) 64Cu [26,27]. In China, researchers also have a growing interest in 64Cu, and the demand of no-carrier added 64Cu has started to increase.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: After irradiation of 5 h, the 64Ni target was dissolved in 6 M hydrochloride acid, and then the solution was load to an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce the production cost of 64Cu, without sacrificing the quality of subsequent 64Cu production. When the eluted was switched to 1 M HCl, the first band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for further use. The separation process of 64Cu took about 2.5 h after irradiation.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 3.71
+
+
+
+Context: After irradiation of 5 h, the 64Ni target was dissolved in 6 M hydrochloride acid, and then the solution was load to an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce the production cost of 64Cu, without sacrificing the quality of subsequent 64Cu production. When the eluted was switched to 1 M HCl, the first band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for further use. The separation process of 64Cu took about 2.5 h after irradiation.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+
+
+Context: After irradiation of 5 h, the 64Ni target was dissolved in 6 M hydrochloride acid, and then the solution was load to an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce the production cost of 64Cu, without sacrificing the quality of subsequent 64Cu production. When the eluted was switched to 1 M HCl, the first band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for further use. The separation process of 64Cu took about 2.5 h after irradiation.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 7.84
+
+
+
+Context: After irradiation of 5 h, the 64Ni target was dissolved in 6 M hydrochloride acid, and then the solution was load to an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce the production cost of 64Cu, without sacrificing the quality of subsequent 64Cu production. When the eluted was switched to 1 M HCl, the first band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for further use. The separation process of 64Cu took about 2.5 h after irradiation.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.9
+
+
+
+Context: After irradiation of 5 h, the 64Ni target was dissolved in 6 M hydrochloride acid, and then the solution was load to an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce the production cost of 64Cu, without sacrificing the quality of subsequent 64Cu production. When the eluted was switched to 1 M HCl, the first band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for further use. The separation process of 64Cu took about 2.5 h after irradiation.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: The quality of 64Cu produced was evaluated by analysis of its metallic impurities and measurement of half-life of its radioactivity. The inductively coupled plasma-mass spectrometry (ICP-MS) analysis was used to evaluate the amount of metallic impurities in a decayed 64Cu solution, and showed a concentration of 6.339 ppb of Ni (0.127 μg), 4.112 ppb of Cu (0.082 μg), 5.502 ppb of Zn (0.110 μg), 0.108 ppb of Fe (0.002 μg), 0.102 ppb of Co (0.002 μg), 0.669 ppb of Ga (0.013 μg). The gamma spectrum of the produced 64CuCl2 solution (Figure 3) showed that the 64Cu radionuclide purity was >99%. The half-life of the produced radioactivity was determined by the radioactivity measured at different time points into the following equations:A=A0e−λt, lnA=−λt+lnA0, lnAA0=−λtA=A0e−λt, lnA=−λt+lnA0, lnAA0=−λt(1)where A is the radioactivity of the 64Cu at time t, A0 is the radioactivity of the 64Cu at 0 h, and λ represents the constant. We obtained the following equation (Figure 4):lnA=−0.05456t+5.438lnA=−0.05456t+5.438(2)when t=T1/2t=T1/2, the A=12A0A=12A0ln12=−0.05456T1/2ln12=−0.05456T1/2(3)
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 5.58
+
+
+
+Context: The quality of 64Cu produced was evaluated by analysis of its metallic impurities and measurement of half-life of its radioactivity. The inductively coupled plasma-mass spectrometry (ICP-MS) analysis was used to evaluate the amount of metallic impurities in a decayed 64Cu solution, and showed a concentration of 6.339 ppb of Ni (0.127 μg), 4.112 ppb of Cu (0.082 μg), 5.502 ppb of Zn (0.110 μg), 0.108 ppb of Fe (0.002 μg), 0.102 ppb of Co (0.002 μg), 0.669 ppb of Ga (0.013 μg). The gamma spectrum of the produced 64CuCl2 solution (Figure 3) showed that the 64Cu radionuclide purity was >99%. The half-life of the produced radioactivity was determined by the radioactivity measured at different time points into the following equations:A=A0e−λt, lnA=−λt+lnA0, lnAA0=−λtA=A0e−λt, lnA=−λt+lnA0, lnAA0=−λt(1)where A is the radioactivity of the 64Cu at time t, A0 is the radioactivity of the 64Cu at 0 h, and λ represents the constant. We obtained the following equation (Figure 4):lnA=−0.05456t+5.438lnA=−0.05456t+5.438(2)when t=T1/2t=T1/2, the A=12A0A=12A0ln12=−0.05456T1/2ln12=−0.05456T1/2(3)
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+
+
+Context: The quality of 64Cu produced was evaluated by analysis of its metallic impurities and measurement of half-life of its radioactivity. The inductively coupled plasma-mass spectrometry (ICP-MS) analysis was used to evaluate the amount of metallic impurities in a decayed 64Cu solution, and showed a concentration of 6.339 ppb of Ni (0.127 μg), 4.112 ppb of Cu (0.082 μg), 5.502 ppb of Zn (0.110 μg), 0.108 ppb of Fe (0.002 μg), 0.102 ppb of Co (0.002 μg), 0.669 ppb of Ga (0.013 μg). The gamma spectrum of the produced 64CuCl2 solution (Figure 3) showed that the 64Cu radionuclide purity was >99%. The half-life of the produced radioactivity was determined by the radioactivity measured at different time points into the following equations:A=A0e−λt, lnA=−λt+lnA0, lnAA0=−λtA=A0e−λt, lnA=−λt+lnA0, lnAA0=−λt(1)where A is the radioactivity of the 64Cu at time t, A0 is the radioactivity of the 64Cu at 0 h, and λ represents the constant. We obtained the following equation (Figure 4):lnA=−0.05456t+5.438lnA=−0.05456t+5.438(2)when t=T1/2t=T1/2, the A=12A0A=12A0ln12=−0.05456T1/2ln12=−0.05456T1/2(3)
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 7.84
+
+
+
+Context: The quality of 64Cu produced was evaluated by analysis of its metallic impurities and measurement of half-life of its radioactivity. The inductively coupled plasma-mass spectrometry (ICP-MS) analysis was used to evaluate the amount of metallic impurities in a decayed 64Cu solution, and showed a concentration of 6.339 ppb of Ni (0.127 μg), 4.112 ppb of Cu (0.082 μg), 5.502 ppb of Zn (0.110 μg), 0.108 ppb of Fe (0.002 μg), 0.102 ppb of Co (0.002 μg), 0.669 ppb of Ga (0.013 μg). The gamma spectrum of the produced 64CuCl2 solution (Figure 3) showed that the 64Cu radionuclide purity was >99%. The half-life of the produced radioactivity was determined by the radioactivity measured at different time points into the following equations:A=A0e−λt, lnA=−λt+lnA0, lnAA0=−λtA=A0e−λt, lnA=−λt+lnA0, lnAA0=−λt(1)where A is the radioactivity of the 64Cu at time t, A0 is the radioactivity of the 64Cu at 0 h, and λ represents the constant. We obtained the following equation (Figure 4):lnA=−0.05456t+5.438lnA=−0.05456t+5.438(2)when t=T1/2t=T1/2, the A=12A0A=12A0ln12=−0.05456T1/2ln12=−0.05456T1/2(3)
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.83
+
+
+
+Context: The quality of 64Cu produced was evaluated by analysis of its metallic impurities and measurement of half-life of its radioactivity. The inductively coupled plasma-mass spectrometry (ICP-MS) analysis was used to evaluate the amount of metallic impurities in a decayed 64Cu solution, and showed a concentration of 6.339 ppb of Ni (0.127 μg), 4.112 ppb of Cu (0.082 μg), 5.502 ppb of Zn (0.110 μg), 0.108 ppb of Fe (0.002 μg), 0.102 ppb of Co (0.002 μg), 0.669 ppb of Ga (0.013 μg). The gamma spectrum of the produced 64CuCl2 solution (Figure 3) showed that the 64Cu radionuclide purity was >99%. The half-life of the produced radioactivity was determined by the radioactivity measured at different time points into the following equations:A=A0e−λt, lnA=−λt+lnA0, lnAA0=−λtA=A0e−λt, lnA=−λt+lnA0, lnAA0=−λt(1)where A is the radioactivity of the 64Cu at time t, A0 is the radioactivity of the 64Cu at 0 h, and λ represents the constant. We obtained the following equation (Figure 4):lnA=−0.05456t+5.438lnA=−0.05456t+5.438(2)when t=T1/2t=T1/2, the A=12A0A=12A0ln12=−0.05456T1/2ln12=−0.05456T1/2(3)
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: The half-life of the produced 64Cu was calculated:T1/2=ln20.05456=12.704T1/2=ln20.05456=12.704
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 3.71
+
+
+
+Context: The half-life of the produced 64Cu was calculated:T1/2=ln20.05456=12.704T1/2=ln20.05456=12.704
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+
+
+Context: The half-life of the produced 64Cu was calculated:T1/2=ln20.05456=12.704T1/2=ln20.05456=12.704
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 7.84
+
+
+
+Context: The half-life of the produced 64Cu was calculated:T1/2=ln20.05456=12.704T1/2=ln20.05456=12.704
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.9
+
+
+
+Context: The half-life of the produced 64Cu was calculated:T1/2=ln20.05456=12.704T1/2=ln20.05456=12.704
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: The half-life calculated (T1/2=12.704T1/2=12.704 h) of the produced 64Cu is in accordance with that of the radioisotope 64Cu (T1/2=12.7T1/2=12.7 h).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 4.98
+
+
+
+Context: The half-life calculated (T1/2=12.704T1/2=12.704 h) of the produced 64Cu is in accordance with that of the radioisotope 64Cu (T1/2=12.7T1/2=12.7 h).
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.31
+
+
+
+Context: The half-life calculated (T1/2=12.704T1/2=12.704 h) of the produced 64Cu is in accordance with that of the radioisotope 64Cu (T1/2=12.7T1/2=12.7 h).
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 7.94
+
+
+
+Context: The half-life calculated (T1/2=12.704T1/2=12.704 h) of the produced 64Cu is in accordance with that of the radioisotope 64Cu (T1/2=12.7T1/2=12.7 h).
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.9
+
+
+
+Context: The half-life calculated (T1/2=12.704T1/2=12.704 h) of the produced 64Cu is in accordance with that of the radioisotope 64Cu (T1/2=12.7T1/2=12.7 h).
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: After electroplating, the 64Ni solid target was examined by measuring 64Ni thickness, composition and structure. The thickness was measured by alpha step apparatus, the composition was measured by scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM-EDS), and the structure was characterized by scanning electron microscopy (SEM). Meanwhile, the identity of metallic impurities of the 64Ni target was further analyzed by energy dispersive X-ray spectroscopy (EDS).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 6.08
+
+
+
+Context: After electroplating, the 64Ni solid target was examined by measuring 64Ni thickness, composition and structure. The thickness was measured by alpha step apparatus, the composition was measured by scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM-EDS), and the structure was characterized by scanning electron microscopy (SEM). Meanwhile, the identity of metallic impurities of the 64Ni target was further analyzed by energy dispersive X-ray spectroscopy (EDS).
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 25.05
+
+
+
+Context: After electroplating, the 64Ni solid target was examined by measuring 64Ni thickness, composition and structure. The thickness was measured by alpha step apparatus, the composition was measured by scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM-EDS), and the structure was characterized by scanning electron microscopy (SEM). Meanwhile, the identity of metallic impurities of the 64Ni target was further analyzed by energy dispersive X-ray spectroscopy (EDS).
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.9
+
+
+
+Context: After electroplating, the 64Ni solid target was examined by measuring 64Ni thickness, composition and structure. The thickness was measured by alpha step apparatus, the composition was measured by scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM-EDS), and the structure was characterized by scanning electron microscopy (SEM). Meanwhile, the identity of metallic impurities of the 64Ni target was further analyzed by energy dispersive X-ray spectroscopy (EDS).
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: After irradiation, the 64Ni target was placed into the dissolving bath of 6 M HCl. The complete dissolution of the target material took about 40 min under heating, and then the solution was loaded on an anion exchange column (AG 1-X8) pretreated with 18 MΩ·cm water and 6 M HCl, sequentially. The enriched 64Ni was eluted with 6 M HCl and collected for recycling, and the 64Cu fraction was eluted with 1 M HCl, which was further evaporated to dryness. The residue was finally dissolved in 0.1 M HCl for further use. All of these procedures were performed using an automated system and carried out in a hot cell with remote control (Figure 7, Sumitomo Heavy Industries, Ltd., Tokyo, Japan).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 3.71
+
+
+
+Context: After irradiation, the 64Ni target was placed into the dissolving bath of 6 M HCl. The complete dissolution of the target material took about 40 min under heating, and then the solution was loaded on an anion exchange column (AG 1-X8) pretreated with 18 MΩ·cm water and 6 M HCl, sequentially. The enriched 64Ni was eluted with 6 M HCl and collected for recycling, and the 64Cu fraction was eluted with 1 M HCl, which was further evaporated to dryness. The residue was finally dissolved in 0.1 M HCl for further use. All of these procedures were performed using an automated system and carried out in a hot cell with remote control (Figure 7, Sumitomo Heavy Industries, Ltd., Tokyo, Japan).
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+
+
+Context: After irradiation, the 64Ni target was placed into the dissolving bath of 6 M HCl. The complete dissolution of the target material took about 40 min under heating, and then the solution was loaded on an anion exchange column (AG 1-X8) pretreated with 18 MΩ·cm water and 6 M HCl, sequentially. The enriched 64Ni was eluted with 6 M HCl and collected for recycling, and the 64Cu fraction was eluted with 1 M HCl, which was further evaporated to dryness. The residue was finally dissolved in 0.1 M HCl for further use. All of these procedures were performed using an automated system and carried out in a hot cell with remote control (Figure 7, Sumitomo Heavy Industries, Ltd., Tokyo, Japan).
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 7.84
+
+
+
+Context: After irradiation, the 64Ni target was placed into the dissolving bath of 6 M HCl. The complete dissolution of the target material took about 40 min under heating, and then the solution was loaded on an anion exchange column (AG 1-X8) pretreated with 18 MΩ·cm water and 6 M HCl, sequentially. The enriched 64Ni was eluted with 6 M HCl and collected for recycling, and the 64Cu fraction was eluted with 1 M HCl, which was further evaporated to dryness. The residue was finally dissolved in 0.1 M HCl for further use. All of these procedures were performed using an automated system and carried out in a hot cell with remote control (Figure 7, Sumitomo Heavy Industries, Ltd., Tokyo, Japan).
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.83
+
+
+
+Context: After irradiation, the 64Ni target was placed into the dissolving bath of 6 M HCl. The complete dissolution of the target material took about 40 min under heating, and then the solution was loaded on an anion exchange column (AG 1-X8) pretreated with 18 MΩ·cm water and 6 M HCl, sequentially. The enriched 64Ni was eluted with 6 M HCl and collected for recycling, and the 64Cu fraction was eluted with 1 M HCl, which was further evaporated to dryness. The residue was finally dissolved in 0.1 M HCl for further use. All of these procedures were performed using an automated system and carried out in a hot cell with remote control (Figure 7, Sumitomo Heavy Industries, Ltd., Tokyo, Japan).
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: The radionuclide identity and purity of the produced 64CuCl2 solution were measured using γ-ray spectroscopy (HTA Co., Ltd., Beijing, China). In addition, the identity of radioactivity of the produced 64Cu was further confirmed by measurement of its half-life, by measuring radioactivity at different time points. A decayed sample from the produced 64Cu was also analyzed by inductively coupled plasma-mass spectrometry (ICP-MS) for traces of metallic impurities.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 6.21
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.95
+
+
+
+Context: The radionuclide identity and purity of the produced 64CuCl2 solution were measured using γ-ray spectroscopy (HTA Co., Ltd., Beijing, China). In addition, the identity of radioactivity of the produced 64Cu was further confirmed by measurement of its half-life, by measuring radioactivity at different time points. A decayed sample from the produced 64Cu was also analyzed by inductively coupled plasma-mass spectrometry (ICP-MS) for traces of metallic impurities.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 4.5
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 5.28
+
+
+
+Context: The radionuclide identity and purity of the produced 64CuCl2 solution were measured using γ-ray spectroscopy (HTA Co., Ltd., Beijing, China). In addition, the identity of radioactivity of the produced 64Cu was further confirmed by measurement of its half-life, by measuring radioactivity at different time points. A decayed sample from the produced 64Cu was also analyzed by inductively coupled plasma-mass spectrometry (ICP-MS) for traces of metallic impurities.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: To assess the quality of the produced 64Cu (quantity, specific activity and purity), the synthesis of a radiotracer, 64Cu-DOTA-rituximab, was performed. Here, the site-specific modification of monoclonal antibody DOTA-rituximab which contains two DOTA chelator in each antibody was used as we previously reported [29]. The 64CuCl2 solution prepared above was reacted with DOTA-rituximab in a solution of pH = 5.5 at RT for 30 min. After incubation, the radiotracer was purified using a PD-10 desalting column, and characterized by Radio-TLC and Radio-HPLC, to determine the labeling yield and radiochemical purity. The identity of the radiotracer, 64Cu-DOTA-rituximab, was further evaluated by PET imaging, which was carried out on a micro-PET rodent model scanner as reported earlier [29]. After formulation, 64Cu-DOTA-rituximab (0.5 mCi) was injected intravenously into the tail vein of the mice bearing Ramos RA1 tumors (n = 3), which overexpress CD20 antigen, and the animals were imaged with micro-PET at both 24 and 60 h post-injection.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 26.61
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 8.83
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 12.59
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 7.42
+
+
+
+Context: To assess the quality of the produced 64Cu (quantity, specific activity and purity), the synthesis of a radiotracer, 64Cu-DOTA-rituximab, was performed. Here, the site-specific modification of monoclonal antibody DOTA-rituximab which contains two DOTA chelator in each antibody was used as we previously reported [29]. The 64CuCl2 solution prepared above was reacted with DOTA-rituximab in a solution of pH = 5.5 at RT for 30 min. After incubation, the radiotracer was purified using a PD-10 desalting column, and characterized by Radio-TLC and Radio-HPLC, to determine the labeling yield and radiochemical purity. The identity of the radiotracer, 64Cu-DOTA-rituximab, was further evaluated by PET imaging, which was carried out on a micro-PET rodent model scanner as reported earlier [29]. After formulation, 64Cu-DOTA-rituximab (0.5 mCi) was injected intravenously into the tail vein of the mice bearing Ramos RA1 tumors (n = 3), which overexpress CD20 antigen, and the animals were imaged with micro-PET at both 24 and 60 h post-injection.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: This work was supported, in part, by the National Natural Science Foundation of China (No. 81371592, No. 81401467, No. 81501519, No. 81571705 and No. 81671733), Beijing Natural Science Foundation (No. 7162041 and No. 7171002), Beijing Municipal Commission of Health and Family Planning (215 backbone program), and 2017 Beijing Science & Technology Nova Star Program (xx2017016).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 6.93
+
+
+
+Context: This work was supported, in part, by the National Natural Science Foundation of China (No. 81371592, No. 81401467, No. 81501519, No. 81571705 and No. 81671733), Beijing Natural Science Foundation (No. 7162041 and No. 7171002), Beijing Municipal Commission of Health and Family Planning (215 backbone program), and 2017 Beijing Science & Technology Nova Star Program (xx2017016).
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.31
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 5.76
+
+
+
+Context: This work was supported, in part, by the National Natural Science Foundation of China (No. 81371592, No. 81401467, No. 81501519, No. 81571705 and No. 81671733), Beijing Natural Science Foundation (No. 7162041 and No. 7171002), Beijing Municipal Commission of Health and Family Planning (215 backbone program), and 2017 Beijing Science & Technology Nova Star Program (xx2017016).
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.9
+
+
+
+Context: This work was supported, in part, by the National Natural Science Foundation of China (No. 81371592, No. 81401467, No. 81501519, No. 81571705 and No. 81671733), Beijing Natural Science Foundation (No. 7162041 and No. 7171002), Beijing Municipal Commission of Health and Family Planning (215 backbone program), and 2017 Beijing Science & Technology Nova Star Program (xx2017016).
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: Q.X., H.Z., X.M., Q.R., C.X. and Z.Y. conceived and designed the experiments; Q.X., H.Z., F.W. and X.M. performed the experiments; Q.X., H.Z. and X.M. analyzed the data; Q.X. and H.Z. wrote the paper.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 4.98
+
+
+
+Context: Q.X., H.Z., X.M., Q.R., C.X. and Z.Y. conceived and designed the experiments; Q.X., H.Z., F.W. and X.M. performed the experiments; Q.X., H.Z. and X.M. analyzed the data; Q.X. and H.Z. wrote the paper.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.31
+
+
+
+Context: Q.X., H.Z., X.M., Q.R., C.X. and Z.Y. conceived and designed the experiments; Q.X., H.Z., F.W. and X.M. performed the experiments; Q.X., H.Z. and X.M. analyzed the data; Q.X. and H.Z. wrote the paper.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 7.94
+
+
+
+Context: Q.X., H.Z., X.M., Q.R., C.X. and Z.Y. conceived and designed the experiments; Q.X., H.Z., F.W. and X.M. performed the experiments; Q.X., H.Z. and X.M. analyzed the data; Q.X. and H.Z. wrote the paper.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.9
+
+
+
+Context: Q.X., H.Z., X.M., Q.R., C.X. and Z.Y. conceived and designed the experiments; Q.X., H.Z., F.W. and X.M. performed the experiments; Q.X., H.Z. and X.M. analyzed the data; Q.X. and H.Z. wrote the paper.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.99
+
+
+
+Context: The authors declare no conflict of interest.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 5.1
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.31
+
+
+
+Context: The authors declare no conflict of interest.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 12.16
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.9
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.99
+
+
+
+Context: Sample Availability: Sample of the rituximab is available from the authors.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 6.93
+
+
+
+Context: Sample Availability: Sample of the rituximab is available from the authors.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+
+
+Context: Sample Availability: Sample of the rituximab is available from the authors.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 7.84
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.9
+
+
+
+Context: Sample Availability: Sample of the rituximab is available from the authors.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: The emerging success of [68Ga/177Lu]Ga/Lu-DOTATATE as a theranostic pair has spurred interest in other isotopes as potential theranostic combinations. Here, we review cobalt-55 and cobalt-58m as a potential theranostic pair. Radionuclidically pure cobalt-55 and cobalt-58m have been produced on small cyclotrons with high molar activity. In vitro, DOTATOC labeled with cobalt has shown greater affinity for SSTR2 than DOTATOC labeled with gallium and yttrium. Similarly, [58mCo]Co-DOTATATE has shown improved cell-killing capabilities as compared to DOTATATE labeled with either indium-111 or lutetium-177. Finally, PET imaging with an isotope such as cobalt-55 allows for image acquisition at much later timepoints than gallium, allowing for an increased degree of biological clearance of non-bound radiotracer. We discuss the accelerator targetry and radiochemistry used to produce cobalt-55,58m, emphasizing the implications of these techniques to downstream radiotracers being developed for imaging and therapy.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 9.14
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 10.52
+
+
+
+Context: The emerging success of [68Ga/177Lu]Ga/Lu-DOTATATE as a theranostic pair has spurred interest in other isotopes as potential theranostic combinations. Here, we review cobalt-55 and cobalt-58m as a potential theranostic pair. Radionuclidically pure cobalt-55 and cobalt-58m have been produced on small cyclotrons with high molar activity. In vitro, DOTATOC labeled with cobalt has shown greater affinity for SSTR2 than DOTATOC labeled with gallium and yttrium. Similarly, [58mCo]Co-DOTATATE has shown improved cell-killing capabilities as compared to DOTATATE labeled with either indium-111 or lutetium-177. Finally, PET imaging with an isotope such as cobalt-55 allows for image acquisition at much later timepoints than gallium, allowing for an increased degree of biological clearance of non-bound radiotracer. We discuss the accelerator targetry and radiochemistry used to produce cobalt-55,58m, emphasizing the implications of these techniques to downstream radiotracers being developed for imaging and therapy.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 4.5
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 46.69
+
+
+
+Context: The emerging success of [68Ga/177Lu]Ga/Lu-DOTATATE as a theranostic pair has spurred interest in other isotopes as potential theranostic combinations. Here, we review cobalt-55 and cobalt-58m as a potential theranostic pair. Radionuclidically pure cobalt-55 and cobalt-58m have been produced on small cyclotrons with high molar activity. In vitro, DOTATOC labeled with cobalt has shown greater affinity for SSTR2 than DOTATOC labeled with gallium and yttrium. Similarly, [58mCo]Co-DOTATATE has shown improved cell-killing capabilities as compared to DOTATATE labeled with either indium-111 or lutetium-177. Finally, PET imaging with an isotope such as cobalt-55 allows for image acquisition at much later timepoints than gallium, allowing for an increased degree of biological clearance of non-bound radiotracer. We discuss the accelerator targetry and radiochemistry used to produce cobalt-55,58m, emphasizing the implications of these techniques to downstream radiotracers being developed for imaging and therapy.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: Both cobalt-55 and cobalt-58m are produced primarily from charged particle irradiation of iron or nickel targets. The availability of deuterons likely increases the purity of achievable cobalt-55 but has less bearing on the production of cobalt-58m except for from a target material cost perspective. Practically speaking, clinical application will always have to carefully consider target isotopic enrichment, but target fabrication and recovery are well developed (and reported) processes. These processes are described in greater detail below, treating the nuclear reactions relevant to each radionuclide separately. It should be stated that all radiation decay information comes from Brookhaven National Lab NuDat database [17].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 4.6
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 1.85
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 4.6
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 3.27
+
+
+
+Context: Both cobalt-55 and cobalt-58m are produced primarily from charged particle irradiation of iron or nickel targets. The availability of deuterons likely increases the purity of achievable cobalt-55 but has less bearing on the production of cobalt-58m except for from a target material cost perspective. Practically speaking, clinical application will always have to carefully consider target isotopic enrichment, but target fabrication and recovery are well developed (and reported) processes. These processes are described in greater detail below, treating the nuclear reactions relevant to each radionuclide separately. It should be stated that all radiation decay information comes from Brookhaven National Lab NuDat database [17].
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: In Figure 2, “m” indicates measurements of the direct formation of cobalt-58m, “c” indicates cumulative formation of cobalt-58g either after the complete decay of the isomer or with simultaneous accounting for the contribution from cobalt-58m decay, and “i” indicates measurement of the independent formation of cobalt-58g without contribution from cobalt-58m. The isomers cobalt-58m and cobalt-58g are co-produced in any charged particle irradiation. While the production of cobalt-58g is unavoidable, other radioisotopic impurities can be reduced with careful modulation of proton energies and target material enrichments.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 3.71
+
+
+
+Context: In Figure 2, “m” indicates measurements of the direct formation of cobalt-58m, “c” indicates cumulative formation of cobalt-58g either after the complete decay of the isomer or with simultaneous accounting for the contribution from cobalt-58m decay, and “i” indicates measurement of the independent formation of cobalt-58g without contribution from cobalt-58m. The isomers cobalt-58m and cobalt-58g are co-produced in any charged particle irradiation. While the production of cobalt-58g is unavoidable, other radioisotopic impurities can be reduced with careful modulation of proton energies and target material enrichments.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+
+
+Context: In Figure 2, “m” indicates measurements of the direct formation of cobalt-58m, “c” indicates cumulative formation of cobalt-58g either after the complete decay of the isomer or with simultaneous accounting for the contribution from cobalt-58m decay, and “i” indicates measurement of the independent formation of cobalt-58g without contribution from cobalt-58m. The isomers cobalt-58m and cobalt-58g are co-produced in any charged particle irradiation. While the production of cobalt-58g is unavoidable, other radioisotopic impurities can be reduced with careful modulation of proton energies and target material enrichments.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 7.84
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.73
+
+
+
+Context: In Figure 2, “m” indicates measurements of the direct formation of cobalt-58m, “c” indicates cumulative formation of cobalt-58g either after the complete decay of the isomer or with simultaneous accounting for the contribution from cobalt-58m decay, and “i” indicates measurement of the independent formation of cobalt-58g without contribution from cobalt-58m. The isomers cobalt-58m and cobalt-58g are co-produced in any charged particle irradiation. While the production of cobalt-58g is unavoidable, other radioisotopic impurities can be reduced with careful modulation of proton energies and target material enrichments.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: The 58Fe(p,2n)57Co (t1/2 = 271.7 d, Eγ= 122.1 keV, Iγ = 85.6%) and 58Fe(p,3n)56Co (t1/2 = 77.2 d, β+ = 19.5%, Eγ= 846.8 keV, Iγ = 99.9%) nuclear reactions have a higher energy threshold than 58Fe(p,n)58Co, seen in Table 1 below [40].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 77.88
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 5.97
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 3.98
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.9
+
+
+
+Context: The 58Fe(p,2n)57Co (t1/2 = 271.7 d, Eγ= 122.1 keV, Iγ = 85.6%) and 58Fe(p,3n)56Co (t1/2 = 77.2 d, β+ = 19.5%, Eγ= 846.8 keV, Iγ = 99.9%) nuclear reactions have a higher energy threshold than 58Fe(p,n)58Co, seen in Table 1 below [40].
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: Irradiating isotopically enriched iron-58 avoids the production of other impurities that cannot be separated out in the downstream chemistry. Natural iron is composed of iron-54 (5.8%), iron-56 (91.7%), iron-57 (2.2%), and iron-58 (0.3%). Proton bombardment of iron-54 leads to the production of very short-lived contaminants such as 54Fe(p,n)54Co (t1/2 = 1.46 m) and 54Fe(p,2n)53Co (t1/2 = 0.24 s) that do not diminish the radioisotopic purity of cobalt-58m. However, higher-energy proton reactions on iron-56 and iron-57, as described above for iron-58, may form longer-lived radioisotopic impurities cobalt-56 and cobalt-57. Measured data from the relevant excitation functions are shown below in Figure 4 and Figure 5.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 6.41
+
+
+
+Context: Irradiating isotopically enriched iron-58 avoids the production of other impurities that cannot be separated out in the downstream chemistry. Natural iron is composed of iron-54 (5.8%), iron-56 (91.7%), iron-57 (2.2%), and iron-58 (0.3%). Proton bombardment of iron-54 leads to the production of very short-lived contaminants such as 54Fe(p,n)54Co (t1/2 = 1.46 m) and 54Fe(p,2n)53Co (t1/2 = 0.24 s) that do not diminish the radioisotopic purity of cobalt-58m. However, higher-energy proton reactions on iron-56 and iron-57, as described above for iron-58, may form longer-lived radioisotopic impurities cobalt-56 and cobalt-57. Measured data from the relevant excitation functions are shown below in Figure 4 and Figure 5.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+
+
+Context: Irradiating isotopically enriched iron-58 avoids the production of other impurities that cannot be separated out in the downstream chemistry. Natural iron is composed of iron-54 (5.8%), iron-56 (91.7%), iron-57 (2.2%), and iron-58 (0.3%). Proton bombardment of iron-54 leads to the production of very short-lived contaminants such as 54Fe(p,n)54Co (t1/2 = 1.46 m) and 54Fe(p,2n)53Co (t1/2 = 0.24 s) that do not diminish the radioisotopic purity of cobalt-58m. However, higher-energy proton reactions on iron-56 and iron-57, as described above for iron-58, may form longer-lived radioisotopic impurities cobalt-56 and cobalt-57. Measured data from the relevant excitation functions are shown below in Figure 4 and Figure 5.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 5.4
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 3.07
+
+
+
+Context: Irradiating isotopically enriched iron-58 avoids the production of other impurities that cannot be separated out in the downstream chemistry. Natural iron is composed of iron-54 (5.8%), iron-56 (91.7%), iron-57 (2.2%), and iron-58 (0.3%). Proton bombardment of iron-54 leads to the production of very short-lived contaminants such as 54Fe(p,n)54Co (t1/2 = 1.46 m) and 54Fe(p,2n)53Co (t1/2 = 0.24 s) that do not diminish the radioisotopic purity of cobalt-58m. However, higher-energy proton reactions on iron-56 and iron-57, as described above for iron-58, may form longer-lived radioisotopic impurities cobalt-56 and cobalt-57. Measured data from the relevant excitation functions are shown below in Figure 4 and Figure 5.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: In Figure 7, an energy of 14.4 MeV is used as a cutoff to remove any data possibly acquired from 58Fe(d,3n)57Co reactions (threshold energy of 14.4 MeV). However, the threshold energy for 57Fe(d,2n)57Co is 3.9 MeV, and therefore it is difficult to differentiate between the production via the 56Fe(d,n) and 57Fe(d,2n) reactions [40].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 6.43
+
+
+
+Context: In Figure 7, an energy of 14.4 MeV is used as a cutoff to remove any data possibly acquired from 58Fe(d,3n)57Co reactions (threshold energy of 14.4 MeV). However, the threshold energy for 57Fe(d,2n)57Co is 3.9 MeV, and therefore it is difficult to differentiate between the production via the 56Fe(d,n) and 57Fe(d,2n) reactions [40].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+
+
+Context: In Figure 7, an energy of 14.4 MeV is used as a cutoff to remove any data possibly acquired from 58Fe(d,3n)57Co reactions (threshold energy of 14.4 MeV). However, the threshold energy for 57Fe(d,2n)57Co is 3.9 MeV, and therefore it is difficult to differentiate between the production via the 56Fe(d,n) and 57Fe(d,2n) reactions [40].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 7.84
+
+
+
+Context: In Figure 7, an energy of 14.4 MeV is used as a cutoff to remove any data possibly acquired from 58Fe(d,3n)57Co reactions (threshold energy of 14.4 MeV). However, the threshold energy for 57Fe(d,2n)57Co is 3.9 MeV, and therefore it is difficult to differentiate between the production via the 56Fe(d,n) and 57Fe(d,2n) reactions [40].
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.83
+
+
+
+Context: In Figure 7, an energy of 14.4 MeV is used as a cutoff to remove any data possibly acquired from 58Fe(d,3n)57Co reactions (threshold energy of 14.4 MeV). However, the threshold energy for 57Fe(d,2n)57Co is 3.9 MeV, and therefore it is difficult to differentiate between the production via the 56Fe(d,n) and 57Fe(d,2n) reactions [40].
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: Nickel targets can also be irradiated with protons to produce cobalt-58m via the 61Ni(p,α)58mCo nuclear reaction (see Figure 8). Natural nickel has 5 stable isotopes: nickel-58 (68.1%), nickel-60(26.2%), nickel-61 (3.6%), and nickel-64 (0.93%).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 6.88
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 4.11
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 7.94
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.79
+
+
+
+Context: Nickel targets can also be irradiated with protons to produce cobalt-58m via the 61Ni(p,α)58mCo nuclear reaction (see Figure 8). Natural nickel has 5 stable isotopes: nickel-58 (68.1%), nickel-60(26.2%), nickel-61 (3.6%), and nickel-64 (0.93%).
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: Just as with iron targets, isotopically enriched nickel targets are required to reduce the production of radioisotopic impurities. Using enriched material prevents the production of long-lived cobalt isotopes via the (p,α) reactions on nickel-58 (68.1%), nickel-60 (26.2%), and nickel-64 (0.93%), shown in Figure 9, Figure 10 and Figure 11 below.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 14.24
+
+
+
+Context: Just as with iron targets, isotopically enriched nickel targets are required to reduce the production of radioisotopic impurities. Using enriched material prevents the production of long-lived cobalt isotopes via the (p,α) reactions on nickel-58 (68.1%), nickel-60 (26.2%), and nickel-64 (0.93%), shown in Figure 9, Figure 10 and Figure 11 below.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 4.98
+
+
+
+Context: Just as with iron targets, isotopically enriched nickel targets are required to reduce the production of radioisotopic impurities. Using enriched material prevents the production of long-lived cobalt isotopes via the (p,α) reactions on nickel-58 (68.1%), nickel-60 (26.2%), and nickel-64 (0.93%), shown in Figure 9, Figure 10 and Figure 11 below.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.83
+
+
+
+Context: Just as with iron targets, isotopically enriched nickel targets are required to reduce the production of radioisotopic impurities. Using enriched material prevents the production of long-lived cobalt isotopes via the (p,α) reactions on nickel-58 (68.1%), nickel-60 (26.2%), and nickel-64 (0.93%), shown in Figure 9, Figure 10 and Figure 11 below.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: If higher-energy alpha beams are used, cobalt-57 can be formed from 55Mn(α,2n), as shown in Figure 12b. To decrease the likelihood of producing this contaminant, lower-energy beams should be employed to capture the greatest cross section for the 55Mn(α,n)58Co reaction while minimizing the 55Mn(α,2n)57Co reaction.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 7.52
+
+
+
+Context: If higher-energy alpha beams are used, cobalt-57 can be formed from 55Mn(α,2n), as shown in Figure 12b. To decrease the likelihood of producing this contaminant, lower-energy beams should be employed to capture the greatest cross section for the 55Mn(α,n)58Co reaction while minimizing the 55Mn(α,2n)57Co reaction.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 11.72
+
+
+
+Context: If higher-energy alpha beams are used, cobalt-57 can be formed from 55Mn(α,2n), as shown in Figure 12b. To decrease the likelihood of producing this contaminant, lower-energy beams should be employed to capture the greatest cross section for the 55Mn(α,n)58Co reaction while minimizing the 55Mn(α,2n)57Co reaction.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.83
+
+
+
+Context: If higher-energy alpha beams are used, cobalt-57 can be formed from 55Mn(α,2n), as shown in Figure 12b. To decrease the likelihood of producing this contaminant, lower-energy beams should be employed to capture the greatest cross section for the 55Mn(α,n)58Co reaction while minimizing the 55Mn(α,2n)57Co reaction.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: A summary of the discussed pragmatic production methods is shown in Table 2 below, highlighting the isotope produced, material needed with respective natural abundance, the reaction that must occur, and the possible radio-contaminants that may be co-produced.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 5.27
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 4.46
+
+
+
+Context: A summary of the discussed pragmatic production methods is shown in Table 2 below, highlighting the isotope produced, material needed with respective natural abundance, the reaction that must occur, and the possible radio-contaminants that may be co-produced.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 5.4
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 2.54
+
+
+
+Context: A summary of the discussed pragmatic production methods is shown in Table 2 below, highlighting the isotope produced, material needed with respective natural abundance, the reaction that must occur, and the possible radio-contaminants that may be co-produced.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: Using the table above, it can be suggested that for the production of cobalt-55, iron-54 targets should be utilized based on the lack of potential long-lived radio-contaminants co-produced, and an increased yield at lower thickness targets when compared to yields produced by nickel-58.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 3.71
+
+
+
+Context: Using the table above, it can be suggested that for the production of cobalt-55, iron-54 targets should be utilized based on the lack of potential long-lived radio-contaminants co-produced, and an increased yield at lower thickness targets when compared to yields produced by nickel-58.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 5.39
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.9
+
+
+
+Context: Using the table above, it can be suggested that for the production of cobalt-55, iron-54 targets should be utilized based on the lack of potential long-lived radio-contaminants co-produced, and an increased yield at lower thickness targets when compared to yields produced by nickel-58.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: The newer separation method for separating nickel from cobalt is straightforward, using one column containing branched DGA resin, as shown in Figure 17.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 8.64
+
+
+
+Context: The newer separation method for separating nickel from cobalt is straightforward, using one column containing branched DGA resin, as shown in Figure 17.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 19.2
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.9
+
+
+
+Context: The newer separation method for separating nickel from cobalt is straightforward, using one column containing branched DGA resin, as shown in Figure 17.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: The first agent approved for PET imaging of SSTR2 was [68Ga]Ga-DOTATATE (Netspot) in 2016 [104]. Since its approval, there has been interest in developing a PET agent for somatostatin receptor imaging with a longer half-life than gallium-68 to simplify patient logistics and to image longer time courses post injection with improved clearance from blood and non-target tissues.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 3.71
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 31.91
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 13.41
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 32.66
+
+
+
+Context: The first agent approved for PET imaging of SSTR2 was [68Ga]Ga-DOTATATE (Netspot) in 2016 [104]. Since its approval, there has been interest in developing a PET agent for somatostatin receptor imaging with a longer half-life than gallium-68 to simplify patient logistics and to image longer time courses post injection with improved clearance from blood and non-target tissues.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: This work led to a proof-of-concept study radiolabeling DOTATOC with cobalt-55,56,58m [14]. In this study, the authors produced Co isotopes using the following reactions: 54Fe(d,n)55Co, natFe(p,x)56Co, and 58Fe(p,n)58mCo. They measured molar activities of >4 MBq/nmol for [58mCo]Co-DOTATOC and >0.21 MBq/nmol for [55Co]Co-DOTATOC, but [56Co]Co-DOTATOC wasnwas not examined [16].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 12.52
+
+
+
+Context: This work led to a proof-of-concept study radiolabeling DOTATOC with cobalt-55,56,58m [14]. In this study, the authors produced Co isotopes using the following reactions: 54Fe(d,n)55Co, natFe(p,x)56Co, and 58Fe(p,n)58mCo. They measured molar activities of >4 MBq/nmol for [58mCo]Co-DOTATOC and >0.21 MBq/nmol for [55Co]Co-DOTATOC, but [56Co]Co-DOTATOC wasnwas not examined [16].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+
+
+Context: This work led to a proof-of-concept study radiolabeling DOTATOC with cobalt-55,56,58m [14]. In this study, the authors produced Co isotopes using the following reactions: 54Fe(d,n)55Co, natFe(p,x)56Co, and 58Fe(p,n)58mCo. They measured molar activities of >4 MBq/nmol for [58mCo]Co-DOTATOC and >0.21 MBq/nmol for [55Co]Co-DOTATOC, but [56Co]Co-DOTATOC wasnwas not examined [16].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 7.84
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.83
+
+
+
+Context: This work led to a proof-of-concept study radiolabeling DOTATOC with cobalt-55,56,58m [14]. In this study, the authors produced Co isotopes using the following reactions: 54Fe(d,n)55Co, natFe(p,x)56Co, and 58Fe(p,n)58mCo. They measured molar activities of >4 MBq/nmol for [58mCo]Co-DOTATOC and >0.21 MBq/nmol for [55Co]Co-DOTATOC, but [56Co]Co-DOTATOC wasnwas not examined [16].
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: The first cobalt-55 imaging of GRPR was reported in 2016 by Dam et al. [111] and compared 55Co-, 57Co-, and 68Ga-labeled GRPR agonist NOTA-AMBA (NOTA-Gly-4-ABz-Gln-Trp-Ala-Gly-His-Leu-Met-NH2) in a PC3 prostate cancer. 57Co- and 68Ga-labeled NOTA-AMBA were found to have similar receptor affinities, serum stabilities, and pharmacokinetics at 1 h and 4 h PI [55Co]Co-NOTA-AMBA enabled PET imaging at a 24 h timepoint (and beyond) which is not possible with [68Ga]Ga-NOTA-AMBA and revealed encouraging clearance of the tracer and stable late uptake of [5xCo]Co-NOTA-AMBA in the tumor [111].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 7.67
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.31
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 54.38
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.9
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 67.94
+
+
+
+Context: In 2017, Mitran et al. reported radiolabeling GRPR antagonist RM26 (NOTA-PEG2-[D-Phe, Sta, Leu] bombesin [6,7,8,9,10,11,12,13,14]) with cobalt-55 and cobalt-57 [13]. Cell binding and internalization were investigated in PC3 cells and a mouse PC3 xenograft tumor model. They observed 12% cell internalization at 24 h which is similar to what has been reported for [111In]In-NOTA-PEG2-RM26 [112]. Biodistribution studies in PC3 tumor-bearing mice showed that at 3 h PI the tumor uptake was greater than uptake in any other organ including the kidneys. PET imaging studies using [55Co]Co-NOTA-PEG2-RM26 showed clear tumor uptake at 3 h PI and by 24 h PI the tumor showed high uptake (Figure 20).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 3.71
+
+
+
+Context: In 2017, Mitran et al. reported radiolabeling GRPR antagonist RM26 (NOTA-PEG2-[D-Phe, Sta, Leu] bombesin [6,7,8,9,10,11,12,13,14]) with cobalt-55 and cobalt-57 [13]. Cell binding and internalization were investigated in PC3 cells and a mouse PC3 xenograft tumor model. They observed 12% cell internalization at 24 h which is similar to what has been reported for [111In]In-NOTA-PEG2-RM26 [112]. Biodistribution studies in PC3 tumor-bearing mice showed that at 3 h PI the tumor uptake was greater than uptake in any other organ including the kidneys. PET imaging studies using [55Co]Co-NOTA-PEG2-RM26 showed clear tumor uptake at 3 h PI and by 24 h PI the tumor showed high uptake (Figure 20).
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+
+
+Context: In 2017, Mitran et al. reported radiolabeling GRPR antagonist RM26 (NOTA-PEG2-[D-Phe, Sta, Leu] bombesin [6,7,8,9,10,11,12,13,14]) with cobalt-55 and cobalt-57 [13]. Cell binding and internalization were investigated in PC3 cells and a mouse PC3 xenograft tumor model. They observed 12% cell internalization at 24 h which is similar to what has been reported for [111In]In-NOTA-PEG2-RM26 [112]. Biodistribution studies in PC3 tumor-bearing mice showed that at 3 h PI the tumor uptake was greater than uptake in any other organ including the kidneys. PET imaging studies using [55Co]Co-NOTA-PEG2-RM26 showed clear tumor uptake at 3 h PI and by 24 h PI the tumor showed high uptake (Figure 20).
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 7.84
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 35.25
+
+
+
+Context: In 2017, Mitran et al. reported radiolabeling GRPR antagonist RM26 (NOTA-PEG2-[D-Phe, Sta, Leu] bombesin [6,7,8,9,10,11,12,13,14]) with cobalt-55 and cobalt-57 [13]. Cell binding and internalization were investigated in PC3 cells and a mouse PC3 xenograft tumor model. They observed 12% cell internalization at 24 h which is similar to what has been reported for [111In]In-NOTA-PEG2-RM26 [112]. Biodistribution studies in PC3 tumor-bearing mice showed that at 3 h PI the tumor uptake was greater than uptake in any other organ including the kidneys. PET imaging studies using [55Co]Co-NOTA-PEG2-RM26 showed clear tumor uptake at 3 h PI and by 24 h PI the tumor showed high uptake (Figure 20).
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: Recently, Mitran et al. investigated the impact chelator modification had on PEG2-RM26 cell binding, internalization, and biodistribution in PC-3 prostate cancer [113]. PEG2-RM26 was bound to NOTA, DOTA, NODAGA, or DOTAGA and radiolabeled with cobalt-55 and cobalt-57. The NOTA- and DOTA-labeled peptides showed the highest uptake in PC-3 cells in vitro and DOTA-labeled peptide had the highest tumor uptake in vivo by 24 h PI. In PET imaging studies, NOTA and DOTA PEG2-RM26 showed near-complete clearance of the radiotracer from the kidneys and GI tract by 24 h, whereas NODAGA and DOTAGA had residual GI and kidney uptake respectively.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 7.25
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 15.7
+
+
+
+Context: Recently, Mitran et al. investigated the impact chelator modification had on PEG2-RM26 cell binding, internalization, and biodistribution in PC-3 prostate cancer [113]. PEG2-RM26 was bound to NOTA, DOTA, NODAGA, or DOTAGA and radiolabeled with cobalt-55 and cobalt-57. The NOTA- and DOTA-labeled peptides showed the highest uptake in PC-3 cells in vitro and DOTA-labeled peptide had the highest tumor uptake in vivo by 24 h PI. In PET imaging studies, NOTA and DOTA PEG2-RM26 showed near-complete clearance of the radiotracer from the kidneys and GI tract by 24 h, whereas NODAGA and DOTAGA had residual GI and kidney uptake respectively.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 4.5
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.58
+
+
+
+Context: Recently, Mitran et al. investigated the impact chelator modification had on PEG2-RM26 cell binding, internalization, and biodistribution in PC-3 prostate cancer [113]. PEG2-RM26 was bound to NOTA, DOTA, NODAGA, or DOTAGA and radiolabeled with cobalt-55 and cobalt-57. The NOTA- and DOTA-labeled peptides showed the highest uptake in PC-3 cells in vitro and DOTA-labeled peptide had the highest tumor uptake in vivo by 24 h PI. In PET imaging studies, NOTA and DOTA PEG2-RM26 showed near-complete clearance of the radiotracer from the kidneys and GI tract by 24 h, whereas NODAGA and DOTAGA had residual GI and kidney uptake respectively.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: In summary, cobalt-labeled GRPR targeting agonist and antagonist peptides successfully imaged PC3 prostate cancers. Therapy using a GRPR agonist peptide radiolabeled with cobalt-58m may be possible but would likely be limited by high uptake in non-target organs. Therapy with an antagonist remains to be determined but may suffer from low cellular internalization.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 3.71
+
+
+
+Context: In summary, cobalt-labeled GRPR targeting agonist and antagonist peptides successfully imaged PC3 prostate cancers. Therapy using a GRPR agonist peptide radiolabeled with cobalt-58m may be possible but would likely be limited by high uptake in non-target organs. Therapy with an antagonist remains to be determined but may suffer from low cellular internalization.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 5.96
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.9
+
+
+
+Context: In summary, cobalt-labeled GRPR targeting agonist and antagonist peptides successfully imaged PC3 prostate cancers. Therapy using a GRPR agonist peptide radiolabeled with cobalt-58m may be possible but would likely be limited by high uptake in non-target organs. Therapy with an antagonist remains to be determined but may suffer from low cellular internalization.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: More recently, bombesin analogues have been supplanted by prostate-specific membrane antigen (PSMA)-targeting agents in prostate cancer imaging, culminating in the NDA approval for [68Ga]Ga-PSMA-11 [114,115,116]. In 2017, Dam et al. compared 68Ga and 55/57Co-labeled PSMA-617 with in vitro-specific binding and internalization assays in LNCaP and PC3-PIP cells [12]. Observed KD values for both agents were similar to [111In]In-PSMA-617 [117]. In LNCaP cells incubated with [57Co]CoPSMA-617, >60% of the cell associated radioactivity was internalized after 30 min of incubation, which was higher than 68Ga-, 177Lu-, or 44Sc-labeled PSMA-617 [117,118]. PET imaging with [55Co]Co-PSMA-617 shows selective tumor uptake by 20 min P.I. and was sustained at 24 h PI. Additionally, by 24 h, tumor uptake was found to be higher than any other organ, including the kidneys [12].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 3.71
+
+
+
+Context: More recently, bombesin analogues have been supplanted by prostate-specific membrane antigen (PSMA)-targeting agents in prostate cancer imaging, culminating in the NDA approval for [68Ga]Ga-PSMA-11 [114,115,116]. In 2017, Dam et al. compared 68Ga and 55/57Co-labeled PSMA-617 with in vitro-specific binding and internalization assays in LNCaP and PC3-PIP cells [12]. Observed KD values for both agents were similar to [111In]In-PSMA-617 [117]. In LNCaP cells incubated with [57Co]CoPSMA-617, >60% of the cell associated radioactivity was internalized after 30 min of incubation, which was higher than 68Ga-, 177Lu-, or 44Sc-labeled PSMA-617 [117,118]. PET imaging with [55Co]Co-PSMA-617 shows selective tumor uptake by 20 min P.I. and was sustained at 24 h PI. Additionally, by 24 h, tumor uptake was found to be higher than any other organ, including the kidneys [12].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 7.84
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 7.97
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.83
+
+
+
+Context: The anti-HER2 [57Co]Co-DOTA-Z2395-C and anti HER3 [57Co]Co-ZHER3 affibodies showed promising tumor uptake, rapid blood clearance, and good imaging properties in the models tested. They would very likely translate well for labeling with 55Co for PET imaging. As a potential therapeutic, a 58mCo-labeled HER2/HER3 affibody may not show significant internalization needed for effective therapeutic response.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 22.84
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.31
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 4.17
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.9
+
+
+
+Context: The anti-HER2 [57Co]Co-DOTA-Z2395-C and anti HER3 [57Co]Co-ZHER3 affibodies showed promising tumor uptake, rapid blood clearance, and good imaging properties in the models tested. They would very likely translate well for labeling with 55Co for PET imaging. As a potential therapeutic, a 58mCo-labeled HER2/HER3 affibody may not show significant internalization needed for effective therapeutic response.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: Attempts to produce a therapeutic compound labeled with 58mCo would likely have to contend with poor intracellular internalization and high kidney uptake, similar to the challenges faced in the development of PSMA-targeted ligands. Additionally, EGFR targeting would cause a significant radioactive dose to the liver.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 9.56
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 5.55
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 4.5
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 3.7
+
+
+
+Context: Attempts to produce a therapeutic compound labeled with 58mCo would likely have to contend with poor intracellular internalization and high kidney uptake, similar to the challenges faced in the development of PSMA-targeted ligands. Additionally, EGFR targeting would cause a significant radioactive dose to the liver.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: A summary of molar activities obtained for the targeting paradigms discussed above is included in Table 3 below. Cobalt-55 and cobalt-58m are ideally suited as a matched-pair theranostic for use in both research and clinical environments. A wide range of production pathways are available for cobalt-55 and cobalt-58m with distinct advantages to each method. For use in clinical applications, enriched targets coupled with modern cyclotrons are likely the best path forward since this method can result in high radiochemical purities (>98%). Furthermore, the literature for chelating cobalt-58m was reviewed and results compared with clinically approved and other contemporary radiopharmaceuticals. In many of the applications reported, cobalt-55 and cobalt-58m are at least comparable to gallium-68 and lutetium-177 with some studies also reporting superior contrast with cobalt-55 over gallium-68 and higher cell-killing efficiencies with cobalt-58m as compared to lutetium-177. However, despite the favorable results, there have not been any in vivo human trials using cobalt-55 and cobalt-58m in targeted radionuclide therapy and thus further studies are necessary.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 7.89
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 9.67
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 6.0
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 3.71
+
+
+
+Context: A summary of molar activities obtained for the targeting paradigms discussed above is included in Table 3 below. Cobalt-55 and cobalt-58m are ideally suited as a matched-pair theranostic for use in both research and clinical environments. A wide range of production pathways are available for cobalt-55 and cobalt-58m with distinct advantages to each method. For use in clinical applications, enriched targets coupled with modern cyclotrons are likely the best path forward since this method can result in high radiochemical purities (>98%). Furthermore, the literature for chelating cobalt-58m was reviewed and results compared with clinically approved and other contemporary radiopharmaceuticals. In many of the applications reported, cobalt-55 and cobalt-58m are at least comparable to gallium-68 and lutetium-177 with some studies also reporting superior contrast with cobalt-55 over gallium-68 and higher cell-killing efficiencies with cobalt-58m as compared to lutetium-177. However, despite the favorable results, there have not been any in vivo human trials using cobalt-55 and cobalt-58m in targeted radionuclide therapy and thus further studies are necessary.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: The authors would like to acknowledge the support of awards from the Department of Energy Isotope Program DESC0021269 (Lapi).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 9.43
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.31
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 5.4
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 6.54
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 5.12
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 5.1
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.31
+
+
+
+Context: The authors declare no conflict of interest.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 12.16
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.9
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.99
+
+
+
+Context: * Molar activity calculated from provided methods.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 6.33
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 12.16
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 3.53
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 41.12
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 6.33
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 12.16
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 3.53
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 41.12
+
+
+
+Context: Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 10.75
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 3.22
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 3.77
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 3.56
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9

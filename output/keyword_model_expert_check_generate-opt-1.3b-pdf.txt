@@ -1,0 +1,290 @@
+Generated 40 responses in 626.65 seconds with average perplexity score of 84.67
+
+
+Context: natural thallium [1]. Natural thallium contains 29.5% 203Tl and 70.5% 205Tl. The possible nuclear reactions and their threshold energies to produce 203Pb from natural thallium are listed in Table 1. Horlock et al. reported the use of solvent extraction for separating lead and iron [1]. Garmestani et al. de- scribed a simple and rapid method for purification of cyclotron-produced 203Pb using a commercially avail- able Pb(II)-selective ion-exchange resin [3]. Numerous studies on ion-imprinted polymers and their manipula-
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: ______________________________________
+Score: 2.34
+
+
+
+Context:  Fig. 4. (Color online) Radiochemical yield of 125I-atorvastatin as a function of reaction time. suppressing the formation of electropositive iodine. Figure 4 shows how the 125I-atorvastatin yield depends on the reaction time in the range from 1 to 60 min. The labeling yield increased with time, reaching 94.3% in 30 min. An increase in the reaction time beyond 30 min led to a small decrease in the radiochemical yield due to side oxidative reactions, whereas shorter reaction time is apparently insuﬃ cient for CAT to fully react with iodide ions and generate the iodonium ions. water. The experimental log P of the labeled molecule (5.9 ± 0.3) was found to be higher than that of atorvastatin (5.4), which may be due to the attachment of iodine. Therefore, atorvastatin is eluted before radioiodinated atorvastatin on reversed-phase HPLC chromatogram (Fig. 1). The lipophilic characteristics of 125I-atorvastatin are important for predicting the uptake and excretion pathways, as hydrophobic radiopharmaceuticals are generally extracted via the hepatobiliary pathway (eﬃ ciently taken up from the blood by the liver, excreted into the bile, and stored by the gallbladder) and slightly via the renal route as it was demonstrated from the in vivo biodistribution studies. The structural and physicochemical link between the hydrophilic and lipophilic functional groups in 125I-atorvastatin is involved in the assessment of the binding aﬃ nity for hepatic transport proteins, the eﬃ cacy of their hepatocyte uptake, and the elimination rate. Eﬀ ect of Reaction Conditions on the Radiochemical Yield
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: ﬁrst band coming out is cobalt radioisotope (approximately 1 mL), and the second is the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for
+Score: 73.5
+
+
+
+Context: Article Establishing Reliable Cu-64 Production Process: From Target Plating to Molecular Speciﬁc Tumor Micro-PET Imaging Qinghua Xie 1,2,†, Hua Zhu 2,†, Feng Wang 2, Xiangxi Meng 3, Qiushi Ren 3, Chuanqin Xia 1,* and Zhi Yang 2,* 1 College of Chemistry, Sichuan University, Chengdu 610064, China; qinghxie@163.com 2 Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education), Department of Nuclear Medicine, Peking University Cancer Hospital & Institute, Beijing 100142, China; zhuhuananjing@163.com (H.Z.); windtigerwf@163.com (F.W.)
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: _________
+Score: 6.39
+
+Question: What are the products of the above reaction?
+Answer:er: __________
+Score: 19.23
+
+
+
+Context:  The quality of the 64Ni solid target prepared above was evaluated by a number of physical
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er:  The target material is dissolved in 6 M hydrochloride acid.
+Score: 94.31
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er:  The acid used in the elution is 1 M HCl.
+Score: 81.0
+
+
+
+Context: The 64Ni targets were prepared by electrodeposition of the enriched 64Ni (99.32%) solution prepared as described above. Electroplating of 64Ni was realized using a plating vessel of our own design and manufacture (Figure 1), where the Au disk was used as a cathode and platinum wire as an anode. The electrodeposition of 64Ni was achieved at 2.4–2.6 V and 15–25 mA with the platinum anode at ~1 cm from the Au disk electrode. This process took 48–72 h. The enriched 64Ni target was irradiated at 12.5 MeV (which decreased by Al) with 20 µA current on a Sumitomo HM-20 cyclotron (20 MeV) for about 5–7 h. 64Cu was produced from the 64Ni (p, n) 64Cu nuclear reaction.
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: ﬁrst band coming out was cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected.
+Score: 158.0
+
+
+
+Context: Both cobalt-55 and cobalt-58m are produced primarily from charged particle irradi- ation of iron or nickel targets. The availability of deuterons likely increases the purity of achievable cobalt-55 but has less bearing on the production of cobalt-58m except for from a target material cost perspective. Practically speaking, clinical application will always have to carefully consider target isotopic enrichment, but target fabrication and recovery are well developed (and reported) processes. These processes are described in greater detail below, treating the nuclear reactions relevant to each radionuclide separately. It should be stated that all radiation decay information comes from Brookhaven National Lab NuDat database [17].
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: ﬁrst band coming out was cobalt radioisotopes (approximately 1 mL), and the second was cobalt-58m, which was collected and evaporated to dryness.
+Score: 89.31
+
+
+
+Context: Targets of nickel and iron are relatively easy to fabricate; most literature reports describe electrochemical preparations because of the thermal and electrical conductivity of the resulting metal deposits, and presumably due to their compatibility with efforts to reuse costly separated materials. Nickel powder, natural or enriched, can be plated onto a silver or gold backings via electrodeposition with ﬁnal deposited nickel masses between 45 and 200 mg [14,26]. The procedure follows closely to the methods for plating nickel-64 for the production of copper- 64 [90,91]. In a generally representative process, nickel-58 powder is dissolved in 6 M HNO3, dried and reconstituted in 2.3 mL of 2.4 M H2SO4. The plating solution is adjusted pH 9 using 28% NH4OH and 270–300 mg of (NH4)2SO4 and transferred to a circular elec- troplating cell that consists of a Teﬂon base that is connected to the gold coin, allowing for a 5 mm plating diameter [26]. With graphite or platinum anodes, a DC voltage of 2.5–3.6 V is applied, producing currents ranging from 8 to 116 mA. Masses of 45–55 mg are deposited in ~12 h and larger masses (100–200 mg) take 2–3 days to quantitatively electroplate onto the cathode [14,26] leaving a clear and colorless electrolyte behind. Iron electroplating methods are largely adapted from Vosburgh et al. [89,92]. Metallic iron-5x powder is dissolved in 5 mL 6M HCl. To the dissolved iron solution, 100 µL of 30% H2O2 is added to promote the oxidation of iron 2+ ions in solution to 3+ ions. This solution is then dried to near completion, leaving <1 mL of solution in the dry down vessel. The residual solution is then diluted with 15 mL of saturated ammonium oxalate with a concentration of ~44 mg/mL H2O. From here, Valdovinos adjusts the pH of the solution between 2 and 3 with either 1 M NaOH or 1 M HCl [26]. However, Graves et al. uses an additional step of adding <100 mg of L-ascorbic acid to the saturated ammonium oxalate target solution to promote the reduction of iron 3+ ions to iron 2+ ions [93]. This solution is then adjusted to ~pH 3 before transferring to electroplating cell. Thisgaard et al. explains a different method for electroplating iron powder, adapted from Zaman and Qaim [28]. In this method, iron powder is dissolved in 1 mL of H2SO4 under nitrogen-atmosphere. once dissolved, the solution is diluted with distilled water to 5 mL in order to have a pH of 1.5. This solution is then used for the plating process on a silver backing, where the current density is reported as 28–35 mA/cm2 for 1.5 h with a ﬁxed voltage of 7.3 V. [87]. Another form of target fabrication is to press elemental enriched iron into 5 mm diameter pellets. Enriched iron material can come in the form of Fe2O3. If made from the oxide form, the target will have poor thermal conductivity. Therefore, the enriched Fe2O3 is reduced to elemental form by heating the powder at 800 ◦C for 4 h in a hydrogen tube furnace [86].
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: ﬁrst band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness.
+Score: 156.75
+
+
+
+Context:  4. Radiochemical Isolation and Preparation 4.1. Anion-Exchange Chromatography Because both cobalt-55 and cobalt-58m require isolation from iron or nickel target materials, many of the radiochemical isolation processes reported can be applied to multiple production schemes. Several anion-exchange resins such as Dowex-2, Amberlite IRA-400, and ANEX-L have been historically used for the separation of Co from various transition metals in HCl, HNO3, and HBr solutions [94]. Previously reported separation methods to remove nickel from cobalt used the AG 1 × 8 anion-exchange resin [14,24]. These methods included the use of multiple grams of resin packed into a glass column and equilibrated with 9 M HCl. The dissolved target solution in 9M HCl was loaded onto the column where the nickel elutes from the column in the eluate and 9M HCl wash in 10–40 mL. The cobalt-5x, which remains on the column during the large 9M HCl wash, is eluted from the column in 10 mL of 0.1 M HCl. The eluted cobalt fraction can then be evaporated to dryness and reconstituted in various matrices for further analysis and/or radiolabeling experiments. Anion-exchange chromatography also isolates cobalt-5x from iron target material [94]. After dissolving the target in acid, the iron is oxidized into the 3+ state with hydrogen peroxide. Instead of loading the cobalt-5x on to the anion-exchange resin and washing away the target material, as was performed in the nickel/cobalt anion-exchange separation, cobalt and iron are retained on the column when loaded. The cobalt can then be eluted form the anion-exchange column in 4 M HCl. The iron target will remain on the column during the 4 M HCl wash, but can be recovered in low concentrations of HCl. The HCl eluant containing cobalt-5x can also be evaporated and the cobalt-5x reconstituted in alternative matrices without incurring signiﬁcant losses [26,28,86,87]. Separation of cobalt-5x from manganese is similar to the isolation of cobalt-5x from nickel targets, but can use even less concentrated acidic media. As summarized by Bate and Leddicotte in “The Radiochemistry of Cobalt”, manganese in a dissolved target solution passes through a AG1 × 8 anion-exchange resin in HCl concentrations > 4.5 HCl. Once the target material is removed, the column can be washed with <4.5 M HCl to elute cobalt-5x [94].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er:  ﬁrst band coming out is cobalt radioisotope (approximately 1 mL), and the second band is the 64Cu, which is collected and evaporated to dryness.
+Score: 114.69
+
+
+
+Context: While not widely used for radiochemistry, early studies showed that cobalt can be separated from iron 3+ and nickel 2+ with the use of inorganic and organic absorbents [94]. Many of the inorganic separations were using alumina, a polar column chromatography absorbent [96]. The organic separations from iron 2+ and nickel 2+ rely on columns of 8-hydroxyquinoline, naphthaquinoline, and cupferron mixed with potato starch or dimethylglyoxime compound columns, as reported by Bate and Leddicotte, [94]. 5. Applications of Cobalt-55,58m 5.1. Free Cobalt-55 Free cobalt in the form of cobalt 2+ has been found to behave in the body similarly to calcium 2+ [97]. This has been found to be especially useful in tissues damaged by ischemia as these tissues contain high levels of intracellular calcium [98]. [55Co]CoCl2 PET has been used to image areas of the brain affected by ischemic stroke, showing that [55Co]CoCl2 uptake is inversely correlated to relative cerebral blood ﬂow (rCBF) [99]. Additionally,
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: __________________________________________
+Score: 3.89
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: __________________________________________
+Score: 3.89
+
+Question: What is the target material in the above reaction?
+Answer:er: ﬁrst band coming out was cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for
+Score: 76.38
+
+
+
+Context: The somatostatin receptors (SSTRs) are a family of 5 G protein-coupled receptors that contain somatostatin-binding extracellular domains [101]. Somatostatin (SST) is a 14 amino acid peptide involved in neurotransmission and cell proliferation [101]. While most normal cell types express somatostatin receptors, several tumor types overexpress the somatostatin receptor type 2 (SSTR2) [102]. Variations of somatostatin have been developed to bind to the SSTRs for the detection and treatment of cancers. These analogs deviate from the base structure of SST in ways that increase binding speciﬁcity and plasma stability [103]. The first agent approved for PET imaging of SSTR2 was [68Ga]Ga-DOTATATE (Netspot) in 2016 [104]. Since its approval, there has been interest in developing a PET agent for somatostatin receptor imaging with a longer half-life than gallium-68 to simplify patient logistics and to image longer time courses post injection with improved clearance from blood and non-target tissues. In a study published in 2008, Heppeler et al. investigated the effect of changing the metal ion on the afﬁnity of DOTATOC for SSTR analogs and compared their results to those published by Reubi et al. [105,106]. They found that Co-DOTATOC has higher afﬁnity than DOTATOC labeled with gallium and yttrium as well as octreotide [106]. Biodistribution studies of [57Co]Co-DOTATOC in mice with AR42J tumors revealed high (25% ID/g) tumor uptake at 4 h post injection (PI), even higher than the kidneys which are a clearance route for peptides. However, the tumor to kidney ratio did not increase at the 24 h timepoint. Crystallography with Ga- and Co-DOTA revealed similar pseudooctahedral geometry but differing charge states which may explain their differing binding afﬁnities [106]. This work led to a proof-of-concept study radiolabeling DOTATOC with cobalt- 55,56,58m [14]. In this study, the authors produced Co isotopes using the following reac- tions: 54Fe(d,n)55Co, natFe(p,x)56Co, and 58Fe(p,n)58mCo. They measured molar activities of >4 MBq/nmol for [58mCo]Co-DOTATOC and >0.21 MBq/nmol for [55Co]Co-DOTATOC, but [56Co]Co-DOTATOC wasnwas not examined [16]. Thisgaard et al. followed this work with a comparative in vivo evaluation of 57Co- labeled DOTATOC, DOTANOC, and DOTATATE with [111In]In-DOTATATE [107]. In a head-to-head comparison in AR42J cells, the three 57Co-labeled somatostatin analogues were found to have between 49 and 123% higher cellular uptake as compared to [111In]In- DOTATATE. All agents showed similar levels of nuclear translocation, with less than 10% of nuclear translocation observed up to 3 h post addition. The cell-killing abil- ity of the Auger emitter [58mCo]Co-DOTATATE was also compared to the beta emitter [177Lu]Lu-DOTATATE and the Auger emitter [111In]In-DOTATATE. At low concentra- tions, the [58mCo]Co-DOTATATE was more effective in causing DNA damage than 111In- labeled or 177Lu-labeled, while at higher concentrations the [177Lu]Lu-DOTATATE was most effective. When the cell-killing assay was normalized to cumulative decays, the [58mCo]Co-DOTATATE was consistently most effective at all concentrations tested. The authors attributed the limited degree of cell killing demonstrated by lutetium-177 to the cells being grown in monolayer, which restricts the ability of the emitted electrons to cross into adjacent cells to do damage. The superiority of 58mCo-over 111In-labeled DOTATATE may also be attributed to the higher binding afﬁnity of the cobalt-labeled DOTATATE for SSTR2. Similarly to the 2008 study, the authors performed a biodistribution study with [57Co]Co-DOTATATE and found high tumor uptake 1–4 h PI. By 4 h, most uptake in organs with SSTR2 expression such as the stomach and pancreas had greatly decreased [106].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: ____________________
+Score: 14.02
+
+Question: What are the products of the above reaction?
+Answer:er: ____________________
+Score: 14.47
+
+
+
+Context: The cell surface protein gastrin-releasing peptide receptor (GRPR) has become a popu- lar imaging target in recent years. GRPR is overexpressed by a large number of cancers including prostate, pancreatic, colon, and non-small cell lung cancers [108]. Agonist pep- tides such as bombesin bind to GRPR, trigger downstream signaling and are subsequently internalized into the cell. They have higher binding afﬁnity than antagonists and are taken up in organs with endogenous GRPR expression such as the pancreas, stomach, intestines and adrenal glands [109]. The lower binding afﬁnity of GRPR antagonists, however, may be advantageous for imaging studies as it leads to lower uptake in normal tissues [110]. The ﬁrst cobalt-55 imaging of GRPR was reported in 2016 by Dam et al. [111] and compared 55Co-, 57Co-, and 68Ga-labeled GRPR agonist NOTA-AMBA (NOTA-Gly-4-ABz- Gln-Trp-Ala-Gly-His-Leu-Met-NH2) in a PC3 prostate cancer. 57Co- and 68Ga-labeled NOTA-AMBA were found to have similar receptor afﬁnities, serum stabilities, and phar- macokinetics at 1 h and 4 h PI [55Co]Co-NOTA-AMBA enabled PET imaging at a 24 h timepoint (and beyond) which is not possible with [68Ga]Ga-NOTA-AMBA and revealed encouraging clearance of the tracer and stable late uptake of [5xCo]Co-NOTA-AMBA in the tumor [111]. In 2017, Mitran et al. reported radiolabeling GRPR antagonist RM26 (NOTA-PEG2- [D-Phe, Sta, Leu] bombesin [6–14]) with cobalt-55 and cobalt-57 [13]. Cell binding and internalization were investigated in PC3 cells and a mouse PC3 xenograft tumor model. They observed 12% cell internalization at 24 h which is similar to what has been reported for [111In]In-NOTA-PEG2-RM26 [112]. Biodistribution studies in PC3 tumor-bearing mice showed that at 3 h PI the tumor uptake was greater than uptake in any other organ including the kidneys. PET imaging studies using [55Co]Co-NOTA-PEG2-RM26 showed clear tumor uptake at 3 h PI and by 24 h PI the tumor showed high uptake (Figure 20). The IC50 for Co-NOTA-PEG2-RM26 (5.54 ± 0.4 nM) [10] is approximately 10-fold higher than Co-NOTA-AMBA (0.46 ± 0.20 nM) [13,111]. In vivo comparisons between [57Co]Co-NOTA-AMBA and [57Co]Co-NOTA-PEG2-RM26 are complicated as the early imaging times are not matched between studies. However, comparison at the 24 h timepoint shows greater uptake of [57Co]Co-NOTA-AMBA than [57Co]Co-NOTA-PEG2-RM26 in the tumor as well as many other organs. Even though the tumor uptake was less, the tumor to organ ratios for [57Co]Co-NOTA-PEG2-RM26 were sometimes 100-fold greater than what was observed with [57Co]Co-NOTA-AMBA. This was most notable in tissues with high GRPR expression such as the colon, pancreas, and stomach. The 24 h PI PET images provided, with both papers similarly showing lower non-target organ accumulation with the [55Co]Co-NOTA-PEG2-RM26 than with [55Co]Co-NOTA-AMBA. Recently, Mitran et al. investigated the impact chelator modiﬁcation had on PEG2- RM26 cell binding, internalization, and biodistribution in PC-3 prostate cancer [113]. PEG2- RM26 was bound to NOTA, DOTA, NODAGA, or DOTAGA and radiolabeled with cobalt- 55 and cobalt-57. The NOTA- and DOTA-labeled peptides showed the highest uptake in PC-3 cells in vitro and DOTA-labeled peptide had the highest tumor uptake in vivo by 24 h PI. In PET imaging studies, NOTA and DOTA PEG2-RM26 showed near-complete clearance of the radiotracer from the kidneys and GI tract by 24 h, whereas NODAGA and DOTAGA had residual GI and kidney uptake respectively.
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: ﬁrst cobalt-55 is the product of the reaction.
+Score: 24.14
+
+
+
+Context: Folate receptors (FR) are expressed on the surface of cells and reduce extracellular folic acid derivatives, delivering them across the cell membrane [119]. Their overexpression by many cancers makes them interesting pharmacological targets [119,120]. Radford et al. 55Co-labeled two folate receptor-targeting constructs, cm10 (DOTA tagged) and rf42
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: ﬁrst band coming out is co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M
+Score: 106.5
+
+
+
+Context:  Further investigation into the ZHER3 afﬁbody involved modifying the chelator to determine if imaging qualities could be improved [135]. In addition to NOTA, which was used previously, DOTA-, NODAGA-, and DOTAGA-tagged ZHER3 were 57Co labeled. In vitro assays showed nearly equal, blockable binding of the afﬁbody conjugated DOTA, NODAGA, and DOTAGA. The measured equilibrium disassociation constants, KD, were 0.2 nM for DOTA and DOTAGA constructs and 0.1 nM for the NOTA and NODAGA con- structs. Interestingly, the internalization fraction of [57Co]Co-NOTA-ZHER3 in DU145 cells was observed to be 5% over 24 h, while their previous study showed as compared to 50% in their previous study [134]. In vivo, [57Co]Co-(NOTA/NODAGA/DOTA/DOTAGA)- ZHER3 were compared at 3 h and 24 h PI. The DOTA- and DOTAGA-conjugated afﬁbod- ies showed more rapid blood clearance than those labeled with NOTA and NODAGA. [57Co]Co-DOTA-ZHER3 was compared to [68Ga]Ga-NODAGA-ZHER3 at 3 h post injection and [57Co]Co-DOTA-ZHER3 was followed to 24 h (see Figure 21 below). At 3 h, [68Ga]Ga- NODAGA-ZHER3 showed similar tumor uptake but lower blood, liver, and small intestine uptake. By 24 h, [57Co]Co-DOTA-ZHER3 showed similar tumor to organ ratios as 68Ga at 3 h PI [135]. Figure 21. Chemical structures and charges of studied cobalt-chelate complexes (A). SPECT/CT images of the [57Co]Co- HEHEHE-ZHER3-X afﬁbody with NOTA, NODAGA, or DOTA chelator (B). For each agent tested, the later imaging timepoint produced better tumor contrast. PET/CT of [68Ga]Ga-HEHEHE-ZHER3-NODATA was only possible to 3 h PI and showed greater kidney accumulation (C) [135]. The anti-HER2 [57Co]Co-DOTA-Z2395-C and anti HER3 [57Co]Co-ZHER3 afﬁbodies showed promising tumor uptake, rapid blood clearance, and good imaging properties in the models tested. They would very likely translate well for labeling with 55Co for PET imaging. As a potential therapeutic, a 58mCo-labeled HER2/HER3 afﬁbody may not show signiﬁcant internalization needed for effective therapeutic response.
+ 
+
+Question: What are the products of the above reaction?
+Answer:er:  ﬁrst band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M
+Score: 114.69
+
+
+
+Context: 26. Valdovinos, H.F.; Hernandez, R.; Graves, S.; Ellison, P.A.; Barnhart, T.E.; Theuer, C.P.; Engle, J.W.; Cai, W.; Nickles, R.J. Cyclotron production and radiochemical separation of 55Co and 58mCo from 54Fe, 58Ni and 57Fe targets. Appl. Radiat. Isot. 2017, 130, 90–101. [CrossRef] [PubMed] 27. Vlasov, N.A.; Kalinin, S.P.; Ogloblin, A.A.; Pankramov, V.M.; Rudakov, V.P.; Serikov, I.N.; Sidorov, V.A. Excitation functions for the reactions Mg21(d, α)Na22, Fe54(d, α)Mn52 Fe54(d, n)Co55, and Zn56(d, 2n)Ga66. Sov. J. At. Energy 1957, 2, 189–192. [CrossRef] 28. Zaman, M.; Spellerberg, S.; Qaim, S. Production of Co-55 via the Fe-54(d, n)-process and excitation functions of Fe-54(d, t)Fe-53
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: __________________________________________
+Score: 6.44
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: _________
+Score: 5.81
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: _________
+Score: 5.81
+
+Question: What are the products of the above reaction?
+Answer:er: ﬁrst band coming out was Co-55, and the second band was Co-55.
+Score: 96.19
+
+
+
+Context: targets by their irradiation with fast or thermal neu- trons [7, 8], γ-quanta [9], or accelerated protons or other charged particles [10, 11]. The starting 226Ra is also difficultly available. In addition, radium targets of relatively large mass are dangerous in handling, which gives rise to serious problems in their wide application, especially in cases when radium regeneration from the irradiated targets is required. Another radionuclide promising for medicine is 223Ra (T1/2 = 11.4 days). It is directly used for therapy of bone tumor diseases [12]. It can also serve as a source of 211Pb (T1/2 = 36 min) in generators [13]. The common route to small amounts of 223Ra is its isolation from 235U decay products. Large amounts of 223Ra can be produced by irradiation of 226Ra in a nuclear reac- tor, followed by chemical isolation of the formed 227Ac (T1/2 = 21.8 years) decaying into 227Th (T1/2 = 18.7 days) and then into 223Ra. As already noted, irra- diation and processing of a radium target involve seri- ous problems.
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: ﬁrst band coming out was cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness.
+Score: 208.5
+
+
+
+Context:  the product (18 days after irradiation completion), de- termined by α- and γ-ray spectrometry: 226Ac (Т1/2 = 29 h) 0.1%, 227Ac (Т1/2 = 21.8 years) ≤0.1%, other ra- dionuclides <0.1%. Chemical isolation of Ra. Radium-223 was iso- lated by a gas-chemical method used previously for isolating certain actinide, lanthanide, and alkaline- earth elements in the carrier-free form [23, 24]. The method is based on the fact that Ra in the metallic state is considerably more volatile than Th and a number of other interfering elements (Ac, Pa, La, Pm, Ce, Nd, Be, Cr, Zr, Mo, Nb, Tc, Sn, Ag, Ru, Rh). The addition of metallic La is extremely important. Thorium placed in a zirconium crucible together with metallic La dis- solved in liquid La in the course of heating, which en- sured fast diffusion of the microelements being iso- lated in the liquid metal and high degree of sublima- tion of Ra isotopes. The presence of metallic La also stabilizes the metallic state of nonvolatile elements (actinides, lanthanides, and also Sn) which could sub- lime at the experiment temperature in the form of vola- tile lower oxides from vessels made of Ti and Zr [25]. Lanthanum also binds into nonvolatile compounds Sb and Te, which under other conditions readily sublime at approximately 1200°С [26]. Special experiments showed that without metallic La the Ra sublimation yield decreased and some other interfering elements sublime, which makes the subsequent thermochroma- tographic separation less efficient. Heating of the irradiated metallic Th in the pres- ence of La for 2 h at 1200°С ensured release of more than 99% of radium isotopes (223Ra, 224Ra, 225Ra), of Sr and Ba isotopes, and also of I, Br, Cd, and Cs, which are highly volatile in the elementary state. The ele- ments that exhibit low volatility in the elementary state (Ac, Th, Pa, U, Ru, Sn, Zr, Nb, Y, Mo, Ce, Pm, Nd), and also Sb and Te did not sublime and fully remained in the crucible. Figure 9 shows the temperature de- pendence of the release of various elements from a melt with La (the points characterize stepwise heating of the same sample at successively increasing tempera- tures, for 1 h at each temperature). The relatively low degree of the release of I can be accounted for by low rate of diffusion of large iodide ion in a Th–La melt. Figure 10 shows the distribution of the isolated ele- ments in the titanium thermochromatographic column. The deposition temperature of Ra, Ba, and Sr (maxi- mum of the thermochromatographic peak) under these conditions was 800 ± 30; that of Be, ≥1170; that of
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: сobalt radioisotopes (approximately 1 mL), and the second band represents products.
+Score: 193.62
+
+
+
+Context: Cadmium-109 has found application in physiological research on animals and plants for more than forty years informations. This which has provided useful radionuclide can probably be used for inhibition of liver cancerous cells,12,13 as well as for tissue imaging with computed SPECT (single photon tomography).14 Additionally, to investigate the ecosystem.15 emission it can be used The production of 109Cd with a proton beam can be performed by reactions: In+p,16 that needs an energy of about 96 MeV, Ag+d17 with energy 13.4 MeV and Ag+p,18,19 with an energy range between 14 and 9 MeV. Cyclotron is ideal for this work. Accelerator production of 109Cd is largely achieved via nuclear reactions 109Ag(p,n)109Cd and 109Ag(d,2n)109Cd which are well suited for medium to low-energy cyclotrons. Our centre in Karaj employs a Cyclone-30 (IBA, Belgium). Solid targetry systems on these accelerators are made of pure copper backing onto which target materials are electrodeposited. It is noted that silver electrodeposits prepared from nitrate solutions, free of any organic or inorganic additive, are not smooth or compact, regardless of plating condition used. They consist of grains growing independently of each other and under given plating conditions may degenerate as dendrites.20 Since most of the work directed at replacing cyanide in silver plating 0236–5731/USD 20.00 © 2008 Akadémiai Kiadó, Budapest
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: ﬁrst band coming out was cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness.
+Score: 90.0
+
+
+
+Context:  Four symmetrical windows (22.36 or 11.69 cm2) on the vertical side wall allow up to four copper targets backing positioning. Each slot is sealed by an O-ring fitted window. The geometrical shape of the slot determines the actual target electrodeposition area. The liquid-tight sealing of the windows is realized by stainless steel mechanical pestles mounted on a PVC ring surrounding plating vessel and by pressing the copper backing against O-ring seal. An external PVC ring is fitted with four supporting pins to hold a motor-stirrer combination in position. The stirrer is a hollow perforated POM cylinder mounted on the axis of a DC motor and surrounding the platinum anode. The stirrer rotation speed is set at 600 rpm; during the process, its rotating direction is reversed after 8 seconds improving deposit homogeneity. To keep the desired temperature at a preset level, a heater (a series of six isolated 1 Ω/W resistors, through which an appropriate DC-current is forced (1.1 A, 40 °C up to 1.8 A, 60 °C) is circularly mounted at the bottom of the vessel. An insulated sensor, introduced through the stirrer support-plate, temperature. As monitors electrolysis to depletion requires long-time (up to 24 hours) plating, evaporation of plating solution occurs. To maintain a constant liquid volume (450 ml), a conductivity glass/graphite sensor monitors the solution level and actuates a peristaltic pump at the required rate, supplying distilled water to compensate evaporation losses. The rack-mounted home-made electronics includes a motor/stirrer control, an adjustable DC voltage generator card and four V/I converters coupled to current boosters.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: _________
+Score: 9.43
+
+
+
+Context: Abstract—Various methods have been developed for the extraction of a promising medical radionuclide 117mSn from proton-irradiated TiSb intermetallic compound, a target material suitable for irradiation with an intense beam of accelerated protons. To separate radiotin from Ti, Sb, and radionuclides of other elements, methods of ion- exchange chromatography and liquid extraction were used, in particular, the anion-exchange separation of tin and titanium in the form of a peroxide complex in HCl solution, extraction of tin with benzene from iodide solutions, and chromatographic puriﬁ cation on silica gel from citrate solutions. As a result, 117mSn of high purity, which meets the requirements for nuclear medicine, was obtained. Keywords: 117mSn, TiSb intermetallic compound, proton irradiation, separation of radiotin and titanium, ion exchange, extraction. DOI: 10.1134/S1066362221060114 In recent decades, the therapy of oncological and other human diseases with the use of radiopharmaceuticals (RP) has developed signiﬁ cantly. More than 80% of cancer patients suﬀ er from bone metastases [1]. Interstitial radionuclide therapy using RP based on radionuclides releasing electrons is one of the eﬀ ective methods of treating patients with widespread bone metastases. RP based on the 117mSn radionuclide (in particular, 117mSn4+DTPA) [2–5] have a number of advantages over other drugs. The decay of the metastable radionuclide 117mSn is accompanied by the release of monoenergetic conversion electrons (127, 129, and 152 keV) with a short and discrete range of 0.2–0.3 mm in biological tissue. Soft radiation leads to a local eﬀ ect on tumor cells without damaging healthy tissues. The γ-radiation (159 keV) during the decay of 117mSn may be used to control the therapeutic eﬀ ect (theranostics). Clinical trials of drugs 117mSn4+DTPA for the relief of bone pain, 117mSn4+DOTA-annexin for the treatment of cardiovascular diseases, and the 117mSn colloid for the relief of pain in osteoarthritis and rheumatoid arthritis are being successfully carried out [1, 6]. Until recently, 117mSn was produced mainly from the reactions of stable tin isotopes, 116Sn(n,γ)117mSn or 117Sn(n,n’γ)117mSn, with neutrons. In this case, the speciﬁ c activity of 117mSn did not exceed 740 GBq/g (20 Ci/g) [2, 7]. The presence of stable tin seriously limits the possibilities of medical application of the reactor-produced 117mSn. A product with a high speciﬁ c activity can be obtained via reactions with accelerated charged particles, of which two approaches are the most promising and demonstrate comparable production rates of 117mSn: nat,121,123Sb(p,x)117mSn [8, 9] and 116Cd(α,3n)117mSn [10,11]. Nowadays, powerful and compact cyclotrons of the Cyclone 70-type, developed and manufactured by the IBA Company (Belgium), are becoming more widespread, capable of accelerating proton beams with an intensity of more than 300 μA to an energy of 70 MeV. Such cyclotrons are successfully applied for large-scale production of radioisotopes, mainly for medical purposes [12, 13]. On the basis of experimentally determined cross sections, it was shown [14] that the 117mSn radionuclide can be produced by proton irradiation of an antimony target with an initial energy of 145 MeV and below. Irradiation of natural antimony or antimony enriched with 123Sb with the proton energy 55 or 70 MeV, respectively, leads to the formation of 117mSn, which contains a trace amount of the undesirable long-lived radioisotope 113Sn. The presence of another long-lived radioisotope 119mSn (Т1/2 = 293 days), as impurity, which releases soft
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: ﬁnium-64, which is the target material.
+Score: 32.66
+
+
+
+Context: gamma radiation during decay into stable 119Sn, does not interfere with medical use of 117mSn. Therefore, the implementation of the nat,123Sb(p,x)117mSn approach on cyclotrons of the Cyclone 70-type for producing large amounts of 117mSn of medical quality seems especially promising. In [15], we proposed a method for obtaining no-carrier-added 117mSn from a thick target of metallic antimony irradiated with protons. After dissolution of the antimony target, the radiotin was isolated by liquid- liquid extraction (LLE) with dibutyl ether, followed by exhaustive puriﬁ cation on silica gel. The method provides production of up to 3 Ci (100 GBq) 117mSn of high radionuclidic purity with a speciﬁ c activity of about 1000 Ci/g (more than 40 GBq/mg). However, since metallic antimony has low thermal conductivity, low melting point and high vapor pressure, antimony targets cannot withstand prolonged exposure to high-intensity proton currents. In addition, antimony actively interacts with many materials that are usually used for the manufacture of the target shell, which leads to its radiation damage. Instead of metallic antimony, intermetallic compounds, such as TiSb, NiSb, and AlSb, were considered as a target material, of which TiSb turned out to be the most promising [16]. The TiSb properties, unique in many respects, have been studied since the 1950s [17]. The compound combines high stability (the enthalpy of formation is estimated as –167 kJ/mol [18]), and a high melting point of 1160°C with pronounced metallic properties, including high electrical and thermal conductivity. According to our estimate, the value of the latter is twice the thermal conductivity of titanium and antimony taken separately. In the chemical separation of 117mSn from irradiated TiSb, it is necessary to remove not only macro-quantites of antimony, but also macroquantites of titanium. Previously, removal of antimony was studied in [15]. Removal of titanium is diﬃ cult due to the similarity of its chemical behavior with that of tin; in the few studies described in the literature, extraction and chromatographic separation methods are used. Sn(IV) can be extracted with methyl isobutyl ketone from 7 M HCl solutions, while Ti(IV) remains in the aqueous phase [19]. Then, the tin is reextracted with dilute solutions of hydrochloric or sulfuric acid [20]. In analytical practice, tin is also extracted with benzene from HI solutions. The extraction of tin with
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: ﬃ
+Score: 14.47
+
+
+
+Context: Isolation of no-carrier-added 117mSn from an irradiated antimony target is not an easy task, since these elements have similar chemical behavior. In the case of the separation of 117mSn from the TiSb intermetallic compound, the task is complicated by the need to purify also from titanium, which also exhibits chemical properties close to that of tin. Therefore, the main task of this study was the eﬃ cient separation, providing a high chemical yield, of radiotin from the macrocomponents of antimony and titanium. For puriﬁ cation from the main amount of antimony in the presence of titanium, we used extraction with dibutyl ether, which was described previously in the absence of titanium in [15]. Extraction was performed from a model 10 M HCl solution containing 55 g/L Sb, 20 g/L Ti, and a label (113Sn, 124Sb, and 44Ti) (Table 2). The study showed that following three successive extractions, more than 99.7% of antimony passes into dibutyl ether, while radiotin and titanium remain in the aqueous phase. After the ﬁ rst stage of extraction, the concentration of antimony decreases to 1.5 g/L. After three stages, it may be reduced to 0.1 g/ L. More than 95% of titanium and radiotin remain in the aqueous phase. It was found that the extraction of antimony in the presence of titanium proceeds in the same way as in its absence. For the subsequent puriﬁ cation of radiotin from titanium macroquantities, both chromatography on strong anion exchangers with the addition of hydrogen peroxide and extraction with benzene from iodide solutions were used.
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: ﬁrst band coming out was Co-117mSn, and the second was Co-117mSn, which was collected.
+Score: 71.75
+
+
+
+Context: Fig. 3. Integral curves of 113Sn elution at various concentrations of antimony in the initial solution. Sorbent AG 1 × 8, column 0.6 cm in diameter and 6 cm in height, ﬂ ow rate 0.8 mL/min. Antimony concentration, g/L: (1) (2–5) × 10–3, (2) 3.6, and (3) 14.4. Fig. 4. Integral curves of antimony elution at various concentrations of antimony in the initial solution. Sorbent AG 1 × 8, column 0.6 cm in diameter and 6 cm in height, ﬂ ow rate 0.8 mL/min. Antimony concentration, g/L: (1) (2–5) 10–3, (2) 3.6, and (3) 14.4. – the concentration of antimony in the initial solution should be on the order of 1 g/L, i.e. most of the antimony should be previously removed, by extraction with dibutyl ether in particular; HCl + 7 M LiCl reaches 96%, whereas the titanium concentration decreases only 60 times. Thus, this method does not allow for complete puriﬁ cation of the radiotin from titanium macroquantities in a high yield.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: ﬁrst band coming out is cobalt radioisotopes (approximately 1 mL), and the second is the 64Cu, which is collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for
+Score: 78.5
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: ﬂ the target material is dissolved in 6 M hydrochloride acid.
+Score: 211.0
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: ﬂ The solution was loaded into an anion exchange column.
+Score: 160.5
+
+Question: What are the products of the above reaction?
+Answer:er: ﬁrst band coming out was cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected.
+Score: 160.5
+
+
+
+Context:  Fig. 7. Fraction of antimony (1) and radiotin (2) remained in the aqueous phase after extraction, depending on the concentration of KI in the initial solution. Fig. 8. Results of chromatographic puriﬁ cation of radiotin on silica gel from a 0.5 M Na3Cit solution (pH 5.5) containing traces of nitrate ions. Column 0.6 cm in diameter and 6 cm in height, ﬂ ow rate 0.6 mL/min. – the optimal composition of the aqueous phase is 4.66 М HClO4 + 1 M H2SO4 + (0.5–1) М KI, the the organic phase is benzene, previously saturated with a solution of 4.66 М HClO4 + 1 M H2SO4;
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er:  ﬁrst band coming out is cobalt radioisotopes (approximately 1 mL), and the second is the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for
+Score: 81.62
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  ﬂ The solution was loaded into a column of silica gel, which is a resin/column.
+Score: 81.94
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er:  ﬁrst band coming out is co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M
+Score: 110.75
+
+Question: What are the products of the above reaction?
+Answer:er:  ﬁrst band coming out was Co-64, which was collected.
+Score: 165.62
+
+
+
+Context:  Dowex 1 × 8 anion exchangers from a 6 M HCl solution in the presence of H2O2. It was shown that AG-1 × 8 provides higher puriﬁ cation eﬃ ciency. In the extraction separation of radiotin and titanium, the best results were achieved for the extraction of radiotin with benzene from a solution containing a mixture of perchloric and sulfuric acids and iodide ions with a concentration of 0.5–1 M. Each of the methods used has its own advantages and disadvantages [30]. In our case, the advantage of extraction in comparison with chromatography is the short time of the process, and the disadvantage is a slightly lower yield of radiotin and worsening of its puriﬁ cation from titanium at a residual concentration of antimony in the initial solution above 0.1 g/L. In our opinion, the method of titanium separation on the AG 1 × 8 anion exchanger is most preferable, since it, although being more time-consuming, is less sensi- tive to the antimony content in the initial solution (about 1 g/L), and is also easier-to-implement in hot chambers. In both methods, the separation of radiotin was terminated by chromatographic puriﬁ cation on silica gel from a solution containing 0.5 M sodium citrate at pH 5.5. As a result, the 117mSn product with high radionuclidic purity and high speciﬁ c activity was obtained in at least 75-% yield, which is promising for the development of production technology of 117mSn in large quantities in the future.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: ﬁrst band coming out of the anion exchanger is cobalt radioisotope (approximately 1 mL), and the second band is the 64Cu, which is collected and evaporated to dryness.
+Score: 96.19
+
+
+
+Context: 8/0 9/0 10/0 11/0 12/0 13/0 14/0 15/0 16/0 18/0 Yield of 123I, MBq (cid:0)A(cid:4)1 h(cid:4)1 (cid:2) (cid:2) (cid:2) (cid:2) 0.0121 0.184 0.854 2.58 5.55 17.0 Yield of 124I, MBq (cid:0)A(cid:4)1 h(cid:4)1 0.0056 0.0464 0.184 0.407 0.666 0.851 1.15 1.39 1.57 1.78 The optimal radionuclide purity of the target prod- uct for medical purposes should be no less than 99.5%, i.e., the content of 123I should be no more than 0.5%. In this case, the initial proton energy should not exceed 11.6 MeV. Under these conditions, the (p, 2n) reaction is completely prevented; the maximal yield of 124I is 0.5568 MBq (cid:5)A(cid:2)1 h(cid:2)1 at the proton energy of 11.6/8.0 MeV [7]. To decrease the amount of expensive initial starting material (124Te), the energy of the charged particles should be lower (11.6/8.6 MeV); in this case the loss of 124I would be no more than 3.4%. The data on the yields of the final product as influenced by the energy of charged particles and intensity of the proton beams are given below.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: ______________________________________
+Score: 32.94
+
+
+
+Context: 289.138 and 369.419 nm; lutetium, 291.139 and 302.054 nm. Extraction tests were carried out in test tubes with a volume of 15 mL. The phases were in contact for 5 min. Reextraction of Lu and Yb from the organic phase was carried out with 5 M HNO3 solutions. Before taking the back extract for analysis, the samples were centrifuged to completely separate the aqueous and organic phases. Then the concentrations of ytterbium and lutetium in the back extracts were determined. Solutions of Yb and Lu metals were prepared according to the standard procedure: metal oxides (99.99%) weighed on a Mettler Toledo ML303T/A00 analytical balance (accuracy class II), were dissolved in concentrated 8 M nitric acid at heating without boiling. The solution was evaporated to dryness. After cooling, the resulting mixed salt was dissolved in 1 M HNO3, transferred into a 25-mL volumetric ﬂ ask, and made up to the mark with distilled water. As a result, standard solutions of 20 g/L Lu and 200 g/L Yb were prepared. Working solutions were produced by diluting the standard. Working concentrations varied from 0.05 to 200 g/L. The concentrations of standard solutions were monitored by inductively coupled plasma atomic emission spectrometry (ISP-OES) on a Prodigy Plus spectrometer. The following characteristic wavelengths of radiation of Yb and Lu atoms were chosen: ytterbium 289.138 and 369.419 nm; lutetium 291.139 and 302.054 nm. Extraction tests were carried out in 15 mL test tubes with a volume. The phases were in contact for 5 min. Reextraction of Lu and Yb from the organic phase was carried out with 5 M HNO3 solutions. Before taking the back extract for analysis, the samples were centrifuged to completely separate the aqueous and organic phases. Then the ytterbium and lutetium concentrations in the back extracts were determined.
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: ﬁrst band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected.
+Score: 319.25

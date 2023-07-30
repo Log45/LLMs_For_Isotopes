@@ -1,0 +1,13 @@
+Generated 2 responses in 146.81 seconds with average perplexity score of 15.71
+
+
+Context: Some of the challenges facing a therapeutic target to folate receptors include the lack of specificity towards folate receptor isoform α versus isoform β. While FRα is primarily expressed by epithelial cancers, it has high expression in the kidneys [125]. FRβ is expressed in adult tissues primarily in immune cells such as macrophages, neutrophils and monocytes [120]. Delivery of a folate receptor-targeted therapy to the tumor while sparing the kidneys has been demonstrated to be a difficult challenge [126]. The constructs cm10 and rf42 each contain an albumin-binding domain which contributes to lowering kidney uptake, which may allow them to be used therapeutically.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 24.19
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 7.23

@@ -1,0 +1,2205 @@
+Generated 355 responses in 2979.03 seconds with average perplexity score of 20.66
+
+
+Context: A number of radiotracers involving 64Cu as radionuclide have been applied in nuclear medicine as a means of studying their PET imaging [4,5,6]. Incorporation of 64Cu into diacetyl-bis(N4-methylthiosemicarbazone) (ATSM) ligand was used for PET hypoxia imaging, such as in head and neck cancer, and cardiac conditions [7,8]. More radiotracers are in clinical development [9,10,11,12], especially those with peptides and antibodies. For example, 64Cu-DOTA-trastuzumab was used to conduct PET imaging of HER2-positive lesions in patients with primary and metastatic breast cancer [13]. The PET image of 64Cu-DOTATATE provided superior image quality, and detected more lesions than 111In-DTPA-octreotide [14]. Grubmüller, B. et al. investigated the diagnostic potential of 64Cu-PSMA-617 in patients with prostate adenocarcinoma [15].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Cu is the target material.
+Score: 8.1
+
+
+
+Context: A number of radiotracers involving 64Cu as radionuclide have been applied in nuclear medicine as a means of studying their PET imaging [4,5,6]. Incorporation of 64Cu into diacetyl-bis(N4-methylthiosemicarbazone) (ATSM) ligand was used for PET hypoxia imaging, such as in head and neck cancer, and cardiac conditions [7,8]. More radiotracers are in clinical development [9,10,11,12], especially those with peptides and antibodies. For example, 64Cu-DOTA-trastuzumab was used to conduct PET imaging of HER2-positive lesions in patients with primary and metastatic breast cancer [13]. The PET image of 64Cu-DOTATATE provided superior image quality, and detected more lesions than 111In-DTPA-octreotide [14]. Grubmüller, B. et al. investigated the diagnostic potential of 64Cu-PSMA-617 in patients with prostate adenocarcinoma [15].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 64Cu is a positron emitter, and the PET imaging is a technique for determining the distribution of a radioactive substance in the body. The PET imaging is a non-invasive method for detect
+Score: 7.23
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl.
+Score: 10.51
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu-DOTA-trastuzumab, 64Cu-DOTATATE, and 64Cu-PSMA-617.
+Score: 5.86
+
+
+
+Context: Here we report a robust, reliable and user-friendly plating vessel, which can be used for the effective preparation of the 64Ni solid target. The production of 64Cu was performed on a Sumitomo HM-20 biomedical cyclotron (20 MeV) via the 64Ni (p, n) 64Cu reaction. The γ-ray spectroscopy of the produced 64Cu solution was also measured to evaluate the radionuclide impurities. After 64Cu was purified, a labeling experiment to synthesize 64Cu-DOTA-Rituximab was performed to examine the quality of 64Cu, including labeling yield and radiochemical purity of the radiotracer, which targets the CD20 antigen, which is expressed on B cell lymphocytes and in the majority of non-Hodgkin’s lymphoma (NHL) [28]. The synthesized radiotracer was further examined by micro-PET imaging using SCID (severe combined immune deficiency) mice bearing Ramos RA1 tumors which overexpress CD20 antigen.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 17.4
+
+
+
+Context: Here we report a robust, reliable and user-friendly plating vessel, which can be used for the effective preparation of the 64Ni solid target. The production of 64Cu was performed on a Sumitomo HM-20 biomedical cyclotron (20 MeV) via the 64Ni (p, n) 64Cu reaction. The γ-ray spectroscopy of the produced 64Cu solution was also measured to evaluate the radionuclide impurities. After 64Cu was purified, a labeling experiment to synthesize 64Cu-DOTA-Rituximab was performed to examine the quality of 64Cu, including labeling yield and radiochemical purity of the radiotracer, which targets the CD20 antigen, which is expressed on B cell lymphocytes and in the majority of non-Hodgkin’s lymphoma (NHL) [28]. The synthesized radiotracer was further examined by micro-PET imaging using SCID (severe combined immune deficiency) mice bearing Ramos RA1 tumors which overexpress CD20 antigen.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 64Ni is a metal, so it is not loaded into a resin/column.
+Score: 18.14
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 19.92
+
+Question: What are the products of the above reaction?
+Answer:er: 64Ni and 64Cu.
+Score: 8.29
+
+
+
+Context: In order to make 64Cu via the nuclear reaction of 64Ni (p, n) 64Cu, we made the enriched 64Ni targets on a gold (Au) disk by electrodeposition of 64Ni from an aqueous solution of Ni(NH3)62+ at pH = 9.05, using a robust, reliable and user-friendly apparatus (Figure 1). The Au disk (30.8 mm diameter × 1.5 mm thickness) was used as a cathode, and a platinum wire was used as an anode. A cavity of 12.1 mm diameter and 0.2 mm depth was milled into the Au disk and 64Ni (99.32%) was plated into this cavity. The 64Ni electroplating was performed with a constant current of 15–25 mA at 2.4–2.6 V in the aqueous solution for 48–72 h. During the electrodeposition, the green color of the 64Ni plating solution gradually faded away and the bubbling of H2 gas was clearly visible. When the 64Ni plating solution became colorless, the electrodeposition was finished. The absence of Ni2+ was also confirmed by analytical test strips. After cleaning and drying, the plated 64Ni on Au-disk was 70.6 ± 5.8 mg and the density of the plated 64Ni was 61.4 ± 5.0 mg/cm2, assuming a uniform thickness on the disk.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 17.4
+
+
+
+Context: In order to make 64Cu via the nuclear reaction of 64Ni (p, n) 64Cu, we made the enriched 64Ni targets on a gold (Au) disk by electrodeposition of 64Ni from an aqueous solution of Ni(NH3)62+ at pH = 9.05, using a robust, reliable and user-friendly apparatus (Figure 1). The Au disk (30.8 mm diameter × 1.5 mm thickness) was used as a cathode, and a platinum wire was used as an anode. A cavity of 12.1 mm diameter and 0.2 mm depth was milled into the Au disk and 64Ni (99.32%) was plated into this cavity. The 64Ni electroplating was performed with a constant current of 15–25 mA at 2.4–2.6 V in the aqueous solution for 48–72 h. During the electrodeposition, the green color of the 64Ni plating solution gradually faded away and the bubbling of H2 gas was clearly visible. When the 64Ni plating solution became colorless, the electrodeposition was finished. The absence of Ni2+ was also confirmed by analytical test strips. After cleaning and drying, the plated 64Ni on Au-disk was 70.6 ± 5.8 mg and the density of the plated 64Ni was 61.4 ± 5.0 mg/cm2, assuming a uniform thickness on the disk.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 64Ni was plated on a Au disk.
+Score: 19.18
+
+
+
+Context: In order to make 64Cu via the nuclear reaction of 64Ni (p, n) 64Cu, we made the enriched 64Ni targets on a gold (Au) disk by electrodeposition of 64Ni from an aqueous solution of Ni(NH3)62+ at pH = 9.05, using a robust, reliable and user-friendly apparatus (Figure 1). The Au disk (30.8 mm diameter × 1.5 mm thickness) was used as a cathode, and a platinum wire was used as an anode. A cavity of 12.1 mm diameter and 0.2 mm depth was milled into the Au disk and 64Ni (99.32%) was plated into this cavity. The 64Ni electroplating was performed with a constant current of 15–25 mA at 2.4–2.6 V in the aqueous solution for 48–72 h. During the electrodeposition, the green color of the 64Ni plating solution gradually faded away and the bubbling of H2 gas was clearly visible. When the 64Ni plating solution became colorless, the electrodeposition was finished. The absence of Ni2+ was also confirmed by analytical test strips. After cleaning and drying, the plated 64Ni on Au-disk was 70.6 ± 5.8 mg and the density of the plated 64Ni was 61.4 ± 5.0 mg/cm2, assuming a uniform thickness on the disk.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl.
+Score: 22.02
+
+Question: What are the products of the above reaction?
+Answer:er: 64Ni and H2 gas.
+Score: 10.92
+
+
+
+Context: The quality of the 64Ni solid target prepared above was evaluated by a number of physical techniques, to determine the uniformity, to characterize the metallic impurities, and to measure the thickness of 64Ni layer on Au-disk. The SEM (scanning electron microscopy) image (Figure 2b) of the 64Ni solid target showed the uniform layer of Ni on Au surface. The EDS (energy dispersive X-ray spectroscopy) (Table 1 and Figure 2c) results showed no significant amount of metallic impurities in the 64Ni layer. The 64Ni target thickness on Au-disk was measured to be 10.73 μm by alpha step apparatus (Figure 2d).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 12.98
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 19.61
+
+
+
+Context: The quality of the 64Ni solid target prepared above was evaluated by a number of physical techniques, to determine the uniformity, to characterize the metallic impurities, and to measure the thickness of 64Ni layer on Au-disk. The SEM (scanning electron microscopy) image (Figure 2b) of the 64Ni solid target showed the uniform layer of Ni on Au surface. The EDS (energy dispersive X-ray spectroscopy) (Table 1 and Figure 2c) results showed no significant amount of metallic impurities in the 64Ni layer. The 64Ni target thickness on Au-disk was measured to be 10.73 μm by alpha step apparatus (Figure 2d).
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 17.57
+
+Question: What are the products of the above reaction?
+Answer:er: 64Ni is the product.
+Score: 11.36
+
+
+
+Context: High purity reagents were used for production of 64Cu in this study. Isotopically enriched 64Ni (99.32% 64Ni; 0.13% 58Ni; 0.07% 60Ni; 0.01% 61Ni; 0.47% 62Ni) was from Isoflex Company (San Francisco, CA, USA); (NH4)2SO4 (99.999% metals basis) from Alfa Aesar (Ward Hill, MA, USA); concentrated HCl (99.999% trace metals basis), HNO3 (99.999% trace metals basis), and NH4OH (99.99% trace metals basis) were purchased from Sigma-Aldrich (St. Louis, MO, USA); AG®1-X8 ion exchange resin was from Bio-Rad Laboratories (Hercules, CA, USA); platinum wire (99.997% metals basis) from Alfa Aesar (Ward Hill, MA, USA); Ni2+ analytical test strips from Qtantofix (Sigma-Aldrich, St. Louis, MO, USA); disposable PD-10 desalting columns were from GE Healthcare (Piscataway, NJ, USA).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 17.4
+
+
+
+Context: High purity reagents were used for production of 64Cu in this study. Isotopically enriched 64Ni (99.32% 64Ni; 0.13% 58Ni; 0.07% 60Ni; 0.01% 61Ni; 0.47% 62Ni) was from Isoflex Company (San Francisco, CA, USA); (NH4)2SO4 (99.999% metals basis) from Alfa Aesar (Ward Hill, MA, USA); concentrated HCl (99.999% trace metals basis), HNO3 (99.999% trace metals basis), and NH4OH (99.99% trace metals basis) were purchased from Sigma-Aldrich (St. Louis, MO, USA); AG®1-X8 ion exchange resin was from Bio-Rad Laboratories (Hercules, CA, USA); platinum wire (99.997% metals basis) from Alfa Aesar (Ward Hill, MA, USA); Ni2+ analytical test strips from Qtantofix (Sigma-Aldrich, St. Louis, MO, USA); disposable PD-10 desalting columns were from GE Healthcare (Piscataway, NJ, USA).
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 64Ni was loaded into an anion exchange column.
+Score: 15.71
+
+
+
+Context: High purity reagents were used for production of 64Cu in this study. Isotopically enriched 64Ni (99.32% 64Ni; 0.13% 58Ni; 0.07% 60Ni; 0.01% 61Ni; 0.47% 62Ni) was from Isoflex Company (San Francisco, CA, USA); (NH4)2SO4 (99.999% metals basis) from Alfa Aesar (Ward Hill, MA, USA); concentrated HCl (99.999% trace metals basis), HNO3 (99.999% trace metals basis), and NH4OH (99.99% trace metals basis) were purchased from Sigma-Aldrich (St. Louis, MO, USA); AG®1-X8 ion exchange resin was from Bio-Rad Laboratories (Hercules, CA, USA); platinum wire (99.997% metals basis) from Alfa Aesar (Ward Hill, MA, USA); Ni2+ analytical test strips from Qtantofix (Sigma-Aldrich, St. Louis, MO, USA); disposable PD-10 desalting columns were from GE Healthcare (Piscataway, NJ, USA).
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl.
+Score: 22.02
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu and 64Ni.
+Score: 13.29
+
+
+
+Context: To assess the quality of the produced 64Cu (quantity, specific activity and purity), the synthesis of a radiotracer, 64Cu-DOTA-rituximab, was performed. Here, the site-specific modification of monoclonal antibody DOTA-rituximab which contains two DOTA chelator in each antibody was used as we previously reported [29]. The 64CuCl2 solution prepared above was reacted with DOTA-rituximab in a solution of pH = 5.5 at RT for 30 min. After incubation, the radiotracer was purified using a PD-10 desalting column, and characterized by Radio-TLC and Radio-HPLC, to determine the labeling yield and radiochemical purity. The identity of the radiotracer, 64Cu-DOTA-rituximab, was further evaluated by PET imaging, which was carried out on a micro-PET rodent model scanner as reported earlier [29]. After formulation, 64Cu-DOTA-rituximab (0.5 mCi) was injected intravenously into the tail vein of the mice bearing Ramos RA1 tumors (n = 3), which overexpress CD20 antigen, and the animals were imaged with micro-PET at both 24 and 60 h post-injection.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64CuCl2.
+Score: 9.12
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 17.91
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the radiotracer was purified using a PD-10 desalting column', and a 'PD-10 desalting column' is a resin/column, then a PD-1
+Score: 14.11
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 14.41
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu-DOTA-rituximab, or 64Cu-DOTA-rituximab, must be the products.
+Score: 8.87
+
+
+
+Context: This work was supported, in part, by the National Natural Science Foundation of China (No. 81371592, No. 81401467, No. 81501519, No. 81571705 and No. 81671733), Beijing Natural Science Foundation (No. 7162041 and No. 7171002), Beijing Municipal Commission of Health and Family Planning (215 backbone program), and 2017 Beijing Science & Technology Nova Star Program (xx2017016).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 17.4
+
+
+
+Context: This work was supported, in part, by the National Natural Science Foundation of China (No. 81371592, No. 81401467, No. 81501519, No. 81571705 and No. 81671733), Beijing Natural Science Foundation (No. 7162041 and No. 7171002), Beijing Municipal Commission of Health and Family Planning (215 backbone program), and 2017 Beijing Science & Technology Nova Star Program (xx2017016).
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+
+
+Context: This work was supported, in part, by the National Natural Science Foundation of China (No. 81371592, No. 81401467, No. 81501519, No. 81571705 and No. 81671733), Beijing Natural Science Foundation (No. 7162041 and No. 7171002), Beijing Municipal Commission of Health and Family Planning (215 backbone program), and 2017 Beijing Science & Technology Nova Star Program (xx2017016).
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 1. Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/
+Score: 31.11
+
+
+
+Context: This work was supported, in part, by the National Natural Science Foundation of China (No. 81371592, No. 81401467, No. 81501519, No. 81571705 and No. 81671733), Beijing Natural Science Foundation (No. 7162041 and No. 7171002), Beijing Municipal Commission of Health and Family Planning (215 backbone program), and 2017 Beijing Science & Technology Nova Star Program (xx2017016).
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl.
+Score: 22.02
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu, 64Ni, and 64Co.
+Score: 9.27
+
+
+
+Context: Q.X., H.Z., X.M., Q.R., C.X. and Z.Y. conceived and designed the experiments; Q.X., H.Z., F.W. and X.M. performed the experiments; Q.X., H.Z. and X.M. analyzed the data; Q.X. and H.Z. wrote the paper.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 17.4
+
+
+
+Context: Q.X., H.Z., X.M., Q.R., C.X. and Z.Y. conceived and designed the experiments; Q.X., H.Z., F.W. and X.M. performed the experiments; Q.X., H.Z. and X.M. analyzed the data; Q.X. and H.Z. wrote the paper.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+
+
+Context: Q.X., H.Z., X.M., Q.R., C.X. and Z.Y. conceived and designed the experiments; Q.X., H.Z., F.W. and X.M. performed the experiments; Q.X., H.Z. and X.M. analyzed the data; Q.X. and H.Z. wrote the paper.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 1. Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/
+Score: 31.11
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 36.55
+
+
+
+Context: Q.X., H.Z., X.M., Q.R., C.X. and Z.Y. conceived and designed the experiments; Q.X., H.Z., F.W. and X.M. performed the experiments; Q.X., H.Z. and X.M. analyzed the data; Q.X. and H.Z. wrote the paper.
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu and cobalt radioisotopes.
+Score: 19.31
+
+
+
+Context: The authors declare no conflict of interest.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 16.17
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6 M hydrochloride acid.
+Score: 23.18
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 64Ni was washed out with 6 M HCl and collected for recycling.
+Score: 43.15
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl.
+Score: 15.93
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu and cobalt radioisotopes.
+Score: 13.98
+
+
+
+Context: Sample Availability: Sample of the rituximab is available from the authors.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 17.4
+
+
+
+Context: Sample Availability: Sample of the rituximab is available from the authors.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6 M hydrochloride acid must be the acid used to dissolve the target.
+Score: 24.23
+
+
+
+Context: Sample Availability: Sample of the rituximab is available from the authors.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 1. Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/
+Score: 31.11
+
+
+
+Context: Sample Availability: Sample of the rituximab is available from the authors.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 28.25
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu is the product.
+Score: 11.3
+
+
+
+Context: Radiopharmaceuticals are clinically useful for the diagnosis and treatment of disease [1,2,3,4,5]. However, quantifying radiopharmaceuticals’ dosimetry is challenging [6]. Matching diagnostic radionuclides with chemically similar therapeutics creates a “theranostic” pair, helping to resolve this problem [7]. The success of theranostic pairs has led to the re-evaluation of several radionuclides as potential radiopharmaceuticals, with the most popular in recent times being gallium-68 (t1/2 = 68 min, β+ = 89%, Emax= 1899 keV) and lutetium-177 (t1/2 = 6.7 d, Eβ- = 134 keV) [8]. The availability of both gallium-68 and lutetium-177 and the success of conjugating a myriad of targeting vectors to them have led to their widespread adoption in the nuclear medicine community. However, several shortcomings exist for these two radionuclides; namely, the short half-life of gallium-68 limits the range of its applicability, and the resistance of some cancers to lutetium-177-labelled radiopharmaceuticals has prompted a search for other therapeutic radionuclides [9]. Additionally, although gallium-68 and lutetium-177 have been used as a theranostic pair, slight chemical differences between the two may complicate dosimetric calculations and/or lead to subtle biological incongruities [10]. Using compounds labelled with the same chemical element can obviate this problem and allow the same protocols to be used in forming and purifying chemical complexes [11]. Cobalt-55 (t1/2 = 17.53 h, β+ = 77%, Eγ = 931.1 keV, Iγ = 75%) and cobalt-58m (t1/2 = 9.10 h, IC= 100%) are one of the most promising of such pairs identified due to their identical chemical properties coupled to similar half-lives and high in vivo stability and compatibility with many chelators which can be coupled with targeting biomolecules [8,12,13,14,15,16,17]. We review the production and application of cobalt-55,58m with emphasis placed on potential translational and clinical applications.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 55Co, or Cobalt-55, must be the target.
+Score: 11.96
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 17.82
+
+
+
+Context: Radiopharmaceuticals are clinically useful for the diagnosis and treatment of disease [1,2,3,4,5]. However, quantifying radiopharmaceuticals’ dosimetry is challenging [6]. Matching diagnostic radionuclides with chemically similar therapeutics creates a “theranostic” pair, helping to resolve this problem [7]. The success of theranostic pairs has led to the re-evaluation of several radionuclides as potential radiopharmaceuticals, with the most popular in recent times being gallium-68 (t1/2 = 68 min, β+ = 89%, Emax= 1899 keV) and lutetium-177 (t1/2 = 6.7 d, Eβ- = 134 keV) [8]. The availability of both gallium-68 and lutetium-177 and the success of conjugating a myriad of targeting vectors to them have led to their widespread adoption in the nuclear medicine community. However, several shortcomings exist for these two radionuclides; namely, the short half-life of gallium-68 limits the range of its applicability, and the resistance of some cancers to lutetium-177-labelled radiopharmaceuticals has prompted a search for other therapeutic radionuclides [9]. Additionally, although gallium-68 and lutetium-177 have been used as a theranostic pair, slight chemical differences between the two may complicate dosimetric calculations and/or lead to subtle biological incongruities [10]. Using compounds labelled with the same chemical element can obviate this problem and allow the same protocols to be used in forming and purifying chemical complexes [11]. Cobalt-55 (t1/2 = 17.53 h, β+ = 77%, Eγ = 931.1 keV, Iγ = 75%) and cobalt-58m (t1/2 = 9.10 h, IC= 100%) are one of the most promising of such pairs identified due to their identical chemical properties coupled to similar half-lives and high in vivo stability and compatibility with many chelators which can be coupled with targeting biomolecules [8,12,13,14,15,16,17]. We review the production and application of cobalt-55,58m with emphasis placed on potential translational and clinical applications.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 15.85
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu and cobalt radioisotopes.
+Score: 9.72
+
+
+
+Context: Both cobalt-55 and cobalt-58m are produced primarily from charged particle irradiation of iron or nickel targets. The availability of deuterons likely increases the purity of achievable cobalt-55 but has less bearing on the production of cobalt-58m except for from a target material cost perspective. Practically speaking, clinical application will always have to carefully consider target isotopic enrichment, but target fabrication and recovery are well developed (and reported) processes. These processes are described in greater detail below, treating the nuclear reactions relevant to each radionuclide separately. It should be stated that all radiation decay information comes from Brookhaven National Lab NuDat database [17].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 58Fe, or Iron-58, must be the target.
+Score: 12.95
+
+
+
+Context: Both cobalt-55 and cobalt-58m are produced primarily from charged particle irradiation of iron or nickel targets. The availability of deuterons likely increases the purity of achievable cobalt-55 but has less bearing on the production of cobalt-58m except for from a target material cost perspective. Practically speaking, clinical application will always have to carefully consider target isotopic enrichment, but target fabrication and recovery are well developed (and reported) processes. These processes are described in greater detail below, treating the nuclear reactions relevant to each radionuclide separately. It should be stated that all radiation decay information comes from Brookhaven National Lab NuDat database [17].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+
+
+Context: Both cobalt-55 and cobalt-58m are produced primarily from charged particle irradiation of iron or nickel targets. The availability of deuterons likely increases the purity of achievable cobalt-55 but has less bearing on the production of cobalt-58m except for from a target material cost perspective. Practically speaking, clinical application will always have to carefully consider target isotopic enrichment, but target fabrication and recovery are well developed (and reported) processes. These processes are described in greater detail below, treating the nuclear reactions relevant to each radionuclide separately. It should be stated that all radiation decay information comes from Brookhaven National Lab NuDat database [17].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+
+
+Context: Both cobalt-55 and cobalt-58m are produced primarily from charged particle irradiation of iron or nickel targets. The availability of deuterons likely increases the purity of achievable cobalt-55 but has less bearing on the production of cobalt-58m except for from a target material cost perspective. Practically speaking, clinical application will always have to carefully consider target isotopic enrichment, but target fabrication and recovery are well developed (and reported) processes. These processes are described in greater detail below, treating the nuclear reactions relevant to each radionuclide separately. It should be stated that all radiation decay information comes from Brookhaven National Lab NuDat database [17].
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 28.25
+
+Question: What are the products of the above reaction?
+Answer:er: 55Co and 58Co.
+Score: 8.22
+
+
+
+Context: Cobalt-55 production was reported in 1938 from alpha irradiation of manganese [18] and has since been reported from many target materials and incident beams. Practically, two reactions are best suited for producing activities of cobalt-55 with few impurities: 58Ni(p,α)55Co and 54Fe(d,n)55Co, which are accessible on low energy cyclotrons [19]. These reactions have been thoroughly and recently reviewed by the International Atomic Energy Agency and significant independent efforts resulting in recommended excitation functions for the reactions discussed below [20].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 58Ni, or Nickel-58, must be the target.
+Score: 18.03
+
+
+
+Context: Cobalt-55 production was reported in 1938 from alpha irradiation of manganese [18] and has since been reported from many target materials and incident beams. Practically, two reactions are best suited for producing activities of cobalt-55 with few impurities: 58Ni(p,α)55Co and 54Fe(d,n)55Co, which are accessible on low energy cyclotrons [19]. These reactions have been thoroughly and recently reviewed by the International Atomic Energy Agency and significant independent efforts resulting in recommended excitation functions for the reactions discussed below [20].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 58Ni(p,α)55Co and 54Fe(d,n)55Co are the reactions, and the solution is loaded into an anion exchange column.
+Score: 16.2
+
+
+
+Context: Cobalt-55 production was reported in 1938 from alpha irradiation of manganese [18] and has since been reported from many target materials and incident beams. Practically, two reactions are best suited for producing activities of cobalt-55 with few impurities: 58Ni(p,α)55Co and 54Fe(d,n)55Co, which are accessible on low energy cyclotrons [19]. These reactions have been thoroughly and recently reviewed by the International Atomic Energy Agency and significant independent efforts resulting in recommended excitation functions for the reactions discussed below [20].
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 28.25
+
+Question: What are the products of the above reaction?
+Answer:er: 58Ni(p,α)55Co and 54Fe(d,n)55Co, or Cobalt-55, must be the products.
+Score: 12.71
+
+
+
+Context: The 58Ni(p,α)55Co reaction has been employed by many groups [14,21,22,23,24]. Several radioisotopic and radionuclidic impurities can be formed in this process. Cobalt-57(t1/2 = 271.7 d, Eγ= 1377 keV, Iγ = 81.7%) is produced from 58Ni(p,2p)57Co above 15 MeV [23], and production of cobalt-56 occurs above 25 MeV [25]. Nickel-57 (t1/2 = 35.68 h, β+ = 44%, Eγ= 1377.6 keV, Iγ = 81.7%) is primarily produced via the 58Ni(p,2p)57Cu, which decays to nickel-57 with a half-life of 196 ms [21]. This reaction occurs above the threshold of 12 MeV, and is useful for monitoring separation efficiency during process development. However, nickel-57 decays to cobalt-57, which cannot be separated from cobalt-55. Natural nickel targets can also be used, but result in increased impurities that limit downstream clinical work [26].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 58Ni, or Nickel-58, must be the target.
+Score: 16.6
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6 M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.64
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 58Ni(p,α)55Co reaction has been employed by many groups [14,21,22,23,24]. Several radioisotopic and radionuclidic impur
+Score: 11.65
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 20.51
+
+Question: What are the products of the above reaction?
+Answer:er: 55Co and 57Co.
+Score: 11.23
+
+
+
+Context: Cobalt-55 can also be produced by the 54Fe(d,n)55Co reaction [27]. Theoretically, this method affords radioisotopically pure cobalt-55 compared with the proton-induced route described above, avoiding cobalt-56 and cobalt-57. Practically, purities are limited by the achievable enrichment of the iron-56 target. The excitation function peaks near 7 MeV (Figure 1) [28]. Finally, manganese-52m is also coproduced via the 54Fe(d,α)52mMn reaction, which has a threshold energy of 4 MeV [28].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 54Fe, or Iron-54, must be the target.
+Score: 15.69
+
+
+
+Context: Cobalt-55 can also be produced by the 54Fe(d,n)55Co reaction [27]. Theoretically, this method affords radioisotopically pure cobalt-55 compared with the proton-induced route described above, avoiding cobalt-56 and cobalt-57. Practically, purities are limited by the achievable enrichment of the iron-56 target. The excitation function peaks near 7 MeV (Figure 1) [28]. Finally, manganese-52m is also coproduced via the 54Fe(d,α)52mMn reaction, which has a threshold energy of 4 MeV [28].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+
+
+Context: Cobalt-55 can also be produced by the 54Fe(d,n)55Co reaction [27]. Theoretically, this method affords radioisotopically pure cobalt-55 compared with the proton-induced route described above, avoiding cobalt-56 and cobalt-57. Practically, purities are limited by the achievable enrichment of the iron-56 target. The excitation function peaks near 7 MeV (Figure 1) [28]. Finally, manganese-52m is also coproduced via the 54Fe(d,α)52mMn reaction, which has a threshold energy of 4 MeV [28].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl.
+Score: 22.02
+
+Question: What are the products of the above reaction?
+Answer:er: 55Co and 52Mn.
+Score: 8.28
+
+
+
+Context: In Figure 2, “m” indicates measurements of the direct formation of cobalt-58m, “c” indicates cumulative formation of cobalt-58g either after the complete decay of the isomer or with simultaneous accounting for the contribution from cobalt-58m decay, and “i” indicates measurement of the independent formation of cobalt-58g without contribution from cobalt-58m. The isomers cobalt-58m and cobalt-58g are co-produced in any charged particle irradiation. While the production of cobalt-58g is unavoidable, other radioisotopic impurities can be reduced with careful modulation of proton energies and target material enrichments.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 58Co, or Cobalt-58, must be the target.
+Score: 13.69
+
+
+
+Context: In Figure 2, “m” indicates measurements of the direct formation of cobalt-58m, “c” indicates cumulative formation of cobalt-58g either after the complete decay of the isomer or with simultaneous accounting for the contribution from cobalt-58m decay, and “i” indicates measurement of the independent formation of cobalt-58g without contribution from cobalt-58m. The isomers cobalt-58m and cobalt-58g are co-produced in any charged particle irradiation. While the production of cobalt-58g is unavoidable, other radioisotopic impurities can be reduced with careful modulation of proton energies and target material enrichments.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 64Ni is a radioisotope, so it is not a solution.
+Score: 17.1
+
+
+
+Context: In Figure 2, “m” indicates measurements of the direct formation of cobalt-58m, “c” indicates cumulative formation of cobalt-58g either after the complete decay of the isomer or with simultaneous accounting for the contribution from cobalt-58m decay, and “i” indicates measurement of the independent formation of cobalt-58g without contribution from cobalt-58m. The isomers cobalt-58m and cobalt-58g are co-produced in any charged particle irradiation. While the production of cobalt-58g is unavoidable, other radioisotopic impurities can be reduced with careful modulation of proton energies and target material enrichments.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 28.25
+
+Question: What are the products of the above reaction?
+Answer:er: 58Co and 58Ni.
+Score: 18.92
+
+
+
+Context: The peak cross section for the production of cobalt-58 is between 10 and 15 MeV. However, the maxima of the 58Fe(p,2n)57Co and 58Fe(p,3n)56Co reactions, as shown in Figure 3, occur between 17 and 21 and >30 MeV, respectively [32]. Degrading the proton beam captures the maximum of the 58Fe(p,n)58mCo excitation function while minimizing the radioisotopic impurity-producing reactions.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 58Fe, or Iron-58, must be the target.
+Score: 17.06
+
+
+
+Context: The peak cross section for the production of cobalt-58 is between 10 and 15 MeV. However, the maxima of the 58Fe(p,2n)57Co and 58Fe(p,3n)56Co reactions, as shown in Figure 3, occur between 17 and 21 and >30 MeV, respectively [32]. Degrading the proton beam captures the maximum of the 58Fe(p,n)58mCo excitation function while minimizing the radioisotopic impurity-producing reactions.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+
+
+Context: The peak cross section for the production of cobalt-58 is between 10 and 15 MeV. However, the maxima of the 58Fe(p,2n)57Co and 58Fe(p,3n)56Co reactions, as shown in Figure 3, occur between 17 and 21 and >30 MeV, respectively [32]. Degrading the proton beam captures the maximum of the 58Fe(p,n)58mCo excitation function while minimizing the radioisotopic impurity-producing reactions.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+
+
+Context: The peak cross section for the production of cobalt-58 is between 10 and 15 MeV. However, the maxima of the 58Fe(p,2n)57Co and 58Fe(p,3n)56Co reactions, as shown in Figure 3, occur between 17 and 21 and >30 MeV, respectively [32]. Degrading the proton beam captures the maximum of the 58Fe(p,n)58mCo excitation function while minimizing the radioisotopic impurity-producing reactions.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 28.25
+
+Question: What are the products of the above reaction?
+Answer:er: 58Co, or Cobalt-58, must be the product.
+Score: 12.55
+
+
+
+Context: Irradiating isotopically enriched iron-58 avoids the production of other impurities that cannot be separated out in the downstream chemistry. Natural iron is composed of iron-54 (5.8%), iron-56 (91.7%), iron-57 (2.2%), and iron-58 (0.3%). Proton bombardment of iron-54 leads to the production of very short-lived contaminants such as 54Fe(p,n)54Co (t1/2 = 1.46 m) and 54Fe(p,2n)53Co (t1/2 = 0.24 s) that do not diminish the radioisotopic purity of cobalt-58m. However, higher-energy proton reactions on iron-56 and iron-57, as described above for iron-58, may form longer-lived radioisotopic impurities cobalt-56 and cobalt-57. Measured data from the relevant excitation functions are shown below in Figure 4 and Figure 5.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 58Fe, or Iron-58, must be the target.
+Score: 23.67
+
+
+
+Context: Irradiating isotopically enriched iron-58 avoids the production of other impurities that cannot be separated out in the downstream chemistry. Natural iron is composed of iron-54 (5.8%), iron-56 (91.7%), iron-57 (2.2%), and iron-58 (0.3%). Proton bombardment of iron-54 leads to the production of very short-lived contaminants such as 54Fe(p,n)54Co (t1/2 = 1.46 m) and 54Fe(p,2n)53Co (t1/2 = 0.24 s) that do not diminish the radioisotopic purity of cobalt-58m. However, higher-energy proton reactions on iron-56 and iron-57, as described above for iron-58, may form longer-lived radioisotopic impurities cobalt-56 and cobalt-57. Measured data from the relevant excitation functions are shown below in Figure 4 and Figure 5.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'Irradiating isotopically enriched iron-58 avoids the production of other impurities that cannot be separated out in the downstream chemistry', and 'natural iron is composed of iron
+Score: 29.54
+
+
+
+Context: Irradiating isotopically enriched iron-58 avoids the production of other impurities that cannot be separated out in the downstream chemistry. Natural iron is composed of iron-54 (5.8%), iron-56 (91.7%), iron-57 (2.2%), and iron-58 (0.3%). Proton bombardment of iron-54 leads to the production of very short-lived contaminants such as 54Fe(p,n)54Co (t1/2 = 1.46 m) and 54Fe(p,2n)53Co (t1/2 = 0.24 s) that do not diminish the radioisotopic purity of cobalt-58m. However, higher-energy proton reactions on iron-56 and iron-57, as described above for iron-58, may form longer-lived radioisotopic impurities cobalt-56 and cobalt-57. Measured data from the relevant excitation functions are shown below in Figure 4 and Figure 5.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 28.25
+
+Question: What are the products of the above reaction?
+Answer:er: 58Fe(p,n)58Co, 58Fe(p,2n)57Co, 58Fe(p,3n)56Co, 58Fe(p,4n)
+Score: 3.69
+
+
+
+Context: Deuteron bombardments can be used to produce cobalt-58m from enriched iron-57 via the (d,n) reaction, natural iron targets via the (d,n) reaction on iron-57 (2.2% abundance) or (d,2n) reaction on iron-56 (91.7%). Higher stopping power for deuterons reduces the quantity of isotopically enriched target material required, and deuteron-induced reactions’ excitation functions are often higher than similar reactions incited by proton beams. However, the relative thermal power density deposited in the target by the deuteron beam is higher than for protons. Accelerators with deuteron beams are also less common, and where they do exist, they usually have energies too low to utilize the entirety of even (d,n) excitation functions. Deuteron irradiations to produce cobalt-58m proceed on iron isotopes iron-57 and iron-58, which both exist in relatively low abundance, so as with proton irradiations, significant costs are associated with target materials.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 57Fe, or Iron-57, must be the target.
+Score: 16.61
+
+
+
+Context: Deuteron bombardments can be used to produce cobalt-58m from enriched iron-57 via the (d,n) reaction, natural iron targets via the (d,n) reaction on iron-57 (2.2% abundance) or (d,2n) reaction on iron-56 (91.7%). Higher stopping power for deuterons reduces the quantity of isotopically enriched target material required, and deuteron-induced reactions’ excitation functions are often higher than similar reactions incited by proton beams. However, the relative thermal power density deposited in the target by the deuteron beam is higher than for protons. Accelerators with deuteron beams are also less common, and where they do exist, they usually have energies too low to utilize the entirety of even (d,n) excitation functions. Deuteron irradiations to produce cobalt-58m proceed on iron isotopes iron-57 and iron-58, which both exist in relatively low abundance, so as with proton irradiations, significant costs are associated with target materials.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6 M hydrochloride acid must be the acid used to dissolve the target.
+Score: 24.23
+
+
+
+Context: Deuteron bombardments can be used to produce cobalt-58m from enriched iron-57 via the (d,n) reaction, natural iron targets via the (d,n) reaction on iron-57 (2.2% abundance) or (d,2n) reaction on iron-56 (91.7%). Higher stopping power for deuterons reduces the quantity of isotopically enriched target material required, and deuteron-induced reactions’ excitation functions are often higher than similar reactions incited by proton beams. However, the relative thermal power density deposited in the target by the deuteron beam is higher than for protons. Accelerators with deuteron beams are also less common, and where they do exist, they usually have energies too low to utilize the entirety of even (d,n) excitation functions. Deuteron irradiations to produce cobalt-58m proceed on iron isotopes iron-57 and iron-58, which both exist in relatively low abundance, so as with proton irradiations, significant costs are associated with target materials.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+
+
+Context: Deuteron bombardments can be used to produce cobalt-58m from enriched iron-57 via the (d,n) reaction, natural iron targets via the (d,n) reaction on iron-57 (2.2% abundance) or (d,2n) reaction on iron-56 (91.7%). Higher stopping power for deuterons reduces the quantity of isotopically enriched target material required, and deuteron-induced reactions’ excitation functions are often higher than similar reactions incited by proton beams. However, the relative thermal power density deposited in the target by the deuteron beam is higher than for protons. Accelerators with deuteron beams are also less common, and where they do exist, they usually have energies too low to utilize the entirety of even (d,n) excitation functions. Deuteron irradiations to produce cobalt-58m proceed on iron isotopes iron-57 and iron-58, which both exist in relatively low abundance, so as with proton irradiations, significant costs are associated with target materials.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 28.25
+
+Question: What are the products of the above reaction?
+Answer:er: 58Co and 58Fe.
+Score: 9.45
+
+
+
+Context: As in Figure 2, in Figure 6 “m” indicates measurements of the direct formation of cobalt-58m, “c” indicates cumulative formation of cobalt-58g either after the complete decay of the isomer or with simultaneous accounting for the contribution from cobalt-58m decay, and “i” indicates measurement of the independent formation of cobalt-58g without contribution from cobalt-58m. Figure 6 above plots the excitation functions of natFe(d,xn) reactions that form cobalt-58m/g and enriched iron-57 can be used to increase yields and purities. Using lower-energy deuterons reduces the likelihood of the 57Fe(d,2n)57Co reaction occurring, which has a threshold energy of 3.9 MeV [40]. Overall, an enriched iron-57 target reduces radioisotopic impurities within the cobalt-58m sample. The possible 57Co-producing reactions excitation functions are shown in Figure 7. Sudar and Qaim examined the production ratio of the ground and metastable isomers of cobalt-58 from deuteron irradiations of natural iron targets [29] based on the assumptions that deuteron capture and iron-58 target reactions’ contributions are small, but to our knowledge, no measurements have been made of the formation of cobalt-58m/g using separated iron-57.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 57Fe, or Iron-57, must be the target.
+Score: 17.02
+
+
+
+Context: As in Figure 2, in Figure 6 “m” indicates measurements of the direct formation of cobalt-58m, “c” indicates cumulative formation of cobalt-58g either after the complete decay of the isomer or with simultaneous accounting for the contribution from cobalt-58m decay, and “i” indicates measurement of the independent formation of cobalt-58g without contribution from cobalt-58m. Figure 6 above plots the excitation functions of natFe(d,xn) reactions that form cobalt-58m/g and enriched iron-57 can be used to increase yields and purities. Using lower-energy deuterons reduces the likelihood of the 57Fe(d,2n)57Co reaction occurring, which has a threshold energy of 3.9 MeV [40]. Overall, an enriched iron-57 target reduces radioisotopic impurities within the cobalt-58m sample. The possible 57Co-producing reactions excitation functions are shown in Figure 7. Sudar and Qaim examined the production ratio of the ground and metastable isomers of cobalt-58 from deuteron irradiations of natural iron targets [29] based on the assumptions that deuteron capture and iron-58 target reactions’ contributions are small, but to our knowledge, no measurements have been made of the formation of cobalt-58m/g using separated iron-57.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+
+
+Context: As in Figure 2, in Figure 6 “m” indicates measurements of the direct formation of cobalt-58m, “c” indicates cumulative formation of cobalt-58g either after the complete decay of the isomer or with simultaneous accounting for the contribution from cobalt-58m decay, and “i” indicates measurement of the independent formation of cobalt-58g without contribution from cobalt-58m. Figure 6 above plots the excitation functions of natFe(d,xn) reactions that form cobalt-58m/g and enriched iron-57 can be used to increase yields and purities. Using lower-energy deuterons reduces the likelihood of the 57Fe(d,2n)57Co reaction occurring, which has a threshold energy of 3.9 MeV [40]. Overall, an enriched iron-57 target reduces radioisotopic impurities within the cobalt-58m sample. The possible 57Co-producing reactions excitation functions are shown in Figure 7. Sudar and Qaim examined the production ratio of the ground and metastable isomers of cobalt-58 from deuteron irradiations of natural iron targets [29] based on the assumptions that deuteron capture and iron-58 target reactions’ contributions are small, but to our knowledge, no measurements have been made of the formation of cobalt-58m/g using separated iron-57.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+
+
+Context: As in Figure 2, in Figure 6 “m” indicates measurements of the direct formation of cobalt-58m, “c” indicates cumulative formation of cobalt-58g either after the complete decay of the isomer or with simultaneous accounting for the contribution from cobalt-58m decay, and “i” indicates measurement of the independent formation of cobalt-58g without contribution from cobalt-58m. Figure 6 above plots the excitation functions of natFe(d,xn) reactions that form cobalt-58m/g and enriched iron-57 can be used to increase yields and purities. Using lower-energy deuterons reduces the likelihood of the 57Fe(d,2n)57Co reaction occurring, which has a threshold energy of 3.9 MeV [40]. Overall, an enriched iron-57 target reduces radioisotopic impurities within the cobalt-58m sample. The possible 57Co-producing reactions excitation functions are shown in Figure 7. Sudar and Qaim examined the production ratio of the ground and metastable isomers of cobalt-58 from deuteron irradiations of natural iron targets [29] based on the assumptions that deuteron capture and iron-58 target reactions’ contributions are small, but to our knowledge, no measurements have been made of the formation of cobalt-58m/g using separated iron-57.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 28.25
+
+Question: What are the products of the above reaction?
+Answer:er: 57Co, 57Fe, and 57Ni.
+Score: 9.56
+
+
+
+Context: In Figure 7, an energy of 14.4 MeV is used as a cutoff to remove any data possibly acquired from 58Fe(d,3n)57Co reactions (threshold energy of 14.4 MeV). However, the threshold energy for 57Fe(d,2n)57Co is 3.9 MeV, and therefore it is difficult to differentiate between the production via the 56Fe(d,n) and 57Fe(d,2n) reactions [40].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 56Fe, or Iron-56, must be the target.
+Score: 20.31
+
+
+
+Context: In Figure 7, an energy of 14.4 MeV is used as a cutoff to remove any data possibly acquired from 58Fe(d,3n)57Co reactions (threshold energy of 14.4 MeV). However, the threshold energy for 57Fe(d,2n)57Co is 3.9 MeV, and therefore it is difficult to differentiate between the production via the 56Fe(d,n) and 57Fe(d,2n) reactions [40].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+
+
+Context: In Figure 7, an energy of 14.4 MeV is used as a cutoff to remove any data possibly acquired from 58Fe(d,3n)57Co reactions (threshold energy of 14.4 MeV). However, the threshold energy for 57Fe(d,2n)57Co is 3.9 MeV, and therefore it is difficult to differentiate between the production via the 56Fe(d,n) and 57Fe(d,2n) reactions [40].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+
+
+Context: In Figure 7, an energy of 14.4 MeV is used as a cutoff to remove any data possibly acquired from 58Fe(d,3n)57Co reactions (threshold energy of 14.4 MeV). However, the threshold energy for 57Fe(d,2n)57Co is 3.9 MeV, and therefore it is difficult to differentiate between the production via the 56Fe(d,n) and 57Fe(d,2n) reactions [40].
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution.
+Score: 25.28
+
+Question: What are the products of the above reaction?
+Answer:er: 57Co and 56Fe.
+Score: 9.66
+
+
+
+Context: Just as with iron targets, isotopically enriched nickel targets are required to reduce the production of radioisotopic impurities. Using enriched material prevents the production of long-lived cobalt isotopes via the (p,α) reactions on nickel-58 (68.1%), nickel-60 (26.2%), and nickel-64 (0.93%), shown in Figure 9, Figure 10 and Figure 11 below.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 17.4
+
+
+
+Context: Just as with iron targets, isotopically enriched nickel targets are required to reduce the production of radioisotopic impurities. Using enriched material prevents the production of long-lived cobalt isotopes via the (p,α) reactions on nickel-58 (68.1%), nickel-60 (26.2%), and nickel-64 (0.93%), shown in Figure 9, Figure 10 and Figure 11 below.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 64Ni is a metal, so it is not dissolved in a solution. It is dissolved in acid.
+Score: 13.7
+
+
+
+Context: Just as with iron targets, isotopically enriched nickel targets are required to reduce the production of radioisotopic impurities. Using enriched material prevents the production of long-lived cobalt isotopes via the (p,α) reactions on nickel-58 (68.1%), nickel-60 (26.2%), and nickel-64 (0.93%), shown in Figure 9, Figure 10 and Figure 11 below.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution.
+Score: 25.28
+
+Question: What are the products of the above reaction?
+Answer:er: 64Ni is the target, and 64Cu is the product.
+Score: 13.83
+
+
+
+Context: If higher-energy alpha beams are used, cobalt-57 can be formed from 55Mn(α,2n), as shown in Figure 12b. To decrease the likelihood of producing this contaminant, lower-energy beams should be employed to capture the greatest cross section for the 55Mn(α,n)58Co reaction while minimizing the 55Mn(α,2n)57Co reaction.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 55Mn, or Manganese-55, must be the target.
+Score: 15.64
+
+
+
+Context: If higher-energy alpha beams are used, cobalt-57 can be formed from 55Mn(α,2n), as shown in Figure 12b. To decrease the likelihood of producing this contaminant, lower-energy beams should be employed to capture the greatest cross section for the 55Mn(α,n)58Co reaction while minimizing the 55Mn(α,2n)57Co reaction.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 55Mn(α,2n)57Co is a reaction that occurs in the target, so the solution is not loaded into a resin/column.
+Score: 29.12
+
+
+
+Context: If higher-energy alpha beams are used, cobalt-57 can be formed from 55Mn(α,2n), as shown in Figure 12b. To decrease the likelihood of producing this contaminant, lower-energy beams should be employed to capture the greatest cross section for the 55Mn(α,n)58Co reaction while minimizing the 55Mn(α,2n)57Co reaction.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 28.25
+
+Question: What are the products of the above reaction?
+Answer:er: 57Co and 58Co, or Cobalt-57 and Cobalt-58, must be the products.
+Score: 12.49
+
+
+
+Context: In addition to charged particle-induced reactions, several alternative and less pragmatic routes to cobalt-58m can be contemplated, e.g., quasi-monoenergetic neutron or triton irradiations. Quasi-monoenergetic neutrons can be produced via 2H(d,n)3He reaction on hydrogen-2 gas targets. The neutrons bombard nickel or cobalt induce the 58Ni(n,p)58mCo and 59Co(n,2n)58mCo reactions [29,75]. Tritons can be generated via the 6Li(n,α)3H reaction within a nuclear reactor with an energy of 2.736 MeV. These ions go on to bombard [56Fe]Fe2O3 targets to produce cobalt-58m,g via the 56Fe(t,n)58mCo reaction route [76,85]. These alternative reactions currently rely on rare accelerator infrastructure or on significantly increased scale in terms of beam intensities.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 56Fe, or Iron-56, must be the target.
+Score: 17.56
+
+
+
+Context: In addition to charged particle-induced reactions, several alternative and less pragmatic routes to cobalt-58m can be contemplated, e.g., quasi-monoenergetic neutron or triton irradiations. Quasi-monoenergetic neutrons can be produced via 2H(d,n)3He reaction on hydrogen-2 gas targets. The neutrons bombard nickel or cobalt induce the 58Ni(n,p)58mCo and 59Co(n,2n)58mCo reactions [29,75]. Tritons can be generated via the 6Li(n,α)3H reaction within a nuclear reactor with an energy of 2.736 MeV. These ions go on to bombard [56Fe]Fe2O3 targets to produce cobalt-58m,g via the 56Fe(t,n)58mCo reaction route [76,85]. These alternative reactions currently rely on rare accelerator infrastructure or on significantly increased scale in terms of beam intensities.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+
+
+Context: In addition to charged particle-induced reactions, several alternative and less pragmatic routes to cobalt-58m can be contemplated, e.g., quasi-monoenergetic neutron or triton irradiations. Quasi-monoenergetic neutrons can be produced via 2H(d,n)3He reaction on hydrogen-2 gas targets. The neutrons bombard nickel or cobalt induce the 58Ni(n,p)58mCo and 59Co(n,2n)58mCo reactions [29,75]. Tritons can be generated via the 6Li(n,α)3H reaction within a nuclear reactor with an energy of 2.736 MeV. These ions go on to bombard [56Fe]Fe2O3 targets to produce cobalt-58m,g via the 56Fe(t,n)58mCo reaction route [76,85]. These alternative reactions currently rely on rare accelerator infrastructure or on significantly increased scale in terms of beam intensities.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+
+
+Context: In addition to charged particle-induced reactions, several alternative and less pragmatic routes to cobalt-58m can be contemplated, e.g., quasi-monoenergetic neutron or triton irradiations. Quasi-monoenergetic neutrons can be produced via 2H(d,n)3He reaction on hydrogen-2 gas targets. The neutrons bombard nickel or cobalt induce the 58Ni(n,p)58mCo and 59Co(n,2n)58mCo reactions [29,75]. Tritons can be generated via the 6Li(n,α)3H reaction within a nuclear reactor with an energy of 2.736 MeV. These ions go on to bombard [56Fe]Fe2O3 targets to produce cobalt-58m,g via the 56Fe(t,n)58mCo reaction route [76,85]. These alternative reactions currently rely on rare accelerator infrastructure or on significantly increased scale in terms of beam intensities.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 28.25
+
+Question: What are the products of the above reaction?
+Answer:er: 58mCo and 58mCo, or Cobalt-58m, must be the products.
+Score: 19.23
+
+
+
+Context: Overall, while the high cross section of 55Mn(α,n)58mCo makes it appealing, the 58Fe(p,n)58mCo and 57Fe(d,n)58mCo reactions are more practical for widespread use due to the accessibility of protons and deuterons in global accelerator installations. These are the only reactions whose literature descriptions include thick target yield measurements obtained in conjunction with radiochemical separations and radiolabeling efforts. A comparison of the experimentally determined thick target yields and theoretical yields are shown in Figure 13, Figure 14, Figure 15 and Figure 16.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 57Fe, or Iron-57, must be the target.
+Score: 19.95
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 20.21
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 58Fe(p,n)58mCo and 57Fe(d,n)58mCo are the only reactions whose literature descriptions include thick target yield measurements obtained in conjunction with radiochemical separations
+Score: 17.91
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 17.68
+
+Question: What are the products of the above reaction?
+Answer:er: 58mCo, or Cobalt-58, must be the product.
+Score: 24.16
+
+
+
+Context: As mentioned above, the co-production of cobalt-58g with cobalt-58m is unavoidable. Valdovinos et al. determined that through the 57Fe(d,n)58gCo production route, cobalt-58g has an experimental yield of 131.5 ± 19.7 KBq/µA-h at 8.2 MeV with integrated currents ranging from 90 to 124 µA-h [26]. This impurity poses an issue to the application of cobalt-58m due its long half-life and concomitant gamma emissions [88]. However, cobalt-58g can be useful for PET imaging of the biodistribution of radiolabeled agents. This potentially allows for determination of these agents’ biodistribution at timepoints many days after injection [89].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 57Fe, or Iron-57, must be the target.
+Score: 22.39
+
+
+
+Context: As mentioned above, the co-production of cobalt-58g with cobalt-58m is unavoidable. Valdovinos et al. determined that through the 57Fe(d,n)58gCo production route, cobalt-58g has an experimental yield of 131.5 ± 19.7 KBq/µA-h at 8.2 MeV with integrated currents ranging from 90 to 124 µA-h [26]. This impurity poses an issue to the application of cobalt-58m due its long half-life and concomitant gamma emissions [88]. However, cobalt-58g can be useful for PET imaging of the biodistribution of radiolabeled agents. This potentially allows for determination of these agents’ biodistribution at timepoints many days after injection [89].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+
+
+Context: As mentioned above, the co-production of cobalt-58g with cobalt-58m is unavoidable. Valdovinos et al. determined that through the 57Fe(d,n)58gCo production route, cobalt-58g has an experimental yield of 131.5 ± 19.7 KBq/µA-h at 8.2 MeV with integrated currents ranging from 90 to 124 µA-h [26]. This impurity poses an issue to the application of cobalt-58m due its long half-life and concomitant gamma emissions [88]. However, cobalt-58g can be useful for PET imaging of the biodistribution of radiolabeled agents. This potentially allows for determination of these agents’ biodistribution at timepoints many days after injection [89].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 15.07
+
+Question: What are the products of the above reaction?
+Answer:er: 57Fe(d,n)58gCo
+Score: 11.9
+
+
+
+Context: A summary of the discussed pragmatic production methods is shown in Table 2 below, highlighting the isotope produced, material needed with respective natural abundance, the reaction that must occur, and the possible radio-contaminants that may be co-produced.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 17.4
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 28.18
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 64Ni is a radioisotope, so it must be produced by a nuclear reaction. The only nuclear reaction that produces 64Ni is the beta decay of 64Zn. Therefore, the resin/column
+Score: 9.13
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 19.06
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu and 64Ni.
+Score: 7.47
+
+
+
+Context: To determine the best route for producing Co-58m, one has to consider accelerator capabilities, target material expenses and also potential co-produced contaminants. From Table 2, it would appear that producing Co-58m from Mn-51 would be the most economically feasible due to the 100% abundance of Mn-51. However, many biomedical accelerators do not have the ability to produce an alpha particle beam. Therefore, iron-57 targets are suggested to produce cobalt-58m via the d,n reaction due to the higher cross section compared to the other two methods discussed using proton irradiation. Figure 6 does not show the yield for an enriched target; the plotted value should be scaled to account for the natural abundance of iron-57.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 57Fe, or Iron-57, must be the target.
+Score: 20.34
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 19.8
+
+
+
+Context: To determine the best route for producing Co-58m, one has to consider accelerator capabilities, target material expenses and also potential co-produced contaminants. From Table 2, it would appear that producing Co-58m from Mn-51 would be the most economically feasible due to the 100% abundance of Mn-51. However, many biomedical accelerators do not have the ability to produce an alpha particle beam. Therefore, iron-57 targets are suggested to produce cobalt-58m via the d,n reaction due to the higher cross section compared to the other two methods discussed using proton irradiation. Figure 6 does not show the yield for an enriched target; the plotted value should be scaled to account for the natural abundance of iron-57.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 1. Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/
+Score: 31.11
+
+
+
+Context: To determine the best route for producing Co-58m, one has to consider accelerator capabilities, target material expenses and also potential co-produced contaminants. From Table 2, it would appear that producing Co-58m from Mn-51 would be the most economically feasible due to the 100% abundance of Mn-51. However, many biomedical accelerators do not have the ability to produce an alpha particle beam. Therefore, iron-57 targets are suggested to produce cobalt-58m via the d,n reaction due to the higher cross section compared to the other two methods discussed using proton irradiation. Figure 6 does not show the yield for an enriched target; the plotted value should be scaled to account for the natural abundance of iron-57.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 28.25
+
+Question: What are the products of the above reaction?
+Answer:er: 57Fe(p,n)58Co, or Cobalt-58, must be the product.
+Score: 13.45
+
+
+
+Context: Nickel powder, natural or enriched, can be plated onto a silver or gold backings via electrodeposition with final deposited nickel masses between 45 and 200 mg [14,26]. The procedure follows closely to the methods for plating nickel-64 for the production of copper-64 [90,91]. In a generally representative process, nickel-58 powder is dissolved in 6 M HNO3, dried and reconstituted in 2.3 mL of 2.4 M H2SO4. The plating solution is adjusted pH 9 using 28% NH4OH and 270–300 mg of (NH4)2SO4 and transferred to a circular electroplating cell that consists of a Teflon base that is connected to the gold coin, allowing for a 5 mm plating diameter [26]. With graphite or platinum anodes, a DC voltage of 2.5–3.6 V is applied, producing currents ranging from 8 to 116 mA. Masses of 45–55 mg are deposited in ~12 h and larger masses (100–200 mg) take 2–3 days to quantitatively electroplate onto the cathode [14,26] leaving a clear and colorless electrolyte behind.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 17.4
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6 M HNO3.
+Score: 7.51
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 2.3 mL of 2.4 M H2SO4 is the solution loaded into during the above reaction.
+Score: 28.65
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 2.4 M H2SO4.
+Score: 19.59
+
+Question: What are the products of the above reaction?
+Answer:er: 64Ni is the product.
+Score: 19.07
+
+
+
+Context: Iron electroplating methods are largely adapted from Vosburgh et al. [89,92]. Metallic iron-5x powder is dissolved in 5 mL 6M HCl. To the dissolved iron solution, 100 µL of 30% H2O2 is added to promote the oxidation of iron 2+ ions in solution to 3+ ions. This solution is then dried to near completion, leaving <1 mL of solution in the dry down vessel. The residual solution is then diluted with 15 mL of saturated ammonium oxalate with a concentration of ~44 mg/mL H2O. From here, Valdovinos adjusts the pH of the solution between 2 and 3 with either 1 M NaOH or 1 M HCl [26]. However, Graves et al. uses an additional step of adding <100 mg of L-ascorbic acid to the saturated ammonium oxalate target solution to promote the reduction of iron 3+ ions to iron 2+ ions [93]. This solution is then adjusted to ~pH 3 before transferring to electroplating cell.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 5x iron powder.
+Score: 17.04
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M HCl is the acid used to dissolve the target.
+Score: 12.5
+
+
+
+Context: Iron electroplating methods are largely adapted from Vosburgh et al. [89,92]. Metallic iron-5x powder is dissolved in 5 mL 6M HCl. To the dissolved iron solution, 100 µL of 30% H2O2 is added to promote the oxidation of iron 2+ ions in solution to 3+ ions. This solution is then dried to near completion, leaving <1 mL of solution in the dry down vessel. The residual solution is then diluted with 15 mL of saturated ammonium oxalate with a concentration of ~44 mg/mL H2O. From here, Valdovinos adjusts the pH of the solution between 2 and 3 with either 1 M NaOH or 1 M HCl [26]. However, Graves et al. uses an additional step of adding <100 mg of L-ascorbic acid to the saturated ammonium oxalate target solution to promote the reduction of iron 3+ ions to iron 2+ ions [93]. This solution is then adjusted to ~pH 3 before transferring to electroplating cell.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 1. Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/
+Score: 31.11
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 17.25
+
+Question: What are the products of the above reaction?
+Answer:er: 5x iron powder is dissolved in 6 M HCl, and then 30% H2O2 is added to promote the oxidation of iron 2+ ions in solution to 3+ ions. This
+Score: 11.23
+
+
+
+Context: Thisgaard et al. explains a different method for electroplating iron powder, adapted from Zaman and Qaim [28]. In this method, iron powder is dissolved in 1 mL of H2SO4 under nitrogen-atmosphere. once dissolved, the solution is diluted with distilled water to 5 mL in order to have a pH of 1.5. This solution is then used for the plating process on a silver backing, where the current density is reported as 28–35 mA/cm2 for 1.5 h with a fixed voltage of 7.3 V. [87].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 59Fe, or iron-59, must be the target.
+Score: 24.61
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 1 mL of H2SO4 under nitrogen-atmosphere.
+Score: 12.21
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 1 mL of H2SO4 under nitrogen-atmosphere is a solution, so the solution is the resin/column.
+Score: 33.91
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 mL of H2SO4 under nitrogen-atmosphere.
+Score: 23.35
+
+Question: What are the products of the above reaction?
+Answer:er: 1. Iron powder is dissolved in 1 mL of H2SO4 under nitrogen-atmosphere. 2. The solution is diluted with distilled water to 5 mL in order to have a p
+Score: 10.21
+
+
+
+Context: Another form of target fabrication is to press elemental enriched iron into 5 mm diameter pellets. Enriched iron material can come in the form of Fe2O3. If made from the oxide form, the target will have poor thermal conductivity. Therefore, the enriched Fe2O3 is reduced to elemental form by heating the powder at 800 °C for 4 h in a hydrogen tube furnace [86].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 16.16
+
+
+
+Context: Another form of target fabrication is to press elemental enriched iron into 5 mm diameter pellets. Enriched iron material can come in the form of Fe2O3. If made from the oxide form, the target will have poor thermal conductivity. Therefore, the enriched Fe2O3 is reduced to elemental form by heating the powder at 800 °C for 4 h in a hydrogen tube furnace [86].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+
+
+Context: Another form of target fabrication is to press elemental enriched iron into 5 mm diameter pellets. Enriched iron material can come in the form of Fe2O3. If made from the oxide form, the target will have poor thermal conductivity. Therefore, the enriched Fe2O3 is reduced to elemental form by heating the powder at 800 °C for 4 h in a hydrogen tube furnace [86].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl.
+Score: 18.64
+
+Question: What are the products of the above reaction?
+Answer:er: 5 mm diameter pellets of iron.
+Score: 23.63
+
+
+
+Context: Because both cobalt-55 and cobalt-58m require isolation from iron or nickel target materials, many of the radiochemical isolation processes reported can be applied to multiple production schemes. Several anion-exchange resins such as Dowex-2, Amberlite IRA-400, and ANEX-L have been historically used for the separation of Co from various transition metals in HCl, HNO3, and HBr solutions [94].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 55Co and 58Co are produced by the (n,γ) reaction on 55Fe and 58Fe, respectively. Since they say: 'because both cobalt-55 and cobalt-5
+Score: 9.84
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 21.18
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'several anion-exchange resins such as Dowex-2, Amberlite IRA-400, and ANEX-L have been historically used for the separation of Co from various transition
+Score: 23.26
+
+
+
+Context: Because both cobalt-55 and cobalt-58m require isolation from iron or nickel target materials, many of the radiochemical isolation processes reported can be applied to multiple production schemes. Several anion-exchange resins such as Dowex-2, Amberlite IRA-400, and ANEX-L have been historically used for the separation of Co from various transition metals in HCl, HNO3, and HBr solutions [94].
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl.
+Score: 24.27
+
+Question: What are the products of the above reaction?
+Answer:er: 55Co and 58Co.
+Score: 7.3
+
+
+
+Context: Previously reported separation methods to remove nickel from cobalt used the AG 1 × 8 anion-exchange resin [14,24]. These methods included the use of multiple grams of resin packed into a glass column and equilibrated with 9 M HCl. The dissolved target solution in 9M HCl was loaded onto the column where the nickel elutes from the column in the eluate and 9M HCl wash in 10–40 mL. The cobalt-5x, which remains on the column during the large 9M HCl wash, is eluted from the column in 10 mL of 0.1 M HCl. The eluted cobalt fraction can then be evaporated to dryness and reconstituted in various matrices for further analysis and/or radiolabeling experiments.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 17.4
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 9M HCl.
+Score: 24.83
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the dissolved target solution in 9M HCl was loaded onto the column where the nickel elutes from the column in the eluate and 9M HCl wash in 10–40 m
+Score: 42.63
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 0.1 M HCl is used in the elution during the above reaction.
+Score: 26.74
+
+
+
+Context: Previously reported separation methods to remove nickel from cobalt used the AG 1 × 8 anion-exchange resin [14,24]. These methods included the use of multiple grams of resin packed into a glass column and equilibrated with 9 M HCl. The dissolved target solution in 9M HCl was loaded onto the column where the nickel elutes from the column in the eluate and 9M HCl wash in 10–40 mL. The cobalt-5x, which remains on the column during the large 9M HCl wash, is eluted from the column in 10 mL of 0.1 M HCl. The eluted cobalt fraction can then be evaporated to dryness and reconstituted in various matrices for further analysis and/or radiolabeling experiments.
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu and cobalt radioisotopes.
+Score: 19.31
+
+
+
+Context: Anion-exchange chromatography also isolates cobalt-5x from iron target material [94]. After dissolving the target in acid, the iron is oxidized into the 3+ state with hydrogen peroxide. Instead of loading the cobalt-5x on to the anion-exchange resin and washing away the target material, as was performed in the nickel/cobalt anion-exchange separation, cobalt and iron are retained on the column when loaded. The cobalt can then be eluted form the anion-exchange column in 4 M HCl. The iron target will remain on the column during the 4 M HCl wash, but can be recovered in low concentrations of HCl. The HCl eluant containing cobalt-5x can also be evaporated and the cobalt-5x reconstituted in alternative matrices without incurring significant losses [26,28,86,87].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 59Fe, or Iron-59, must be the target.
+Score: 23.69
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 4 M HCl is the acid used to dissolve the target.
+Score: 22.98
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'cobalt and iron are retained on the column when loaded', and 'the cobalt can then be eluted form the anion-exchange column in 4 M HCl', and 'the HCl elu
+Score: 29.62
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 4 M HCl is used in the elution during the above reaction.
+Score: 30.67
+
+Question: What are the products of the above reaction?
+Answer:er: 59Fe and 59Co, or Cobalt-59, must be the products.
+Score: 26.66
+
+
+
+Context: Separation of cobalt-5x from manganese is similar to the isolation of cobalt-5x from nickel targets, but can use even less concentrated acidic media. As summarized by Bate and Leddicotte in “The Radiochemistry of Cobalt”, manganese in a dissolved target solution passes through a AG1 × 8 anion-exchange resin in HCl concentrations > 4.5 HCl. Once the target material is removed, the column can be washed with <4.5 M HCl to elute cobalt-5x [94].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 59Co, or Cobalt-59, must be the target.
+Score: 22.6
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 4.5 M HCl is the acid used to dissolve the target.
+Score: 16.29
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the column can be washed with <4.5 M HCl to elute cobalt-5x', and an 'anion exchange column' is a resin/column, then an anion exchange column
+Score: 41.61
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 4.5 M HCl is used in the elution during the above reaction.
+Score: 27.96
+
+Question: What are the products of the above reaction?
+Answer:er: 59Co and 59Mn, or Cobalt-59 and Manganese-59, must be the products.
+Score: 16.53
+
+
+
+Context: As stated by Valdovinos et al., it is preferrable to use extraction chromatography instead of traditional ion exchange resins to increase separation yield and purity level [26]. This realization allowed for the implementation of N,N,N′,N′-tetrakis-2-ethylhexyldiglycolamide (DGA Branched extraction resin). The most recent published separation methods from both nickel and iron targets of varying enrichments use branched DGA to chemically isolate radioactive cobalt.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 17.4
+
+
+
+Context: As stated by Valdovinos et al., it is preferrable to use extraction chromatography instead of traditional ion exchange resins to increase separation yield and purity level [26]. This realization allowed for the implementation of N,N,N′,N′-tetrakis-2-ethylhexyldiglycolamide (DGA Branched extraction resin). The most recent published separation methods from both nickel and iron targets of varying enrichments use branched DGA to chemically isolate radioactive cobalt.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'This realization allowed for the implementation of N,N,N′,N′-tetrakis-2-ethylhexyldiglycolamide (DGA Branched extraction resin).
+Score: 29.55
+
+
+
+Context: As stated by Valdovinos et al., it is preferrable to use extraction chromatography instead of traditional ion exchange resins to increase separation yield and purity level [26]. This realization allowed for the implementation of N,N,N′,N′-tetrakis-2-ethylhexyldiglycolamide (DGA Branched extraction resin). The most recent published separation methods from both nickel and iron targets of varying enrichments use branched DGA to chemically isolate radioactive cobalt.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 15.38
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu and cobalt radioisotopes.
+Score: 10.86
+
+
+
+Context: The newer separation method for separating nickel from cobalt is straightforward, using one column containing branched DGA resin, as shown in Figure 17.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 29.94
+
+
+
+Context: The newer separation method for separating nickel from cobalt is straightforward, using one column containing branched DGA resin, as shown in Figure 17.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'using one column containing branched DGA resin', and a 'column containing branched DGA resin' is a resin/column, then a column containing branched DGA resin must be the resin
+Score: 28.76
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl.
+Score: 16.02
+
+Question: What are the products of the above reaction?
+Answer:er: 64Ni and 64Cu.
+Score: 14.14
+
+
+
+Context: The separation of cobalt-5x from iron-5x uses a two column technique, as shown in Figure 18. An AG1X8 anion-exchange resin packed column is used for the bulk separation of iron and cobalt, then a DGA column serves as a “clean up” to further improve the purification of cobalt-5x [26].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 59Fe, or iron-59, must be the target.
+Score: 36.73
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 35.32
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'an AG1X8 anion-exchange resin packed column is used for the bulk separation of iron and cobalt', and an 'anion-exchange resin packed column' is a resin/
+Score: 27.61
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 36.44
+
+Question: What are the products of the above reaction?
+Answer:er: 59Fe and 59Co.
+Score: 23.34
+
+
+
+Context: While there has not been a publication specifically on the separation of manganese target material from cobalt-55,58m, the work performed by Pourmand et al. suggests branched DGA can also be used for radio-chemical isolation using 4–6 M HCl, where in this range manganese 2+ has minimal affinity for the resin, and cobalt 2+ has a greater affinity [95].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 55Co, or Cobalt-55, must be the target.
+Score: 22.7
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 4–6 M HCl.
+Score: 16.15
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 4–6 M HCl is a solution, so the solution is loaded into the resin/column.
+Score: 41.97
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 4–6 M HCl.
+Score: 27.67
+
+Question: What are the products of the above reaction?
+Answer:er: 55Co and 58Co.
+Score: 18.31
+
+
+
+Context: While not widely used for radiochemistry, early studies showed that cobalt can be separated from iron 3+ and nickel 2+ with the use of inorganic and organic absorbents [94]. Many of the inorganic separations were using alumina, a polar column chromatography absorbent [96]. The organic separations from iron 2+ and nickel 2+ rely on columns of 8-hydroxyquinoline, naphthaquinoline, and cupferron mixed with potato starch or dimethylglyoxime compound columns, as reported by Bate and Leddicotte, [94].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 17.4
+
+
+
+Context: While not widely used for radiochemistry, early studies showed that cobalt can be separated from iron 3+ and nickel 2+ with the use of inorganic and organic absorbents [94]. Many of the inorganic separations were using alumina, a polar column chromatography absorbent [96]. The organic separations from iron 2+ and nickel 2+ rely on columns of 8-hydroxyquinoline, naphthaquinoline, and cupferron mixed with potato starch or dimethylglyoxime compound columns, as reported by Bate and Leddicotte, [94].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 8-hydroxyquinoline, naphthaquinoline, and cupferron mixed with potato starch or dimethylglyoxime compound columns, as reported by Bate and Leddicotte, [94].
+Score: 36.44
+
+
+
+Context: While not widely used for radiochemistry, early studies showed that cobalt can be separated from iron 3+ and nickel 2+ with the use of inorganic and organic absorbents [94]. Many of the inorganic separations were using alumina, a polar column chromatography absorbent [96]. The organic separations from iron 2+ and nickel 2+ rely on columns of 8-hydroxyquinoline, naphthaquinoline, and cupferron mixed with potato starch or dimethylglyoxime compound columns, as reported by Bate and Leddicotte, [94].
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 28.25
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu and cobalt radioisotopes.
+Score: 7.97
+
+
+
+Context: Free cobalt in the form of cobalt 2+ has been found to behave in the body similarly to calcium 2+ [97]. This has been found to be especially useful in tissues damaged by ischemia as these tissues contain high levels of intracellular calcium [98]. [55Co]CoCl2 PET has been used to image areas of the brain affected by ischemic stroke, showing that [55Co]CoCl2 uptake is inversely correlated to relative cerebral blood flow (rCBF) [99]. Additionally, uptake in ischemic regions of the brain occurs regardless of whether the blood brain barrier remains intact [100].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 55Co, or Cobalt-55, must be the target.
+Score: 13.7
+
+
+
+Context: Free cobalt in the form of cobalt 2+ has been found to behave in the body similarly to calcium 2+ [97]. This has been found to be especially useful in tissues damaged by ischemia as these tissues contain high levels of intracellular calcium [98]. [55Co]CoCl2 PET has been used to image areas of the brain affected by ischemic stroke, showing that [55Co]CoCl2 uptake is inversely correlated to relative cerebral blood flow (rCBF) [99]. Additionally, uptake in ischemic regions of the brain occurs regardless of whether the blood brain barrier remains intact [100].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 55Co is a radioisotope, so it is not a resin/column.
+Score: 25.8
+
+
+
+Context: Free cobalt in the form of cobalt 2+ has been found to behave in the body similarly to calcium 2+ [97]. This has been found to be especially useful in tissues damaged by ischemia as these tissues contain high levels of intracellular calcium [98]. [55Co]CoCl2 PET has been used to image areas of the brain affected by ischemic stroke, showing that [55Co]CoCl2 uptake is inversely correlated to relative cerebral blood flow (rCBF) [99]. Additionally, uptake in ischemic regions of the brain occurs regardless of whether the blood brain barrier remains intact [100].
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 28.25
+
+Question: What are the products of the above reaction?
+Answer:er: 55Co and 64Cu, or Cobalt-55 and Copper-64, must be the products.
+Score: 14.9
+
+
+
+Context: The first agent approved for PET imaging of SSTR2 was [68Ga]Ga-DOTATATE (Netspot) in 2016 [104]. Since its approval, there has been interest in developing a PET agent for somatostatin receptor imaging with a longer half-life than gallium-68 to simplify patient logistics and to image longer time courses post injection with improved clearance from blood and non-target tissues.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 68Ga, or Gallium-68, must be the target.
+Score: 11.09
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.83
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 68Ga is a positron emitter, so it is not a resin/column.
+Score: 14.99
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution.
+Score: 16.06
+
+Question: What are the products of the above reaction?
+Answer:er: 68Ga-DOTATATE is the product.
+Score: 7.45
+
+
+
+Context: In a study published in 2008, Heppeler et al. investigated the effect of changing the metal ion on the affinity of DOTATOC for SSTR analogs and compared their results to those published by Reubi et al. [105,106]. They found that Co-DOTATOC has higher affinity than DOTATOC labeled with gallium and yttrium as well as octreotide [106]. Biodistribution studies of [57Co]Co-DOTATOC in mice with AR42J tumors revealed high (25% ID/g) tumor uptake at 4 h post injection (PI), even higher than the kidneys which are a clearance route for peptides. However, the tumor to kidney ratio did not increase at the 24 h timepoint. Crystallography with Ga- and Co-DOTA revealed similar pseudooctahedral geometry but differing charge states which may explain their differing binding affinities [106].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 57Co, or Cobalt-57, must be the target.
+Score: 13.83
+
+
+
+Context: In a study published in 2008, Heppeler et al. investigated the effect of changing the metal ion on the affinity of DOTATOC for SSTR analogs and compared their results to those published by Reubi et al. [105,106]. They found that Co-DOTATOC has higher affinity than DOTATOC labeled with gallium and yttrium as well as octreotide [106]. Biodistribution studies of [57Co]Co-DOTATOC in mice with AR42J tumors revealed high (25% ID/g) tumor uptake at 4 h post injection (PI), even higher than the kidneys which are a clearance route for peptides. However, the tumor to kidney ratio did not increase at the 24 h timepoint. Crystallography with Ga- and Co-DOTA revealed similar pseudooctahedral geometry but differing charge states which may explain their differing binding affinities [106].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+
+
+Context: In a study published in 2008, Heppeler et al. investigated the effect of changing the metal ion on the affinity of DOTATOC for SSTR analogs and compared their results to those published by Reubi et al. [105,106]. They found that Co-DOTATOC has higher affinity than DOTATOC labeled with gallium and yttrium as well as octreotide [106]. Biodistribution studies of [57Co]Co-DOTATOC in mice with AR42J tumors revealed high (25% ID/g) tumor uptake at 4 h post injection (PI), even higher than the kidneys which are a clearance route for peptides. However, the tumor to kidney ratio did not increase at the 24 h timepoint. Crystallography with Ga- and Co-DOTA revealed similar pseudooctahedral geometry but differing charge states which may explain their differing binding affinities [106].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 15.2
+
+Question: What are the products of the above reaction?
+Answer:er: 57Co-DOTATOC.
+Score: 9.07
+
+
+
+Context: This work led to a proof-of-concept study radiolabeling DOTATOC with cobalt-55,56,58m [14]. In this study, the authors produced Co isotopes using the following reactions: 54Fe(d,n)55Co, natFe(p,x)56Co, and 58Fe(p,n)58mCo. They measured molar activities of >4 MBq/nmol for [58mCo]Co-DOTATOC and >0.21 MBq/nmol for [55Co]Co-DOTATOC, but [56Co]Co-DOTATOC wasnwas not examined [16].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 54Fe, 58Fe, and natFe are all iron isotopes, so the target must be iron.
+Score: 17.79
+
+
+
+Context: This work led to a proof-of-concept study radiolabeling DOTATOC with cobalt-55,56,58m [14]. In this study, the authors produced Co isotopes using the following reactions: 54Fe(d,n)55Co, natFe(p,x)56Co, and 58Fe(p,n)58mCo. They measured molar activities of >4 MBq/nmol for [58mCo]Co-DOTATOC and >0.21 MBq/nmol for [55Co]Co-DOTATOC, but [56Co]Co-DOTATOC wasnwas not examined [16].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 54Fe(d,n)55Co, natFe(p,x)56Co, and 58Fe(p,n)58mCo.
+Score: 14.16
+
+
+
+Context: This work led to a proof-of-concept study radiolabeling DOTATOC with cobalt-55,56,58m [14]. In this study, the authors produced Co isotopes using the following reactions: 54Fe(d,n)55Co, natFe(p,x)56Co, and 58Fe(p,n)58mCo. They measured molar activities of >4 MBq/nmol for [58mCo]Co-DOTATOC and >0.21 MBq/nmol for [55Co]Co-DOTATOC, but [56Co]Co-DOTATOC wasnwas not examined [16].
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 28.25
+
+Question: What are the products of the above reaction?
+Answer:er: 54Fe(d,n)55Co, natFe(p,x)56Co, and 58Fe(p,n)58mCo.
+Score: 12.27
+
+
+
+Context: Thisgaard et al. followed this work with a comparative in vivo evaluation of 57Co-labeled DOTATOC, DOTANOC, and DOTATATE with [111In]In-DOTATATE [107]. In a head-to-head comparison in AR42J cells, the three 57Co-labeled somatostatin analogues were found to have between 49 and 123% higher cellular uptake as compared to [111In]In-DOTATATE. All agents showed similar levels of nuclear translocation, with less than 10% of nuclear translocation observed up to 3 h post addition. The cell-killing ability of the Auger emitter [58mCo]Co-DOTATATE was also compared to the beta emitter [177Lu]Lu-DOTATATE and the Auger emitter [111In]In-DOTATATE. At low concentrations, the [58mCo]Co-DOTATATE was more effective in causing DNA damage than 111In-labeled or 177Lu-labeled, while at higher concentrations the [177Lu]Lu-DOTATATE was most effective. When the cell-killing assay was normalized to cumulative decays, the [58mCo]Co-DOTATATE was consistently most effective at all concentrations tested. The authors attributed the limited degree of cell killing demonstrated by lutetium-177 to the cells being grown in monolayer, which restricts the ability of the emitted electrons to cross into adjacent cells to do damage. The superiority of 58mCo-over 111In-labeled DOTATATE may also be attributed to the higher binding affinity of the cobalt-labeled DOTATATE for SSTR2. Similarly to the 2008 study, the authors performed a biodistribution study with [57Co]Co-DOTATATE and found high tumor uptake 1–4 h PI. By 4 h, most uptake in organs with SSTR2 expression such as the stomach and pancreas had greatly decreased [106].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 57Co, or Cobalt-57, must be the target.
+Score: 13.23
+
+
+
+Context: Thisgaard et al. followed this work with a comparative in vivo evaluation of 57Co-labeled DOTATOC, DOTANOC, and DOTATATE with [111In]In-DOTATATE [107]. In a head-to-head comparison in AR42J cells, the three 57Co-labeled somatostatin analogues were found to have between 49 and 123% higher cellular uptake as compared to [111In]In-DOTATATE. All agents showed similar levels of nuclear translocation, with less than 10% of nuclear translocation observed up to 3 h post addition. The cell-killing ability of the Auger emitter [58mCo]Co-DOTATATE was also compared to the beta emitter [177Lu]Lu-DOTATATE and the Auger emitter [111In]In-DOTATATE. At low concentrations, the [58mCo]Co-DOTATATE was more effective in causing DNA damage than 111In-labeled or 177Lu-labeled, while at higher concentrations the [177Lu]Lu-DOTATATE was most effective. When the cell-killing assay was normalized to cumulative decays, the [58mCo]Co-DOTATATE was consistently most effective at all concentrations tested. The authors attributed the limited degree of cell killing demonstrated by lutetium-177 to the cells being grown in monolayer, which restricts the ability of the emitted electrons to cross into adjacent cells to do damage. The superiority of 58mCo-over 111In-labeled DOTATATE may also be attributed to the higher binding affinity of the cobalt-labeled DOTATATE for SSTR2. Similarly to the 2008 study, the authors performed a biodistribution study with [57Co]Co-DOTATATE and found high tumor uptake 1–4 h PI. By 4 h, most uptake in organs with SSTR2 expression such as the stomach and pancreas had greatly decreased [106].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+
+
+Context: Thisgaard et al. followed this work with a comparative in vivo evaluation of 57Co-labeled DOTATOC, DOTANOC, and DOTATATE with [111In]In-DOTATATE [107]. In a head-to-head comparison in AR42J cells, the three 57Co-labeled somatostatin analogues were found to have between 49 and 123% higher cellular uptake as compared to [111In]In-DOTATATE. All agents showed similar levels of nuclear translocation, with less than 10% of nuclear translocation observed up to 3 h post addition. The cell-killing ability of the Auger emitter [58mCo]Co-DOTATATE was also compared to the beta emitter [177Lu]Lu-DOTATATE and the Auger emitter [111In]In-DOTATATE. At low concentrations, the [58mCo]Co-DOTATATE was more effective in causing DNA damage than 111In-labeled or 177Lu-labeled, while at higher concentrations the [177Lu]Lu-DOTATATE was most effective. When the cell-killing assay was normalized to cumulative decays, the [58mCo]Co-DOTATATE was consistently most effective at all concentrations tested. The authors attributed the limited degree of cell killing demonstrated by lutetium-177 to the cells being grown in monolayer, which restricts the ability of the emitted electrons to cross into adjacent cells to do damage. The superiority of 58mCo-over 111In-labeled DOTATATE may also be attributed to the higher binding affinity of the cobalt-labeled DOTATATE for SSTR2. Similarly to the 2008 study, the authors performed a biodistribution study with [57Co]Co-DOTATATE and found high tumor uptake 1–4 h PI. By 4 h, most uptake in organs with SSTR2 expression such as the stomach and pancreas had greatly decreased [106].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl.
+Score: 9.83
+
+Question: What are the products of the above reaction?
+Answer:er: 57Co-labeled DOTATOC, DOTANOC, and DOTATATE with [111In]In-DOTATATE [107].
+Score: 12.31
+
+
+
+Context: In a paper published by Andersen et al. in 2020 [15], [55Co]Co-DOTATATE was compared with [64Cu]Cu-DOTATATE and [68Ga]Ga-DOTATATE to evaluate tumor uptake and image quality. Tumor-bearing mice were imaged 1, 4, and 24 h post injection of the 55Co- or 64Cu-labeled DOTATATE, while [68Ga]Ga-DOTATATE imaging was only performed at 1 h post injection (PI) (see Figure 19 below). Authors found that at 1 h PI both the 55Co- and 64Cu-labeled agents showed a nonsignificant trend towards higher uptake than [68Ga]Ga-DOTATATE. Tumor to organ ratios increased for [55Co]Co-DOTATATE at the 4 h and 24 h PI imaging times, with ratios of tumor to liver, kidney, and muscle higher than [64Cu]Cu-DOTATATE. PET imaging showed that for all 3 agents, blood activity had mostly cleared by 1 h PI. For the [55Co]Co-DOTATATE, kidneys and liver did not appear on the images at 4 and 24 h PI, while liver uptake was apparent in the 64Cu-labeled version at 24 h PI. The authors also used the mouse biodistribution to estimate human dosimetry. They found that most organs would receive relatively low doses from [55Co]Co-DOTATATE (<0.2 × 10−2 mSv/MBq), while the lungs (6.5 × 10−2 mSv/MBq) and stomach (2.1 × 10−2 mSv/MBq) would receive higher doses.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 55Co is the target material.
+Score: 15.48
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 31.86
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 55Co-DOTATATE was compared with [64Cu]Cu-DOTATATE and [68Ga]Ga-DOTATATE to evaluate tumor uptake and image quality. T
+Score: 6.43
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 29.49
+
+Question: What are the products of the above reaction?
+Answer:er: 55Co-DOTATATE, [64Cu]Cu-DOTATATE, and [68Ga]Ga-DOTATATE.
+Score: 7.99
+
+
+
+Context: In summary, it appears that cobalt-labeled somatostatin receptor-targeted agents have the highest affinity ever observed for SSTR2. DOTATATE labeled with cobalt-55 shows improved imaging characteristics as compared to DOTATATE labeled with copper-64 as nontarget uptake in the liver is reduced. As a therapeutic, [58mCo]Co-DOTATATE has shown promise as an effective auger emitter as it is has high affinity for SSTR2 and is internalized to a high degree. Using cobalt-55- and cobalt-58m-labeled DOTATATE together as a theranostic pair is an enticing prospect.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 55Co is the target material.
+Score: 9.79
+
+
+
+Context: In summary, it appears that cobalt-labeled somatostatin receptor-targeted agents have the highest affinity ever observed for SSTR2. DOTATATE labeled with cobalt-55 shows improved imaging characteristics as compared to DOTATATE labeled with copper-64 as nontarget uptake in the liver is reduced. As a therapeutic, [58mCo]Co-DOTATATE has shown promise as an effective auger emitter as it is has high affinity for SSTR2 and is internalized to a high degree. Using cobalt-55- and cobalt-58m-labeled DOTATATE together as a theranostic pair is an enticing prospect.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+
+
+Context: In summary, it appears that cobalt-labeled somatostatin receptor-targeted agents have the highest affinity ever observed for SSTR2. DOTATATE labeled with cobalt-55 shows improved imaging characteristics as compared to DOTATATE labeled with copper-64 as nontarget uptake in the liver is reduced. As a therapeutic, [58mCo]Co-DOTATATE has shown promise as an effective auger emitter as it is has high affinity for SSTR2 and is internalized to a high degree. Using cobalt-55- and cobalt-58m-labeled DOTATATE together as a theranostic pair is an enticing prospect.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 14.46
+
+Question: What are the products of the above reaction?
+Answer:er: 55Co and 58Co are the products.
+Score: 11.86
+
+
+
+Context: The cell surface protein gastrin-releasing peptide receptor (GRPR) has become a popular imaging target in recent years. GRPR is overexpressed by a large number of cancers including prostate, pancreatic, colon, and non-small cell lung cancers [108]. Agonist peptides such as bombesin bind to GRPR, trigger downstream signaling and are subsequently internalized into the cell. They have higher binding affinity than antagonists and are taken up in organs with endogenous GRPR expression such as the pancreas, stomach, intestines and adrenal glands [109]. The lower binding affinity of GRPR antagonists, however, may be advantageous for imaging studies as it leads to lower uptake in normal tissues [110].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 125I is the target material.
+Score: 9.54
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6 M hydrochloride acid must be the acid used to dissolve the target.
+Score: 20.54
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'The cell surface protein gastrin-releasing peptide receptor (GRPR) has become a popular imaging target in recent years. GRPR is overexpressed by a large number of cancers including
+Score: 11.7
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution.
+Score: 14.87
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu-DOTA-Bombesin.
+Score: 6.77
+
+
+
+Context: The first cobalt-55 imaging of GRPR was reported in 2016 by Dam et al. [111] and compared 55Co-, 57Co-, and 68Ga-labeled GRPR agonist NOTA-AMBA (NOTA-Gly-4-ABz-Gln-Trp-Ala-Gly-His-Leu-Met-NH2) in a PC3 prostate cancer. 57Co- and 68Ga-labeled NOTA-AMBA were found to have similar receptor affinities, serum stabilities, and pharmacokinetics at 1 h and 4 h PI [55Co]Co-NOTA-AMBA enabled PET imaging at a 24 h timepoint (and beyond) which is not possible with [68Ga]Ga-NOTA-AMBA and revealed encouraging clearance of the tracer and stable late uptake of [5xCo]Co-NOTA-AMBA in the tumor [111].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 55Co, or Cobalt-55, must be the target.
+Score: 27.28
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 34.95
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 55Co-NOTA-AMBA was prepared by incubating NOTA-AMBA with 55CoCl2 in 0.1 M NaH2PO4 (pH 7.4) for 1 h
+Score: 6.52
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 17.68
+
+Question: What are the products of the above reaction?
+Answer:er: 55Co-NOTA-AMBA, NOTA-Gly-4-ABz-Gln-Trp-Ala-Gly-His-Leu-Met-NH2, and NOTA-AM
+Score: 17.05
+
+
+
+Context: In 2017, Mitran et al. reported radiolabeling GRPR antagonist RM26 (NOTA-PEG2-[D-Phe, Sta, Leu] bombesin [6,7,8,9,10,11,12,13,14]) with cobalt-55 and cobalt-57 [13]. Cell binding and internalization were investigated in PC3 cells and a mouse PC3 xenograft tumor model. They observed 12% cell internalization at 24 h which is similar to what has been reported for [111In]In-NOTA-PEG2-RM26 [112]. Biodistribution studies in PC3 tumor-bearing mice showed that at 3 h PI the tumor uptake was greater than uptake in any other organ including the kidneys. PET imaging studies using [55Co]Co-NOTA-PEG2-RM26 showed clear tumor uptake at 3 h PI and by 24 h PI the tumor showed high uptake (Figure 20).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni is the target material.
+Score: 17.75
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6 M hydrochloride acid must be the acid used to dissolve the target.
+Score: 44.41
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 1) Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/
+Score: 30.17
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 40.37
+
+Question: What are the products of the above reaction?
+Answer:er: 55Co and 57Co.
+Score: 25.86
+
+
+
+Context: The IC50 for Co-NOTA-PEG2-RM26 (5.54 ± 0.4 nM) [10] is approximately 10-fold higher than Co-NOTA-AMBA (0.46 ± 0.20 nM) [13,111]. In vivo comparisons between [57Co]Co-NOTA-AMBA and [57Co]Co-NOTA-PEG2-RM26 are complicated as the early imaging times are not matched between studies. However, comparison at the 24 h timepoint shows greater uptake of [57Co]Co-NOTA-AMBA than [57Co]Co-NOTA-PEG2-RM26 in the tumor as well as many other organs. Even though the tumor uptake was less, the tumor to organ ratios for [57Co]Co-NOTA-PEG2-RM26 were sometimes 100-fold greater than what was observed with [57Co]Co-NOTA-AMBA. This was most notable in tissues with high GRPR expression such as the colon, pancreas, and stomach. The 24 h PI PET images provided, with both papers similarly showing lower non-target organ accumulation with the [55Co]Co-NOTA-PEG2-RM26 than with [55Co]Co-NOTA-AMBA.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 55Co, or Cobalt-55, must be the target.
+Score: 21.75
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 37.64
+
+
+
+Context: The IC50 for Co-NOTA-PEG2-RM26 (5.54 ± 0.4 nM) [10] is approximately 10-fold higher than Co-NOTA-AMBA (0.46 ± 0.20 nM) [13,111]. In vivo comparisons between [57Co]Co-NOTA-AMBA and [57Co]Co-NOTA-PEG2-RM26 are complicated as the early imaging times are not matched between studies. However, comparison at the 24 h timepoint shows greater uptake of [57Co]Co-NOTA-AMBA than [57Co]Co-NOTA-PEG2-RM26 in the tumor as well as many other organs. Even though the tumor uptake was less, the tumor to organ ratios for [57Co]Co-NOTA-PEG2-RM26 were sometimes 100-fold greater than what was observed with [57Co]Co-NOTA-AMBA. This was most notable in tissues with high GRPR expression such as the colon, pancreas, and stomach. The 24 h PI PET images provided, with both papers similarly showing lower non-target organ accumulation with the [55Co]Co-NOTA-PEG2-RM26 than with [55Co]Co-NOTA-AMBA.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 23.55
+
+Question: What are the products of the above reaction?
+Answer:er: 57Co-NOTA-AMBA and 57Co-NOTA-PEG2-RM26.
+Score: 15.18
+
+
+
+Context: Recently, Mitran et al. investigated the impact chelator modification had on PEG2-RM26 cell binding, internalization, and biodistribution in PC-3 prostate cancer [113]. PEG2-RM26 was bound to NOTA, DOTA, NODAGA, or DOTAGA and radiolabeled with cobalt-55 and cobalt-57. The NOTA- and DOTA-labeled peptides showed the highest uptake in PC-3 cells in vitro and DOTA-labeled peptide had the highest tumor uptake in vivo by 24 h PI. In PET imaging studies, NOTA and DOTA PEG2-RM26 showed near-complete clearance of the radiotracer from the kidneys and GI tract by 24 h, whereas NODAGA and DOTAGA had residual GI and kidney uptake respectively.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni is the target material.
+Score: 17.75
+
+
+
+Context: Recently, Mitran et al. investigated the impact chelator modification had on PEG2-RM26 cell binding, internalization, and biodistribution in PC-3 prostate cancer [113]. PEG2-RM26 was bound to NOTA, DOTA, NODAGA, or DOTAGA and radiolabeled with cobalt-55 and cobalt-57. The NOTA- and DOTA-labeled peptides showed the highest uptake in PC-3 cells in vitro and DOTA-labeled peptide had the highest tumor uptake in vivo by 24 h PI. In PET imaging studies, NOTA and DOTA PEG2-RM26 showed near-complete clearance of the radiotracer from the kidneys and GI tract by 24 h, whereas NODAGA and DOTAGA had residual GI and kidney uptake respectively.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6 M hydrochloride acid must be the acid used to dissolve the target.
+Score: 24.23
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'PEG2-RM26 was bound to NOTA, DOTA, NODAGA, or DOTAGA and radiolabeled with cobalt-55 and cobalt-57
+Score: 41.29
+
+
+
+Context: Recently, Mitran et al. investigated the impact chelator modification had on PEG2-RM26 cell binding, internalization, and biodistribution in PC-3 prostate cancer [113]. PEG2-RM26 was bound to NOTA, DOTA, NODAGA, or DOTAGA and radiolabeled with cobalt-55 and cobalt-57. The NOTA- and DOTA-labeled peptides showed the highest uptake in PC-3 cells in vitro and DOTA-labeled peptide had the highest tumor uptake in vivo by 24 h PI. In PET imaging studies, NOTA and DOTA PEG2-RM26 showed near-complete clearance of the radiotracer from the kidneys and GI tract by 24 h, whereas NODAGA and DOTAGA had residual GI and kidney uptake respectively.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution.
+Score: 25.28
+
+Question: What are the products of the above reaction?
+Answer:er: 55Co and 57Co are the products.
+Score: 11.65
+
+
+
+Context: More recently, bombesin analogues have been supplanted by prostate-specific membrane antigen (PSMA)-targeting agents in prostate cancer imaging, culminating in the NDA approval for [68Ga]Ga-PSMA-11 [114,115,116]. In 2017, Dam et al. compared 68Ga and 55/57Co-labeled PSMA-617 with in vitro-specific binding and internalization assays in LNCaP and PC3-PIP cells [12]. Observed KD values for both agents were similar to [111In]In-PSMA-617 [117]. In LNCaP cells incubated with [57Co]CoPSMA-617, >60% of the cell associated radioactivity was internalized after 30 min of incubation, which was higher than 68Ga-, 177Lu-, or 44Sc-labeled PSMA-617 [117,118]. PET imaging with [55Co]Co-PSMA-617 shows selective tumor uptake by 20 min P.I. and was sustained at 24 h PI. Additionally, by 24 h, tumor uptake was found to be higher than any other organ, including the kidneys [12].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 68Ga, or Gallium-68, must be the target.
+Score: 12.3
+
+
+
+Context: More recently, bombesin analogues have been supplanted by prostate-specific membrane antigen (PSMA)-targeting agents in prostate cancer imaging, culminating in the NDA approval for [68Ga]Ga-PSMA-11 [114,115,116]. In 2017, Dam et al. compared 68Ga and 55/57Co-labeled PSMA-617 with in vitro-specific binding and internalization assays in LNCaP and PC3-PIP cells [12]. Observed KD values for both agents were similar to [111In]In-PSMA-617 [117]. In LNCaP cells incubated with [57Co]CoPSMA-617, >60% of the cell associated radioactivity was internalized after 30 min of incubation, which was higher than 68Ga-, 177Lu-, or 44Sc-labeled PSMA-617 [117,118]. PET imaging with [55Co]Co-PSMA-617 shows selective tumor uptake by 20 min P.I. and was sustained at 24 h PI. Additionally, by 24 h, tumor uptake was found to be higher than any other organ, including the kidneys [12].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+
+
+Context: More recently, bombesin analogues have been supplanted by prostate-specific membrane antigen (PSMA)-targeting agents in prostate cancer imaging, culminating in the NDA approval for [68Ga]Ga-PSMA-11 [114,115,116]. In 2017, Dam et al. compared 68Ga and 55/57Co-labeled PSMA-617 with in vitro-specific binding and internalization assays in LNCaP and PC3-PIP cells [12]. Observed KD values for both agents were similar to [111In]In-PSMA-617 [117]. In LNCaP cells incubated with [57Co]CoPSMA-617, >60% of the cell associated radioactivity was internalized after 30 min of incubation, which was higher than 68Ga-, 177Lu-, or 44Sc-labeled PSMA-617 [117,118]. PET imaging with [55Co]Co-PSMA-617 shows selective tumor uptake by 20 min P.I. and was sustained at 24 h PI. Additionally, by 24 h, tumor uptake was found to be higher than any other organ, including the kidneys [12].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 14.55
+
+Question: What are the products of the above reaction?
+Answer:er: 68Ga and 55/57Co-labeled PSMA-617.
+Score: 10.34
+
+
+
+Context: Due to the improved internalization profile and very high tumor uptake, it appears that [58mCo]Co-PSMA-617 would be a prime agent to be used for therapy. This is supported by its relatively rapid clearance in nontarget organs, especially the kidney.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 58Co, or Cobalt-58, must be the target.
+Score: 12.88
+
+
+
+Context: Due to the improved internalization profile and very high tumor uptake, it appears that [58mCo]Co-PSMA-617 would be a prime agent to be used for therapy. This is supported by its relatively rapid clearance in nontarget organs, especially the kidney.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 58Co is a radioisotope, so it is not a resin/column.
+Score: 16.38
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution.
+Score: 10.78
+
+Question: What are the products of the above reaction?
+Answer:er: 58Co and PSMA-617.
+Score: 8.24
+
+
+
+Context: Folate receptors (FR) are expressed on the surface of cells and reduce extracellular folic acid derivatives, delivering them across the cell membrane [119]. Their overexpression by many cancers makes them interesting pharmacological targets [119,120]. Radford et al. 55Co-labeled two folate receptor-targeting constructs, cm10 (DOTA tagged) and rf42 (NODAGA tagged) [121]. In vitro and in vivo up uptake waweres evaluated in the KB cervical cancer cell line which expresses high levels of FR [122]. The two agents had similar uptake and biodistributions, achieving >15% ID/g in xenografted tumors and underwent renal clearance [121]. Compared to a previous study using 64Cu- and 68Ga-labeled rf42, tumor to blood and tumor to kidney ratios were similar for all three agents [123]. However, tumor to liver ratios for the 55Co- and 68Ga-labeled tracers were higher than for the 64Cu-labeled version. Free copper is known to exhibit preferential liver uptake due to high levels of transcuprein [124].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 55Co-labeled two folate receptor-targeting constructs, cm10 (DOTA tagged) and rf42 (NODAGA tagged).
+Score: 25.71
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 38.45
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 55Co-labeled two folate receptor-targeting constructs, cm10 (DOTA tagged) and rf42 (NODAGA tagged) [121]. In vitro and in v
+Score: 21.65
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 14.19
+
+Question: What are the products of the above reaction?
+Answer:er: 55Co-labeled two folate receptor-targeting constructs, cm10 (DOTA tagged) and rf42 (NODAGA tagged) [121].
+Score: 32.75
+
+
+
+Context: Some of the challenges facing a therapeutic target to folate receptors include the lack of specificity towards folate receptor isoform α versus isoform β. While FRα is primarily expressed by epithelial cancers, it has high expression in the kidneys [125]. FRβ is expressed in adult tissues primarily in immune cells such as macrophages, neutrophils and monocytes [120]. Delivery of a folate receptor-targeted therapy to the tumor while sparing the kidneys has been demonstrated to be a difficult challenge [126]. The constructs cm10 and rf42 each contain an albumin-binding domain which contributes to lowering kidney uptake, which may allow them to be used therapeutically.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 9.76
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 17.55
+
+
+
+Context: Some of the challenges facing a therapeutic target to folate receptors include the lack of specificity towards folate receptor isoform α versus isoform β. While FRα is primarily expressed by epithelial cancers, it has high expression in the kidneys [125]. FRβ is expressed in adult tissues primarily in immune cells such as macrophages, neutrophils and monocytes [120]. Delivery of a folate receptor-targeted therapy to the tumor while sparing the kidneys has been demonstrated to be a difficult challenge [126]. The constructs cm10 and rf42 each contain an albumin-binding domain which contributes to lowering kidney uptake, which may allow them to be used therapeutically.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 28.25
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu and cobalt radioisotopes.
+Score: 9.75
+
+
+
+Context: The human epidermal growth factor receptor type 2 (HER2) is a cell surface protein involved in cell growth, replication, angiogenesis and differentiation. It is overexpressed by many breast cancers, and expression status is used to determine eligibility for some therapies [127]. Detection of HER2 receptor status can be assessed with imaging, and [89Zr]Zr-trastuzumab has been evaluated in several clinical trials. However, when using a fully intact antibody such as trastuzumab, blood clearance is delayed and imaging is typically performed 4–5 days after injection of the radiotracer [128]. Additionally, use of full-sized antibodies for imaging results in high liver uptake as the antibodies clear through the hepatobiliary pathway. This property may result in obscurement of liver metastases. Use of a truncated antibody, such as a minibody, diabody, or fragment antibody for imaging allows for more rapid clearance, typically via the kidneys [129]. Using these constructs allows for imaging on the same day or next day, which means that a radionuclide with a shorter half-life than zirconium-89 may be preferred.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 89Zr, or Zirconium-89, must be the target.
+Score: 12.14
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6 M hydrochloride acid must be the acid used to dissolve the target.
+Score: 16.85
+
+
+
+Context: The human epidermal growth factor receptor type 2 (HER2) is a cell surface protein involved in cell growth, replication, angiogenesis and differentiation. It is overexpressed by many breast cancers, and expression status is used to determine eligibility for some therapies [127]. Detection of HER2 receptor status can be assessed with imaging, and [89Zr]Zr-trastuzumab has been evaluated in several clinical trials. However, when using a fully intact antibody such as trastuzumab, blood clearance is delayed and imaging is typically performed 4–5 days after injection of the radiotracer [128]. Additionally, use of full-sized antibodies for imaging results in high liver uptake as the antibodies clear through the hepatobiliary pathway. This property may result in obscurement of liver metastases. Use of a truncated antibody, such as a minibody, diabody, or fragment antibody for imaging allows for more rapid clearance, typically via the kidneys [129]. Using these constructs allows for imaging on the same day or next day, which means that a radionuclide with a shorter half-life than zirconium-89 may be preferred.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 15.96
+
+Question: What are the products of the above reaction?
+Answer:er: 89Zr-trastuzumab is the product.
+Score: 10.38
+
+
+
+Context: With that in mind, an affibody for HER2 (DOTA-Z2395-C) was developed and 57Co-labeled (as a substitute for cobalt-55) [130]. In vitro studies with the 57Co-labeled HER2 affibody revealed that radiolabeling conditions only slightly reduced immunoreactivity of the affibody. In vitro, approximately 20% of the tracer internalized over 24 h in SKOV-3 ovarian cancer cells. In vivo, biodistribution was similar to what was observed with [111In]In-DOTA-Z2395-C [131]. Blood clearance was rapid, falling from 0.5 to 0.027 % ID/g between 1 and 24 h PI. SPECT imaging of [57Co]Co-DOTA-Z2395-C at 4 h PI in mice bearing LS174T tumors (low HER2) and SKOV-3 tumors (high HER-2) revealed blockable tumor uptake and kidney clearance [130].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 57Co-labeled (as a substitute for cobalt-55) [130].
+Score: 17.08
+
+
+
+Context: With that in mind, an affibody for HER2 (DOTA-Z2395-C) was developed and 57Co-labeled (as a substitute for cobalt-55) [130]. In vitro studies with the 57Co-labeled HER2 affibody revealed that radiolabeling conditions only slightly reduced immunoreactivity of the affibody. In vitro, approximately 20% of the tracer internalized over 24 h in SKOV-3 ovarian cancer cells. In vivo, biodistribution was similar to what was observed with [111In]In-DOTA-Z2395-C [131]. Blood clearance was rapid, falling from 0.5 to 0.027 % ID/g between 1 and 24 h PI. SPECT imaging of [57Co]Co-DOTA-Z2395-C at 4 h PI in mice bearing LS174T tumors (low HER2) and SKOV-3 tumors (high HER-2) revealed blockable tumor uptake and kidney clearance [130].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 57Co-labeled (as a substitute for cobalt-55) [130].
+Score: 29.33
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 23.02
+
+Question: What are the products of the above reaction?
+Answer:er: 57Co-labeled HER2 affibody.
+Score: 8.3
+
+
+
+Context: Like HER2, HER3 is overexpressed by certain cancer types. Additionally, HER3 expression changes in response to therapy, increasing in tissues as they become resistant to HER2 targeted therapies [132]. As immunotherapies to HER3 are developed, it becomes important to develop tools to detect HER3 status in tumors [133]. Hence, an affibody which targets HER3 (HEHEHE-ZHER3) was conjugated with NOTA and radiolabeled with 57Co [134]. In vitro, incubation of [57Co]Co-NOTA-ZHER3 with cells expressing low HER3 (DU145) and high HER3 (LS174T) showed better total binding to LS174T (~15% vs. 4% for DU145). Internalization was observed to be higher with the DU145 cells, with approximately 50% of activity internalized by DU145 at 24 h, and less than 10% internalization seen with LS174T. As expected, the high expression line LS174T showed greater tumor binding in vivo, which was effectively blocked with non-labeled ZHER3. Uptake was also seen in tissues which have endogenous expression of HER3, namely the liver and intestines. Clearance occurred primarily through the kidneys. By 24 h PI, imaging showed that much of the activity in the liver and intestines had cleared [134].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 57Co is the target material.
+Score: 11.18
+
+
+
+Context: Like HER2, HER3 is overexpressed by certain cancer types. Additionally, HER3 expression changes in response to therapy, increasing in tissues as they become resistant to HER2 targeted therapies [132]. As immunotherapies to HER3 are developed, it becomes important to develop tools to detect HER3 status in tumors [133]. Hence, an affibody which targets HER3 (HEHEHE-ZHER3) was conjugated with NOTA and radiolabeled with 57Co [134]. In vitro, incubation of [57Co]Co-NOTA-ZHER3 with cells expressing low HER3 (DU145) and high HER3 (LS174T) showed better total binding to LS174T (~15% vs. 4% for DU145). Internalization was observed to be higher with the DU145 cells, with approximately 50% of activity internalized by DU145 at 24 h, and less than 10% internalization seen with LS174T. As expected, the high expression line LS174T showed greater tumor binding in vivo, which was effectively blocked with non-labeled ZHER3. Uptake was also seen in tissues which have endogenous expression of HER3, namely the liver and intestines. Clearance occurred primarily through the kidneys. By 24 h PI, imaging showed that much of the activity in the liver and intestines had cleared [134].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6 M hydrochloride acid must be the acid used to dissolve the target.
+Score: 24.23
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 1. Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/
+Score: 31.11
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 14.91
+
+Question: What are the products of the above reaction?
+Answer:er: 57Co-NOTA-ZHER3, which is a radiolabeled affibody which targets HER3.
+Score: 18.83
+
+
+
+Context: Further investigation into the ZHER3 affibody involved modifying the chelator to determine if imaging qualities could be improved [135]. In addition to NOTA, which was used previously, DOTA-, NODAGA-, and DOTAGA-tagged ZHER3 were 57Co labeled. In vitro assays showed nearly equal, blockable binding of the affibody conjugated DOTA, NODAGA, and DOTAGA. The measured equilibrium disassociation constants, KD, were 0.2 nM for DOTA and DOTAGA constructs and 0.1 nM for the NOTA and NODAGA constructs. Interestingly, the internalization fraction of [57Co]Co-NOTA-ZHER3 in DU145 cells was observed to be 5% over 24 h, while their previous study showed as compared to 50% in their previous study [134]. In vivo, [57Co]Co-(NOTA/NODAGA/DOTA/DOTAGA)-ZHER3 were compared at 3 h and 24 h PI. The DOTA- and DOTAGA-conjugated affibodies showed more rapid blood clearance than those labeled with NOTA and NODAGA. [57Co]Co-DOTA-ZHER3 was compared to [68Ga]Ga-NODAGA-ZHER3 at 3 h post injection and [57Co]Co-DOTA-ZHER3 was followed to 24 h (see Figure 21 below). At 3 h, [68Ga]Ga-NODAGA-ZHER3 showed similar tumor uptake but lower blood, liver, and small intestine uptake. By 24 h, [57Co]Co-DOTA-ZHER3 showed similar tumor to organ ratios as 68Ga at 3 h PI [135].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 57Co is the target material.
+Score: 16.8
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6 M hydrochloride acid must be the acid used to dissolve the target.
+Score: 27.63
+
+
+
+Context: Further investigation into the ZHER3 affibody involved modifying the chelator to determine if imaging qualities could be improved [135]. In addition to NOTA, which was used previously, DOTA-, NODAGA-, and DOTAGA-tagged ZHER3 were 57Co labeled. In vitro assays showed nearly equal, blockable binding of the affibody conjugated DOTA, NODAGA, and DOTAGA. The measured equilibrium disassociation constants, KD, were 0.2 nM for DOTA and DOTAGA constructs and 0.1 nM for the NOTA and NODAGA constructs. Interestingly, the internalization fraction of [57Co]Co-NOTA-ZHER3 in DU145 cells was observed to be 5% over 24 h, while their previous study showed as compared to 50% in their previous study [134]. In vivo, [57Co]Co-(NOTA/NODAGA/DOTA/DOTAGA)-ZHER3 were compared at 3 h and 24 h PI. The DOTA- and DOTAGA-conjugated affibodies showed more rapid blood clearance than those labeled with NOTA and NODAGA. [57Co]Co-DOTA-ZHER3 was compared to [68Ga]Ga-NODAGA-ZHER3 at 3 h post injection and [57Co]Co-DOTA-ZHER3 was followed to 24 h (see Figure 21 below). At 3 h, [68Ga]Ga-NODAGA-ZHER3 showed similar tumor uptake but lower blood, liver, and small intestine uptake. By 24 h, [57Co]Co-DOTA-ZHER3 showed similar tumor to organ ratios as 68Ga at 3 h PI [135].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 19.48
+
+Question: What are the products of the above reaction?
+Answer:er: 57Co is a radioactive isotope of cobalt.
+Score: 14.77
+
+
+
+Context: The anti-HER2 [57Co]Co-DOTA-Z2395-C and anti HER3 [57Co]Co-ZHER3 affibodies showed promising tumor uptake, rapid blood clearance, and good imaging properties in the models tested. They would very likely translate well for labeling with 55Co for PET imaging. As a potential therapeutic, a 58mCo-labeled HER2/HER3 affibody may not show significant internalization needed for effective therapeutic response.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 57Co is the target material.
+Score: 10.82
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 46.89
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 57Co is a radioisotope, so it is not a resin/column.
+Score: 16.62
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution.
+Score: 10.51
+
+Question: What are the products of the above reaction?
+Answer:er: 57Co-DOTA-Z2395-C and 57Co-ZHER3 affibodies.
+Score: 21.9
+
+
+
+Context: The epidermal growth factor receptor (EGFR) is a transmembrane protein involved in cell growth and replication. It is upregulated in many types of cancer and is involved in resistance to chemotherapies [136]. Imaging can determine EGFR receptor status for targeted therapies and for predicting treatment resistance [136]. The EGFR-targeting affibody ZEGFR:2377 was conjugated with DOTA for imaging studies and 111In-, 68Ga-, or 57Co-labeled [137,138]. [68Ga]Ga- DOTA-ZEGFR:2377 and [57Co]Co-DOTA-ZEGFR:2377 uptake was measured in mice bearing A431 tumors. Interestingly [57Co]Co-DOTA-ZEGFR:2377 outperformed [68Ga]Ga-DOTA-ZEGFR:2377 at 3 h PI, showing higher tumor uptake and lower liver and spleen uptake. When biodistribution was performed in mice injected with [57Co]Co-DOTA-ZEGFR:2377 at 24 h PI, a reduction in blood activity was observed and was accompanied by only minor reduction in activity in other organs. Similarly, imaging showed much less liver uptake using the 57Co-labeled agent than the 68Ga-labeled agent. This radionuclide-dependent uptake led the authors to speculate that liver binding may be due to more than EGFR targeting in the liver. Because their blocking dose only partly blocked liver binding, they theorize that the neutral charge on the Ga-DOTA complex gives it higher affinity for scavenger receptors in the liver. The reduction in liver binding may leave more affibody available for tumor binding, explaining the higher tumor binding observed with [57Co]Co-DOTA-ZEGFR:2377.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni is the target material.
+Score: 17.75
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6 M hydrochloride acid must be the acid used to dissolve the target.
+Score: 15.38
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 1. Since they say: 'The EGFR-targeting affibody ZEGFR:2377 was conjugated with DOTA for imaging studies and 111In-, 68Ga-, or
+Score: 18.6
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 14.29
+
+Question: What are the products of the above reaction?
+Answer:er: 111In-, 68Ga-, or 57Co-labeled ZEGFR:2377.
+Score: 14.14
+
+
+
+Context: Attempts to produce a therapeutic compound labeled with 58mCo would likely have to contend with poor intracellular internalization and high kidney uptake, similar to the challenges faced in the development of PSMA-targeted ligands. Additionally, EGFR targeting would cause a significant radioactive dose to the liver.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 58mCo, or Cobalt-58, must be the target.
+Score: 18.07
+
+
+
+Context: Attempts to produce a therapeutic compound labeled with 58mCo would likely have to contend with poor intracellular internalization and high kidney uptake, similar to the challenges faced in the development of PSMA-targeted ligands. Additionally, EGFR targeting would cause a significant radioactive dose to the liver.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 58mCo is a radioisotope, so it is not a resin/column.
+Score: 20.3
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution.
+Score: 25.28
+
+Question: What are the products of the above reaction?
+Answer:er: 58mCo is the product.
+Score: 12.36
+
+
+
+Context: Vascular endothelial growth factor (VEGF) helps promote vascular development in tissues. overexpression of VEGF is associated with a poor prognosis in some types of cancer [139,140]. A VEGF-targeting peptide L19K-FDNB was conjugated to NO2A or DO3A and labeled with cobalt-55 for PET imaging [14]. Uptake of the radiotracers was compared with the biodistribution of free cobalt. In tumor-bearing mice, free cobalt distributed primarily to the liver, kidneys, and heart while the 55Co-peptides were observed to clear through the kidneys. Unexpectedly, uptake in the tumors was highest for free cobalt, though it is unclear whether this is due to Ca2+ mimetic properties of Co or higher blood activity seen with free cobalt than the labeled peptides. The group had previously investigated [64Cu]Cu-NO2A-L19K-FDNB which showed higher tumor uptake than the cobalt-labeled peptides [141], which indicates that the affinity of this peptide for targeting VEGF was negatively affected by radiolabeling with cobalt-55.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 55Co, or Cobalt-55, must be the target.
+Score: 13.07
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6 M hydrochloride acid must be the acid used to dissolve the target.
+Score: 24.23
+
+
+
+Context: Vascular endothelial growth factor (VEGF) helps promote vascular development in tissues. overexpression of VEGF is associated with a poor prognosis in some types of cancer [139,140]. A VEGF-targeting peptide L19K-FDNB was conjugated to NO2A or DO3A and labeled with cobalt-55 for PET imaging [14]. Uptake of the radiotracers was compared with the biodistribution of free cobalt. In tumor-bearing mice, free cobalt distributed primarily to the liver, kidneys, and heart while the 55Co-peptides were observed to clear through the kidneys. Unexpectedly, uptake in the tumors was highest for free cobalt, though it is unclear whether this is due to Ca2+ mimetic properties of Co or higher blood activity seen with free cobalt than the labeled peptides. The group had previously investigated [64Cu]Cu-NO2A-L19K-FDNB which showed higher tumor uptake than the cobalt-labeled peptides [141], which indicates that the affinity of this peptide for targeting VEGF was negatively affected by radiolabeling with cobalt-55.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 15.38
+
+Question: What are the products of the above reaction?
+Answer:er: 55Co-NO2A-L19K-FDNB, 55Co-DO3A-L19K-FDNB, and 55Co-Cu-NO2A-L19K
+Score: 11.29
+
+
+
+Context: A summary of molar activities obtained for the targeting paradigms discussed above is included in Table 3 below. Cobalt-55 and cobalt-58m are ideally suited as a matched-pair theranostic for use in both research and clinical environments. A wide range of production pathways are available for cobalt-55 and cobalt-58m with distinct advantages to each method. For use in clinical applications, enriched targets coupled with modern cyclotrons are likely the best path forward since this method can result in high radiochemical purities (>98%). Furthermore, the literature for chelating cobalt-58m was reviewed and results compared with clinically approved and other contemporary radiopharmaceuticals. In many of the applications reported, cobalt-55 and cobalt-58m are at least comparable to gallium-68 and lutetium-177 with some studies also reporting superior contrast with cobalt-55 over gallium-68 and higher cell-killing efficiencies with cobalt-58m as compared to lutetium-177. However, despite the favorable results, there have not been any in vivo human trials using cobalt-55 and cobalt-58m in targeted radionuclide therapy and thus further studies are necessary.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 55Co and 58Co.
+Score: 9.26
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 30.58
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 15.38
+
+Question: What are the products of the above reaction?
+Answer:er: 55Co and 58Co.
+Score: 7.2
+
+
+
+Context: The authors would like to acknowledge the support of awards from the Department of Energy Isotope Program DESC0021269 (Lapi).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 24.04
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 33.77
+
+
+
+Context: The authors would like to acknowledge the support of awards from the Department of Energy Isotope Program DESC0021269 (Lapi).
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce
+Score: 18.35
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl.
+Score: 40.04
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu and cobalt radioisotopes.
+Score: 29.84
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 16.17
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6 M hydrochloride acid.
+Score: 23.18
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 64Ni was washed out with 6 M HCl and collected for recycling.
+Score: 43.15
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl.
+Score: 15.93
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu and cobalt radioisotopes.
+Score: 13.98
+
+
+
+Context: * Molar activity calculated from provided methods.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 17.4
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6 M hydrochloric acid.
+Score: 30.61
+
+
+
+Context: * Molar activity calculated from provided methods.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce
+Score: 18.35
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl.
+Score: 28.44
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu and 64Ni.
+Score: 20.1
+
+
+
+Context: * Molar activity calculated from provided methods.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 17.4
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6 M hydrochloric acid.
+Score: 30.61
+
+
+
+Context: * Molar activity calculated from provided methods.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce
+Score: 18.35
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl.
+Score: 28.44
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu and 64Ni.
+Score: 20.1
+
+
+
+Context: Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 17.4
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid.
+Score: 23.68
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce
+Score: 18.35
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl.
+Score: 24.27
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu and cobalt radioisotopes.
+Score: 19.31

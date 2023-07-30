@@ -1,0 +1,451 @@
+Generated 74 responses in 102.26 seconds with average perplexity score of nan
+
+
+Context: The quality of the 64Ni solid target prepared above was evaluated by a number of physical techniques, to determine the uniformity, to characterize the metallic impurities, and to measure the thickness of 64Ni layer on Au-disk. The SEM (scanning electron microscopy) image (Figure 2b) of the 64Ni solid target showed the uniform layer of Ni on Au surface. The EDS (energy dispersive X-ray spectroscopy) (Table 1 and Figure 2c) results showed no significant amount of metallic impurities in the 64Ni layer. The 64Ni target thickness on Au-disk was measured to be 10.73 μm by alpha step apparatus (Figure 2d).
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:˜6 M hydrochloride acid is the acid used to dissolve the target.
+Score: 58.09
+
+Question: What acid is used in the elution during the above reaction?
+Answer:˜1 M HCl is the acid used in the elution.
+Score: 45.88
+
+
+
+Context: The 64Ni electroplating solution was prepared as reported previously with some modifications [25]. The enriched 64Ni metal (65–80 mg) was dissolved in 5 mL of warm 6 M HNO3. After the metal was completely dissolved, the solution was then evaporated to dryness under vacuum. The green-colored residue was dissolved in 300 µL of concentrated H2SO4 and the solution then diluted with 2 mL of 18 MΩ·cm water (Milli-Q Waters, Millipore Corporation, Billerica, MA, USA) slowly and carefully. The pH of the solution was adjusted to 9.05 ± 0.05 by adding about 1.5 mL concentrated NH4OH. To this solution, ~300 mg of (NH4)2SO4 was added and the volume of the solution was adjusted to 5 mL with 18 MΩ·cm water. The final solution was transferred to the electroplating cell for target plating.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:˜65–80 mg of enriched 64Ni metal was dissolved in 5 mL of warm 6 M HNO3. After the metal was completely dissolved, the solution was then evaporated to dryness under vacuum. The green-colored residue was
+Score: 16.96
+
+Question: What are the products of the above reaction?
+Answer:˜300 mg of (NH4)2SO4 was added to the solution, and the volume of the solution was adjusted to 5 mL with 18 MΩ·cm water. The final solution was transferred to the electroplating cell for target
+Score: 9.79
+
+Question: What are the products of the above reaction?
+Answer:˜300 mg of (NH4)2SO4 was added to the solution, and the volume of the solution was adjusted to 5 mL with 18 MΩ·cm water. The final solution was transferred to the electroplating cell for target
+Score: 9.79
+
+Question: What are the products of the above reaction?
+Answer:˜300 mg of (NH4)2SO4 was added to the solution, and the volume of the solution was adjusted to 5 mL with 18 MΩ·cm water. The final solution was transferred to the electroplating cell for target
+Score: 9.79
+
+Question: What are the products of the above reaction?
+Answer:˜300 mg of (NH4)2SO4 was added to the solution, and the volume of the solution was adjusted to 5 mL with 18 MΩ·cm water. The final solution was transferred to the electroplating cell for target
+Score: 9.79
+
+
+
+Context: The 64Ni targets were prepared by electrodeposition of the enriched 64Ni (99.32%) solution prepared as described above. Electroplating of 64Ni was realized using a plating vessel of our own design and manufacture (Figure 1), where the Au disk was used as a cathode and platinum wire as an anode. The electrodeposition of 64Ni was achieved at 2.4–2.6 V and 15–25 mA with the platinum anode at ~1 cm from the Au disk electrode. This process took 48–72 h. The enriched 64Ni target was irradiated at 12.5 MeV (which decreased by Al) with 20 μA current on a Sumitomo HM-20 cyclotron (20 MeV) for about 5–7 h. 64Cu was produced from the 64Ni (p, n) 64Cu nuclear reaction.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+Score: 1.29
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:˜6 M HCl is the acid used to dissolve the target.
+Score: 30.89
+
+
+
+Context: The 64Ni targets were prepared by electrodeposition of the enriched 64Ni (99.32%) solution prepared as described above. Electroplating of 64Ni was realized using a plating vessel of our own design and manufacture (Figure 1), where the Au disk was used as a cathode and platinum wire as an anode. The electrodeposition of 64Ni was achieved at 2.4–2.6 V and 15–25 mA with the platinum anode at ~1 cm from the Au disk electrode. This process took 48–72 h. The enriched 64Ni target was irradiated at 12.5 MeV (which decreased by Al) with 20 μA current on a Sumitomo HM-20 cyclotron (20 MeV) for about 5–7 h. 64Cu was produced from the 64Ni (p, n) 64Cu nuclear reaction.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+Score: 1.29
+
+Question: What acid is used in the elution during the above reaction?
+Answer:˜1 M HCl is the acid used in the elution.
+Score: 32.55
+
+
+
+Context: The 64Ni targets were prepared by electrodeposition of the enriched 64Ni (99.32%) solution prepared as described above. Electroplating of 64Ni was realized using a plating vessel of our own design and manufacture (Figure 1), where the Au disk was used as a cathode and platinum wire as an anode. The electrodeposition of 64Ni was achieved at 2.4–2.6 V and 15–25 mA with the platinum anode at ~1 cm from the Au disk electrode. This process took 48–72 h. The enriched 64Ni target was irradiated at 12.5 MeV (which decreased by Al) with 20 μA current on a Sumitomo HM-20 cyclotron (20 MeV) for about 5–7 h. 64Cu was produced from the 64Ni (p, n) 64Cu nuclear reaction.
+ 
+
+Question: What are the products of the above reaction?
+Answer:</s>
+Score: nan
+
+
+
+Context: Overall, while the high cross section of 55Mn(α,n)58mCo makes it appealing, the 58Fe(p,n)58mCo and 57Fe(d,n)58mCo reactions are more practical for widespread use due to the accessibility of protons and deuterons in global accelerator installations. These are the only reactions whose literature descriptions include thick target yield measurements obtained in conjunction with radiochemical separations and radiolabeling efforts. A comparison of the experimentally determined thick target yields and theoretical yields are shown in Figure 13, Figure 14, Figure 15 and Figure 16.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:˜1 mL of the solution was loaded into the resin/column, and the resin/column was washed with 1 mL of the solution. The resin/column was then washed with 1 mL of the solution, and the resin/column was washed
+Score: 5.4
+
+Question: What are the products of the above reaction?
+Answer:˜58mCo is a stable isotope of Co, and ˜58mCo is a stable isotope of Co. The isotope ratio of ˜58mCo is ˜0.0015. The isot
+Score: 6.69
+
+
+
+Context: Iron electroplating methods are largely adapted from Vosburgh et al. [89,92]. Metallic iron-5x powder is dissolved in 5 mL 6M HCl. To the dissolved iron solution, 100 µL of 30% H2O2 is added to promote the oxidation of iron 2+ ions in solution to 3+ ions. This solution is then dried to near completion, leaving <1 mL of solution in the dry down vessel. The residual solution is then diluted with 15 mL of saturated ammonium oxalate with a concentration of ~44 mg/mL H2O. From here, Valdovinos adjusts the pH of the solution between 2 and 3 with either 1 M NaOH or 1 M HCl [26]. However, Graves et al. uses an additional step of adding <100 mg of L-ascorbic acid to the saturated ammonium oxalate target solution to promote the reduction of iron 3+ ions to iron 2+ ions [93]. This solution is then adjusted to ~pH 3 before transferring to electroplating cell.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:˜44 mg/mL H2O is the concentration of saturated ammonium oxalate. The concentration of L-ascorbic acid is ~44 mg/mL H2O. The pH of the solution is ~3. The concentration of iron 2+ ions is ~
+Score: 15.23
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:˜6M HCl is the acid used to dissolve the target material.
+Score: 8.81
+
+Question: What acid is used in the elution during the above reaction?
+Answer:˜44 mg/mL H2O is the concentration of saturated ammonium oxalate used in the electroplating process. The concentration of L-ascorbic acid is ~44 mg/mL H2O, which is the concentration of the saturated ammonium oxalate
+Score: 13.18
+
+Question: What are the products of the above reaction?
+Answer:˜44 mg/mL H2O is the concentration of saturated ammonium oxalate. The concentration of L-ascorbic acid is ~44 mg/mL H2O. The pH of the solution is between 2 and 3. The concentration of iron 2+ ions
+Score: 15.88
+
+
+
+Context: Another form of target fabrication is to press elemental enriched iron into 5 mm diameter pellets. Enriched iron material can come in the form of Fe2O3. If made from the oxide form, the target will have poor thermal conductivity. Therefore, the enriched Fe2O3 is reduced to elemental form by heating the powder at 800 °C for 4 h in a hydrogen tube furnace [86].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:˜6 M hydrochloride acid is the acid used to dissolve the target.
+Score: 22.28
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:˜Fe2O3 is reduced to elemental form by heating the powder at 800 °C for 4 h in a hydrogen tube furnace [86].
+Score: 24.22
+
+Question: What acid is used in the elution during the above reaction?
+Answer:˜1 M HCl is the acid used in the elution.
+Score: 24.06
+
+Question: What are the products of the above reaction?
+Answer:˜Fe2O3 is reduced to elemental form by heating the powder at 800 °C for 4 h in a hydrogen tube furnace [86].
+Score: 22.71
+
+
+
+Context: Because both cobalt-55 and cobalt-58m require isolation from iron or nickel target materials, many of the radiochemical isolation processes reported can be applied to multiple production schemes. Several anion-exchange resins such as Dowex-2, Amberlite IRA-400, and ANEX-L have been historically used for the separation of Co from various transition metals in HCl, HNO3, and HBr solutions [94].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+Score: 1.29
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:˜6M HCl is the acid used to dissolve the target material.
+Score: 16.63
+
+
+
+Context: Because both cobalt-55 and cobalt-58m require isolation from iron or nickel target materials, many of the radiochemical isolation processes reported can be applied to multiple production schemes. Several anion-exchange resins such as Dowex-2, Amberlite IRA-400, and ANEX-L have been historically used for the separation of Co from various transition metals in HCl, HNO3, and HBr solutions [94].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+Score: 1.29
+
+Question: What acid is used in the elution during the above reaction?
+Answer:˜1 M HCl is the acid used in the elution.
+Score: 11.71
+
+
+
+Context: Because both cobalt-55 and cobalt-58m require isolation from iron or nickel target materials, many of the radiochemical isolation processes reported can be applied to multiple production schemes. Several anion-exchange resins such as Dowex-2, Amberlite IRA-400, and ANEX-L have been historically used for the separation of Co from various transition metals in HCl, HNO3, and HBr solutions [94].
+ 
+
+Question: What are the products of the above reaction?
+Answer:</s>
+Score: nan
+
+
+
+Context: Previously reported separation methods to remove nickel from cobalt used the AG 1 × 8 anion-exchange resin [14,24]. These methods included the use of multiple grams of resin packed into a glass column and equilibrated with 9 M HCl. The dissolved target solution in 9M HCl was loaded onto the column where the nickel elutes from the column in the eluate and 9M HCl wash in 10–40 mL. The cobalt-5x, which remains on the column during the large 9M HCl wash, is eluted from the column in 10 mL of 0.1 M HCl. The eluted cobalt fraction can then be evaporated to dryness and reconstituted in various matrices for further analysis and/or radiolabeling experiments.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+Score: 1.29
+
+
+
+Context: Previously reported separation methods to remove nickel from cobalt used the AG 1 × 8 anion-exchange resin [14,24]. These methods included the use of multiple grams of resin packed into a glass column and equilibrated with 9 M HCl. The dissolved target solution in 9M HCl was loaded onto the column where the nickel elutes from the column in the eluate and 9M HCl wash in 10–40 mL. The cobalt-5x, which remains on the column during the large 9M HCl wash, is eluted from the column in 10 mL of 0.1 M HCl. The eluted cobalt fraction can then be evaporated to dryness and reconstituted in various matrices for further analysis and/or radiolabeling experiments.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+Score: 1.29
+
+Question: What acid is used in the elution during the above reaction?
+Answer:˜1 M HCl is the acid used in the elution during the above reaction.
+Score: 35.07
+
+
+
+Context: Separation of cobalt-5x from manganese is similar to the isolation of cobalt-5x from nickel targets, but can use even less concentrated acidic media. As summarized by Bate and Leddicotte in “The Radiochemistry of Cobalt”, manganese in a dissolved target solution passes through a AG1 × 8 anion-exchange resin in HCl concentrations > 4.5 HCl. Once the target material is removed, the column can be washed with <4.5 M HCl to elute cobalt-5x [94].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:＞4.5 M HCl is the concentration of the acidic media, and the target material is cobalt-5x. The column can be washed with <4.5 M HCl to elute cobalt-5x.
+Score: 33.75
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:˜6 M HCl is the acid used to dissolve the target material.
+Score: 46.96
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞4.5 M HCl is the concentration of the solution loaded into the resin. The resin is a resin/column, and the resin is a resin/column. The resin is a resin/column.
+Score: 18.78
+
+Question: What acid is used in the elution during the above reaction?
+Answer:˜4.5 M HCl is the most common acid used in the elution of cobalt-5x from nickel targets. The elution of cobalt-5x from manganese targets is more complicated, and the elution of cobalt-5x from
+Score: 12.9
+
+Question: What are the products of the above reaction?
+Answer:˜Co, Mn, and Ni are all radioactive elements, and they are all produced in the same way. The cobalt-5x is produced by the reaction of cobalt and manganese, and the manganese is produced by the reaction of manganese
+Score: 12.5
+
+
+
+Context: The newer separation method for separating nickel from cobalt is straightforward, using one column containing branched DGA resin, as shown in Figure 17.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+Score: 1.29
+
+
+
+Context: The newer separation method for separating nickel from cobalt is straightforward, using one column containing branched DGA resin, as shown in Figure 17.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+Score: 1.29
+
+
+
+Context: The newer separation method for separating nickel from cobalt is straightforward, using one column containing branched DGA resin, as shown in Figure 17.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+Score: 1.29
+
+
+
+Context: The newer separation method for separating nickel from cobalt is straightforward, using one column containing branched DGA resin, as shown in Figure 17.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+Score: 1.29
+
+
+
+Context: The separation of cobalt-5x from iron-5x uses a two column technique, as shown in Figure 18. An AG1X8 anion-exchange resin packed column is used for the bulk separation of iron and cobalt, then a DGA column serves as a “clean up” to further improve the purification of cobalt-5x [26].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼
+Score: 1.34
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:˜6 M hydrochloride acid is the acid used to dissolve the target.
+Score: 57.26
+
+
+
+Context: The separation of cobalt-5x from iron-5x uses a two column technique, as shown in Figure 18. An AG1X8 anion-exchange resin packed column is used for the bulk separation of iron and cobalt, then a DGA column serves as a “clean up” to further improve the purification of cobalt-5x [26].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+Score: 1.29
+
+Question: What acid is used in the elution during the above reaction?
+Answer:˜1 M HCl is the acid used in the elution.
+Score: 42.3
+
+Question: What are the products of the above reaction?
+Answer:˜Co, Fe, and Cu are all elements, and they are all radioactive. The products of the above reaction are cobalt radioisotopes and copper radioisotopes. The cobalt radioisotopes are produced by the decay of cobalt
+Score: 9.49
+
+
+
+Context: While there has not been a publication specifically on the separation of manganese target material from cobalt-55,58m, the work performed by Pourmand et al. suggests branched DGA can also be used for radio-chemical isolation using 4–6 M HCl, where in this range manganese 2+ has minimal affinity for the resin, and cobalt 2+ has a greater affinity [95].
+ 
+
+Question: What are the products of the above reaction?
+Answer:</s>
+Score: nan
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:˜6 M HCl is the acid used to dissolve the target material.
+Score: 60.17
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:˜4–6 M HCl is the optimal concentration for the separation of manganese 2+ from cobalt 2+. The manganese 2+ is more soluble in 4–6 M HCl than cobalt 2+, and the cobalt 2+ is more
+Score: 10.62
+
+Question: What acid is used in the elution during the above reaction?
+Answer:˜4 M HCl is the most common acid used in the elution. The reason is that the manganese 2+ has a higher affinity for the resin than the cobalt 2+, and the cobalt 2+ has a higher affinity than the
+Score: 10.05
+
+Question: What are the products of the above reaction?
+Answer:</s>
+Score: nan
+
+
+
+Context: While not widely used for radiochemistry, early studies showed that cobalt can be separated from iron 3+ and nickel 2+ with the use of inorganic and organic absorbents [94]. Many of the inorganic separations were using alumina, a polar column chromatography absorbent [96]. The organic separations from iron 2+ and nickel 2+ rely on columns of 8-hydroxyquinoline, naphthaquinoline, and cupferron mixed with potato starch or dimethylglyoxime compound columns, as reported by Bate and Leddicotte, [94].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼＼
+Score: 1.34
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:˜6 M hydrochloride acid is the acid used to dissolve the target.
+Score: 65.24
+
+
+
+Context: While not widely used for radiochemistry, early studies showed that cobalt can be separated from iron 3+ and nickel 2+ with the use of inorganic and organic absorbents [94]. Many of the inorganic separations were using alumina, a polar column chromatography absorbent [96]. The organic separations from iron 2+ and nickel 2+ rely on columns of 8-hydroxyquinoline, naphthaquinoline, and cupferron mixed with potato starch or dimethylglyoxime compound columns, as reported by Bate and Leddicotte, [94].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+Score: 1.29
+
+Question: What acid is used in the elution during the above reaction?
+Answer:˜1 M HCl is the acid used in the elution.
+Score: 42.25
+
+
+
+Context: While not widely used for radiochemistry, early studies showed that cobalt can be separated from iron 3+ and nickel 2+ with the use of inorganic and organic absorbents [94]. Many of the inorganic separations were using alumina, a polar column chromatography absorbent [96]. The organic separations from iron 2+ and nickel 2+ rely on columns of 8-hydroxyquinoline, naphthaquinoline, and cupferron mixed with potato starch or dimethylglyoxime compound columns, as reported by Bate and Leddicotte, [94].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+Score: 1.29
+
+
+
+Context: The somatostatin receptors (SSTRs) are a family of 5 G protein-coupled receptors that contain somatostatin-binding extracellular domains [101]. Somatostatin (SST) is a 14 amino acid peptide involved in neurotransmission and cell proliferation [101]. While most normal cell types express somatostatin receptors, several tumor types overexpress the somatostatin receptor type 2 (SSTR2) [102]. Variations of somatostatin have been developed to bind to the SSTRs for the detection and treatment of cancers. These analogs deviate from the base structure of SST in ways that increase binding specificity and plasma stability [103].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+Score: 1.29
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:˜6M hydrochloride acid is the acid used to dissolve the target.
+Score: 22.42
+
+
+
+Context: The somatostatin receptors (SSTRs) are a family of 5 G protein-coupled receptors that contain somatostatin-binding extracellular domains [101]. Somatostatin (SST) is a 14 amino acid peptide involved in neurotransmission and cell proliferation [101]. While most normal cell types express somatostatin receptors, several tumor types overexpress the somatostatin receptor type 2 (SSTR2) [102]. Variations of somatostatin have been developed to bind to the SSTRs for the detection and treatment of cancers. These analogs deviate from the base structure of SST in ways that increase binding specificity and plasma stability [103].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+Score: 1.29
+
+Question: What acid is used in the elution during the above reaction?
+Answer:˜1 M HCl is the acid used in the elution.
+Score: 17.93
+
+
+
+Context: The somatostatin receptors (SSTRs) are a family of 5 G protein-coupled receptors that contain somatostatin-binding extracellular domains [101]. Somatostatin (SST) is a 14 amino acid peptide involved in neurotransmission and cell proliferation [101]. While most normal cell types express somatostatin receptors, several tumor types overexpress the somatostatin receptor type 2 (SSTR2) [102]. Variations of somatostatin have been developed to bind to the SSTRs for the detection and treatment of cancers. These analogs deviate from the base structure of SST in ways that increase binding specificity and plasma stability [103].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+Score: 1.29
+
+
+
+Context: The cell surface protein gastrin-releasing peptide receptor (GRPR) has become a popular imaging target in recent years. GRPR is overexpressed by a large number of cancers including prostate, pancreatic, colon, and non-small cell lung cancers [108]. Agonist peptides such as bombesin bind to GRPR, trigger downstream signaling and are subsequently internalized into the cell. They have higher binding affinity than antagonists and are taken up in organs with endogenous GRPR expression such as the pancreas, stomach, intestines and adrenal glands [109]. The lower binding affinity of GRPR antagonists, however, may be advantageous for imaging studies as it leads to lower uptake in normal tissues [110].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+Score: 1.29
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+Score: 1.29
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+Score: 1.29
+
+Question: What acid is used in the elution during the above reaction?
+Answer:˜1 M HCl is the acid used in the elution.
+Score: 19.59
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞＞
+Score: 1.29
+
+
+
+Context: Folate receptors (FR) are expressed on the surface of cells and reduce extracellular folic acid derivatives, delivering them across the cell membrane [119]. Their overexpression by many cancers makes them interesting pharmacological targets [119,120]. Radford et al. 55Co-labeled two folate receptor-targeting constructs, cm10 (DOTA tagged) and rf42 (NODAGA tagged) [121]. In vitro and in vivo up uptake waweres evaluated in the KB cervical cancer cell line which expresses high levels of FR [122]. The two agents had similar uptake and biodistributions, achieving >15% ID/g in xenografted tumors and underwent renal clearance [121]. Compared to a previous study using 64Cu- and 68Ga-labeled rf42, tumor to blood and tumor to kidney ratios were similar for all three agents [123]. However, tumor to liver ratios for the 55Co- and 68Ga-labeled tracers were higher than for the 64Cu-labeled version. Free copper is known to exhibit preferential liver uptake due to high levels of transcuprein [124].
+ 
+
+Question: What are the products of the above reaction?
+Answer:˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+Score: 1.21
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:˜6 M HCl is the acid used to dissolve the target material.
+Score: 12.55
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:˜1 mL of the solution was loaded into the resin/column, and the resin/column was washed with 1 mL of the solution. The resin/column was then washed with 1 mL of the solution, and the solution was collected for recycling
+Score: 6.81
+
+Question: What acid is used in the elution during the above reaction?
+Answer:˜1 M HCl is the acid used in the elution.
+Score: 8.36
+
+Question: What are the products of the above reaction?
+Answer:˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜
+Score: 1.21
+
+
+
+Context: Some of the challenges facing a therapeutic target to folate receptors include the lack of specificity towards folate receptor isoform α versus isoform β. While FRα is primarily expressed by epithelial cancers, it has high expression in the kidneys [125]. FRβ is expressed in adult tissues primarily in immune cells such as macrophages, neutrophils and monocytes [120]. Delivery of a folate receptor-targeted therapy to the tumor while sparing the kidneys has been demonstrated to be a difficult challenge [126]. The constructs cm10 and rf42 each contain an albumin-binding domain which contributes to lowering kidney uptake, which may allow them to be used therapeutically.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:˜6 M hydrochloride acid is the acid used to dissolve the target.
+Score: 18.63
+
+Question: What acid is used in the elution during the above reaction?
+Answer:˜1 M HCl is the acid used in the elution.
+Score: 25.19
+
+
+
+Context: Further investigation into the ZHER3 affibody involved modifying the chelator to determine if imaging qualities could be improved [135]. In addition to NOTA, which was used previously, DOTA-, NODAGA-, and DOTAGA-tagged ZHER3 were 57Co labeled. In vitro assays showed nearly equal, blockable binding of the affibody conjugated DOTA, NODAGA, and DOTAGA. The measured equilibrium disassociation constants, KD, were 0.2 nM for DOTA and DOTAGA constructs and 0.1 nM for the NOTA and NODAGA constructs. Interestingly, the internalization fraction of [57Co]Co-NOTA-ZHER3 in DU145 cells was observed to be 5% over 24 h, while their previous study showed as compared to 50% in their previous study [134]. In vivo, [57Co]Co-(NOTA/NODAGA/DOTA/DOTAGA)-ZHER3 were compared at 3 h and 24 h PI. The DOTA- and DOTAGA-conjugated affibodies showed more rapid blood clearance than those labeled with NOTA and NODAGA. [57Co]Co-DOTA-ZHER3 was compared to [68Ga]Ga-NODAGA-ZHER3 at 3 h post injection and [57Co]Co-DOTA-ZHER3 was followed to 24 h (see Figure 21 below). At 3 h, [68Ga]Ga-NODAGA-ZHER3 showed similar tumor uptake but lower blood, liver, and small intestine uptake. By 24 h, [57Co]Co-DOTA-ZHER3 showed similar tumor to organ ratios as 68Ga at 3 h PI [135].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:˘64Ni is the target material.
+Score: 37.74
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:˘6 M HCl is the acid used to dissolve the target material.
+Score: 31.98
+
+Question: What acid is used in the elution during the above reaction?
+Answer:˘1 M HCl is used in the elution.
+Score: 63.27

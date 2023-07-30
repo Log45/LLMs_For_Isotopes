@@ -1,0 +1,250 @@
+Generated 35 responses in 112.51 seconds with average perplexity score of 7.22
+
+
+Context: Copper-64 is a useful radioisotope for positron emission tomography (PET). Due to the wide range of applications, the demand of 64Cu with low metallic impurities is increasing. Here we report a simple method for the efficient production of high specific activity 64Cu using a cyclotron for biomedical application. We designed new equipment based on the plating of enriched 64Ni as the target, and used automated ion exchange chromatography to purify copper-64 efficiently after irradiation and dissolution of the target in good radiochemical and chemical yield and purity. The 64Cu radionuclide produced using 99.32% enriched 64Ni with a density of 61.4 ± 5.0 mg/cm2, reaching a total radioactivity greater than 200 mCi, with specific activity up to 5.6 GBq/μmoL. It was further incorporated into modified monoclonal antibody DOTA-rituximab to synthesize 64Cu-DOTA-rituximab, which was used successfully for micro-PET imaging.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 11.16
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 3.84
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 50.09
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 3.48
+
+
+
+Context: Copper-64 is a useful radioisotope for positron emission tomography (PET). Due to the wide range of applications, the demand of 64Cu with low metallic impurities is increasing. Here we report a simple method for the efficient production of high specific activity 64Cu using a cyclotron for biomedical application. We designed new equipment based on the plating of enriched 64Ni as the target, and used automated ion exchange chromatography to purify copper-64 efficiently after irradiation and dissolution of the target in good radiochemical and chemical yield and purity. The 64Cu radionuclide produced using 99.32% enriched 64Ni with a density of 61.4 ± 5.0 mg/cm2, reaching a total radioactivity greater than 200 mCi, with specific activity up to 5.6 GBq/μmoL. It was further incorporated into modified monoclonal antibody DOTA-rituximab to synthesize 64Cu-DOTA-rituximab, which was used successfully for micro-PET imaging.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: After irradiation of 5 h, the 64Ni target was dissolved in 6 M hydrochloride acid, and then the solution was load to an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce the production cost of 64Cu, without sacrificing the quality of subsequent 64Cu production. When the eluted was switched to 1 M HCl, the first band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for further use. The separation process of 64Cu took about 2.5 h after irradiation.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 3.71
+
+
+
+Context: After irradiation of 5 h, the 64Ni target was dissolved in 6 M hydrochloride acid, and then the solution was load to an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce the production cost of 64Cu, without sacrificing the quality of subsequent 64Cu production. When the eluted was switched to 1 M HCl, the first band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for further use. The separation process of 64Cu took about 2.5 h after irradiation.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+
+
+Context: After irradiation of 5 h, the 64Ni target was dissolved in 6 M hydrochloride acid, and then the solution was load to an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce the production cost of 64Cu, without sacrificing the quality of subsequent 64Cu production. When the eluted was switched to 1 M HCl, the first band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for further use. The separation process of 64Cu took about 2.5 h after irradiation.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 7.84
+
+
+
+Context: After irradiation of 5 h, the 64Ni target was dissolved in 6 M hydrochloride acid, and then the solution was load to an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce the production cost of 64Cu, without sacrificing the quality of subsequent 64Cu production. When the eluted was switched to 1 M HCl, the first band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for further use. The separation process of 64Cu took about 2.5 h after irradiation.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.9
+
+
+
+Context: After irradiation of 5 h, the 64Ni target was dissolved in 6 M hydrochloride acid, and then the solution was load to an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce the production cost of 64Cu, without sacrificing the quality of subsequent 64Cu production. When the eluted was switched to 1 M HCl, the first band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for further use. The separation process of 64Cu took about 2.5 h after irradiation.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: After electroplating, the 64Ni solid target was examined by measuring 64Ni thickness, composition and structure. The thickness was measured by alpha step apparatus, the composition was measured by scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM-EDS), and the structure was characterized by scanning electron microscopy (SEM). Meanwhile, the identity of metallic impurities of the 64Ni target was further analyzed by energy dispersive X-ray spectroscopy (EDS).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 6.08
+
+
+
+Context: After electroplating, the 64Ni solid target was examined by measuring 64Ni thickness, composition and structure. The thickness was measured by alpha step apparatus, the composition was measured by scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM-EDS), and the structure was characterized by scanning electron microscopy (SEM). Meanwhile, the identity of metallic impurities of the 64Ni target was further analyzed by energy dispersive X-ray spectroscopy (EDS).
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 25.05
+
+
+
+Context: After electroplating, the 64Ni solid target was examined by measuring 64Ni thickness, composition and structure. The thickness was measured by alpha step apparatus, the composition was measured by scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM-EDS), and the structure was characterized by scanning electron microscopy (SEM). Meanwhile, the identity of metallic impurities of the 64Ni target was further analyzed by energy dispersive X-ray spectroscopy (EDS).
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.9
+
+
+
+Context: After electroplating, the 64Ni solid target was examined by measuring 64Ni thickness, composition and structure. The thickness was measured by alpha step apparatus, the composition was measured by scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM-EDS), and the structure was characterized by scanning electron microscopy (SEM). Meanwhile, the identity of metallic impurities of the 64Ni target was further analyzed by energy dispersive X-ray spectroscopy (EDS).
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: After irradiation, the 64Ni target was placed into the dissolving bath of 6 M HCl. The complete dissolution of the target material took about 40 min under heating, and then the solution was loaded on an anion exchange column (AG 1-X8) pretreated with 18 MΩ·cm water and 6 M HCl, sequentially. The enriched 64Ni was eluted with 6 M HCl and collected for recycling, and the 64Cu fraction was eluted with 1 M HCl, which was further evaporated to dryness. The residue was finally dissolved in 0.1 M HCl for further use. All of these procedures were performed using an automated system and carried out in a hot cell with remote control (Figure 7, Sumitomo Heavy Industries, Ltd., Tokyo, Japan).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 3.71
+
+
+
+Context: After irradiation, the 64Ni target was placed into the dissolving bath of 6 M HCl. The complete dissolution of the target material took about 40 min under heating, and then the solution was loaded on an anion exchange column (AG 1-X8) pretreated with 18 MΩ·cm water and 6 M HCl, sequentially. The enriched 64Ni was eluted with 6 M HCl and collected for recycling, and the 64Cu fraction was eluted with 1 M HCl, which was further evaporated to dryness. The residue was finally dissolved in 0.1 M HCl for further use. All of these procedures were performed using an automated system and carried out in a hot cell with remote control (Figure 7, Sumitomo Heavy Industries, Ltd., Tokyo, Japan).
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+
+
+Context: After irradiation, the 64Ni target was placed into the dissolving bath of 6 M HCl. The complete dissolution of the target material took about 40 min under heating, and then the solution was loaded on an anion exchange column (AG 1-X8) pretreated with 18 MΩ·cm water and 6 M HCl, sequentially. The enriched 64Ni was eluted with 6 M HCl and collected for recycling, and the 64Cu fraction was eluted with 1 M HCl, which was further evaporated to dryness. The residue was finally dissolved in 0.1 M HCl for further use. All of these procedures were performed using an automated system and carried out in a hot cell with remote control (Figure 7, Sumitomo Heavy Industries, Ltd., Tokyo, Japan).
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 7.84
+
+
+
+Context: After irradiation, the 64Ni target was placed into the dissolving bath of 6 M HCl. The complete dissolution of the target material took about 40 min under heating, and then the solution was loaded on an anion exchange column (AG 1-X8) pretreated with 18 MΩ·cm water and 6 M HCl, sequentially. The enriched 64Ni was eluted with 6 M HCl and collected for recycling, and the 64Cu fraction was eluted with 1 M HCl, which was further evaporated to dryness. The residue was finally dissolved in 0.1 M HCl for further use. All of these procedures were performed using an automated system and carried out in a hot cell with remote control (Figure 7, Sumitomo Heavy Industries, Ltd., Tokyo, Japan).
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.83
+
+
+
+Context: After irradiation, the 64Ni target was placed into the dissolving bath of 6 M HCl. The complete dissolution of the target material took about 40 min under heating, and then the solution was loaded on an anion exchange column (AG 1-X8) pretreated with 18 MΩ·cm water and 6 M HCl, sequentially. The enriched 64Ni was eluted with 6 M HCl and collected for recycling, and the 64Cu fraction was eluted with 1 M HCl, which was further evaporated to dryness. The residue was finally dissolved in 0.1 M HCl for further use. All of these procedures were performed using an automated system and carried out in a hot cell with remote control (Figure 7, Sumitomo Heavy Industries, Ltd., Tokyo, Japan).
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: Both cobalt-55 and cobalt-58m are produced primarily from charged particle irradiation of iron or nickel targets. The availability of deuterons likely increases the purity of achievable cobalt-55 but has less bearing on the production of cobalt-58m except for from a target material cost perspective. Practically speaking, clinical application will always have to carefully consider target isotopic enrichment, but target fabrication and recovery are well developed (and reported) processes. These processes are described in greater detail below, treating the nuclear reactions relevant to each radionuclide separately. It should be stated that all radiation decay information comes from Brookhaven National Lab NuDat database [17].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 4.6
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 1.85
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 4.6
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 3.27
+
+
+
+Context: Both cobalt-55 and cobalt-58m are produced primarily from charged particle irradiation of iron or nickel targets. The availability of deuterons likely increases the purity of achievable cobalt-55 but has less bearing on the production of cobalt-58m except for from a target material cost perspective. Practically speaking, clinical application will always have to carefully consider target isotopic enrichment, but target fabrication and recovery are well developed (and reported) processes. These processes are described in greater detail below, treating the nuclear reactions relevant to each radionuclide separately. It should be stated that all radiation decay information comes from Brookhaven National Lab NuDat database [17].
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: In Figure 2, “m” indicates measurements of the direct formation of cobalt-58m, “c” indicates cumulative formation of cobalt-58g either after the complete decay of the isomer or with simultaneous accounting for the contribution from cobalt-58m decay, and “i” indicates measurement of the independent formation of cobalt-58g without contribution from cobalt-58m. The isomers cobalt-58m and cobalt-58g are co-produced in any charged particle irradiation. While the production of cobalt-58g is unavoidable, other radioisotopic impurities can be reduced with careful modulation of proton energies and target material enrichments.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 3.71
+
+
+
+Context: In Figure 2, “m” indicates measurements of the direct formation of cobalt-58m, “c” indicates cumulative formation of cobalt-58g either after the complete decay of the isomer or with simultaneous accounting for the contribution from cobalt-58m decay, and “i” indicates measurement of the independent formation of cobalt-58g without contribution from cobalt-58m. The isomers cobalt-58m and cobalt-58g are co-produced in any charged particle irradiation. While the production of cobalt-58g is unavoidable, other radioisotopic impurities can be reduced with careful modulation of proton energies and target material enrichments.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 7.84
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.73
+
+
+
+Context: In Figure 2, “m” indicates measurements of the direct formation of cobalt-58m, “c” indicates cumulative formation of cobalt-58g either after the complete decay of the isomer or with simultaneous accounting for the contribution from cobalt-58m decay, and “i” indicates measurement of the independent formation of cobalt-58g without contribution from cobalt-58m. The isomers cobalt-58m and cobalt-58g are co-produced in any charged particle irradiation. While the production of cobalt-58g is unavoidable, other radioisotopic impurities can be reduced with careful modulation of proton energies and target material enrichments.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9
+
+
+
+Context: The newer separation method for separating nickel from cobalt is straightforward, using one column containing branched DGA resin, as shown in Figure 17.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 8.64
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.33
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 19.2
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 4.9
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 2.9

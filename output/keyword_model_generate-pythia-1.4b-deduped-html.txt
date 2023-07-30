@@ -1,0 +1,560 @@
+Generated 70 responses in 116.23 seconds with average perplexity score of 5.53
+
+
+Context: The quality of the 64Ni solid target prepared above was evaluated by a number of physical techniques, to determine the uniformity, to characterize the metallic impurities, and to measure the thickness of 64Ni layer on Au-disk. The SEM (scanning electron microscopy) image (Figure 2b) of the 64Ni solid target showed the uniform layer of Ni on Au surface. The EDS (energy dispersive X-ray spectroscopy) (Table 1 and Figure 2c) results showed no significant amount of metallic impurities in the 64Ni layer. The 64Ni target thickness on Au-disk was measured to be 10.73 μm by alpha step apparatus (Figure 2d).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 4.0
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 5.71
+
+
+
+Context: The quality of the 64Ni solid target prepared above was evaluated by a number of physical techniques, to determine the uniformity, to characterize the metallic impurities, and to measure the thickness of 64Ni layer on Au-disk. The SEM (scanning electron microscopy) image (Figure 2b) of the 64Ni solid target showed the uniform layer of Ni on Au surface. The EDS (energy dispersive X-ray spectroscopy) (Table 1 and Figure 2c) results showed no significant amount of metallic impurities in the 64Ni layer. The 64Ni target thickness on Au-disk was measured to be 10.73 μm by alpha step apparatus (Figure 2d).
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 9.14
+
+
+
+Context: The quality of the 64Ni solid target prepared above was evaluated by a number of physical techniques, to determine the uniformity, to characterize the metallic impurities, and to measure the thickness of 64Ni layer on Au-disk. The SEM (scanning electron microscopy) image (Figure 2b) of the 64Ni solid target showed the uniform layer of Ni on Au surface. The EDS (energy dispersive X-ray spectroscopy) (Table 1 and Figure 2c) results showed no significant amount of metallic impurities in the 64Ni layer. The 64Ni target thickness on Au-disk was measured to be 10.73 μm by alpha step apparatus (Figure 2d).
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 5.7
+
+
+
+Context: The quality of the 64Ni solid target prepared above was evaluated by a number of physical techniques, to determine the uniformity, to characterize the metallic impurities, and to measure the thickness of 64Ni layer on Au-disk. The SEM (scanning electron microscopy) image (Figure 2b) of the 64Ni solid target showed the uniform layer of Ni on Au surface. The EDS (energy dispersive X-ray spectroscopy) (Table 1 and Figure 2c) results showed no significant amount of metallic impurities in the 64Ni layer. The 64Ni target thickness on Au-disk was measured to be 10.73 μm by alpha step apparatus (Figure 2d).
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 3.33
+
+
+
+Context: After irradiation of 5 h, the 64Ni target was dissolved in 6 M hydrochloride acid, and then the solution was load to an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce the production cost of 64Cu, without sacrificing the quality of subsequent 64Cu production. When the eluted was switched to 1 M HCl, the first band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for further use. The separation process of 64Cu took about 2.5 h after irradiation.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 4.0
+
+
+
+Context: After irradiation of 5 h, the 64Ni target was dissolved in 6 M hydrochloride acid, and then the solution was load to an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce the production cost of 64Cu, without sacrificing the quality of subsequent 64Cu production. When the eluted was switched to 1 M HCl, the first band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for further use. The separation process of 64Cu took about 2.5 h after irradiation.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 4.99
+
+
+
+Context: After irradiation of 5 h, the 64Ni target was dissolved in 6 M hydrochloride acid, and then the solution was load to an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce the production cost of 64Cu, without sacrificing the quality of subsequent 64Cu production. When the eluted was switched to 1 M HCl, the first band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for further use. The separation process of 64Cu took about 2.5 h after irradiation.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 9.14
+
+
+
+Context: After irradiation of 5 h, the 64Ni target was dissolved in 6 M hydrochloride acid, and then the solution was load to an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce the production cost of 64Cu, without sacrificing the quality of subsequent 64Cu production. When the eluted was switched to 1 M HCl, the first band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for further use. The separation process of 64Cu took about 2.5 h after irradiation.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 5.7
+
+
+
+Context: After irradiation of 5 h, the 64Ni target was dissolved in 6 M hydrochloride acid, and then the solution was load to an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce the production cost of 64Cu, without sacrificing the quality of subsequent 64Cu production. When the eluted was switched to 1 M HCl, the first band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for further use. The separation process of 64Cu took about 2.5 h after irradiation.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 3.33
+
+
+
+Context: The 64Ni electroplating solution was prepared as reported previously with some modifications [25]. The enriched 64Ni metal (65–80 mg) was dissolved in 5 mL of warm 6 M HNO3. After the metal was completely dissolved, the solution was then evaporated to dryness under vacuum. The green-colored residue was dissolved in 300 µL of concentrated H2SO4 and the solution then diluted with 2 mL of 18 MΩ·cm water (Milli-Q Waters, Millipore Corporation, Billerica, MA, USA) slowly and carefully. The pH of the solution was adjusted to 9.05 ± 0.05 by adding about 1.5 mL concentrated NH4OH. To this solution, ~300 mg of (NH4)2SO4 was added and the volume of the solution was adjusted to 5 mL with 18 MΩ·cm water. The final solution was transferred to the electroplating cell for target plating.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 4.0
+
+
+
+Context: The 64Ni electroplating solution was prepared as reported previously with some modifications [25]. The enriched 64Ni metal (65–80 mg) was dissolved in 5 mL of warm 6 M HNO3. After the metal was completely dissolved, the solution was then evaporated to dryness under vacuum. The green-colored residue was dissolved in 300 µL of concentrated H2SO4 and the solution then diluted with 2 mL of 18 MΩ·cm water (Milli-Q Waters, Millipore Corporation, Billerica, MA, USA) slowly and carefully. The pH of the solution was adjusted to 9.05 ± 0.05 by adding about 1.5 mL concentrated NH4OH. To this solution, ~300 mg of (NH4)2SO4 was added and the volume of the solution was adjusted to 5 mL with 18 MΩ·cm water. The final solution was transferred to the electroplating cell for target plating.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 4.99
+
+
+
+Context: The 64Ni electroplating solution was prepared as reported previously with some modifications [25]. The enriched 64Ni metal (65–80 mg) was dissolved in 5 mL of warm 6 M HNO3. After the metal was completely dissolved, the solution was then evaporated to dryness under vacuum. The green-colored residue was dissolved in 300 µL of concentrated H2SO4 and the solution then diluted with 2 mL of 18 MΩ·cm water (Milli-Q Waters, Millipore Corporation, Billerica, MA, USA) slowly and carefully. The pH of the solution was adjusted to 9.05 ± 0.05 by adding about 1.5 mL concentrated NH4OH. To this solution, ~300 mg of (NH4)2SO4 was added and the volume of the solution was adjusted to 5 mL with 18 MΩ·cm water. The final solution was transferred to the electroplating cell for target plating.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 9.14
+
+
+
+Context: The 64Ni electroplating solution was prepared as reported previously with some modifications [25]. The enriched 64Ni metal (65–80 mg) was dissolved in 5 mL of warm 6 M HNO3. After the metal was completely dissolved, the solution was then evaporated to dryness under vacuum. The green-colored residue was dissolved in 300 µL of concentrated H2SO4 and the solution then diluted with 2 mL of 18 MΩ·cm water (Milli-Q Waters, Millipore Corporation, Billerica, MA, USA) slowly and carefully. The pH of the solution was adjusted to 9.05 ± 0.05 by adding about 1.5 mL concentrated NH4OH. To this solution, ~300 mg of (NH4)2SO4 was added and the volume of the solution was adjusted to 5 mL with 18 MΩ·cm water. The final solution was transferred to the electroplating cell for target plating.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 5.89
+
+
+
+Context: The 64Ni electroplating solution was prepared as reported previously with some modifications [25]. The enriched 64Ni metal (65–80 mg) was dissolved in 5 mL of warm 6 M HNO3. After the metal was completely dissolved, the solution was then evaporated to dryness under vacuum. The green-colored residue was dissolved in 300 µL of concentrated H2SO4 and the solution then diluted with 2 mL of 18 MΩ·cm water (Milli-Q Waters, Millipore Corporation, Billerica, MA, USA) slowly and carefully. The pH of the solution was adjusted to 9.05 ± 0.05 by adding about 1.5 mL concentrated NH4OH. To this solution, ~300 mg of (NH4)2SO4 was added and the volume of the solution was adjusted to 5 mL with 18 MΩ·cm water. The final solution was transferred to the electroplating cell for target plating.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 3.33
+
+
+
+Context: After electroplating, the 64Ni solid target was examined by measuring 64Ni thickness, composition and structure. The thickness was measured by alpha step apparatus, the composition was measured by scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM-EDS), and the structure was characterized by scanning electron microscopy (SEM). Meanwhile, the identity of metallic impurities of the 64Ni target was further analyzed by energy dispersive X-ray spectroscopy (EDS).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 4.0
+
+
+
+Context: After electroplating, the 64Ni solid target was examined by measuring 64Ni thickness, composition and structure. The thickness was measured by alpha step apparatus, the composition was measured by scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM-EDS), and the structure was characterized by scanning electron microscopy (SEM). Meanwhile, the identity of metallic impurities of the 64Ni target was further analyzed by energy dispersive X-ray spectroscopy (EDS).
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 4.99
+
+
+
+Context: After electroplating, the 64Ni solid target was examined by measuring 64Ni thickness, composition and structure. The thickness was measured by alpha step apparatus, the composition was measured by scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM-EDS), and the structure was characterized by scanning electron microscopy (SEM). Meanwhile, the identity of metallic impurities of the 64Ni target was further analyzed by energy dispersive X-ray spectroscopy (EDS).
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 9.14
+
+
+
+Context: After electroplating, the 64Ni solid target was examined by measuring 64Ni thickness, composition and structure. The thickness was measured by alpha step apparatus, the composition was measured by scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM-EDS), and the structure was characterized by scanning electron microscopy (SEM). Meanwhile, the identity of metallic impurities of the 64Ni target was further analyzed by energy dispersive X-ray spectroscopy (EDS).
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 6.34
+
+
+
+Context: After electroplating, the 64Ni solid target was examined by measuring 64Ni thickness, composition and structure. The thickness was measured by alpha step apparatus, the composition was measured by scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM-EDS), and the structure was characterized by scanning electron microscopy (SEM). Meanwhile, the identity of metallic impurities of the 64Ni target was further analyzed by energy dispersive X-ray spectroscopy (EDS).
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 3.33
+
+
+
+Context: The 64Ni targets were prepared by electrodeposition of the enriched 64Ni (99.32%) solution prepared as described above. Electroplating of 64Ni was realized using a plating vessel of our own design and manufacture (Figure 1), where the Au disk was used as a cathode and platinum wire as an anode. The electrodeposition of 64Ni was achieved at 2.4–2.6 V and 15–25 mA with the platinum anode at ~1 cm from the Au disk electrode. This process took 48–72 h. The enriched 64Ni target was irradiated at 12.5 MeV (which decreased by Al) with 20 μA current on a Sumitomo HM-20 cyclotron (20 MeV) for about 5–7 h. 64Cu was produced from the 64Ni (p, n) 64Cu nuclear reaction.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 4.0
+
+
+
+Context: The 64Ni targets were prepared by electrodeposition of the enriched 64Ni (99.32%) solution prepared as described above. Electroplating of 64Ni was realized using a plating vessel of our own design and manufacture (Figure 1), where the Au disk was used as a cathode and platinum wire as an anode. The electrodeposition of 64Ni was achieved at 2.4–2.6 V and 15–25 mA with the platinum anode at ~1 cm from the Au disk electrode. This process took 48–72 h. The enriched 64Ni target was irradiated at 12.5 MeV (which decreased by Al) with 20 μA current on a Sumitomo HM-20 cyclotron (20 MeV) for about 5–7 h. 64Cu was produced from the 64Ni (p, n) 64Cu nuclear reaction.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 4.99
+
+
+
+Context: The 64Ni targets were prepared by electrodeposition of the enriched 64Ni (99.32%) solution prepared as described above. Electroplating of 64Ni was realized using a plating vessel of our own design and manufacture (Figure 1), where the Au disk was used as a cathode and platinum wire as an anode. The electrodeposition of 64Ni was achieved at 2.4–2.6 V and 15–25 mA with the platinum anode at ~1 cm from the Au disk electrode. This process took 48–72 h. The enriched 64Ni target was irradiated at 12.5 MeV (which decreased by Al) with 20 μA current on a Sumitomo HM-20 cyclotron (20 MeV) for about 5–7 h. 64Cu was produced from the 64Ni (p, n) 64Cu nuclear reaction.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 9.14
+
+
+
+Context: The 64Ni targets were prepared by electrodeposition of the enriched 64Ni (99.32%) solution prepared as described above. Electroplating of 64Ni was realized using a plating vessel of our own design and manufacture (Figure 1), where the Au disk was used as a cathode and platinum wire as an anode. The electrodeposition of 64Ni was achieved at 2.4–2.6 V and 15–25 mA with the platinum anode at ~1 cm from the Au disk electrode. This process took 48–72 h. The enriched 64Ni target was irradiated at 12.5 MeV (which decreased by Al) with 20 μA current on a Sumitomo HM-20 cyclotron (20 MeV) for about 5–7 h. 64Cu was produced from the 64Ni (p, n) 64Cu nuclear reaction.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 5.37
+
+
+
+Context: The 64Ni targets were prepared by electrodeposition of the enriched 64Ni (99.32%) solution prepared as described above. Electroplating of 64Ni was realized using a plating vessel of our own design and manufacture (Figure 1), where the Au disk was used as a cathode and platinum wire as an anode. The electrodeposition of 64Ni was achieved at 2.4–2.6 V and 15–25 mA with the platinum anode at ~1 cm from the Au disk electrode. This process took 48–72 h. The enriched 64Ni target was irradiated at 12.5 MeV (which decreased by Al) with 20 μA current on a Sumitomo HM-20 cyclotron (20 MeV) for about 5–7 h. 64Cu was produced from the 64Ni (p, n) 64Cu nuclear reaction.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 3.33
+
+
+
+Context: After irradiation, the 64Ni target was placed into the dissolving bath of 6 M HCl. The complete dissolution of the target material took about 40 min under heating, and then the solution was loaded on an anion exchange column (AG 1-X8) pretreated with 18 MΩ·cm water and 6 M HCl, sequentially. The enriched 64Ni was eluted with 6 M HCl and collected for recycling, and the 64Cu fraction was eluted with 1 M HCl, which was further evaporated to dryness. The residue was finally dissolved in 0.1 M HCl for further use. All of these procedures were performed using an automated system and carried out in a hot cell with remote control (Figure 7, Sumitomo Heavy Industries, Ltd., Tokyo, Japan).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 4.0
+
+
+
+Context: After irradiation, the 64Ni target was placed into the dissolving bath of 6 M HCl. The complete dissolution of the target material took about 40 min under heating, and then the solution was loaded on an anion exchange column (AG 1-X8) pretreated with 18 MΩ·cm water and 6 M HCl, sequentially. The enriched 64Ni was eluted with 6 M HCl and collected for recycling, and the 64Cu fraction was eluted with 1 M HCl, which was further evaporated to dryness. The residue was finally dissolved in 0.1 M HCl for further use. All of these procedures were performed using an automated system and carried out in a hot cell with remote control (Figure 7, Sumitomo Heavy Industries, Ltd., Tokyo, Japan).
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 3.86
+
+
+
+Context: After irradiation, the 64Ni target was placed into the dissolving bath of 6 M HCl. The complete dissolution of the target material took about 40 min under heating, and then the solution was loaded on an anion exchange column (AG 1-X8) pretreated with 18 MΩ·cm water and 6 M HCl, sequentially. The enriched 64Ni was eluted with 6 M HCl and collected for recycling, and the 64Cu fraction was eluted with 1 M HCl, which was further evaporated to dryness. The residue was finally dissolved in 0.1 M HCl for further use. All of these procedures were performed using an automated system and carried out in a hot cell with remote control (Figure 7, Sumitomo Heavy Industries, Ltd., Tokyo, Japan).
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 9.14
+
+
+
+Context: After irradiation, the 64Ni target was placed into the dissolving bath of 6 M HCl. The complete dissolution of the target material took about 40 min under heating, and then the solution was loaded on an anion exchange column (AG 1-X8) pretreated with 18 MΩ·cm water and 6 M HCl, sequentially. The enriched 64Ni was eluted with 6 M HCl and collected for recycling, and the 64Cu fraction was eluted with 1 M HCl, which was further evaporated to dryness. The residue was finally dissolved in 0.1 M HCl for further use. All of these procedures were performed using an automated system and carried out in a hot cell with remote control (Figure 7, Sumitomo Heavy Industries, Ltd., Tokyo, Japan).
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 5.37
+
+
+
+Context: After irradiation, the 64Ni target was placed into the dissolving bath of 6 M HCl. The complete dissolution of the target material took about 40 min under heating, and then the solution was loaded on an anion exchange column (AG 1-X8) pretreated with 18 MΩ·cm water and 6 M HCl, sequentially. The enriched 64Ni was eluted with 6 M HCl and collected for recycling, and the 64Cu fraction was eluted with 1 M HCl, which was further evaporated to dryness. The residue was finally dissolved in 0.1 M HCl for further use. All of these procedures were performed using an automated system and carried out in a hot cell with remote control (Figure 7, Sumitomo Heavy Industries, Ltd., Tokyo, Japan).
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 3.33
+
+
+
+Context: Because both cobalt-55 and cobalt-58m require isolation from iron or nickel target materials, many of the radiochemical isolation processes reported can be applied to multiple production schemes. Several anion-exchange resins such as Dowex-2, Amberlite IRA-400, and ANEX-L have been historically used for the separation of Co from various transition metals in HCl, HNO3, and HBr solutions [94].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 4.0
+
+
+
+Context: Because both cobalt-55 and cobalt-58m require isolation from iron or nickel target materials, many of the radiochemical isolation processes reported can be applied to multiple production schemes. Several anion-exchange resins such as Dowex-2, Amberlite IRA-400, and ANEX-L have been historically used for the separation of Co from various transition metals in HCl, HNO3, and HBr solutions [94].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 4.99
+
+
+
+Context: Because both cobalt-55 and cobalt-58m require isolation from iron or nickel target materials, many of the radiochemical isolation processes reported can be applied to multiple production schemes. Several anion-exchange resins such as Dowex-2, Amberlite IRA-400, and ANEX-L have been historically used for the separation of Co from various transition metals in HCl, HNO3, and HBr solutions [94].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 9.14
+
+
+
+Context: Because both cobalt-55 and cobalt-58m require isolation from iron or nickel target materials, many of the radiochemical isolation processes reported can be applied to multiple production schemes. Several anion-exchange resins such as Dowex-2, Amberlite IRA-400, and ANEX-L have been historically used for the separation of Co from various transition metals in HCl, HNO3, and HBr solutions [94].
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 5.89
+
+
+
+Context: Because both cobalt-55 and cobalt-58m require isolation from iron or nickel target materials, many of the radiochemical isolation processes reported can be applied to multiple production schemes. Several anion-exchange resins such as Dowex-2, Amberlite IRA-400, and ANEX-L have been historically used for the separation of Co from various transition metals in HCl, HNO3, and HBr solutions [94].
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 3.33
+
+
+
+Context: Separation of cobalt-5x from manganese is similar to the isolation of cobalt-5x from nickel targets, but can use even less concentrated acidic media. As summarized by Bate and Leddicotte in “The Radiochemistry of Cobalt”, manganese in a dissolved target solution passes through a AG1 × 8 anion-exchange resin in HCl concentrations > 4.5 HCl. Once the target material is removed, the column can be washed with <4.5 M HCl to elute cobalt-5x [94].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 12.04
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 5.39
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 9.62
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 3.55
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 3.67
+
+
+
+Context: As stated by Valdovinos et al., it is preferrable to use extraction chromatography instead of traditional ion exchange resins to increase separation yield and purity level [26]. This realization allowed for the implementation of N,N,N′,N′-tetrakis-2-ethylhexyldiglycolamide (DGA Branched extraction resin). The most recent published separation methods from both nickel and iron targets of varying enrichments use branched DGA to chemically isolate radioactive cobalt.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 4.0
+
+
+
+Context: As stated by Valdovinos et al., it is preferrable to use extraction chromatography instead of traditional ion exchange resins to increase separation yield and purity level [26]. This realization allowed for the implementation of N,N,N′,N′-tetrakis-2-ethylhexyldiglycolamide (DGA Branched extraction resin). The most recent published separation methods from both nickel and iron targets of varying enrichments use branched DGA to chemically isolate radioactive cobalt.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 4.99
+
+
+
+Context: As stated by Valdovinos et al., it is preferrable to use extraction chromatography instead of traditional ion exchange resins to increase separation yield and purity level [26]. This realization allowed for the implementation of N,N,N′,N′-tetrakis-2-ethylhexyldiglycolamide (DGA Branched extraction resin). The most recent published separation methods from both nickel and iron targets of varying enrichments use branched DGA to chemically isolate radioactive cobalt.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 9.14
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 5.37
+
+
+
+Context: As stated by Valdovinos et al., it is preferrable to use extraction chromatography instead of traditional ion exchange resins to increase separation yield and purity level [26]. This realization allowed for the implementation of N,N,N′,N′-tetrakis-2-ethylhexyldiglycolamide (DGA Branched extraction resin). The most recent published separation methods from both nickel and iron targets of varying enrichments use branched DGA to chemically isolate radioactive cobalt.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 3.33
+
+
+
+Context: The newer separation method for separating nickel from cobalt is straightforward, using one column containing branched DGA resin, as shown in Figure 17.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 4.0
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 2.46
+
+
+
+Context: The newer separation method for separating nickel from cobalt is straightforward, using one column containing branched DGA resin, as shown in Figure 17.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 9.14
+
+
+
+Context: The newer separation method for separating nickel from cobalt is straightforward, using one column containing branched DGA resin, as shown in Figure 17.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 5.7
+
+
+
+Context: The newer separation method for separating nickel from cobalt is straightforward, using one column containing branched DGA resin, as shown in Figure 17.
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 3.33
+
+
+
+Context: While there has not been a publication specifically on the separation of manganese target material from cobalt-55,58m, the work performed by Pourmand et al. suggests branched DGA can also be used for radio-chemical isolation using 4–6 M HCl, where in this range manganese 2+ has minimal affinity for the resin, and cobalt 2+ has a greater affinity [95].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 4.0
+
+
+
+Context: While there has not been a publication specifically on the separation of manganese target material from cobalt-55,58m, the work performed by Pourmand et al. suggests branched DGA can also be used for radio-chemical isolation using 4–6 M HCl, where in this range manganese 2+ has minimal affinity for the resin, and cobalt 2+ has a greater affinity [95].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 4.99
+
+
+
+Context: While there has not been a publication specifically on the separation of manganese target material from cobalt-55,58m, the work performed by Pourmand et al. suggests branched DGA can also be used for radio-chemical isolation using 4–6 M HCl, where in this range manganese 2+ has minimal affinity for the resin, and cobalt 2+ has a greater affinity [95].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 9.14
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 5.89
+
+
+
+Context: While there has not been a publication specifically on the separation of manganese target material from cobalt-55,58m, the work performed by Pourmand et al. suggests branched DGA can also be used for radio-chemical isolation using 4–6 M HCl, where in this range manganese 2+ has minimal affinity for the resin, and cobalt 2+ has a greater affinity [95].
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 3.33
+
+
+
+Context: The somatostatin receptors (SSTRs) are a family of 5 G protein-coupled receptors that contain somatostatin-binding extracellular domains [101]. Somatostatin (SST) is a 14 amino acid peptide involved in neurotransmission and cell proliferation [101]. While most normal cell types express somatostatin receptors, several tumor types overexpress the somatostatin receptor type 2 (SSTR2) [102]. Variations of somatostatin have been developed to bind to the SSTRs for the detection and treatment of cancers. These analogs deviate from the base structure of SST in ways that increase binding specificity and plasma stability [103].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 4.0
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 6.34
+
+
+
+Context: The somatostatin receptors (SSTRs) are a family of 5 G protein-coupled receptors that contain somatostatin-binding extracellular domains [101]. Somatostatin (SST) is a 14 amino acid peptide involved in neurotransmission and cell proliferation [101]. While most normal cell types express somatostatin receptors, several tumor types overexpress the somatostatin receptor type 2 (SSTR2) [102]. Variations of somatostatin have been developed to bind to the SSTRs for the detection and treatment of cancers. These analogs deviate from the base structure of SST in ways that increase binding specificity and plasma stability [103].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 9.14
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 5.7
+
+
+
+Context: The somatostatin receptors (SSTRs) are a family of 5 G protein-coupled receptors that contain somatostatin-binding extracellular domains [101]. Somatostatin (SST) is a 14 amino acid peptide involved in neurotransmission and cell proliferation [101]. While most normal cell types express somatostatin receptors, several tumor types overexpress the somatostatin receptor type 2 (SSTR2) [102]. Variations of somatostatin have been developed to bind to the SSTRs for the detection and treatment of cancers. These analogs deviate from the base structure of SST in ways that increase binding specificity and plasma stability [103].
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 3.33
+
+
+
+Context: The cell surface protein gastrin-releasing peptide receptor (GRPR) has become a popular imaging target in recent years. GRPR is overexpressed by a large number of cancers including prostate, pancreatic, colon, and non-small cell lung cancers [108]. Agonist peptides such as bombesin bind to GRPR, trigger downstream signaling and are subsequently internalized into the cell. They have higher binding affinity than antagonists and are taken up in organs with endogenous GRPR expression such as the pancreas, stomach, intestines and adrenal glands [109]. The lower binding affinity of GRPR antagonists, however, may be advantageous for imaging studies as it leads to lower uptake in normal tissues [110].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 4.0
+
+
+
+Context: The cell surface protein gastrin-releasing peptide receptor (GRPR) has become a popular imaging target in recent years. GRPR is overexpressed by a large number of cancers including prostate, pancreatic, colon, and non-small cell lung cancers [108]. Agonist peptides such as bombesin bind to GRPR, trigger downstream signaling and are subsequently internalized into the cell. They have higher binding affinity than antagonists and are taken up in organs with endogenous GRPR expression such as the pancreas, stomach, intestines and adrenal glands [109]. The lower binding affinity of GRPR antagonists, however, may be advantageous for imaging studies as it leads to lower uptake in normal tissues [110].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 4.99
+
+
+
+Context: The cell surface protein gastrin-releasing peptide receptor (GRPR) has become a popular imaging target in recent years. GRPR is overexpressed by a large number of cancers including prostate, pancreatic, colon, and non-small cell lung cancers [108]. Agonist peptides such as bombesin bind to GRPR, trigger downstream signaling and are subsequently internalized into the cell. They have higher binding affinity than antagonists and are taken up in organs with endogenous GRPR expression such as the pancreas, stomach, intestines and adrenal glands [109]. The lower binding affinity of GRPR antagonists, however, may be advantageous for imaging studies as it leads to lower uptake in normal tissues [110].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 9.14
+
+
+
+Context: The cell surface protein gastrin-releasing peptide receptor (GRPR) has become a popular imaging target in recent years. GRPR is overexpressed by a large number of cancers including prostate, pancreatic, colon, and non-small cell lung cancers [108]. Agonist peptides such as bombesin bind to GRPR, trigger downstream signaling and are subsequently internalized into the cell. They have higher binding affinity than antagonists and are taken up in organs with endogenous GRPR expression such as the pancreas, stomach, intestines and adrenal glands [109]. The lower binding affinity of GRPR antagonists, however, may be advantageous for imaging studies as it leads to lower uptake in normal tissues [110].
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 6.34
+
+
+
+Context: The cell surface protein gastrin-releasing peptide receptor (GRPR) has become a popular imaging target in recent years. GRPR is overexpressed by a large number of cancers including prostate, pancreatic, colon, and non-small cell lung cancers [108]. Agonist peptides such as bombesin bind to GRPR, trigger downstream signaling and are subsequently internalized into the cell. They have higher binding affinity than antagonists and are taken up in organs with endogenous GRPR expression such as the pancreas, stomach, intestines and adrenal glands [109]. The lower binding affinity of GRPR antagonists, however, may be advantageous for imaging studies as it leads to lower uptake in normal tissues [110].
+ 
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 3.33
+
+
+
+Context: Some of the challenges facing a therapeutic target to folate receptors include the lack of specificity towards folate receptor isoform α versus isoform β. While FRα is primarily expressed by epithelial cancers, it has high expression in the kidneys [125]. FRβ is expressed in adult tissues primarily in immune cells such as macrophages, neutrophils and monocytes [120]. Delivery of a folate receptor-targeted therapy to the tumor while sparing the kidneys has been demonstrated to be a difficult challenge [126]. The constructs cm10 and rf42 each contain an albumin-binding domain which contributes to lowering kidney uptake, which may allow them to be used therapeutically.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:
+Score: 4.0
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 4.99
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:
+Score: 9.14
+
+Question: What acid is used in the elution during the above reaction?
+Answer:
+Score: 6.34
+
+Question: What are the products of the above reaction?
+Answer:
+Score: 3.33

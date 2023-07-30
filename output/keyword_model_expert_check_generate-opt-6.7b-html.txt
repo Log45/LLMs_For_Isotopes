@@ -1,0 +1,262 @@
+Generated 38 responses in 893.07 seconds with average perplexity score of 11.73
+
+
+Context: Copper-64 is a useful radioisotope for positron emission tomography (PET). Due to the wide range of applications, the demand of 64Cu with low metallic impurities is increasing. Here we report a simple method for the efficient production of high specific activity 64Cu using a cyclotron for biomedical application. We designed new equipment based on the plating of enriched 64Ni as the target, and used automated ion exchange chromatography to purify copper-64 efficiently after irradiation and dissolution of the target in good radiochemical and chemical yield and purity. The 64Cu radionuclide produced using 99.32% enriched 64Ni with a density of 61.4 ± 5.0 mg/cm2, reaching a total radioactivity greater than 200 mCi, with specific activity up to 5.6 GBq/μmoL. It was further incorporated into modified monoclonal antibody DOTA-rituximab to synthesize 64Cu-DOTA-rituximab, which was used successfully for micro-PET imaging.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er:                 The target material is 64Ni.
+Score: 11.03
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: _________
+Score: 10.3
+
+
+
+Context: Copper-64 is a useful radioisotope for positron emission tomography (PET). Due to the wide range of applications, the demand of 64Cu with low metallic impurities is increasing. Here we report a simple method for the efficient production of high specific activity 64Cu using a cyclotron for biomedical application. We designed new equipment based on the plating of enriched 64Ni as the target, and used automated ion exchange chromatography to purify copper-64 efficiently after irradiation and dissolution of the target in good radiochemical and chemical yield and purity. The 64Cu radionuclide produced using 99.32% enriched 64Ni with a density of 61.4 ± 5.0 mg/cm2, reaching a total radioactivity greater than 200 mCi, with specific activity up to 5.6 GBq/μmoL. It was further incorporated into modified monoclonal antibody DOTA-rituximab to synthesize 64Cu-DOTA-rituximab, which was used successfully for micro-PET imaging.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:                 The solution was loaded into an anion exchange column to separate into different components.        The anion exchange column is a resin/column.
+Score: 10.9
+
+Question: What are the products of the above reaction?
+Answer:er: __________________________________________________________________________
+Score: 9.2
+
+
+
+Context: The quality of the 64Ni solid target prepared above was evaluated by a number of physical techniques, to determine the uniformity, to characterize the metallic impurities, and to measure the thickness of 64Ni layer on Au-disk. The SEM (scanning electron microscopy) image (Figure 2b) of the 64Ni solid target showed the uniform layer of Ni on Au surface. The EDS (energy dispersive X-ray spectroscopy) (Table 1 and Figure 2c) results showed no significant amount of metallic impurities in the 64Ni layer. The 64Ni target thickness on Au-disk was measured to be 10.73 μm by alpha step apparatus (Figure 2d).
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: _________
+Score: 7.38
+
+
+
+Context: High purity reagents were used for production of 64Cu in this study. Isotopically enriched 64Ni (99.32% 64Ni; 0.13% 58Ni; 0.07% 60Ni; 0.01% 61Ni; 0.47% 62Ni) was from Isoflex Company (San Francisco, CA, USA); (NH4)2SO4 (99.999% metals basis) from Alfa Aesar (Ward Hill, MA, USA); concentrated HCl (99.999% trace metals basis), HNO3 (99.999% trace metals basis), and NH4OH (99.99% trace metals basis) were purchased from Sigma-Aldrich (St. Louis, MO, USA); AG®1-X8 ion exchange resin was from Bio-Rad Laboratories (Hercules, CA, USA); platinum wire (99.997% metals basis) from Alfa Aesar (Ward Hill, MA, USA); Ni2+ analytical test strips from Qtantofix (Sigma-Aldrich, St. Louis, MO, USA); disposable PD-10 desalting columns were from GE Healthcare (Piscataway, NJ, USA).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er:                The target material is 64Ni.
+Score: 12.02
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  The solution was loaded into an anion exchange column to separate into different components.
+Score: 84.88
+
+
+
+Context: The alpha step apparatus (Alpha-step IQ, KLA-Tencor, Milpitas, CA, USA), scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM-EDS) (1910FE, AMRAY, Pawtucket, RI, USA) were used to characterize the quality of the 64Ni solid target produced in this study. The irradiation experiments were performed using a Sumitomo HM-20 cyclotron (20 MeV, Sumitomo Heavy Industries, Ltd., Tokyo, Japan). The separation of 64Cu was performed using a 64Cu separation system (Industrial Equipment Division, Sumitomo Heavy Industries, Ltd., Tokyo, Japan). Inductively coupled plasma-mass spectrometry (ICP-MS) (ELEMENT XR mass spectrometer, Thermo Fisher, Bremen, Germany) was used to analyze the purity of the 64Cu sample. The Agilent Technologies 1200 series of high performance liquid chromatography (HPLC) system (Agilent, Lake Forest, CA, USA) equipped with both a UV absorption detector and a B-Fc-1000 HPLC radioactivity detector (Bioscan, Washington, DC, USA) and the radioactive thin-layer chromatography scanner (Radio-TLC) (Bioscan, IAR-2000, Washington, DC, USA) were used to analyze the radiochemical purity of tracers.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er:                The target material is 64Ni.
+Score: 11.01
+
+
+
+Context: The 64Ni electroplating solution was prepared as reported previously with some modifications [25]. The enriched 64Ni metal (65–80 mg) was dissolved in 5 mL of warm 6 M HNO3. After the metal was completely dissolved, the solution was then evaporated to dryness under vacuum. The green-colored residue was dissolved in 300 µL of concentrated H2SO4 and the solution then diluted with 2 mL of 18 MΩ·cm water (Milli-Q Waters, Millipore Corporation, Billerica, MA, USA) slowly and carefully. The pH of the solution was adjusted to 9.05 ± 0.05 by adding about 1.5 mL concentrated NH4OH. To this solution, ~300 mg of (NH4)2SO4 was added and the volume of the solution was adjusted to 5 mL with 18 MΩ·cm water. The final solution was transferred to the electroplating cell for target plating.
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: __________
+Score: 7.99
+
+
+
+Context: In this study, we presented the improved method for the preparation of 64Cu, especially the improved efficiency of electroplating of 64Ni. The 64Ni solid target on an Au-disk has a uniform surface, with the thickness of 10.73 μm, and no metallic impurities. The total plated 64Ni was 70.6 ± 5.8 mg and the density of the plated 64Ni was 61.4 ± 5.0 mg/cm2 (assuming a uniform thickness). After irradiation of the target and purification, the gamma spectrum of the produced 64Cu showed its radionuclide purity to be >99%, with both peaks at 511 keV and 1346 keV. In addition, the produced 64CuCl2 solution has high specific activity up to 5.6 GBq/μmoL. It was further incorporated into the modified monoclonal antibody DOTA-rituximab to synthesize 64Cu-DOTA-rituximab, which was further used successfully for micro-PET imaging.
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: _________
+Score: 9.2
+
+Question: What are the products of the above reaction?
+Answer:er: _________
+Score: 9.2
+
+Question: What are the products of the above reaction?
+Answer:er: _________
+Score: 9.2
+
+
+
+Context: Both cobalt-55 and cobalt-58m are produced primarily from charged particle irradiation of iron or nickel targets. The availability of deuterons likely increases the purity of achievable cobalt-55 but has less bearing on the production of cobalt-58m except for from a target material cost perspective. Practically speaking, clinical application will always have to carefully consider target isotopic enrichment, but target fabrication and recovery are well developed (and reported) processes. These processes are described in greater detail below, treating the nuclear reactions relevant to each radionuclide separately. It should be stated that all radiation decay information comes from Brookhaven National Lab NuDat database [17].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er:                Cobalt-55 is produced from charged particle irradiation of iron or nickel targets. The availability of deuterons likely increases the purity of achievable cobalt-55 but has less
+Score: 23.95
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: _________
+Score: 4.43
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: __________________________________________
+Score: 5.0
+
+Question: What are the products of the above reaction?
+Answer:er:                Cobalt-55 and cobalt-58m are produced primarily from charged particle irradiation of iron or nickel targets. The availability of deuterons likely increases the purity of achievable
+Score: 23.62
+
+
+
+Context: Cobalt-55 production was reported in 1938 from alpha irradiation of manganese [18] and has since been reported from many target materials and incident beams. Practically, two reactions are best suited for producing activities of cobalt-55 with few impurities: 58Ni(p,α)55Co and 54Fe(d,n)55Co, which are accessible on low energy cyclotrons [19]. These reactions have been thoroughly and recently reviewed by the International Atomic Energy Agency and significant independent efforts resulting in recommended excitation functions for the reactions discussed below [20].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er:                Cobalt-55 is produced from 58Ni(p,α)55Co and 54Fe(d,n)55Co.
+Score: 12.49
+
+
+
+Context: The 58Ni(p,α)55Co reaction has been employed by many groups [14,21,22,23,24]. Several radioisotopic and radionuclidic impurities can be formed in this process. Cobalt-57(t1/2 = 271.7 d, Eγ= 1377 keV, Iγ = 81.7%) is produced from 58Ni(p,2p)57Co above 15 MeV [23], and production of cobalt-56 occurs above 25 MeV [25]. Nickel-57 (t1/2 = 35.68 h, β+ = 44%, Eγ= 1377.6 keV, Iγ = 81.7%) is primarily produced via the 58Ni(p,2p)57Cu, which decays to nickel-57 with a half-life of 196 ms [21]. This reaction occurs above the threshold of 12 MeV, and is useful for monitoring separation efficiency during process development. However, nickel-57 decays to cobalt-57, which cannot be separated from cobalt-55. Natural nickel targets can also be used, but result in increased impurities that limit downstream clinical work [26].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er:                The target material is 58Ni(p,α)55Co.
+Score: 11.16
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: __________________________________________________
+Score: 9.14
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:                 The solution is loaded into an anion exchange column.
+Score: 9.67
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: __________________________________________________
+Score: 9.14
+
+
+
+Context: Another form of target fabrication is to press elemental enriched iron into 5 mm diameter pellets. Enriched iron material can come in the form of Fe2O3. If made from the oxide form, the target will have poor thermal conductivity. Therefore, the enriched Fe2O3 is reduced to elemental form by heating the powder at 800 °C for 4 h in a hydrogen tube furnace [86].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: _________
+Score: 8.9
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: _________
+Score: 5.37
+
+
+
+Context: Previously reported separation methods to remove nickel from cobalt used the AG 1 × 8 anion-exchange resin [14,24]. These methods included the use of multiple grams of resin packed into a glass column and equilibrated with 9 M HCl. The dissolved target solution in 9M HCl was loaded onto the column where the nickel elutes from the column in the eluate and 9M HCl wash in 10–40 mL. The cobalt-5x, which remains on the column during the large 9M HCl wash, is eluted from the column in 10 mL of 0.1 M HCl. The eluted cobalt fraction can then be evaporated to dryness and reconstituted in various matrices for further analysis and/or radiolabeling experiments.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: _________
+Score: 7.13
+
+Question: What are the products of the above reaction?
+Answer:er: _________
+Score: 6.2
+
+
+
+Context: Anion-exchange chromatography also isolates cobalt-5x from iron target material [94]. After dissolving the target in acid, the iron is oxidized into the 3+ state with hydrogen peroxide. Instead of loading the cobalt-5x on to the anion-exchange resin and washing away the target material, as was performed in the nickel/cobalt anion-exchange separation, cobalt and iron are retained on the column when loaded. The cobalt can then be eluted form the anion-exchange column in 4 M HCl. The iron target will remain on the column during the 4 M HCl wash, but can be recovered in low concentrations of HCl. The HCl eluant containing cobalt-5x can also be evaporated and the cobalt-5x reconstituted in alternative matrices without incurring significant losses [26,28,86,87].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:                 The solution was loaded into an anion exchange column to separate into different components.        The anion exchange column is a resin/column.
+Score: 10.9
+
+
+
+Context: While not widely used for radiochemistry, early studies showed that cobalt can be separated from iron 3+ and nickel 2+ with the use of inorganic and organic absorbents [94]. Many of the inorganic separations were using alumina, a polar column chromatography absorbent [96]. The organic separations from iron 2+ and nickel 2+ rely on columns of 8-hydroxyquinoline, naphthaquinoline, and cupferron mixed with potato starch or dimethylglyoxime compound columns, as reported by Bate and Leddicotte, [94].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: __________________________________________________
+Score: 5.59
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: __________________________________________________
+Score: 8.12
+
+
+
+Context: The somatostatin receptors (SSTRs) are a family of 5 G protein-coupled receptors that contain somatostatin-binding extracellular domains [101]. Somatostatin (SST) is a 14 amino acid peptide involved in neurotransmission and cell proliferation [101]. While most normal cell types express somatostatin receptors, several tumor types overexpress the somatostatin receptor type 2 (SSTR2) [102]. Variations of somatostatin have been developed to bind to the SSTRs for the detection and treatment of cancers. These analogs deviate from the base structure of SST in ways that increase binding specificity and plasma stability [103].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: _________
+Score: 10.44
+
+
+
+Context: The somatostatin receptors (SSTRs) are a family of 5 G protein-coupled receptors that contain somatostatin-binding extracellular domains [101]. Somatostatin (SST) is a 14 amino acid peptide involved in neurotransmission and cell proliferation [101]. While most normal cell types express somatostatin receptors, several tumor types overexpress the somatostatin receptor type 2 (SSTR2) [102]. Variations of somatostatin have been developed to bind to the SSTRs for the detection and treatment of cancers. These analogs deviate from the base structure of SST in ways that increase binding specificity and plasma stability [103].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: _________
+Score: 6.29
+
+
+
+Context: The somatostatin receptors (SSTRs) are a family of 5 G protein-coupled receptors that contain somatostatin-binding extracellular domains [101]. Somatostatin (SST) is a 14 amino acid peptide involved in neurotransmission and cell proliferation [101]. While most normal cell types express somatostatin receptors, several tumor types overexpress the somatostatin receptor type 2 (SSTR2) [102]. Variations of somatostatin have been developed to bind to the SSTRs for the detection and treatment of cancers. These analogs deviate from the base structure of SST in ways that increase binding specificity and plasma stability [103].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: _________
+Score: 6.29
+
+
+
+Context: The somatostatin receptors (SSTRs) are a family of 5 G protein-coupled receptors that contain somatostatin-binding extracellular domains [101]. Somatostatin (SST) is a 14 amino acid peptide involved in neurotransmission and cell proliferation [101]. While most normal cell types express somatostatin receptors, several tumor types overexpress the somatostatin receptor type 2 (SSTR2) [102]. Variations of somatostatin have been developed to bind to the SSTRs for the detection and treatment of cancers. These analogs deviate from the base structure of SST in ways that increase binding specificity and plasma stability [103].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: _________
+Score: 6.29
+
+
+
+Context: The cell surface protein gastrin-releasing peptide receptor (GRPR) has become a popular imaging target in recent years. GRPR is overexpressed by a large number of cancers including prostate, pancreatic, colon, and non-small cell lung cancers [108]. Agonist peptides such as bombesin bind to GRPR, trigger downstream signaling and are subsequently internalized into the cell. They have higher binding affinity than antagonists and are taken up in organs with endogenous GRPR expression such as the pancreas, stomach, intestines and adrenal glands [109]. The lower binding affinity of GRPR antagonists, however, may be advantageous for imaging studies as it leads to lower uptake in normal tissues [110].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: _________
+Score: 6.29
+
+
+
+Context: The cell surface protein gastrin-releasing peptide receptor (GRPR) has become a popular imaging target in recent years. GRPR is overexpressed by a large number of cancers including prostate, pancreatic, colon, and non-small cell lung cancers [108]. Agonist peptides such as bombesin bind to GRPR, trigger downstream signaling and are subsequently internalized into the cell. They have higher binding affinity than antagonists and are taken up in organs with endogenous GRPR expression such as the pancreas, stomach, intestines and adrenal glands [109]. The lower binding affinity of GRPR antagonists, however, may be advantageous for imaging studies as it leads to lower uptake in normal tissues [110].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: _________
+Score: 6.29
+
+
+
+Context: The cell surface protein gastrin-releasing peptide receptor (GRPR) has become a popular imaging target in recent years. GRPR is overexpressed by a large number of cancers including prostate, pancreatic, colon, and non-small cell lung cancers [108]. Agonist peptides such as bombesin bind to GRPR, trigger downstream signaling and are subsequently internalized into the cell. They have higher binding affinity than antagonists and are taken up in organs with endogenous GRPR expression such as the pancreas, stomach, intestines and adrenal glands [109]. The lower binding affinity of GRPR antagonists, however, may be advantageous for imaging studies as it leads to lower uptake in normal tissues [110].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: _________
+Score: 6.29
+
+
+
+Context: Some of the challenges facing a therapeutic target to folate receptors include the lack of specificity towards folate receptor isoform α versus isoform β. While FRα is primarily expressed by epithelial cancers, it has high expression in the kidneys [125]. FRβ is expressed in adult tissues primarily in immune cells such as macrophages, neutrophils and monocytes [120]. Delivery of a folate receptor-targeted therapy to the tumor while sparing the kidneys has been demonstrated to be a difficult challenge [126]. The constructs cm10 and rf42 each contain an albumin-binding domain which contributes to lowering kidney uptake, which may allow them to be used therapeutically.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er:                Since they say: 'the 64Ni target was dissolved in 6 M hydrochloride acid', then 64Ni, or Nickel-64, must be the target.
+Score: 31.72
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: _________
+Score: 6.29
+
+Question: What are the products of the above reaction?
+Answer:er: __________
+Score: 6.3
