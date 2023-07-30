@@ -51,6 +51,7 @@ questions_examples_dict = {target_question : target_example,
                            products_question : products_example}
 
 answer_questions_dict = {}
+answer_context_dict = {}
 
 
 
@@ -206,6 +207,7 @@ def default_generate(model_name: str, contexts: list):
             answer = generation[len(input):]
             # print(f"Answer: {answer} \n")
             answer_questions_dict[answer] = q
+            answer_context_dict[answer] = context
             generations.append(generation)
             answers.append(answer)
     t = time.perf_counter() - t1
@@ -243,6 +245,7 @@ def keyword_filter_generate(model_name: str, contexts: list):
                 answer = generation[len(input):]
                 # print(f"Answer: {answer} \n")
                 answer_questions_dict[answer] = q
+                answer_context_dict[answer] = context
                 generations.append(generation)
                 answers.append(answer)
     t = time.perf_counter() - t1
@@ -283,6 +286,7 @@ def model_filter_generate(model_name: str, contexts: list):
                 answer = generation[len(input):]
                 # print(f"Answer: {answer} \n")
                 answer_questions_dict[answer] = q
+                answer_context_dict[answer] = context
                 generations.append(generation)
                 answers.append(answer)
     t = time.perf_counter() - t1
@@ -325,6 +329,7 @@ def keyword_model_generate(model_name: str, contexts: list):
                     answer = generation[len(input):]
                     # print(f"Answer: {answer} \n")
                     answer_questions_dict[answer] = q
+                    answer_context_dict[answer] = context
                     generations.append(generation)
                     answers.append(answer)
     t = time.perf_counter() - t1
@@ -387,10 +392,12 @@ def keyword_model_expert_check_generate(model_name: str, contexts: list):
                     confirm = gen[len(check):]
                     # print(confirm)
                     answer_questions_dict[answer] = q
+                    
                     if "yes" in confirm or "Yes" in confirm:
                         if "no" in confirm or "No" in confirm:
                             pass
                         else:
+                            answer_context_dict[answer] = context
                             generations.append(generation)
                             answers.append(answer)
     t = time.perf_counter() - t1
@@ -435,7 +442,8 @@ def write_to_file(model_name: str, context: list, output_name = "keyword_model_e
         gen = gen[gen.index('Context:'):]
         question_index = gen.index('Question:')
         ans = _ans[i]
-        if answer_questions_dict[ans] == questions[0]:
+        c = answer_context_dict[ans]
+        if not (c in k):
             k += "\n\n\n" + gen[:question_index] + "\n"
 
         q = answer_questions_dict[ans]
@@ -457,7 +465,8 @@ def main():
    
     models = {"EleutherAI/pythia-2.8b-deduped", "EleutherAI/pythia-1.4b-deduped", "EleutherAI/gpt-neo-2.7B", 
               "EleutherAI/gpt-neo-1.3B", "bigscience/bloom-1b7", "mosaicml/mpt-1b-redpajama-200b-dolly", "tiiuae/falcon-rw-1b",
-              "facebook/opt-2.7b", "facebook/opt-1.3b", "facebook/opt-6.7b", "facebook/galactica-1.3b", "facebook/galactica-6.7b"}
+              "facebook/opt-2.7b", "facebook/opt-1.3b", "facebook/opt-6.7b", "facebook/galactica-1.3b", "facebook/galactica-6.7b",
+              "meta-llama/Llama-2-13b-hf", "meta-llama/Llama-2-7b-hf"}
     
     t1 = time.perf_counter()
     context = get_context("pdf")
@@ -494,5 +503,5 @@ def test():
 
 
 if __name__ == "__main__":
-    # main()
-    test()
+     main()
+    # test()
