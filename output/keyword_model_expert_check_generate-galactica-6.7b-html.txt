@@ -1,0 +1,41 @@
+Generated 9 responses in 1141.04 seconds with average perplexity score of 14.69
+Question: What are the products of the above reaction?
+Answer:r: 64Cu, which is a positron emitter, is the product.
+Score: 10.55
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:: 6M hydrochloric acid must be the acid used to dissolve the target.
+Score: 11.67
+
+Question: What are the products of the above reaction?
+Answer:r: 64Cu is the product.
+Score: 14.47
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:: 6M hydrochloric acid is the acid used to dissolve the target.
+Score: 14.41
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.11
+
+Question: What are the products of the above reaction?
+Answer:r: 64Cu is the product.
+Score: 8.54
+
+
+
+Context: The cell surface protein gastrin-releasing peptide receptor (GRPR) has become a popular imaging target in recent years. GRPR is overexpressed by a large number of cancers including prostate, pancreatic, colon, and non-small cell lung cancers [108]. Agonist peptides such as bombesin bind to GRPR, trigger downstream signaling and are subsequently internalized into the cell. They have higher binding affinity than antagonists and are taken up in organs with endogenous GRPR expression such as the pancreas, stomach, intestines and adrenal glands [109]. The lower binding affinity of GRPR antagonists, however, may be advantageous for imaging studies as it leads to lower uptake in normal tissues [110].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:: 64Ni, or Nickel-64, must be the target.
+Score: 11.99
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:: 6M hydrochloric acid must be the acid used to dissolve the target.
+Score: 17.38
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 15.07
