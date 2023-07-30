@@ -476,7 +476,7 @@ def test():
     parser = "html"
     context = get_context(parser)
 
-    relevant_models = {"facebook/galactica-6.7b", "facebook/galactica-1.3b", "facebook/opt-6.7b", "facebook/opt-2.7b", "meta-llama/Llama-2-13b-hf", "meta-llama/Llama-2-7b-hf"}
+    relevant_models = {"facebook/opt-6.7b", "facebook/opt-2.7b", "meta-llama/Llama-2-13b-hf", "meta-llama/Llama-2-7b-hf"}
     filters = {keyword_model_expert_check_generate, keyword_model_generate, keyword_filter_generate}
     
     for model in relevant_models:
