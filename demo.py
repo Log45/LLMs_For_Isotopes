@@ -484,8 +484,9 @@ def test():
             try:
                 print(f"Model: {model} generating with {str(filter)[10:str(filter).index(' at')]} filter with {len(context)*len(questions)} potential generations.")
                 write_to_file(model, context, output_name=f"{str(filter)[10:str(filter).index(' at')]}-{model[model.index('/')+1:]}-{parser}", filter=filter)
-            except:
+            except Exception as e:
                 print(f"Error encountered running {model} with {str(filter)[10: str(filter).index(' at')]} filter.")
+                print(e)
                 continue
 
 
