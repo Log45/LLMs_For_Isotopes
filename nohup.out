@@ -1,0 +1,2728 @@
+Model: facebook/opt-2.7b generating with keyword_model_expert_check_generate filter with 475 potential generations.
+Time to load model facebook/opt-2.7b: 8.128722477937117
+Time for model filter: 2.6699728679377586
+Time to generate 1 response: 6.090023325989023
+Time to check answer: 2.4280312350019813
+Time to generate 1 response: 5.913967228960246
+Time to check answer: 2.458390162093565
+Time to generate 1 response: 5.934619889827445
+Time to check answer: 2.4827143140137196
+Time to generate 1 response: 5.892259934917092
+Time to check answer: 2.426453448832035
+Time to generate 1 response: 6.05490972683765
+Time to check answer: 2.4696312500163913
+Time for model filter: 2.4529511930886656
+Time to generate 1 response: 5.959299399983138
+Time to check answer: 2.431274797068909
+Time to generate 1 response: 5.912435477832332
+Time to check answer: 2.4196815451141447
+Time to generate 1 response: 5.888948570005596
+Time to check answer: 2.44382746797055
+Time to generate 1 response: 5.943610519170761
+Time to check answer: 2.452865627827123
+Time to generate 1 response: 5.891930064186454
+Time to check answer: 2.4357539410702884
+Time for model filter: 2.4495153948664665
+Time to generate 1 response: 5.9764902531169355
+Time to check answer: 2.4548952961340547
+Time to generate 1 response: 5.935840551974252
+Time to check answer: 2.417667947942391
+Time to generate 1 response: 5.938829814083874
+Time to check answer: 2.411749029997736
+Time to generate 1 response: 5.938181180972606
+Time to check answer: 2.418219476006925
+Time to generate 1 response: 5.904046575073153
+Time to check answer: 2.4354047579690814
+Time for model filter: 2.453013328835368
+Time to generate 1 response: 5.972433881135657
+Time to check answer: 2.440992151852697
+Time to generate 1 response: 5.919066466856748
+Time to check answer: 2.4073313819244504
+Time to generate 1 response: 5.89936278690584
+Time to check answer: 2.4201040170155466
+Time to generate 1 response: 5.92503830906935
+Time to check answer: 2.436503685778007
+Time to generate 1 response: 6.0803886379580945
+Time to check answer: 2.4389814799651504
+Time for model filter: 2.441087632905692
+Time to generate 1 response: 5.980648286873475
+Time to check answer: 2.4539843569509685
+Time to generate 1 response: 5.9708247520029545
+Time to check answer: 2.4140881579369307
+Time to generate 1 response: 5.8896020848769695
+Time to check answer: 2.4098762169014663
+Time to generate 1 response: 5.886757179163396
+Time to check answer: 2.432455924106762
+Time to generate 1 response: 5.871677491115406
+Time to check answer: 2.444892684929073
+Time for model filter: 2.450518087018281
+Time to generate 1 response: 5.939147651195526
+Time to check answer: 2.438355930149555
+Time to generate 1 response: 5.892079739132896
+Time to check answer: 2.4110200628638268
+Time to generate 1 response: 5.885454964125529
+Time to check answer: 2.397843991871923
+Time to generate 1 response: 5.912537142867222
+Time to check answer: 2.4309370981063694
+Time to generate 1 response: 5.882256432902068
+Time to check answer: 2.4047583108767867
+Time for model filter: 0.7435947158373892
+Time to generate 1 response: 5.988632000051439
+Time to check answer: 2.4237007750198245
+Time to generate 1 response: 5.937738853972405
+Time to check answer: 2.411264626076445
+Time to generate 1 response: 5.8839496148284525
+Time to check answer: 2.4335224060341716
+Time to generate 1 response: 5.906734479125589
+Time to check answer: 2.431060623144731
+Time to generate 1 response: 6.03443410503678
+Time to check answer: 2.4404026509728283
+Time for model filter: 1.7082352789584547
+Time to generate 1 response: 5.996610761154443
+Time to check answer: 2.4316783789545298
+Time to generate 1 response: 5.923308565048501
+Time to check answer: 2.4206143419723958
+Time to generate 1 response: 5.906819459982216
+Time to check answer: 2.452041308162734
+Time to generate 1 response: 5.905407330952585
+Time to check answer: 2.4330596069339663
+Time to generate 1 response: 5.895961257163435
+Time to check answer: 2.418977441964671
+Time for model filter: 1.5990431730169803
+Time to generate 1 response: 5.960078129079193
+Time to check answer: 2.4215374330524355
+Time to generate 1 response: 5.930681920843199
+Time to check answer: 2.4154508779756725
+Time to generate 1 response: 6.048668192932382
+Time to check answer: 2.437608419917524
+Time to generate 1 response: 5.90654808585532
+Time to check answer: 2.427008521044627
+Time to generate 1 response: 5.894744703080505
+Time to check answer: 2.4144884748384356
+Time for model filter: 1.7048311710823327
+Time to generate 1 response: 6.028130512917414
+Time to check answer: 2.4244944530073553
+Time to generate 1 response: 5.87750573689118
+Time to check answer: 2.4225347018800676
+Time to generate 1 response: 5.984747231006622
+Time to check answer: 2.4411529230419546
+Time to generate 1 response: 5.893137531122193
+Time to check answer: 2.4138916390947998
+Time to generate 1 response: 5.983365738997236
+Time to check answer: 2.4293125309050083
+Time for model filter: 2.447698275092989
+Time to generate 1 response: 6.062020372133702
+Time to check answer: 2.4363459697924554
+Time to generate 1 response: 5.998429972911254
+Time to check answer: 2.4432290780823678
+Time to generate 1 response: 5.909910337999463
+Time to check answer: 2.4189154929481447
+Time to generate 1 response: 6.002215712796897
+Time to check answer: 2.4436432821676135
+Time to generate 1 response: 6.042735009919852
+Time to check answer: 2.4375226330012083
+Time for model filter: 2.4007056299597025
+Time for model filter: 2.3828075961209834
+Time to generate 1 response: 5.962813507998362
+Time to check answer: 2.4416186690796167
+Time to generate 1 response: 5.906946294941008
+Time to check answer: 2.403335126116872
+Time to generate 1 response: 5.892683207988739
+Time to check answer: 2.4169704210944474
+Time to generate 1 response: 5.892127540893853
+Time to check answer: 2.424836080055684
+Time to generate 1 response: 6.078778384951875
+Time to check answer: 2.4321948089636862
+Time for model filter: 2.082494718953967
+Time to generate 1 response: 6.010492608183995
+Time to check answer: 2.461306408047676
+Time to generate 1 response: 5.942336052889004
+Time to check answer: 2.4361311502289027
+Time to generate 1 response: 5.948267749976367
+Time to check answer: 2.449627734022215
+Time to generate 1 response: 5.91328464797698
+Time to check answer: 2.4283913888502866
+Time to generate 1 response: 6.050964107969776
+Time to check answer: 2.452323036035523
+Time for model filter: 2.4437251011841
+Time to generate 1 response: 5.960326371015981
+Time to check answer: 2.4202879830263555
+Time to generate 1 response: 5.8967899300623685
+Time to check answer: 2.4342744678724557
+Time to generate 1 response: 5.91670692502521
+Time to check answer: 2.4153096950612962
+Time to generate 1 response: 6.025873437989503
+Time to check answer: 2.4259454880375415
+Time to generate 1 response: 6.153037674957886
+Time to check answer: 2.440258657094091
+Time for model filter: 2.420119418995455
+Time to generate 1 response: 5.980638036970049
+Time to check answer: 2.4419354889541864
+Time to generate 1 response: 5.891102674184367
+Time to check answer: 2.422698086127639
+Time to generate 1 response: 5.992357694078237
+Time to check answer: 2.439334269845858
+Time to generate 1 response: 5.906936635961756
+Time to check answer: 2.449480118928477
+Time to generate 1 response: 5.912071645958349
+Time to check answer: 2.429679452907294
+Time for model filter: 2.4339300009887666
+Time to generate 1 response: 6.060690751997754
+Time to check answer: 2.489708187058568
+Time to generate 1 response: 5.892538961023092
+Time to check answer: 2.4349681378807873
+Time to generate 1 response: 5.971474535996094
+Time to check answer: 2.450304281897843
+Time to generate 1 response: 5.889715823810548
+Time to check answer: 2.4401191289070994
+Time to generate 1 response: 5.943531289929524
+Time to check answer: 2.4403098898474127
+Time for model filter: 2.4355338071472943
+Time to generate 1 response: 6.045425011077896
+Time to check answer: 2.437860762933269
+Time to generate 1 response: 5.8753760498948395
+Time to check answer: 2.4143590689636767
+Time to generate 1 response: 5.887566277990118
+Time to check answer: 2.457075904123485
+Time to generate 1 response: 5.892604818800464
+Time to check answer: 2.445610563037917
+Time to generate 1 response: 6.055161081021652
+Time to check answer: 2.4322707848623395
+Time for model filter: 2.4289036721456796
+Time to generate 1 response: 5.961471080081537
+Time to check answer: 2.448315037181601
+Time to generate 1 response: 5.892804466886446
+Time to check answer: 2.4208756000734866
+Time to generate 1 response: 5.906043915078044
+Time to check answer: 2.4120624440256506
+Time to generate 1 response: 5.896147598978132
+Time to check answer: 2.4269709810614586
+Time to generate 1 response: 6.073109365068376
+Time to check answer: 2.4361578398384154
+Time for model filter: 2.4272969509474933
+Time for model filter: 2.4130980749614537
+Time to generate 1 response: 6.055954395094886
+Time to check answer: 2.4373600189574063
+Time to generate 1 response: 5.887423381907865
+Time to check answer: 2.4073283260222524
+Time to generate 1 response: 6.02087885607034
+Time to check answer: 2.4232703868765384
+Time to generate 1 response: 5.923682045890018
+Time to check answer: 2.447864356916398
+Time to generate 1 response: 6.0450730349402875
+Time to check answer: 2.439986652927473
+Time for model filter: 2.3969891138840467
+Time for model filter: 2.437913384055719
+Time to generate 1 response: 6.002384566003457
+Time to check answer: 2.433054317953065
+Time to generate 1 response: 5.892860129009932
+Time to check answer: 2.427806997904554
+Time to generate 1 response: 5.904923941940069
+Time to check answer: 2.442696108017117
+Time to generate 1 response: 5.897481764899567
+Time to check answer: 2.440540720941499
+Time to generate 1 response: 5.899051876040176
+Time to check answer: 2.423630208009854
+Time for model filter: 2.4699839809909463
+Time to generate 1 response: 6.053823480149731
+Time to check answer: 2.4578107548877597
+Time to generate 1 response: 5.892906049033627
+Time to check answer: 2.43434721394442
+Time to generate 1 response: 5.995295870117843
+Time to check answer: 2.4421430758666247
+Time to generate 1 response: 5.915879105916247
+Time to check answer: 2.421909003984183
+Time to generate 1 response: 6.069552092812955
+Time to check answer: 2.449589414987713
+Time for model filter: 2.408353728009388
+Time for model filter: 2.4710395850706846
+Time to generate 1 response: 6.000167252961546
+Time to check answer: 2.443342441925779
+Time to generate 1 response: 5.946334488224238
+Time to check answer: 2.4404668789356947
+Time to generate 1 response: 5.919976803008467
+Time to check answer: 2.447038088925183
+Time to generate 1 response: 5.9377375359181315
+Time to check answer: 2.486160383094102
+Time to generate 1 response: 6.063423356972635
+Time to check answer: 2.464062145911157
+Time for model filter: 2.4520058589987457
+Time to generate 1 response: 5.991541302995756
+Time to check answer: 2.436309193028137
+Time to generate 1 response: 5.931149821961299
+Time to check answer: 2.4231841559521854
+Time to generate 1 response: 5.982006928883493
+Time to check answer: 2.42998238815926
+Time to generate 1 response: 5.890600969083607
+Time to check answer: 2.4328245809301734
+Time to generate 1 response: 6.047338685020804
+Time to check answer: 2.446951846126467
+Time for model filter: 2.4329336411319673
+Time for model filter: 2.4471608239691705
+Time to generate 1 response: 5.973435326013714
+Time to check answer: 2.4429993859957904
+Time to generate 1 response: 5.909391502151266
+Time to check answer: 2.4245857729110867
+Time to generate 1 response: 5.971307062078267
+Time to check answer: 2.4321083740796894
+Time to generate 1 response: 6.023230785969645
+Time to check answer: 2.420902651036158
+Time to generate 1 response: 6.0610002900939435
+Time to check answer: 2.441798333078623
+Time for model filter: 2.4431075248867273
+Time to generate 1 response: 6.071703877067193
+Time to check answer: 2.4491634611040354
+Time to generate 1 response: 5.964579255087301
+Time to check answer: 2.4330344470217824
+Time to generate 1 response: 5.904937256127596
+Time to check answer: 2.426384184975177
+Time to generate 1 response: 6.011768628843129
+Time to check answer: 2.4455981811042875
+Time to generate 1 response: 6.04724708897993
+Time to check answer: 2.4348245160654187
+Time for model filter: 2.445617716992274
+Time to generate 1 response: 6.056868209969252
+Time to check answer: 2.4402133820112795
+Time to generate 1 response: 5.907130419043824
+Time to check answer: 2.4216707840096205
+Time to generate 1 response: 5.887802909128368
+Time to check answer: 2.4408522988669574
+Time to generate 1 response: 6.0005886380095035
+Time to check answer: 2.4641950780060142
+Time to generate 1 response: 6.066346634179354
+Time to check answer: 2.4432066208682954
+Time for model filter: 2.4503785888664424
+Time to generate 1 response: 5.936149002984166
+Time to check answer: 2.4371785649564117
+Time to generate 1 response: 5.906644318019971
+Time to check answer: 2.4331889771856368
+Time to generate 1 response: 5.893851649016142
+Time to check answer: 2.4230097359977663
+Time to generate 1 response: 5.936853422084823
+Time to check answer: 2.449728920822963
+Time to generate 1 response: 5.884972455911338
+Time to check answer: 2.4510857108980417
+Time for model filter: 2.448040565941483
+Time to generate 1 response: 6.066207200055942
+Time to check answer: 2.4387178090400994
+Time to generate 1 response: 5.914651107043028
+Time to check answer: 2.4124245869461447
+Time to generate 1 response: 5.981986433034763
+Time to check answer: 2.427909014048055
+Time to generate 1 response: 5.999553272034973
+Time to check answer: 2.433455912861973
+Time to generate 1 response: 6.070362644968554
+Time to check answer: 2.4367066661361605
+Time for model filter: 2.4486412811093032
+Time to generate 1 response: 6.060026010032743
+Time to check answer: 2.44622921384871
+Time to generate 1 response: 5.894797407090664
+Time to check answer: 2.4218979720026255
+Time to generate 1 response: 5.964587300084531
+Time to check answer: 2.4218481259886175
+Time to generate 1 response: 5.89558390295133
+Time to check answer: 2.4474052370060235
+Time to generate 1 response: 6.0604010100942105
+Time to check answer: 2.4401688089128584
+7 generations in 1303.8812986779958 seconds.
+Time to load model facebook/opt-2.7b: 5.345060282154009
+Time to calculate perplexity: 0.14060418913140893
+Time to calculate perplexity: 0.1306411661207676
+Time to calculate perplexity: 0.13073321501724422
+Time to calculate perplexity: 0.1315738030243665
+Time to calculate perplexity: 0.13181314687244594
+Time to calculate perplexity: 0.13127562310546637
+Time to calculate perplexity: 0.1295743491500616
+Time to calculate average perplexity: 0.9269133808556944
+Model: facebook/opt-2.7b generating with keyword_filter_generate filter with 475 potential generations.
+Time to load model facebook/opt-2.7b: 5.463831419125199
+170 generations in 1018.7589457628783 seconds.
+Time to load model facebook/opt-2.7b: 4.75161651102826
+Time to calculate perplexity: 0.13959420821629465
+Time to calculate perplexity: 0.1283364740666002
+Time to calculate perplexity: 0.13012176612392068
+Time to calculate perplexity: 0.128292246023193
+Time to calculate perplexity: 0.13038475695066154
+Time to calculate perplexity: 0.13066489016637206
+Time to calculate perplexity: 0.12944060191512108
+Time to calculate perplexity: 0.12820127420127392
+Time to calculate perplexity: 0.12939445092342794
+Time to calculate perplexity: 0.12926188204437494
+Time to calculate perplexity: 0.13016582606360316
+Time to calculate perplexity: 0.13081430993042886
+Time to calculate perplexity: 0.12948091910220683
+Time to calculate perplexity: 0.1305410461500287
+Time to calculate perplexity: 0.13144340203143656
+Time to calculate perplexity: 0.13115511904470623
+Time to calculate perplexity: 0.13165988610126078
+Time to calculate perplexity: 0.1299693880137056
+Time to calculate perplexity: 0.12938199215568602
+Time to calculate perplexity: 0.12965467595495284
+Time to calculate perplexity: 0.13027023198083043
+Time to calculate perplexity: 0.12978776218369603
+Time to calculate perplexity: 0.12863727612420917
+Time to calculate perplexity: 0.12968140887096524
+Time to calculate perplexity: 0.13254377897828817
+Time to calculate perplexity: 0.13101700996048748
+Time to calculate perplexity: 0.12930608703754842
+Time to calculate perplexity: 0.12759841699153185
+Time to calculate perplexity: 0.12897316389717162
+Time to calculate perplexity: 0.12962987390346825
+Time to calculate perplexity: 0.1313197510316968
+Time to calculate perplexity: 0.1339510208927095
+Time to calculate perplexity: 0.1312047380488366
+Time to calculate perplexity: 0.12871380196884274
+Time to calculate perplexity: 0.13150935689918697
+Time to calculate perplexity: 0.131548129953444
+Time to calculate perplexity: 0.13115625106729567
+Time to calculate perplexity: 0.13414405100047588
+Time to calculate perplexity: 0.12881478993222117
+Time to calculate perplexity: 0.13132603000849485
+Time to calculate perplexity: 0.13201975892297924
+Time to calculate perplexity: 0.13133422215469182
+Time to calculate perplexity: 0.12700052605941892
+Time to calculate perplexity: 0.1306478730402887
+Time to calculate perplexity: 0.12950190901756287
+Time to calculate perplexity: 0.12963493610732257
+Time to calculate perplexity: 0.1295182970352471
+Time to calculate perplexity: 0.12809120188467205
+Time to calculate perplexity: 0.12991159688681364
+Time to calculate perplexity: 0.12752084294334054
+Time to calculate perplexity: 0.1289197290316224
+Time to calculate perplexity: 0.12958070589229465
+Time to calculate perplexity: 0.1291154040955007
+Time to calculate perplexity: 0.1298846451099962
+Time to calculate perplexity: 0.13236316409893334
+Time to calculate perplexity: 0.13062469800934196
+Time to calculate perplexity: 0.13112289691343904
+Time to calculate perplexity: 0.13069806597195566
+Time to calculate perplexity: 0.13153723580762744
+Time to calculate perplexity: 0.1303712830413133
+Time to calculate perplexity: 0.1315798598807305
+Time to calculate perplexity: 0.12870209896937013
+Time to calculate perplexity: 0.13073898409493268
+Time to calculate perplexity: 0.13093437696807086
+Time to calculate perplexity: 0.13032180699519813
+Time to calculate perplexity: 0.1289506631437689
+Time to calculate perplexity: 0.13017592183314264
+Time to calculate perplexity: 0.12999658402986825
+Time to calculate perplexity: 0.12926917313598096
+Time to calculate perplexity: 0.12926078983582556
+Time to calculate perplexity: 0.1327386701013893
+Time to calculate perplexity: 0.12893289187923074
+Time to calculate perplexity: 0.12910446897149086
+Time to calculate perplexity: 0.1298081618733704
+Time to calculate perplexity: 0.13066610484384
+Time to calculate perplexity: 0.1316479961387813
+Time to calculate perplexity: 0.1312697979155928
+Time to calculate perplexity: 0.12874609604477882
+Time to calculate perplexity: 0.13041836093179882
+Time to calculate perplexity: 0.128894223831594
+Time to calculate perplexity: 0.13083022902719676
+Time to calculate perplexity: 0.1309056009631604
+Time to calculate perplexity: 0.12926789512857795
+Time to calculate perplexity: 0.1319984900765121
+Time to calculate perplexity: 0.131128832930699
+Time to calculate perplexity: 0.13228204380720854
+Time to calculate perplexity: 0.12887765397317708
+Time to calculate perplexity: 0.13056597812101245
+Time to calculate perplexity: 0.13086266699247062
+Time to calculate perplexity: 0.13177078985609114
+Time to calculate perplexity: 0.1303138849325478
+Time to calculate perplexity: 0.13177711609750986
+Time to calculate perplexity: 0.13355565117672086
+Time to calculate perplexity: 0.13371443888172507
+Time to calculate perplexity: 0.13161492999643087
+Time to calculate perplexity: 0.13232475891709328
+Time to calculate perplexity: 0.13065189588814974
+Time to calculate perplexity: 0.131136333104223
+Time to calculate perplexity: 0.12938663503155112
+Time to calculate perplexity: 0.13053535902872682
+Time to calculate perplexity: 0.12997970613650978
+Time to calculate perplexity: 0.12996757007203996
+Time to calculate perplexity: 0.12967687589116395
+Time to calculate perplexity: 0.1286616341676563
+Time to calculate perplexity: 0.12849580915644765
+Time to calculate perplexity: 0.13054136093705893
+Time to calculate perplexity: 0.13000516314059496
+Time to calculate perplexity: 0.13094426388852298
+Time to calculate perplexity: 0.13265835912898183
+Time to calculate perplexity: 0.12757117301225662
+Time to calculate perplexity: 0.12890559784136713
+Time to calculate perplexity: 0.13012625114060938
+Time to calculate perplexity: 0.12982869683764875
+Time to calculate perplexity: 0.13201299705542624
+Time to calculate perplexity: 0.12762112612836063
+Time to calculate perplexity: 0.1310300719924271
+Time to calculate perplexity: 0.12913740798830986
+Time to calculate perplexity: 0.12982124206610024
+Time to calculate perplexity: 0.13166139088571072
+Time to calculate perplexity: 0.1269794071558863
+Time to calculate perplexity: 0.1297230450436473
+Time to calculate perplexity: 0.1286110980436206
+Time to calculate perplexity: 0.129397994838655
+Time to calculate perplexity: 0.13273680210113525
+Time to calculate perplexity: 0.13083276990801096
+Time to calculate perplexity: 0.1295979581773281
+Time to calculate perplexity: 0.12822477496229112
+Time to calculate perplexity: 0.12786416802555323
+Time to calculate perplexity: 0.1282783718779683
+Time to calculate perplexity: 0.13054753514006734
+Time to calculate perplexity: 0.13052062783390284
+Time to calculate perplexity: 0.12979872711002827
+Time to calculate perplexity: 0.1293181129731238
+Time to calculate perplexity: 0.12844077195040882
+Time to calculate perplexity: 0.12897014897316694
+Time to calculate perplexity: 0.13053715997375548
+Time to calculate perplexity: 0.12865428486838937
+Time to calculate perplexity: 0.1305726789869368
+Time to calculate perplexity: 0.12854020902886987
+Time to calculate perplexity: 0.13169070007279515
+Time to calculate perplexity: 0.12907459097914398
+Time to calculate perplexity: 0.12933000014163554
+Time to calculate perplexity: 0.13024514401331544
+Time to calculate perplexity: 0.12931753089651465
+Time to calculate perplexity: 0.1281138169579208
+Time to calculate perplexity: 0.12951092002913356
+Time to calculate perplexity: 0.1301764869131148
+Time to calculate perplexity: 0.13110643904656172
+Time to calculate perplexity: 0.12807736895047128
+Time to calculate perplexity: 0.13025976507924497
+Time to calculate perplexity: 0.12741469405591488
+Time to calculate perplexity: 0.1302638310007751
+Time to calculate perplexity: 0.12869042600505054
+Time to calculate perplexity: 0.12876789597794414
+Time to calculate perplexity: 0.13230780907906592
+Time to calculate perplexity: 0.13121312204748392
+Time to calculate perplexity: 0.13035769294947386
+Time to calculate perplexity: 0.12729529081843793
+Time to calculate perplexity: 0.1305808750912547
+Time to calculate perplexity: 0.13081969204358757
+Time to calculate perplexity: 0.12769305403344333
+Time to calculate perplexity: 0.13171938294544816
+Time to calculate perplexity: 0.13030861201696098
+Time to calculate perplexity: 0.12828758195973933
+Time to calculate perplexity: 0.12953491788357496
+Time to calculate perplexity: 0.12878839508630335
+Time to calculate perplexity: 0.128910758998245
+Time to calculate perplexity: 0.12913150805979967
+Time to calculate perplexity: 0.1311210310086608
+Time to calculate perplexity: 0.1315279609989375
+Time to calculate average perplexity: 22.141343774972484
+Model: facebook/opt-2.7b generating with keyword_model_generate filter with 475 potential generations.
+Time to load model facebook/opt-2.7b: 4.09084899793379
+145 generations in 948.2672613351606 seconds.
+Time to load model facebook/opt-2.7b: 3.8441692269407213
+Time to calculate perplexity: 0.13963840994983912
+Time to calculate perplexity: 0.128331215120852
+Time to calculate perplexity: 0.1302236660849303
+Time to calculate perplexity: 0.12769220699556172
+Time to calculate perplexity: 0.1305340297985822
+Time to calculate perplexity: 0.12896400410681963
+Time to calculate perplexity: 0.12903698813170195
+Time to calculate perplexity: 0.12930382997728884
+Time to calculate perplexity: 0.12914061197079718
+Time to calculate perplexity: 0.1288750129751861
+Time to calculate perplexity: 0.1302203971426934
+Time to calculate perplexity: 0.1294713681563735
+Time to calculate perplexity: 0.1300389519892633
+Time to calculate perplexity: 0.12928293203003705
+/home/lendes/anaconda3/envs/suli/lib/python3.8/site-packages/transformers/generation/utils.py:1270: UserWarning: You have modified the pretrained model configuration to control generation. This is a deprecated strategy to control generation and will be removed soon, in a future version. Please use a generation configuration file (see https://huggingface.co/docs/transformers/main_classes/text_generation )
+  warnings.warn(
+Time to calculate perplexity: 0.13249682309105992
+Time to calculate perplexity: 0.13156375288963318
+Time to calculate perplexity: 0.13135916693136096
+Time to calculate perplexity: 0.13051220192573965
+Time to calculate perplexity: 0.12884760508313775
+Time to calculate perplexity: 0.12828763807192445
+Time to calculate perplexity: 0.13398865307681262
+Time to calculate perplexity: 0.13059141789563
+Time to calculate perplexity: 0.1315026239026338
+Time to calculate perplexity: 0.12936201319098473
+Time to calculate perplexity: 0.13139090011827648
+Time to calculate perplexity: 0.13108478812500834
+Time to calculate perplexity: 0.1292237350717187
+Time to calculate perplexity: 0.12913073506206274
+Time to calculate perplexity: 0.1295360231306404
+Time to calculate perplexity: 0.13083983701653779
+Time to calculate perplexity: 0.12997241807170212
+Time to calculate perplexity: 0.13309068698436022
+Time to calculate perplexity: 0.1310032920446247
+Time to calculate perplexity: 0.13010385097004473
+Time to calculate perplexity: 0.1309406307991594
+Time to calculate perplexity: 0.13190271891653538
+Time to calculate perplexity: 0.12826822511851788
+Time to calculate perplexity: 0.12996335700154305
+Time to calculate perplexity: 0.12815496395342052
+Time to calculate perplexity: 0.12973321485333145
+Time to calculate perplexity: 0.1316719618625939
+Time to calculate perplexity: 0.13231172389350832
+Time to calculate perplexity: 0.1271965829655528
+Time to calculate perplexity: 0.1340507259592414
+Time to calculate perplexity: 0.13084363611415029
+Time to calculate perplexity: 0.1286999189760536
+Time to calculate perplexity: 0.12881549797020853
+Time to calculate perplexity: 0.12745921895839274
+Time to calculate perplexity: 0.1301972670480609
+Time to calculate perplexity: 0.1267727129161358
+Time to calculate perplexity: 0.13099342002533376
+Time to calculate perplexity: 0.12912967684678733
+Time to calculate perplexity: 0.1299710648600012
+Time to calculate perplexity: 0.12983147893100977
+Time to calculate perplexity: 0.12811172101646662
+Time to calculate perplexity: 0.1314784709829837
+Time to calculate perplexity: 0.13090360607020557
+Time to calculate perplexity: 0.13016012986190617
+Time to calculate perplexity: 0.13109525199979544
+Time to calculate perplexity: 0.13119667093269527
+Time to calculate perplexity: 0.13289543404243886
+Time to calculate perplexity: 0.13042573491111398
+Time to calculate perplexity: 0.12761331303045154
+Time to calculate perplexity: 0.1304062409326434
+Time to calculate perplexity: 0.12926557706668973
+Time to calculate perplexity: 0.13213560194708407
+Time to calculate perplexity: 0.13077905378304422
+Time to calculate perplexity: 0.1305654679890722
+Time to calculate perplexity: 0.13236039201729
+Time to calculate perplexity: 0.13131086179055274
+Time to calculate perplexity: 0.13015075912699103
+Time to calculate perplexity: 0.12760710902512074
+Time to calculate perplexity: 0.12986987689509988
+Time to calculate perplexity: 0.12869228422641754
+Time to calculate perplexity: 0.12907801708206534
+Time to calculate perplexity: 0.13162981299683452
+Time to calculate perplexity: 0.1315158170182258
+Time to calculate perplexity: 0.13202998088672757
+Time to calculate perplexity: 0.12969848583452404
+Time to calculate perplexity: 0.13093745103105903
+Time to calculate perplexity: 0.131275556050241
+Time to calculate perplexity: 0.12822737195529044
+Time to calculate perplexity: 0.12886559893377125
+Time to calculate perplexity: 0.13253808300942183
+Time to calculate perplexity: 0.13139514508657157
+Time to calculate perplexity: 0.12899117590859532
+Time to calculate perplexity: 0.128559994045645
+Time to calculate perplexity: 0.12789977714419365
+Time to calculate perplexity: 0.131644438020885
+Time to calculate perplexity: 0.1310573450755328
+Time to calculate perplexity: 0.12949726288206875
+Time to calculate perplexity: 0.13026975002139807
+Time to calculate perplexity: 0.13039917591959238
+Time to calculate perplexity: 0.12965615093708038
+Time to calculate perplexity: 0.12919815885834396
+Time to calculate perplexity: 0.13070419384166598
+Time to calculate perplexity: 0.13127532205544412
+Time to calculate perplexity: 0.1387596030253917
+Time to calculate perplexity: 0.13034721300937235
+Time to calculate perplexity: 0.1302651569712907
+Time to calculate perplexity: 0.13117578299716115
+Time to calculate perplexity: 0.12837507599033415
+Time to calculate perplexity: 0.1274157240986824
+Time to calculate perplexity: 0.13237637700513005
+Time to calculate perplexity: 0.13341512391343713
+Time to calculate perplexity: 0.13531469483859837
+Time to calculate perplexity: 0.13201230601407588
+Time to calculate perplexity: 0.12802520813420415
+Time to calculate perplexity: 0.12921821209602058
+Time to calculate perplexity: 0.13101721904240549
+Time to calculate perplexity: 0.130700709996745
+Time to calculate perplexity: 0.12869714316911995
+Time to calculate perplexity: 0.12875498412176967
+Time to calculate perplexity: 0.1309504529926926
+Time to calculate perplexity: 0.1311831478960812
+Time to calculate perplexity: 0.12915972899645567
+Time to calculate perplexity: 0.12915688892826438
+Time to calculate perplexity: 0.1286362160462886
+Time to calculate perplexity: 0.12913046893663704
+Time to calculate perplexity: 0.12850886606611311
+Time to calculate perplexity: 0.13062881282530725
+Time to calculate perplexity: 0.13137526018545032
+Time to calculate perplexity: 0.13062182604335248
+Time to calculate perplexity: 0.13263954292051494
+Time to calculate perplexity: 0.1289929999038577
+Time to calculate perplexity: 0.13025587983429432
+Time to calculate perplexity: 0.12812835699878633
+Time to calculate perplexity: 0.13018001499585807
+Time to calculate perplexity: 0.12934958701953292
+Time to calculate perplexity: 0.13218762609176338
+Time to calculate perplexity: 0.1296970578841865
+Time to calculate perplexity: 0.12795065389946103
+Time to calculate perplexity: 0.1295598279684782
+Time to calculate perplexity: 0.13121282402426004
+Time to calculate perplexity: 0.13079567905515432
+Time to calculate perplexity: 0.12704794784076512
+Time to calculate perplexity: 0.1321625669952482
+Time to calculate perplexity: 0.12864110781811178
+Time to calculate perplexity: 0.1318907078821212
+Time to calculate perplexity: 0.13038236508145928
+Time to calculate perplexity: 0.13087893812917173
+Time to calculate perplexity: 0.1288391340058297
+Time to calculate perplexity: 0.1293511709664017
+Time to calculate perplexity: 0.13060318189673126
+Time to calculate perplexity: 0.13219550997018814
+Time to calculate average perplexity: 18.90891637490131
+Model: meta-llama/Llama-2-13b-hf generating with keyword_model_expert_check_generate filter with 475 potential generations.
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:03<00:07,  3.62s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:05<00:02,  2.76s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:07<00:00,  2.11s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:07<00:00,  2.37s/it]Time to load model meta-llama/Llama-2-13b-hf: 7.759196448838338
+Time for model filter: 3.049205631017685
+Time for model filter: 3.14107376197353
+Time to generate 1 response: 7.512979872059077
+Time to check answer: 0.6696957910899073
+Time to generate 1 response: 7.451784591889009
+Time to check answer: 0.6809523871634156
+Time to generate 1 response: 7.416600628988817
+Time to check answer: 3.114694803021848
+Time to generate 1 response: 7.531334241852164
+Time to check answer: 0.6684440050739795
+Time to generate 1 response: 7.690309556899592
+Time to check answer: 0.6962698269635439
+Time for model filter: 3.0844382951036096
+Time for model filter: 3.1882827198132873
+Time to generate 1 response: 7.67372393514961
+Time to check answer: 0.6837682728655636
+Time to generate 1 response: 7.682083854917437
+Time to check answer: 0.6755514659453183
+Time to generate 1 response: 7.49568159901537
+Time to check answer: 3.074802743969485
+Time to generate 1 response: 7.594148227013648
+Time to check answer: 0.6842579580843449
+Time to generate 1 response: 7.593935136916116
+Time to check answer: 0.685893408022821
+Time for model filter: 2.9501472041010857
+Time for model filter: 3.126840726006776
+Time for model filter: 3.0952220011968166
+Time for model filter: 3.0687003990169615
+Time for model filter: 3.102131698979065
+Time for model filter: 2.980282119009644
+Time for model filter: 3.087931690039113
+Time to generate 1 response: 7.459286475088447
+Time to check answer: 3.1135775309521705
+Time to generate 1 response: 7.703778861789033
+Time to check answer: 3.13468900998123
+Time to generate 1 response: 7.484677907079458
+Time to check answer: 3.0896866167895496
+Time to generate 1 response: 7.592031012987718
+Time to check answer: 0.6749024570453912
+Time to generate 1 response: 7.561900952132419
+Time to check answer: 2.5337261990644038
+Time for model filter: 3.071592533029616
+Time to generate 1 response: 7.5661608460359275
+Time to check answer: 0.6660198338795453
+Time to generate 1 response: 7.618138524936512
+Time to check answer: 3.0875934190116823
+Time to generate 1 response: 7.649237354984507
+Time to check answer: 0.6670914618298411
+Time to generate 1 response: 7.52765098400414
+Time to check answer: 0.6714140630792826
+Time to generate 1 response: 7.656968303956091
+Time to check answer: 3.0898157339543104
+Time for model filter: 3.072791791986674
+Time to generate 1 response: 7.702572973910719
+Time to check answer: 1.928689079824835
+Time to generate 1 response: 7.624163779895753
+Time to check answer: 0.6817133931908756
+Time to generate 1 response: 7.792104250984266
+Time to check answer: 0.6795763219706714
+Time to generate 1 response: 7.716332378098741
+Time to check answer: 0.6847982748877257
+Time to generate 1 response: 7.7517505718860775
+Time to check answer: 0.6903331750072539
+Time for model filter: 3.0819826619699597
+Time to generate 1 response: 7.543004279024899
+Time to check answer: 0.6853534751571715
+Time to generate 1 response: 7.6432990920729935
+Time to check answer: 0.669467882020399
+Time to generate 1 response: 7.357678242959082
+Time to check answer: 3.112873632926494
+Time to generate 1 response: 7.531485542887822
+Time to check answer: 0.6777418931014836
+Time to generate 1 response: 7.314772309036925
+Time to check answer: 0.6887698760256171
+Time for model filter: 3.1126922441180795
+Time to generate 1 response: 7.481234157923609
+Time to check answer: 0.6706443740986288
+Time to generate 1 response: 7.56473937490955
+Time to check answer: 0.675154120195657
+Time to generate 1 response: 7.734429743839428
+Time to check answer: 3.172436719061807
+Time to generate 1 response: 7.59941919404082
+Time to check answer: 0.6786544658243656
+Time to generate 1 response: 7.482547149993479
+Time to check answer: 0.6706764928530902
+Time for model filter: 3.13120564003475
+Time to generate 1 response: 7.412669400917366
+Time to check answer: 0.6853183689527214
+Time to generate 1 response: 7.578250980935991
+Time to check answer: 0.6873289039358497
+Time to generate 1 response: 7.718851272016764
+Time to check answer: 3.1649927489925176
+Time to generate 1 response: 7.536368368891999
+Time to check answer: 0.6745336819440126
+Time to generate 1 response: 7.825437454041094
+Time to check answer: 3.1226430241949856
+Time for model filter: 3.1059335658792406
+Time to generate 1 response: 7.5450312020257115
+Time to check answer: 0.6861514779739082
+Time to generate 1 response: 7.608256737003103
+Time to check answer: 3.036144517827779
+Time to generate 1 response: 7.550763626117259
+Time to check answer: 0.6784274620003998
+Time to generate 1 response: 7.45186150399968
+Time to check answer: 0.6763179290574044
+Time to generate 1 response: 7.604849281022325
+Time to check answer: 0.6799425950739533
+Time for model filter: 3.121970023959875
+Time to generate 1 response: 7.564820858184248
+Time to check answer: 0.6758293909952044
+Time to generate 1 response: 7.68674112809822
+Time to check answer: 0.6686270539648831
+Time to generate 1 response: 7.744553961092606
+Time to check answer: 3.1424706710968167
+Time to generate 1 response: 7.566140329930931
+Time to check answer: 0.666745041962713
+Time to generate 1 response: 7.468544720904902
+Time to check answer: 0.6706172281410545
+Time for model filter: 3.11199011397548
+Time to generate 1 response: 7.722571349935606
+Time to check answer: 3.1054924728814512
+Time to generate 1 response: 7.589344886131585
+Time to check answer: 1.9206594480201602
+Time to generate 1 response: 7.732185760047287
+Time to check answer: 3.0702226739376783
+Time to generate 1 response: 7.538817214081064
+Time to check answer: 0.6833285880275071
+Time to generate 1 response: 7.669929787050933
+Time to check answer: 3.130975490901619
+Time for model filter: 3.0869679029565305
+Time to generate 1 response: 7.570840031141415
+Time to check answer: 3.088242283090949
+Time to generate 1 response: 7.694404306123033
+Time to check answer: 3.142199554014951
+Time to generate 1 response: 7.5595828329678625
+Time to check answer: 0.674361236859113
+Time to generate 1 response: 7.515149829909205
+Time to check answer: 0.6757528998423368
+Time to generate 1 response: 7.330605349037796
+Time to check answer: 3.1024653459899127
+Time for model filter: 3.103228238876909
+Time to generate 1 response: 7.347977027995512
+Time to check answer: 3.0713645599316806
+Time to generate 1 response: 7.666809004964307
+Time to check answer: 3.080058884806931
+Time to generate 1 response: 7.5519517050124705
+Time to check answer: 3.132384375901893
+Time to generate 1 response: 7.647693916922435
+Time to check answer: 2.950507228029892
+Time to generate 1 response: 7.735650489106774
+Time to check answer: 3.171188673004508
+Time for model filter: 3.1047961600124836
+Time to generate 1 response: 7.6493794419802725
+Time to check answer: 3.11997386906296
+Time to generate 1 response: 7.714495508000255
+Time to check answer: 0.6655532300937921
+Time to generate 1 response: 7.695901828119531
+Time to check answer: 3.14318853802979
+Time to generate 1 response: 7.549958087038249
+Time to check answer: 0.668405591044575
+Time to generate 1 response: 7.5424820019397885
+Time to check answer: 0.6746991921681911
+Time for model filter: 3.1122477629687637
+Time to generate 1 response: 7.488656118977815
+Time to check answer: 0.6690418480429798
+Time to generate 1 response: 7.615199335850775
+Time to check answer: 0.6750411260873079
+Time to generate 1 response: 7.788716457085684
+Time to check answer: 0.6835668289568275
+Time to generate 1 response: 7.554663619957864
+Time to check answer: 0.6759620469529182
+Time to generate 1 response: 7.495583849027753
+Time to check answer: 0.670898413984105
+Time for model filter: 3.1114197478163987
+Time to generate 1 response: 7.575670678867027
+Time to check answer: 0.6749617920722812
+Time to generate 1 response: 7.772903968114406
+Time to check answer: 3.1733059829566628
+Time to generate 1 response: 7.7409320960287005
+Time to check answer: 3.1527232530061156
+Time to generate 1 response: 7.838334914995357
+Time to check answer: 0.674225312191993
+Time to generate 1 response: 7.58684626291506
+Time to check answer: 3.1517229438759387
+Time for model filter: 3.1397362970747054
+Time to generate 1 response: 7.610873883822933
+
+Time to check answer: 0.6669319830834866
+Time to generate 1 response: 7.697442576987669
+Time to check answer: 3.124044327996671
+Time to generate 1 response: 7.671573481056839
+Time to check answer: 3.1098273668903857
+Time to generate 1 response: 7.496162003139034
+Time to check answer: 3.0785633989144117
+Time to generate 1 response: 7.42694507795386
+Time to check answer: 3.0355265168473125
+Time for model filter: 3.075347188860178
+Time to generate 1 response: 7.575706320116296
+Time to check answer: 3.0075510679744184
+Time to generate 1 response: 7.669566339114681
+Time to check answer: 3.042537519009784
+Time to generate 1 response: 7.750791806029156
+Time to check answer: 3.089856398990378
+Time to generate 1 response: 7.565900163957849
+Time to check answer: 3.162645828910172
+Time to generate 1 response: 7.582458651857451
+Time to check answer: 2.9921969508286566
+Time for model filter: 3.0861979459878057
+Time to generate 1 response: 7.571293201064691
+Time to check answer: 3.1241009121295065
+Time to generate 1 response: 7.585645196028054
+Time to check answer: 2.994871917879209
+Time to generate 1 response: 7.812702585943043
+Time to check answer: 3.1242059799842536
+Time to generate 1 response: 7.668158320942894
+Time to check answer: 3.080065992893651
+Time to generate 1 response: 7.58044231007807
+Time to check answer: 3.031127723166719
+Time for model filter: 3.0462899529375136
+Time to generate 1 response: 7.383693108102307
+Time to check answer: 3.1497569819912314
+Time to generate 1 response: 7.654185121878982
+Time to check answer: 3.051018350990489
+Time to generate 1 response: 7.594814272131771
+Time to check answer: 3.1091069548856467
+Time to generate 1 response: 7.531058775028214
+Time to check answer: 3.100803912850097
+Time to generate 1 response: 7.726906980853528
+Time to check answer: 3.1087564630433917
+Time for model filter: 3.1004124069586396
+Time to generate 1 response: 7.605389825999737
+Time to check answer: 0.6807315859477967
+Time to generate 1 response: 7.689982216106728
+Time to check answer: 3.097856759093702
+Time to generate 1 response: 7.710764250019565
+Time to check answer: 3.0813979289960116
+Time to generate 1 response: 7.5498626010958105
+Time to check answer: 3.053241861052811
+Time to generate 1 response: 7.350715436972678
+Time to check answer: 3.083112012129277
+Time for model filter: 3.1858397969044745
+Time for model filter: 3.0625068589579314
+Time to generate 1 response: 7.654650175012648
+Time to check answer: 3.1920677528250962
+Time to generate 1 response: 7.69030646700412
+Time to check answer: 2.966515837935731
+Time to generate 1 response: 7.612910390133038
+Time to check answer: 3.127767824102193
+Time to generate 1 response: 7.79090749216266
+Time to check answer: 0.6690599878784269
+Time to generate 1 response: 7.203448763117194
+Time to check answer: 3.0702518559992313
+Time for model filter: 3.0996155538596213
+Time to generate 1 response: 7.638178545981646
+Time to check answer: 0.6794686550274491
+Time to generate 1 response: 7.503235823009163
+Time to check answer: 0.6749647830147296
+Time to generate 1 response: 7.710938120959327
+Time to check answer: 3.1486073799896985
+Time to generate 1 response: 7.380431095138192
+Time to check answer: 0.6747604080010206
+Time to generate 1 response: 7.6773957058321685
+Time to check answer: 3.1705266719218343
+Time for model filter: 3.075125032104552
+Time to generate 1 response: 7.859976451843977
+Time to check answer: 3.1686127400025725
+Time to generate 1 response: 7.653901304816827
+Time to check answer: 3.0751998061314225
+Time to generate 1 response: 7.614991982933134
+Time to check answer: 3.0896309360396117
+Time to generate 1 response: 7.532064431114122
+Time to check answer: 0.6634133160114288
+Time to generate 1 response: 7.243064732989296
+Time to check answer: 3.058264523046091
+Time for model filter: 3.0979205491021276
+Time to generate 1 response: 7.2729245140217245
+Time to check answer: 0.6795330978929996
+Time to generate 1 response: 7.546936410013586
+Time to check answer: 0.8387033180333674
+Time to generate 1 response: 7.306803261861205
+Time to check answer: 0.6815849090926349
+Time to generate 1 response: 7.364009382203221
+Time to check answer: 0.676548128016293
+Time to generate 1 response: 7.309480186086148
+Time to check answer: 0.6754041840322316
+9 generations in 1300.4941592819523 seconds.
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:02<00:04,  2.13s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:04<00:02,  2.01s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.66s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.76s/it]
+Time to load model meta-llama/Llama-2-13b-hf: 5.938853094121441
+Time to calculate perplexity: 0.2395606820937246
+Time to calculate perplexity: 0.2029126409906894
+Time to calculate perplexity: 0.1983744348399341
+Time to calculate perplexity: 0.20173056703060865
+Time to calculate perplexity: 0.2064723139628768
+Time to calculate perplexity: 0.20099874609149992
+Time to calculate perplexity: 0.20111731509678066
+Time to calculate perplexity: 0.20584580209106207
+Time to calculate perplexity: 0.2025243218522519
+Time to calculate average perplexity: 1.861764685017988
+Model: meta-llama/Llama-2-13b-hf generating with keyword_filter_generate filter with 475 potential generations.
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.96s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.93s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.61s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.70s/it]
+Time to load model meta-llama/Llama-2-13b-hf: 5.652773576090112
+170 generations in 1298.7069123720285 seconds.
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.96s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.94s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.61s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.70s/it]Time to load model meta-llama/Llama-2-13b-hf: 5.7499964570160955
+Time to calculate perplexity: 0.2383393628988415
+Time to calculate perplexity: 0.20257589989341795
+Time to calculate perplexity: 0.20229915506206453
+Time to calculate perplexity: 0.200532719027251
+Time to calculate perplexity: 0.20272881095297635
+Time to calculate perplexity: 0.2050553869921714
+Time to calculate perplexity: 0.2004988039843738
+Time to calculate perplexity: 0.20086612296290696
+Time to calculate perplexity: 0.19933163397945464
+Time to calculate perplexity: 0.2051818089094013
+Time to calculate perplexity: 0.20258985506370664
+Time to calculate perplexity: 0.2009936450049281
+Time to calculate perplexity: 0.20153330801986158
+Time to calculate perplexity: 0.20312456181272864
+Time to calculate perplexity: 0.20804020506329834
+Time to calculate perplexity: 0.205187379848212
+Time to calculate perplexity: 0.20417916402220726
+Time to calculate perplexity: 0.20087334793061018
+Time to calculate perplexity: 0.20026418287307024
+Time to calculate perplexity: 0.2060298970900476
+Time to calculate perplexity: 0.20471482817083597
+Time to calculate perplexity: 0.20275298203341663
+Time to calculate perplexity: 0.20330229285173118
+Time to calculate perplexity: 0.20393474795855582
+Time to calculate perplexity: 0.2025757518131286
+Time to calculate perplexity: 0.20468527008779347
+Time to calculate perplexity: 0.20375361014157534
+Time to calculate perplexity: 0.2021618178114295
+Time to calculate perplexity: 0.2018898429814726
+Time to calculate perplexity: 0.2061433841008693
+Time to calculate perplexity: 0.20737527101300657
+Time to calculate perplexity: 0.20186090795323253
+Time to calculate perplexity: 0.20208885380998254
+Time to calculate perplexity: 0.20219859690405428
+Time to calculate perplexity: 0.2051968569867313
+Time to calculate perplexity: 0.20181981287896633
+Time to calculate perplexity: 0.20466849417425692
+Time to calculate perplexity: 0.20537075703032315
+Time to calculate perplexity: 0.2027780069038272
+Time to calculate perplexity: 0.20029905904084444
+Time to calculate perplexity: 0.20283574983477592
+Time to calculate perplexity: 0.201589287025854
+Time to calculate perplexity: 0.20177289890125394
+Time to calculate perplexity: 0.2007438000291586
+Time to calculate perplexity: 0.2022563440259546
+Time to calculate perplexity: 0.20450734603218734
+Time to calculate perplexity: 0.20303825987502933
+Time to calculate perplexity: 0.20121943787671626
+Time to calculate perplexity: 0.20347108296118677
+Time to calculate perplexity: 0.2053035970311612
+Time to calculate perplexity: 0.2048867428675294
+Time to calculate perplexity: 0.20238872291520238
+Time to calculate perplexity: 0.2009733710438013
+Time to calculate perplexity: 0.20009442791342735
+Time to calculate perplexity: 0.20331379701383412
+Time to calculate perplexity: 0.20372691191732883
+Time to calculate perplexity: 0.20271729212254286
+Time to calculate perplexity: 0.20332823507487774
+Time to calculate perplexity: 0.20081733213737607
+Time to calculate perplexity: 0.2027675029821694
+Time to calculate perplexity: 0.20299059804528952
+Time to calculate perplexity: 0.2017673549707979
+Time to calculate perplexity: 0.2055033128708601
+Time to calculate perplexity: 0.20102076209150255
+Time to calculate perplexity: 0.20309938210994005
+Time to calculate perplexity: 0.2032488901168108
+Time to calculate perplexity: 0.20280078798532486
+Time to calculate perplexity: 0.20183963794261217
+Time to calculate perplexity: 0.2015306898392737
+Time to calculate perplexity: 0.20435857097618282
+Time to calculate perplexity: 0.2044353091623634
+Time to calculate perplexity: 0.2007282469421625
+Time to calculate perplexity: 0.20116415992379189
+Time to calculate perplexity: 0.20070295804180205
+Time to calculate perplexity: 0.19955006800591946
+Time to calculate perplexity: 0.19993380806408823
+Time to calculate perplexity: 0.2010362830478698
+Time to calculate perplexity: 0.1989222129341215
+Time to calculate perplexity: 0.2025255172047764
+Time to calculate perplexity: 0.20462011988274753
+Time to calculate perplexity: 0.19994598906487226
+Time to calculate perplexity: 0.20286900596693158
+Time to calculate perplexity: 0.20087929698638618
+Time to calculate perplexity: 0.20333816297352314
+Time to calculate perplexity: 0.2078542299568653
+Time to calculate perplexity: 0.20254978886805475
+Time to calculate perplexity: 0.19956700108014047
+Time to calculate perplexity: 0.19959420710802078
+Time to calculate perplexity: 0.2028007700573653
+Time to calculate perplexity: 0.20374401682056487
+Time to calculate perplexity: 0.20193454599939287
+Time to calculate perplexity: 0.2011053920723498
+Time to calculate perplexity: 0.20233567501418293
+Time to calculate perplexity: 0.20134952501393855
+Time to calculate perplexity: 0.2022088288795203
+Time to calculate perplexity: 0.20319049409590662
+Time to calculate perplexity: 0.20087940082885325
+Time to calculate perplexity: 0.2004923450294882
+Time to calculate perplexity: 0.20270459004677832
+Time to calculate perplexity: 0.2031831939239055
+Time to calculate perplexity: 0.2012661008629948
+Time to calculate perplexity: 0.20190493413247168
+Time to calculate perplexity: 0.20044042402878404
+Time to calculate perplexity: 0.21246210020035505
+Time to calculate perplexity: 0.2044808268547058
+Time to calculate perplexity: 0.20282925199717283
+Time to calculate perplexity: 0.20310482615604997
+Time to calculate perplexity: 0.20172587293200195
+Time to calculate perplexity: 0.20356917986646295
+Time to calculate perplexity: 0.2028050108347088
+Time to calculate perplexity: 0.20396018400788307
+Time to calculate perplexity: 0.20054771495051682
+Time to calculate perplexity: 0.19970449595712125
+Time to calculate perplexity: 0.2027570358477533
+Time to calculate perplexity: 0.2015651250258088
+Time to calculate perplexity: 0.20220232498832047
+Time to calculate perplexity: 0.20181497489102185
+Time to calculate perplexity: 0.2005043919198215
+Time to calculate perplexity: 0.2008348850067705
+Time to calculate perplexity: 0.20291130105033517
+Time to calculate perplexity: 0.20164923393167555
+Time to calculate perplexity: 0.20066001894883811
+Time to calculate perplexity: 0.20168832293711603
+Time to calculate perplexity: 0.20052454201504588
+Time to calculate perplexity: 0.19905427191406488
+Time to calculate perplexity: 0.2028152991551906
+Time to calculate perplexity: 0.2020287469495088
+Time to calculate perplexity: 0.20194234000518918
+Time to calculate perplexity: 0.20045115100219846
+Time to calculate perplexity: 0.20108434790745378
+Time to calculate perplexity: 0.20293341297656298
+Time to calculate perplexity: 0.20180133706890047
+Time to calculate perplexity: 0.20074349781498313
+Time to calculate perplexity: 0.20271759503521025
+Time to calculate perplexity: 0.20364672900177538
+Time to calculate perplexity: 0.20123581611551344
+Time to calculate perplexity: 0.20110323885455728
+Time to calculate perplexity: 0.2040800431277603
+Time to calculate perplexity: 0.20463541895151138
+Time to calculate perplexity: 0.20123386103659868
+Time to calculate perplexity: 0.19944895710796118
+Time to calculate perplexity: 0.2021211851388216
+Time to calculate perplexity: 0.19874590798281133
+Time to calculate perplexity: 0.2029727129265666
+Time to calculate perplexity: 0.202324379933998
+Time to calculate perplexity: 0.20387986092828214
+Time to calculate perplexity: 0.2041482669301331
+Time to calculate perplexity: 0.20077785197645426
+Time to calculate perplexity: 0.20569733902812004
+Time to calculate perplexity: 0.1979987220838666
+Time to calculate perplexity: 0.20270252018235624
+Time to calculate perplexity: 0.2025989459361881
+Time to calculate perplexity: 0.2037619750481099
+Time to calculate perplexity: 0.20251111895777285
+Time to calculate perplexity: 0.20191404386423528
+Time to calculate perplexity: 0.1960603459738195
+Time to calculate perplexity: 0.20028274809010327
+Time to calculate perplexity: 0.20084171113558114
+Time to calculate perplexity: 0.201699088094756
+Time to calculate perplexity: 0.1985312111210078
+Time to calculate perplexity: 0.2045443570241332
+Time to calculate perplexity: 0.20172898401506245
+Time to calculate perplexity: 0.2015807239804417
+
+Time to calculate perplexity: 0.20279241679236293
+Time to calculate perplexity: 0.2027600600849837
+Time to calculate perplexity: 0.20128111797384918
+Time to calculate perplexity: 0.20205690595321357
+Time to calculate perplexity: 0.20071577210910618
+Time to calculate perplexity: 0.2008178299292922
+Time to calculate perplexity: 0.20027162809856236
+Time to calculate average perplexity: 34.47568291891366
+Model: meta-llama/Llama-2-13b-hf generating with keyword_model_generate filter with 475 potential generations.
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.95s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.93s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.61s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.70s/it]
+Time to load model meta-llama/Llama-2-13b-hf: 5.636316973948851
+125 generations in 1058.3799830828793 seconds.
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.96s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.93s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.61s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.70s/it]
+Time to load model meta-llama/Llama-2-13b-hf: 5.760252232896164
+Time to calculate perplexity: 0.23771549900993705
+Time to calculate perplexity: 0.19943048199638724
+Time to calculate perplexity: 0.2018539730925113
+Time to calculate perplexity: 0.20284855901263654
+Time to calculate perplexity: 0.2012744878884405
+Time to calculate perplexity: 0.20156498602591455
+Time to calculate perplexity: 0.20120947808027267
+Time to calculate perplexity: 0.20226097386330366
+Time to calculate perplexity: 0.2003535709809512
+Time to calculate perplexity: 0.20307975402101874
+Time to calculate perplexity: 0.20311801903881133
+Time to calculate perplexity: 0.21203785785473883
+Time to calculate perplexity: 0.20232145697809756
+Time to calculate perplexity: 0.20151531882584095
+Time to calculate perplexity: 0.202166992938146
+Time to calculate perplexity: 0.20295432698912919
+Time to calculate perplexity: 0.2058938811533153
+Time to calculate perplexity: 0.2003341328818351
+Time to calculate perplexity: 0.20026290696114302
+Time to calculate perplexity: 0.1965789468958974
+Time to calculate perplexity: 0.2024152660742402
+Time to calculate perplexity: 0.2032893591094762
+Time to calculate perplexity: 0.20559689193032682
+Time to calculate perplexity: 0.20070229703560472
+Time to calculate perplexity: 0.2029310530051589
+Time to calculate perplexity: 0.20071697980165482
+Time to calculate perplexity: 0.20368692302145064
+Time to calculate perplexity: 0.20369645301252604
+Time to calculate perplexity: 0.20081683015450835
+Time to calculate perplexity: 0.19984161690808833
+Time to calculate perplexity: 0.20454613189212978
+Time to calculate perplexity: 0.20079351612366736
+Time to calculate perplexity: 0.20214395201765
+Time to calculate perplexity: 0.2004642728716135
+Time to calculate perplexity: 0.20755910384468734
+Time to calculate perplexity: 0.2058599388692528
+Time to calculate perplexity: 0.20201826398260891
+Time to calculate perplexity: 0.20236628619022667
+Time to calculate perplexity: 0.20238319993950427
+Time to calculate perplexity: 0.202568001113832
+Time to calculate perplexity: 0.19931154791265726
+Time to calculate perplexity: 0.20410765102133155
+Time to calculate perplexity: 0.20305586489848793
+Time to calculate perplexity: 0.19868483883328736
+Time to calculate perplexity: 0.2053685779683292
+Time to calculate perplexity: 0.20308921206742525
+Time to calculate perplexity: 0.20061841700226068
+Time to calculate perplexity: 0.203096462180838
+Time to calculate perplexity: 0.20059209689497948
+Time to calculate perplexity: 0.20216796407476068
+Time to calculate perplexity: 0.20066817989572883
+Time to calculate perplexity: 0.20218229107558727
+Time to calculate perplexity: 0.20266783493570983
+Time to calculate perplexity: 0.20085799298249185
+Time to calculate perplexity: 0.20151552697643638
+Time to calculate perplexity: 0.2019518311135471
+Time to calculate perplexity: 0.2021949898917228
+Time to calculate perplexity: 0.20096922805532813
+Time to calculate perplexity: 0.20282331597991288
+Time to calculate perplexity: 0.20106192003004253
+Time to calculate perplexity: 0.200921620009467
+Time to calculate perplexity: 0.20309809991158545
+Time to calculate perplexity: 0.20256865792907774
+Time to calculate perplexity: 0.20110965496860445
+Time to calculate perplexity: 0.2041852599941194
+Time to calculate perplexity: 0.20244226302020252
+Time to calculate perplexity: 0.20256438199430704
+Time to calculate perplexity: 0.20040382584556937
+Time to calculate perplexity: 0.20110855484381318
+Time to calculate perplexity: 0.20072540594264865
+Time to calculate perplexity: 0.20342618715949357
+Time to calculate perplexity: 0.20383367803879082
+Time to calculate perplexity: 0.20019273599609733
+Time to calculate perplexity: 0.2023187878075987
+Time to calculate perplexity: 0.20326848980039358
+Time to calculate perplexity: 0.2051136519294232
+Time to calculate perplexity: 0.20388075499795377
+Time to calculate perplexity: 0.20064885006286204
+Time to calculate perplexity: 0.20165231614373624
+Time to calculate perplexity: 0.20212662010453641
+Time to calculate perplexity: 0.2020128460135311
+Time to calculate perplexity: 0.20410465309396386
+Time to calculate perplexity: 0.2014792209956795
+Time to calculate perplexity: 0.1992144847754389
+Time to calculate perplexity: 0.19681884394958615
+Time to calculate perplexity: 0.2033064910210669
+Time to calculate perplexity: 0.20350313396193087
+Time to calculate perplexity: 0.20225504809059203
+Time to calculate perplexity: 0.2000275810714811
+Time to calculate perplexity: 0.2017441769130528
+Time to calculate perplexity: 0.20312999794259667
+Time to calculate perplexity: 0.20356174814514816
+Time to calculate perplexity: 0.20133796986192465
+Time to calculate perplexity: 0.20291158510372043
+Time to calculate perplexity: 0.20306446403265
+Time to calculate perplexity: 0.20117608993314207
+Time to calculate perplexity: 0.20319807389751077
+Time to calculate perplexity: 0.20394650101661682
+Time to calculate perplexity: 0.20357081200927496
+Time to calculate perplexity: 0.20205371198244393
+Time to calculate perplexity: 0.20130566088482738
+Time to calculate perplexity: 0.20314256707206368
+Time to calculate perplexity: 0.20048779784701765
+Time to calculate perplexity: 0.20044732792302966
+Time to calculate perplexity: 0.2017768658697605
+Time to calculate perplexity: 0.20327362115494907
+Time to calculate perplexity: 0.20315720397047698
+Time to calculate perplexity: 0.20128785213455558
+Time to calculate perplexity: 0.20265141385607421
+Time to calculate perplexity: 0.20158914709463716
+Time to calculate perplexity: 0.20161470398306847
+Time to calculate perplexity: 0.2020759698934853
+Time to calculate perplexity: 0.20005262806080282
+Time to calculate perplexity: 0.20083151618018746
+Time to calculate perplexity: 0.19982253899797797
+Time to calculate perplexity: 0.2056623159442097
+Time to calculate perplexity: 0.20329547999426723
+Time to calculate perplexity: 0.20056509599089622
+Time to calculate perplexity: 0.2002179571427405
+Time to calculate perplexity: 0.20217342302203178
+Time to calculate perplexity: 0.20117384498007596
+Time to calculate perplexity: 0.20275520905852318
+Time to calculate perplexity: 0.20033968007192016
+Time to calculate perplexity: 0.20244612102396786
+Time to calculate perplexity: 0.2005538570228964
+Time to calculate average perplexity: 25.333770431112498
+Model: facebook/opt-6.7b generating with keyword_model_expert_check_generate filter with 475 potential generations.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.39s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:08<00:00,  3.63s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:08<00:00,  4.04s/it]
+Some weights of OPTForCausalLM were not initialized from the model checkpoint at facebook/opt-6.7b and are newly initialized: ['lm_head.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Time to load model facebook/opt-6.7b: 18.238471870077774
+Time for model filter: 2.5294064900372177
+Time to generate 1 response: 6.20198009791784
+Time to check answer: 2.488247311906889
+Time to generate 1 response: 6.168204762041569
+Time to check answer: 2.5082709989510477
+Time to generate 1 response: 6.2515620198100805
+Time to check answer: 0.25957116205245256
+Time to generate 1 response: 1.7414948679506779
+Time to check answer: 2.695196536136791
+Time to generate 1 response: 6.202099052956328
+Time to check answer: 2.4845137200318277
+Time for model filter: 2.5100686671212316
+Time to generate 1 response: 6.217359981033951
+Time to check answer: 2.506420771824196
+Time to generate 1 response: 6.2059501118492335
+Time to check answer: 2.4961594049818814
+Time to generate 1 response: 2.501002205070108
+Time to check answer: 2.498159454204142
+Time to generate 1 response: 6.250443482073024
+Time to check answer: 2.5000057520810515
+Time to generate 1 response: 2.6092826791573316
+Time to check answer: 2.4893838360439986
+Time for model filter: 2.5086357078980654
+Time to generate 1 response: 1.4984198110178113
+Time to check answer: 2.4896269221790135
+Time to generate 1 response: 1.7385482031386346
+Time to check answer: 2.4959764811210334
+Time to generate 1 response: 2.4946259460411966
+Time to check answer: 2.4865651701111346
+Time to generate 1 response: 1.7421279379632324
+Time to check answer: 2.4848032400477678
+Time to generate 1 response: 6.189446493983269
+Time to check answer: 2.4923582789488137
+Time for model filter: 2.5030556269921362
+Time to generate 1 response: 6.193481042981148
+Time to check answer: 0.2579491001088172
+Time to generate 1 response: 2.3666803871747106
+Time to check answer: 2.4901683980133384
+Time to generate 1 response: 2.4945753859356046
+Time to check answer: 2.4895469318144023
+Time to generate 1 response: 2.863787447102368
+Time to check answer: 2.4897006030660123
+Time to generate 1 response: 2.8530402078758925
+Time to check answer: 2.4916671020910144
+Time for model filter: 2.5203947238624096
+Time to generate 1 response: 6.218482438940555
+Time to check answer: 0.25892275501973927
+Time to generate 1 response: 2.4768734441604465
+Time to check answer: 2.5054944711737335
+Time to generate 1 response: 4.242501341039315
+Time to check answer: 2.496791501995176
+Time to generate 1 response: 2.4840278190094978
+Time to check answer: 2.5050527539569885
+Time to generate 1 response: 2.608865621034056
+Time to check answer: 2.501928412122652
+Time for model filter: 2.503550706198439
+Time to generate 1 response: 1.5053043430671096
+Time to check answer: 2.4969650199636817
+Time to generate 1 response: 0.7527892158832401
+Time to check answer: 2.4896546590607613
+Time to generate 1 response: 1.8726549178827554
+Time to check answer: 2.494970585918054
+Time to generate 1 response: 0.75438197911717
+Time to check answer: 2.4892750289291143
+Time to generate 1 response: 6.201617407845333
+Time to check answer: 2.491457761032507
+Time for model filter: 2.5011083979625255
+Time to generate 1 response: 3.141703156987205
+Time to check answer: 2.6182452279608697
+Time to generate 1 response: 0.7994630839675665
+Time to check answer: 2.496804009890184
+Time to generate 1 response: 1.874711788026616
+Time to check answer: 2.483381725149229
+Time to generate 1 response: 1.6275825360789895
+Time to check answer: 2.4878232730552554
+Time to generate 1 response: 1.6230338548775762
+Time to check answer: 2.487450895830989
+Time for model filter: 0.7588257899042219
+Time for model filter: 2.5013700190465897
+Time to generate 1 response: 1.7434452599845827
+Time to check answer: 2.491856250911951
+Time to generate 1 response: 1.7409112029708922
+Time to check answer: 2.497321386123076
+Time to generate 1 response: 6.245595522923395
+Time to check answer: 2.4940155299846083
+Time to generate 1 response: 1.7460851580835879
+Time to check answer: 2.5046197588089854
+Time to generate 1 response: 1.739074665820226
+Time to check answer: 2.4942861241288483
+Time for model filter: 2.4961498940829188
+Time to generate 1 response: 3.1343693241942674
+Time to check answer: 2.4925933741033077
+Time to generate 1 response: 6.233221716014668
+Time to check answer: 2.5174359700176865
+Time to generate 1 response: 1.8768589769024402
+Time to check answer: 2.4891046569682658
+Time to generate 1 response: 6.201284597162157
+Time to check answer: 2.5096087618730962
+Time to generate 1 response: 6.203052933095023
+Time to check answer: 2.5040899680461735
+Time for model filter: 2.5082836309447885
+Time to generate 1 response: 6.24161978601478
+Time to check answer: 1.992550355149433
+Time to generate 1 response: 6.211382703855634
+Time to check answer: 2.5002646148204803
+Time to generate 1 response: 6.211150998948142
+Time to check answer: 2.5018534250557423
+Time to generate 1 response: 6.225180085981265
+Time to check answer: 2.493998762918636
+Time to generate 1 response: 6.2262311519589275
+Time to check answer: 1.98880171100609
+Time for model filter: 2.5011382279917598
+Time to generate 1 response: 6.217517354991287
+Time to check answer: 2.489526310004294
+Time to generate 1 response: 6.184342002030462
+Time to check answer: 2.4983021339867264
+Time to generate 1 response: 6.247629235032946
+Time to check answer: 2.4896539121400565
+Time to generate 1 response: 6.185513725038618
+Time to check answer: 2.4909784111659974
+Time to generate 1 response: 6.2065830528736115
+Time to check answer: 2.530945274978876
+Time for model filter: 2.502530724974349
+Time to generate 1 response: 6.209428441012278
+Time to check answer: 0.25919666700065136
+Time to generate 1 response: 6.178598630009219
+Time to check answer: 2.485098066041246
+Time to generate 1 response: 6.214644453022629
+Time to check answer: 0.2572600990533829
+Time to generate 1 response: 6.180382362101227
+Time to check answer: 2.487172381952405
+Time to generate 1 response: 6.159820505883545
+Time to check answer: 2.499016026034951
+Time for model filter: 0.7514330188278109
+Time for model filter: 0.7544779640156776
+Time for model filter: 2.1197769411373883
+Time for model filter: 2.489811123814434
+Time for model filter: 0.7509040329605341
+Time for model filter: 2.4961088050622493
+Time to generate 1 response: 6.233271111967042
+Time to check answer: 2.4974982431158423
+Time to generate 1 response: 0.7561900329310447
+Time to check answer: 2.507147388998419
+Time to generate 1 response: 6.252691172994673
+Time to check answer: 2.495590706821531
+Time to generate 1 response: 6.180187321966514
+Time to check answer: 2.4959002127870917
+Time to generate 1 response: 6.196088173892349
+Time to check answer: 2.4888752961996943
+Time for model filter: 0.7518890029750764
+Time to generate 1 response: 4.371205783216283
+Time to check answer: 2.4899283500853926
+Time to generate 1 response: 6.166840767022222
+Time to check answer: 2.479859021026641
+Time to generate 1 response: 2.3712442507967353
+Time to check answer: 2.4855080829001963
+Time to generate 1 response: 6.155707094119862
+Time to check answer: 2.4921425860375166
+Time to generate 1 response: 1.7405945369973779
+Time to check answer: 2.512997335055843
+Time for model filter: 2.499795975862071
+Time to generate 1 response: 3.1399946010205895
+Time to check answer: 2.4746483659837395
+Time to generate 1 response: 1.7383884259033948
+Time to check answer: 2.475010188994929
+Time to generate 1 response: 6.244778322055936
+Time to check answer: 2.497876353794709
+Time to generate 1 response: 1.8644768518861383
+Time to check answer: 2.480366164119914
+Time to generate 1 response: 1.9916671579703689
+Time to check answer: 2.4838322368450463
+Time for model filter: 2.50753799919039
+Time to generate 1 response: 3.242066292092204
+Time to check answer: 2.5000299520324916
+Time to generate 1 response: 6.176428651204333
+Time to check answer: 2.4852461831178516
+Time to generate 1 response: 1.8750439800787717
+Time to check answer: 2.4996526720933616
+Time to generate 1 response: 0.7552051090169698
+Time to check answer: 2.4881397921126336
+Time to generate 1 response: 6.183286007959396
+Time to check answer: 2.4903282281011343
+Time for model filter: 2.4946939907968044
+Time to generate 1 response: 1.4974850160069764
+Time to check answer: 2.480455694021657
+Time to generate 1 response: 0.7535947728902102
+Time to check answer: 2.4810366011224687
+Time to generate 1 response: 6.224525965983048
+Time to check answer: 0.25770162721164525
+Time to generate 1 response: 0.756295352941379
+Time to check answer: 2.4797061590943485
+Time to generate 1 response: 2.112787726102397
+Time to check answer: 2.4826888039242476
+Time for model filter: 2.5025992640294135
+Time to generate 1 response: 6.228759889956564
+Time to check answer: 2.498792276950553
+Time to generate 1 response: 1.8860361359547824
+Time to check answer: 2.4986422259826213
+Time to generate 1 response: 6.213030931074172
+Time to check answer: 2.493205479811877
+Time to generate 1 response: 1.865568027133122
+Time to check answer: 2.497388947987929
+Time to generate 1 response: 1.8653374309651554
+Time to check answer: 2.5084606329910457
+Time for model filter: 2.4994816740509123
+Time to generate 1 response: 0.7525839128065854
+Time to check answer: 2.494807807961479
+Time to generate 1 response: 0.7709153490141034
+Time to check answer: 2.493890711804852
+Time to generate 1 response: 1.8772830830421299
+Time to check answer: 2.4929486070759594
+Time to generate 1 response: 0.7555526529904455
+Time to check answer: 2.4994846631307155
+Time to generate 1 response: 0.754372465191409
+Time to check answer: 2.499045447912067
+Time for model filter: 2.4831328440923244
+Time for model filter: 2.510054941987619
+Time to generate 1 response: 4.3687171910423785
+Time to check answer: 2.51344435592182
+Time to generate 1 response: 1.738795893965289
+Time to check answer: 2.4941823210101575
+Time to generate 1 response: 1.873393028974533
+Time to check answer: 2.4875182050745934
+Time to generate 1 response: 1.7393881038296968
+Time to check answer: 2.492754159029573
+Time to generate 1 response: 6.213867231970653
+Time to check answer: 2.4914223519153893
+Time for model filter: 0.7491471250541508
+Time for model filter: 2.523096286924556
+Time to generate 1 response: 4.119503303896636
+Time to check answer: 2.5038886049296707
+Time to generate 1 response: 1.7399997748434544
+Time to check answer: 2.4966570760589093
+Time to generate 1 response: 6.170685863122344
+Time to check answer: 2.4850301689002663
+Time to generate 1 response: 6.193085517035797
+Time to check answer: 2.4840358118526638
+Time to generate 1 response: 1.7360349399968982
+Time to check answer: 2.495906441938132
+Time for model filter: 2.504856548970565
+Time to generate 1 response: 6.191017189994454
+Time to check answer: 2.4906529609579593
+Time to generate 1 response: 6.180746427970007
+Time to check answer: 2.4883885639719665
+Time to generate 1 response: 1.8721244959160686
+Time to check answer: 2.5002689419779927
+Time to generate 1 response: 6.179867123020813
+Time to check answer: 2.5033082680311054
+Time to generate 1 response: 6.196290123974904
+Time to check answer: 2.4880414579529315
+Time for model filter: 2.5054200049489737
+Time to generate 1 response: 6.232631011866033
+Time to check answer: 2.4990552980452776
+Time to generate 1 response: 6.17935291887261
+Time to check answer: 2.4917409690096974
+Time to generate 1 response: 6.214850947028026
+Time to check answer: 2.4976145420223475
+Time to generate 1 response: 6.187493814853951
+Time to check answer: 2.495380796957761
+Time to generate 1 response: 6.193534591933712
+Time to check answer: 2.4892875228542835
+Time for model filter: 2.501362224109471
+Time to generate 1 response: 6.285173604963347
+Time to check answer: 2.4937277699355036
+Time to generate 1 response: 6.174272806150839
+Time to check answer: 2.5122789558954537
+Time to generate 1 response: 6.2226315177977085
+Time to check answer: 2.493816402973607
+Time to generate 1 response: 6.179595788009465
+Time to check answer: 2.5061898319981992
+Time to generate 1 response: 1.8713883250020444
+Time to check answer: 2.458216678118333
+Time for model filter: 2.501721984008327
+Time to generate 1 response: 6.246178098022938
+Time to check answer: 2.5023807890247554
+Time to generate 1 response: 6.189559858990833
+Time to check answer: 2.5238308650441468
+Time to generate 1 response: 6.256089612841606
+Time to check answer: 2.5046620077919215
+Time to generate 1 response: 0.7580935289151967
+Time to check answer: 2.4789738550316542
+Time to generate 1 response: 6.178073408082128
+Time to check answer: 2.493471996858716
+Time for model filter: 2.4669052970129997
+38 generations in 898.910687378142 seconds.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:07<00:07,  7.04s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:08<00:00,  3.66s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:08<00:00,  4.16s/it]
+Some weights of OPTForCausalLM were not initialized from the model checkpoint at facebook/opt-6.7b and are newly initialized: ['lm_head.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Time to load model facebook/opt-6.7b: 18.44130585505627
+Time to calculate perplexity: 0.17999480990692973
+Time to calculate perplexity: 0.13009590306319296
+Time to calculate perplexity: 0.12993741710670292
+Time to calculate perplexity: 0.1305103008635342
+Time to calculate perplexity: 0.1298752638977021
+Time to calculate perplexity: 0.13145896885544062
+Time to calculate perplexity: 0.13363605202175677
+Time to calculate perplexity: 0.13114558393135667
+Time to calculate perplexity: 0.12977376207709312
+Time to calculate perplexity: 0.1306494369637221
+Time to calculate perplexity: 0.1302773361094296
+Time to calculate perplexity: 0.13050184189341962
+Time to calculate perplexity: 0.1297660160344094
+Time to calculate perplexity: 0.13032416510395706
+Time to calculate perplexity: 0.1303878149483353
+Time to calculate perplexity: 0.13003776501864195
+Time to calculate perplexity: 0.1303333998657763
+Time to calculate perplexity: 0.13079489790834486
+Time to calculate perplexity: 0.1302832120563835
+Time to calculate perplexity: 0.13120373501442373
+Time to calculate perplexity: 0.13156431005336344
+Time to calculate perplexity: 0.1307650648523122
+Time to calculate perplexity: 0.12923148297704756
+Time to calculate perplexity: 0.1309288728516549
+Time to calculate perplexity: 0.1302203789819032
+Time to calculate perplexity: 0.1305719898082316
+Time to calculate perplexity: 0.13071288214996457
+Time to calculate perplexity: 0.13099796790629625
+Time to calculate perplexity: 0.1304397569037974
+Time to calculate perplexity: 0.13188840099610388
+Time to calculate perplexity: 0.13156006392091513
+Time to calculate perplexity: 0.13123662606813014
+Time to calculate perplexity: 0.13065063604153693
+Time to calculate perplexity: 0.13097809487953782
+Time to calculate perplexity: 0.13103001890704036
+Time to calculate perplexity: 0.13108790991827846
+Time to calculate perplexity: 0.13194769783876836
+Time to calculate perplexity: 0.13094247714616358
+Time to calculate average perplexity: 5.029542824020609
+Model: facebook/opt-6.7b generating with keyword_filter_generate filter with 475 potential generations.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:04<00:04,  4.72s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.64s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.95s/it]
+Some weights of OPTForCausalLM were not initialized from the model checkpoint at facebook/opt-6.7b and are newly initialized: ['lm_head.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Time to load model facebook/opt-6.7b: 15.985958465142176
+170 generations in 662.105690053897 seconds.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:04<00:04,  4.41s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.44s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.74s/it]
+Some weights of OPTForCausalLM were not initialized from the model checkpoint at facebook/opt-6.7b and are newly initialized: ['lm_head.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Time to load model facebook/opt-6.7b: 15.719750445103273
+Time to calculate perplexity: 0.1503812000155449
+Time to calculate perplexity: 0.13236311916261911
+Time to calculate perplexity: 0.12364208698272705
+Time to calculate perplexity: 0.13122734194621444
+Time to calculate perplexity: 0.12252535484731197
+Time to calculate perplexity: 0.16439836495555937
+Time to calculate perplexity: 0.13396515999920666
+Time to calculate perplexity: 0.13113723695278168
+Time to calculate perplexity: 0.13034617295488715
+Time to calculate perplexity: 0.13041018089279532
+Time to calculate perplexity: 0.1305815528612584
+Time to calculate perplexity: 0.13194496696814895
+Time to calculate perplexity: 0.12977893208153546
+Time to calculate perplexity: 0.13141150097362697
+Time to calculate perplexity: 0.13271620008163154
+Time to calculate perplexity: 0.12435635388828814
+Time to calculate perplexity: 0.13264676602557302
+Time to calculate perplexity: 0.13369268598034978
+Time to calculate perplexity: 0.1314368259627372
+Time to calculate perplexity: 0.13036826509051025
+Time to calculate perplexity: 0.13404993596486747
+Time to calculate perplexity: 0.133655765093863
+Time to calculate perplexity: 0.12687892094254494
+Time to calculate perplexity: 0.1303923400118947
+Time to calculate perplexity: 0.1314216279424727
+Time to calculate perplexity: 0.12418574304319918
+Time to calculate perplexity: 0.12987200007773936
+Time to calculate perplexity: 0.12419294915162027
+Time to calculate perplexity: 0.1323765169363469
+Time to calculate perplexity: 0.13331725704483688
+Time to calculate perplexity: 0.12753108702600002
+Time to calculate perplexity: 0.1312524490058422
+Time to calculate perplexity: 0.13037340203300118
+Time to calculate perplexity: 0.13209164887666702
+Time to calculate perplexity: 0.1266870778053999
+Time to calculate perplexity: 0.13441264885477722
+Time to calculate perplexity: 0.1317422050051391
+Time to calculate perplexity: 0.12578865396790206
+Time to calculate perplexity: 0.13195099285803735
+Time to calculate perplexity: 0.12787517998367548
+Time to calculate perplexity: 0.12427359586581588
+Time to calculate perplexity: 0.1310604189056903
+Time to calculate perplexity: 0.12934701680205762
+Time to calculate perplexity: 0.13334565213881433
+Time to calculate perplexity: 0.1288132870104164
+Time to calculate perplexity: 0.1348181979265064
+Time to calculate perplexity: 0.13141604303382337
+Time to calculate perplexity: 0.12596088997088373
+Time to calculate perplexity: 0.13167210994288325
+Time to calculate perplexity: 0.1276233170647174
+Time to calculate perplexity: 0.13390679890289903
+Time to calculate perplexity: 0.1324830858502537
+Time to calculate perplexity: 0.13380597694776952
+Time to calculate perplexity: 0.13205124391242862
+Time to calculate perplexity: 0.13117347890511155
+Time to calculate perplexity: 0.13067282014526427
+Time to calculate perplexity: 0.12563737598247826
+Time to calculate perplexity: 0.13319256203249097
+Time to calculate perplexity: 0.1300324380863458
+Time to calculate perplexity: 0.13203767291270196
+Time to calculate perplexity: 0.1327037049923092
+Time to calculate perplexity: 0.1314712818711996
+Time to calculate perplexity: 0.12983513716608286
+Time to calculate perplexity: 0.12266868609003723
+Time to calculate perplexity: 0.1308288078289479
+Time to calculate perplexity: 0.12420959211885929
+Time to calculate perplexity: 0.1314349821768701
+Time to calculate perplexity: 0.13056777487508953
+Time to calculate perplexity: 0.13313203305006027
+Time to calculate perplexity: 0.13154032896272838
+Time to calculate perplexity: 0.12432269495911896
+Time to calculate perplexity: 0.13223334797658026
+Time to calculate perplexity: 0.12995068496093154
+Time to calculate perplexity: 0.13156687980517745
+Time to calculate perplexity: 0.13293409114703536
+Time to calculate perplexity: 0.1321499610785395
+Time to calculate perplexity: 0.13114568288438022
+Time to calculate perplexity: 0.1302871680818498
+Time to calculate perplexity: 0.12994363997131586
+Time to calculate perplexity: 0.13011039304547012
+Time to calculate perplexity: 0.12703001801855862
+Time to calculate perplexity: 0.12314477516338229
+Time to calculate perplexity: 0.13291232706978917
+Time to calculate perplexity: 0.12447658716700971
+Time to calculate perplexity: 0.13177382689900696
+Time to calculate perplexity: 0.12378697609528899
+Time to calculate perplexity: 0.1250691912136972
+Time to calculate perplexity: 0.1335999348666519
+Time to calculate perplexity: 0.13177481410093606
+Time to calculate perplexity: 0.13320547086186707
+Time to calculate perplexity: 0.12374174012802541
+Time to calculate perplexity: 0.13282607099972665
+Time to calculate perplexity: 0.1247473859693855
+Time to calculate perplexity: 0.13655666285194457
+Time to calculate perplexity: 0.1310764248482883
+Time to calculate perplexity: 0.1331089590676129
+Time to calculate perplexity: 0.1318935148883611
+Time to calculate perplexity: 0.1262985470239073
+Time to calculate perplexity: 0.13274569995701313
+Time to calculate perplexity: 0.1339479589369148
+Time to calculate perplexity: 0.12443487392738461
+Time to calculate perplexity: 0.13018775498494506
+Time to calculate perplexity: 0.1315447899978608
+Time to calculate perplexity: 0.1228827959857881
+Time to calculate perplexity: 0.13196074799634516
+Time to calculate perplexity: 0.12481784098781645
+Time to calculate perplexity: 0.1326489900238812
+Time to calculate perplexity: 0.13209696696139872
+Time to calculate perplexity: 0.12231018301099539
+Time to calculate perplexity: 0.13253700081259012
+Time to calculate perplexity: 0.13337102998048067
+Time to calculate perplexity: 0.13188767386600375
+Time to calculate perplexity: 0.13378014718182385
+Time to calculate perplexity: 0.13200984592549503
+Time to calculate perplexity: 0.1253254171460867
+Time to calculate perplexity: 0.1338720489293337
+Time to calculate perplexity: 0.1318885199725628
+Time to calculate perplexity: 0.12895658006891608
+Time to calculate perplexity: 0.13146802689880133
+Time to calculate perplexity: 0.12206918303854764
+Time to calculate perplexity: 0.1312652979977429
+Time to calculate perplexity: 0.13093260792084038
+Time to calculate perplexity: 0.13110151002183557
+Time to calculate perplexity: 0.1314487960189581
+Time to calculate perplexity: 0.12694312306120992
+Time to calculate perplexity: 0.13098863209597766
+Time to calculate perplexity: 0.1312467420939356
+Time to calculate perplexity: 0.13175020110793412
+Time to calculate perplexity: 0.12363904085941613
+Time to calculate perplexity: 0.1310994999948889
+Time to calculate perplexity: 0.1250463379547
+Time to calculate perplexity: 0.13066185591742396
+Time to calculate perplexity: 0.13280596095137298
+Time to calculate perplexity: 0.12384914001449943
+Time to calculate perplexity: 0.1307904371060431
+Time to calculate perplexity: 0.13399012805894017
+Time to calculate perplexity: 0.13263109209947288
+Time to calculate perplexity: 0.13105079298838973
+Time to calculate perplexity: 0.12334044207818806
+Time to calculate perplexity: 0.13222955213859677
+Time to calculate perplexity: 0.12462115311063826
+Time to calculate perplexity: 0.1226321579888463
+Time to calculate perplexity: 0.13339441712014377
+Time to calculate perplexity: 0.12308281706646085
+Time to calculate perplexity: 0.1319092430640012
+Time to calculate perplexity: 0.1308778829406947
+Time to calculate perplexity: 0.1312366658821702
+Time to calculate perplexity: 0.12428827816620469
+Time to calculate perplexity: 0.12969320500269532
+Time to calculate perplexity: 0.13061139616183937
+Time to calculate perplexity: 0.12230131914839149
+Time to calculate perplexity: 0.13175274594686925
+Time to calculate perplexity: 0.1247727070003748
+Time to calculate perplexity: 0.13202912104316056
+Time to calculate perplexity: 0.1304751019924879
+Time to calculate perplexity: 0.1314175110310316
+Time to calculate perplexity: 0.12274521985091269
+Time to calculate perplexity: 0.13122976780869067
+Time to calculate perplexity: 0.13051786879077554
+Time to calculate perplexity: 0.1311468027997762
+Time to calculate perplexity: 0.12359413807280362
+Time to calculate perplexity: 0.13339952798560262
+Time to calculate perplexity: 0.13348839711397886
+Time to calculate perplexity: 0.13125997898168862
+Time to calculate perplexity: 0.12705288897268474
+Time to calculate perplexity: 0.131914340890944
+Time to calculate perplexity: 0.1336377018596977
+Time to calculate perplexity: 0.134807599009946
+Time to calculate perplexity: 0.133203798905015
+Time to calculate perplexity: 0.13202842883765697
+Time to calculate average perplexity: 22.187514073913917
+Model: facebook/opt-6.7b generating with keyword_model_generate filter with 475 potential generations.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:04<00:04,  4.48s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.45s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.76s/it]
+Some weights of OPTForCausalLM were not initialized from the model checkpoint at facebook/opt-6.7b and are newly initialized: ['lm_head.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Time to load model facebook/opt-6.7b: 15.749889019876719
+125 generations in 562.7330128559843 seconds.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:04<00:04,  4.61s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.48s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.80s/it]
+Some weights of OPTForCausalLM were not initialized from the model checkpoint at facebook/opt-6.7b and are newly initialized: ['lm_head.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Time to load model facebook/opt-6.7b: 15.700100000016391
+Time to calculate perplexity: 0.15126333199441433
+Time to calculate perplexity: 0.131034528138116
+Time to calculate perplexity: 0.12568025896325707
+Time to calculate perplexity: 0.13157699210569263
+Time to calculate perplexity: 0.12291336408816278
+Time to calculate perplexity: 0.1334438028279692
+Time to calculate perplexity: 0.13144818390719593
+Time to calculate perplexity: 0.12973044393584132
+Time to calculate perplexity: 0.13069617003202438
+Time to calculate perplexity: 0.13103651301935315
+Time to calculate perplexity: 0.13378651812672615
+Time to calculate perplexity: 0.13063454278744757
+Time to calculate perplexity: 0.1295571110676974
+Time to calculate perplexity: 0.1318928578402847
+Time to calculate perplexity: 0.1328868588898331
+Time to calculate perplexity: 0.13394685904495418
+Time to calculate perplexity: 0.13242400693707168
+Time to calculate perplexity: 0.12557924282737076
+Time to calculate perplexity: 0.12735928082838655
+Time to calculate perplexity: 0.13084323494695127
+Time to calculate perplexity: 0.13195176585577428
+Time to calculate perplexity: 0.1309694591909647
+Time to calculate perplexity: 0.12444750219583511
+Time to calculate perplexity: 0.13033502106554806
+Time to calculate perplexity: 0.13122596498578787
+Time to calculate perplexity: 0.12595388712361455
+Time to calculate perplexity: 0.12965525989420712
+Time to calculate perplexity: 0.12424621498212218
+Time to calculate perplexity: 0.13154715881682932
+Time to calculate perplexity: 0.13148864591494203
+Time to calculate perplexity: 0.12333618896082044
+Time to calculate perplexity: 0.13263330003246665
+Time to calculate perplexity: 0.1321314370725304
+Time to calculate perplexity: 0.1333458919543773
+Time to calculate perplexity: 0.12871485692448914
+Time to calculate perplexity: 0.12433051387779415
+Time to calculate perplexity: 0.13066350994631648
+Time to calculate perplexity: 0.12980882613919675
+Time to calculate perplexity: 0.13182195695117116
+Time to calculate perplexity: 0.13230359996668994
+Time to calculate perplexity: 0.13521283608861268
+Time to calculate perplexity: 0.1327719590626657
+Time to calculate perplexity: 0.133556819986552
+Time to calculate perplexity: 0.13128574192523956
+Time to calculate perplexity: 0.126780244987458
+Time to calculate perplexity: 0.13326644990593195
+Time to calculate perplexity: 0.1310413300525397
+Time to calculate perplexity: 0.12560212099924684
+Time to calculate perplexity: 0.1314833490177989
+Time to calculate perplexity: 0.13066127197816968
+Time to calculate perplexity: 0.12970844912342727
+Time to calculate perplexity: 0.13458632910624146
+Time to calculate perplexity: 0.12417890597134829
+Time to calculate perplexity: 0.13071060297079384
+Time to calculate perplexity: 0.13195764878764749
+Time to calculate perplexity: 0.13107530889101326
+Time to calculate perplexity: 0.13157954113557935
+Time to calculate perplexity: 0.1301455160137266
+Time to calculate perplexity: 0.13265628297813237
+Time to calculate perplexity: 0.13090322213247418
+Time to calculate perplexity: 0.12397333583794534
+Time to calculate perplexity: 0.13128342805430293
+Time to calculate perplexity: 0.12725560599938035
+Time to calculate perplexity: 0.1235022849868983
+Time to calculate perplexity: 0.1324392929673195
+Time to calculate perplexity: 0.12471578200347722
+Time to calculate perplexity: 0.13039832189679146
+Time to calculate perplexity: 0.12511758995242417
+Time to calculate perplexity: 0.1312475181184709
+Time to calculate perplexity: 0.13258477300405502
+Time to calculate perplexity: 0.12427604710683227
+Time to calculate perplexity: 0.13208785792812705
+Time to calculate perplexity: 0.13118526991456747
+Time to calculate perplexity: 0.12292208313010633
+Time to calculate perplexity: 0.13206442701630294
+Time to calculate perplexity: 0.1332400820683688
+Time to calculate perplexity: 0.13015769398771226
+Time to calculate perplexity: 0.1316662929020822
+Time to calculate perplexity: 0.12319699698127806
+Time to calculate perplexity: 0.1339990058913827
+Time to calculate perplexity: 0.13397712400183082
+Time to calculate perplexity: 0.13194244797341526
+Time to calculate perplexity: 0.12477985699661076
+Time to calculate perplexity: 0.13154113083146513
+Time to calculate perplexity: 0.1241330960765481
+Time to calculate perplexity: 0.12330392911098897
+Time to calculate perplexity: 0.13250538101419806
+Time to calculate perplexity: 0.13078210805542767
+Time to calculate perplexity: 0.1316520890686661
+Time to calculate perplexity: 0.12485770788043737
+Time to calculate perplexity: 0.13064547907561064
+Time to calculate perplexity: 0.1306629739701748
+Time to calculate perplexity: 0.12986881798133254
+Time to calculate perplexity: 0.13252318394370377
+Time to calculate perplexity: 0.1283393600024283
+Time to calculate perplexity: 0.12409445596858859
+Time to calculate perplexity: 0.1304165821056813
+Time to calculate perplexity: 0.13355472101829946
+Time to calculate perplexity: 0.12340900395065546
+Time to calculate perplexity: 0.1317156171426177
+Time to calculate perplexity: 0.12483583390712738
+Time to calculate perplexity: 0.12301221303641796
+Time to calculate perplexity: 0.13471818482503295
+Time to calculate perplexity: 0.12264755507931113
+Time to calculate perplexity: 0.13223910587839782
+Time to calculate perplexity: 0.13015333306975663
+Time to calculate perplexity: 0.13047606498003006
+Time to calculate perplexity: 0.12467049295082688
+Time to calculate perplexity: 0.13108515087515116
+Time to calculate perplexity: 0.1312867000233382
+Time to calculate perplexity: 0.1333115471061319
+Time to calculate perplexity: 0.1328469249419868
+Time to calculate perplexity: 0.12428088206797838
+Time to calculate perplexity: 0.13099193503148854
+Time to calculate perplexity: 0.13076373492367566
+Time to calculate perplexity: 0.13219993491657078
+Time to calculate perplexity: 0.12613252899609506
+Time to calculate perplexity: 0.13126406399533153
+Time to calculate perplexity: 0.1321512481663376
+Time to calculate perplexity: 0.1319548732135445
+Time to calculate perplexity: 0.1228334039915353
+Time to calculate perplexity: 0.1315710050985217
+Time to calculate perplexity: 0.12410269514657557
+Time to calculate perplexity: 0.13127423590049148
+Time to calculate perplexity: 0.12728960602544248
+Time to calculate average perplexity: 16.26189085212536
+Model: meta-llama/Llama-2-7b-hf generating with keyword_model_expert_check_generate filter with 475 potential generations.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:04<00:04,  4.27s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.71s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.95s/it]Time to load model meta-llama/Llama-2-7b-hf: 6.364476450020447
+Time for model filter: 2.526572513859719
+Time to generate 1 response: 5.919660756830126
+Time to check answer: 2.5500068590044975
+Time to generate 1 response: 5.942003172123805
+Time to check answer: 2.55517366505228
+Time to generate 1 response: 5.85158490203321
+Time to check answer: 2.373344813939184
+Time to generate 1 response: 5.866171228000894
+Time to check answer: 2.5471809110604227
+Time to generate 1 response: 5.991356438025832
+Time to check answer: 2.5516642830334604
+Time for model filter: 2.5117494130972773
+Time to generate 1 response: 5.933802318060771
+Time to check answer: 2.4450625150930136
+Time to generate 1 response: 5.98101409105584
+Time to check answer: 2.542720919009298
+Time to generate 1 response: 5.980387838091701
+Time to check answer: 2.5293425309937447
+Time to generate 1 response: 5.918147579068318
+Time to check answer: 2.526281147962436
+Time to generate 1 response: 5.824599768035114
+Time to check answer: 2.537428827956319
+Time for model filter: 2.5217478128615767
+Time to generate 1 response: 6.005251126829535
+Time to check answer: 2.5167514248751104
+Time to generate 1 response: 5.945102917961776
+Time to check answer: 2.511997702997178
+Time to generate 1 response: 5.955896411091089
+Time to check answer: 2.5551734580658376
+Time to generate 1 response: 5.931603773031384
+Time to check answer: 2.524500641040504
+Time to generate 1 response: 5.932729134103283
+Time to check answer: 2.5272822480183095
+Time for model filter: 2.5524871221277863
+Time to generate 1 response: 5.947412034031004
+Time to check answer: 2.5124503797851503
+Time to generate 1 response: 5.9702733408194035
+Time to check answer: 2.5379799681250006
+Time to generate 1 response: 5.944994802121073
+Time to check answer: 2.503482728963718
+Time to generate 1 response: 5.8905265079811215
+Time to check answer: 2.5487700088415295
+Time to generate 1 response: 5.89668119000271
+Time to check answer: 2.5370408659800887
+Time for model filter: 2.496071843896061
+Time to generate 1 response: 5.991575899999589
+Time to check answer: 2.5632032500579953
+Time to generate 1 response: 6.010875997832045
+Time to check answer: 2.4893067500088364
+Time to generate 1 response: 5.915592759847641
+Time to check answer: 2.561292808968574
+Time to generate 1 response: 5.9666039468720555
+Time to check answer: 2.581341413082555
+Time to generate 1 response: 5.97232190403156
+Time to check answer: 2.553953249938786
+Time for model filter: 2.5164996800012887
+Time to generate 1 response: 5.946508631110191
+Time to check answer: 2.5157967030536383
+Time to generate 1 response: 5.938097761943936
+Time to check answer: 2.5155930060427636
+Time to generate 1 response: 5.869301866041496
+Time to check answer: 2.557361947139725
+Time to generate 1 response: 5.907165423035622
+Time to check answer: 2.517412265064195
+Time to generate 1 response: 6.023613600060344
+Time to check answer: 2.4615574539639056
+Time for model filter: 2.4821963680442423
+Time to generate 1 response: 5.931078237947077
+Time to check answer: 2.536125330021605
+Time to generate 1 response: 5.927206818014383
+Time to check answer: 2.5279624019749463
+Time to generate 1 response: 5.889828433981165
+Time to check answer: 2.4723643551114947
+Time to generate 1 response: 5.888709465041757
+Time to check answer: 2.4639051449485123
+Time to generate 1 response: 5.852698612958193
+Time to check answer: 2.517309890827164
+Time for model filter: 2.505158199928701
+Time to generate 1 response: 5.942982941167429
+Time to check answer: 2.507924649864435
+Time to generate 1 response: 5.96307954704389
+Time to check answer: 2.4904031730256975
+Time to generate 1 response: 5.987969701876864
+Time to check answer: 2.5431499460246414
+Time to generate 1 response: 5.945369387976825
+Time to check answer: 2.4831196849700063
+Time to generate 1 response: 5.966813770821318
+Time to check answer: 2.5095462719909847
+Time for model filter: 2.491262848023325
+Time to generate 1 response: 5.978485265979543
+Time to check answer: 2.516511351102963
+Time to generate 1 response: 6.030734059866518
+Time to check answer: 2.532661212142557
+Time to generate 1 response: 5.961978893028572
+Time to check answer: 2.5210767979733646
+Time to generate 1 response: 5.919203718891367
+Time to check answer: 2.5581827859859914
+Time to generate 1 response: 5.898173891939223
+Time to check answer: 2.4772777298931032
+Time for model filter: 2.527251012157649
+Time to generate 1 response: 6.047356109134853
+Time to check answer: 2.519896582933143
+Time to generate 1 response: 5.8995587069075555
+Time to check answer: 2.525424242950976
+Time to generate 1 response: 5.790331564843655
+Time to check answer: 2.503671680111438
+Time to generate 1 response: 5.866620538057759
+Time to check answer: 2.518176732119173
+Time to generate 1 response: 5.955877288011834
+Time to check answer: 2.516971587901935
+Time for model filter: 2.4855674039572477
+Time to generate 1 response: 5.85491416300647
+Time to check answer: 2.5315180208999664
+Time to generate 1 response: 5.964526150841266
+Time to check answer: 0.40644045919179916
+Time to generate 1 response: 5.659002928994596
+Time to check answer: 2.528771572979167
+Time to generate 1 response: 5.905072333058342
+Time to check answer: 2.3875150829553604
+Time to generate 1 response: 5.959099506959319
+Time to check answer: 2.5199450731743127
+Time for model filter: 2.485688694054261
+Time to generate 1 response: 5.82883591693826
+Time to check answer: 2.526341097895056
+Time to generate 1 response: 5.863521031104028
+Time to check answer: 2.5215882321354
+Time to generate 1 response: 5.779721622122452
+Time to check answer: 2.537486877059564
+Time to generate 1 response: 5.876856353133917
+Time to check answer: 2.5132797400001436
+Time to generate 1 response: 5.836327962810174
+Time to check answer: 2.516590828774497
+Time for model filter: 2.504179914947599
+Time to generate 1 response: 6.071287409868091
+Time to check answer: 2.533169202040881
+Time to generate 1 response: 6.065130974864587
+Time to check answer: 2.52845765510574
+Time to generate 1 response: 5.885436570039019
+Time to check answer: 2.517681685043499
+Time to generate 1 response: 6.086325049865991
+Time to check answer: 2.5255547671113163
+Time to generate 1 response: 5.862166703911498
+Time to check answer: 2.523473379900679
+Time for model filter: 2.4716560530941933
+Time to generate 1 response: 5.918548363959417
+Time to check answer: 2.4201495030429214
+Time to generate 1 response: 5.956848196219653
+Time to check answer: 2.510673406999558
+Time to generate 1 response: 5.733557857107371
+Time to check answer: 2.4838270868640393
+Time to generate 1 response: 5.875877307029441
+Time to check answer: 2.4916711170226336
+Time to generate 1 response: 5.909370823064819
+Time to check answer: 2.4641246118117124
+Time for model filter: 2.533441021805629
+Time to generate 1 response: 5.939569806912914
+Time to check answer: 2.5200186979491264
+Time to generate 1 response: 5.960489432094619
+Time to check answer: 2.444196864962578
+Time to generate 1 response: 5.749151647090912
+Time to check answer: 2.4845183971337974
+Time to generate 1 response: 5.883913547964767
+Time to check answer: 2.4035816399846226
+Time to generate 1 response: 5.9478847538121045
+Time to check answer: 2.3983462369069457
+Time for model filter: 2.5160197399090976
+Time to generate 1 response: 5.953154837945476
+Time to check answer: 2.4949665039312094
+Time to generate 1 response: 5.9656809121370316
+Time to check answer: 2.4699025659356266
+Time to generate 1 response: 5.685400013811886
+Time to check answer: 2.560828732093796
+Time to generate 1 response: 5.905614249873906
+Time to check answer: 2.4836926369462162
+Time to generate 1 response: 5.936572046019137
+Time to check answer: 2.4861799678765237
+Time for model filter: 2.5167662389576435
+Time to generate 1 response: 5.669989543035626
+Time to check answer: 2.4811770860105753
+Time to generate 1 response: 5.9547588671557605
+Time to check answer: 2.4928290189709514
+Time to generate 1 response: 5.766080333152786
+Time to check answer: 2.5322471170220524
+Time to generate 1 response: 5.896529427962378
+Time to check answer: 2.52343343407847
+Time to generate 1 response: 6.075094051891938
+Time to check answer: 2.5310979469213635
+Time for model filter: 2.5145927160046995
+Time to generate 1 response: 6.191272410098463
+Time to check answer: 2.510568531928584
+Time to generate 1 response: 5.958796282066032
+Time to check answer: 2.486641566036269
+Time to generate 1 response: 5.731103244004771
+Time to check answer: 2.503556967014447
+Time to generate 1 response: 5.9108828629832715
+Time to check answer: 2.4609564431011677
+Time to generate 1 response: 6.1064097518101335
+Time to check answer: 2.402654559118673
+Time for model filter: 2.520586360944435
+Time to generate 1 response: 6.06134394207038
+Time to check answer: 2.521453494904563
+Time to generate 1 response: 6.17136734793894
+Time to check answer: 2.457126148045063
+Time to generate 1 response: 6.083252887940034
+Time to check answer: 2.4803846729919314
+Time to generate 1 response: 5.970447533996776
+Time to check answer: 2.504752067150548
+Time to generate 1 response: 5.9970868160016835
+Time to check answer: 2.5211034170351923
+Time for model filter: 2.456440841080621
+Time to generate 1 response: 5.9294687828514725
+Time to check answer: 2.4543133191764355
+Time to generate 1 response: 5.965918728848919
+Time to check answer: 2.468158561969176
+Time to generate 1 response: 5.851980665000156
+Time to check answer: 2.5417849658988416
+Time to generate 1 response: 5.89504530094564
+Time to check answer: 2.469953308114782
+Time to generate 1 response: 5.924024613108486
+Time to check answer: 2.4677240119781345
+Time for model filter: 2.5032469590660185
+Time to generate 1 response: 5.923387489048764
+Time to check answer: 2.4838509431574494
+Time to generate 1 response: 5.937721526948735
+Time to check answer: 2.5243809181265533
+Time to generate 1 response: 5.978514720918611
+Time to check answer: 2.517342546954751
+Time to generate 1 response: 5.913491011131555
+Time to check answer: 2.424570166040212
+Time to generate 1 response: 6.012096438091248
+Time to check answer: 2.5375251970253885
+Time for model filter: 2.5046893930993974
+Time to generate 1 response: 5.948501676088199
+Time to check answer: 2.54863921017386
+Time to generate 1 response: 5.961100668180734
+Time to check answer: 2.542890758952126
+Time to generate 1 response: 5.923961276886985
+Time to check answer: 2.509190973127261
+Time to generate 1 response: 6.094824618194252
+Time to check answer: 2.5011337590403855
+Time to generate 1 response: 5.882222760934383
+Time to check answer: 2.491247093072161
+Time for model filter: 2.495161537081003
+Time to generate 1 response: 5.925195209914818
+Time to check answer: 2.5275561287999153
+Time to generate 1 response: 6.036549374926835
+Time to check answer: 2.5284579559229314
+Time to generate 1 response: 5.973707369994372
+Time to check answer: 2.4671787510160357
+Time to generate 1 response: 5.930371463065967
+Time to check answer: 2.4635370729956776
+Time to generate 1 response: 5.965839379001409
+Time to check answer: 2.4982450329698622
+Time for model filter: 2.4746601551305503
+Time to generate 1 response: 5.952507216017693
+Time to check answer: 2.5362308949697763
+Time to generate 1 response: 5.952116344124079
+Time to check answer: 2.5287297980394214
+Time to generate 1 response: 5.945940168108791
+Time to check answer: 2.5474300619680434
+Time to generate 1 response: 5.913383326958865
+Time to check answer: 2.540168516105041
+Time to generate 1 response: 5.949489563936368
+Time to check answer: 2.490975117078051
+Time for model filter: 2.4629936770070344
+Time to generate 1 response: 5.9401476490311325
+Time to check answer: 2.545162571128458
+Time to generate 1 response: 5.988725688075647
+Time to check answer: 2.5384988570585847
+Time to generate 1 response: 5.71256921091117
+Time to check answer: 2.4779970159288496
+Time to generate 1 response: 5.908633811865002
+Time to check answer: 2.4755810080096126
+Time to generate 1 response: 6.178747221129015
+Time to check answer: 2.4557031400036067
+Time for model filter: 2.4962336481548846
+Time to generate 1 response: 5.910775381838903
+Time to check answer: 2.4174944129772484
+Time to generate 1 response: 5.9026612939778715
+Time to check answer: 2.4113377549219877
+Time to generate 1 response: 6.09634102601558
+Time to check answer: 1.2426734319888055
+Time to generate 1 response: 6.087165493052453
+Time to check answer: 2.47381742997095
+Time to generate 1 response: 6.209167380118743
+Time to check answer: 2.3645049950573593
+Time for model filter: 2.474324065959081
+Time to generate 1 response: 5.958080191165209
+Time to check answer: 2.515557734062895
+Time to generate 1 response: 6.005149803124368
+Time to check answer: 2.5125551458913833
+Time to generate 1 response: 5.985348999034613
+Time to check answer: 2.439078117022291
+Time to generate 1 response: 6.049831424141303
+Time to check answer: 2.4148807369638234
+Time to generate 1 response: 6.006551316007972
+Time to check answer: 2.4286054079420865
+Time for model filter: 2.504289000062272
+Time to generate 1 response: 5.923338118940592
+Time to check answer: 2.4641801768448204
+Time to generate 1 response: 6.073081040987745
+Time to check answer: 2.4030031990259886
+Time to generate 1 response: 5.935356623958796
+Time to check answer: 2.483306829119101
+Time to generate 1 response: 5.902444083010778
+Time to check answer: 2.4710635440424085
+Time to generate 1 response: 5.931771144969389
+Time to check answer: 2.509741579880938
+Time for model filter: 2.4651116440072656
+Time to generate 1 response: 5.961779132019728
+Time to check answer: 2.5184462929610163
+Time to generate 1 response: 5.980908577796072
+Time to check answer: 2.4366166891995817
+Time to generate 1 response: 5.750975351082161
+Time to check answer: 2.337286807131022
+Time to generate 1 response: 5.918444592040032
+Time to check answer: 2.4540679298806936
+Time to generate 1 response: 5.99228280200623
+Time to check answer: 2.5347031811252236
+Time for model filter: 2.4908458050340414
+Time to generate 1 response: 5.92694902815856
+Time to check answer: 2.4948100049514323
+Time to generate 1 response: 5.870921907946467
+Time to check answer: 2.502146921819076
+Time to generate 1 response: 6.115552307805046
+Time to check answer: 2.5190340268891305
+Time to generate 1 response: 5.9077618170995265
+Time to check answer: 2.4894584810826927
+Time to generate 1 response: 5.887540341122076
+Time to check answer: 2.5019192681647837
+Time for model filter: 2.4466788100544363
+Time to generate 1 response: 6.163876591948792
+Time to check answer: 2.49916034610942
+Time to generate 1 response: 5.992703480180353
+Time to check answer: 2.4627241401467472
+Time to generate 1 response: 6.051050391048193
+Time to check answer: 2.4341766121797264
+Time to generate 1 response: 5.982815669849515
+Time to check answer: 2.460053042974323
+Time to generate 1 response: 6.015556602971628
+Time to check answer: 2.452355077955872
+Time for model filter: 2.475417150883004
+Time to generate 1 response: 5.907854598946869
+Time to check answer: 2.4911811649799347
+Time to generate 1 response: 5.944473767885938
+Time to check answer: 2.4572821939364076
+Time to generate 1 response: 5.827942080097273
+Time to check answer: 2.48712350288406
+Time to generate 1 response: 5.843142842175439
+Time to check answer: 2.495852288790047
+Time to generate 1 response: 5.690427882131189
+Time to check answer: 2.482825842918828
+Time for model filter: 2.46044895099476
+Time to generate 1 response: 6.172634130809456
+Time to check answer: 2.447059530997649
+Time to generate 1 response: 6.051714781904593
+Time to check answer: 2.459788339212537
+Time to generate 1 response: 6.062057159841061
+Time to check answer: 2.435665118973702
+Time to generate 1 response: 5.874103404814377
+Time to check answer: 2.5255487740505487
+Time to generate 1 response: 5.894706031074747
+Time to check answer: 2.4886752259917557
+Time for model filter: 2.5054662241600454
+Time to generate 1 response: 5.870163879124448
+Time to check answer: 2.36005154508166
+Time to generate 1 response: 5.937823400134221
+Time to check answer: 2.505056609865278
+Time to generate 1 response: 5.729118729010224
+Time to check answer: 2.5057769471313804
+Time to generate 1 response: 5.928335889941081
+Time to check answer: 2.5073268618434668
+Time to generate 1 response: 6.073476100107655
+Time to check answer: 2.5093737049028277
+
+71 generations in 1522.2150705340318 seconds.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:02<00:02,  2.24s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:03<00:00,  1.43s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:03<00:00,  1.55s/it]
+Time to load model meta-llama/Llama-2-7b-hf: 3.651565910084173
+Time to calculate perplexity: 0.17390465503558517
+Time to calculate perplexity: 0.15645930403843522
+Time to calculate perplexity: 0.1568439439870417
+Time to calculate perplexity: 0.1472232120577246
+Time to calculate perplexity: 0.15551837394014
+Time to calculate perplexity: 0.155105713987723
+Time to calculate perplexity: 0.15558644686825573
+Time to calculate perplexity: 0.15699938195757568
+Time to calculate perplexity: 0.15751496911980212
+Time to calculate perplexity: 0.14506334601901472
+Time to calculate perplexity: 0.14616764499805868
+Time to calculate perplexity: 0.1468003559857607
+Time to calculate perplexity: 0.14616518514230847
+Time to calculate perplexity: 0.14737108605913818
+Time to calculate perplexity: 0.15768175316043198
+Time to calculate perplexity: 0.1549472010228783
+Time to calculate perplexity: 0.14752630307339132
+Time to calculate perplexity: 0.15617115492932498
+Time to calculate perplexity: 0.15661972714588046
+Time to calculate perplexity: 0.1557245380245149
+Time to calculate perplexity: 0.14635643013752997
+Time to calculate perplexity: 0.1482386621646583
+Time to calculate perplexity: 0.15603427006863058
+Time to calculate perplexity: 0.15732183493673801
+Time to calculate perplexity: 0.15713949198834598
+Time to calculate perplexity: 0.15547687211073935
+Time to calculate perplexity: 0.1547827608883381
+Time to calculate perplexity: 0.1468406601343304
+Time to calculate perplexity: 0.15711464011110365
+Time to calculate perplexity: 0.15409411885775626
+Time to calculate perplexity: 0.15502060507424176
+Time to calculate perplexity: 0.14692764705978334
+Time to calculate perplexity: 0.15807114797644317
+Time to calculate perplexity: 0.14578257594257593
+Time to calculate perplexity: 0.15455473610199988
+Time to calculate perplexity: 0.14724238705821335
+Time to calculate perplexity: 0.15588910412043333
+Time to calculate perplexity: 0.15477045206353068
+Time to calculate perplexity: 0.14507014490664005
+Time to calculate perplexity: 0.15614508092403412
+Time to calculate perplexity: 0.15728558995760977
+Time to calculate perplexity: 0.155939397867769
+Time to calculate perplexity: 0.15695219486951828
+Time to calculate perplexity: 0.1561097321100533
+Time to calculate perplexity: 0.15741247194819152
+Time to calculate perplexity: 0.15805525402538478
+Time to calculate perplexity: 0.1479862651322037
+Time to calculate perplexity: 0.1579444999806583
+Time to calculate perplexity: 0.15511957183480263
+Time to calculate perplexity: 0.1568651448469609
+Time to calculate perplexity: 0.15523852710612118
+Time to calculate perplexity: 0.15525104012340307
+Time to calculate perplexity: 0.15516871609725058
+Time to calculate perplexity: 0.15809591417200863
+Time to calculate perplexity: 0.14540976518765092
+Time to calculate perplexity: 0.14400743995793164
+Time to calculate perplexity: 0.1453026169911027
+Time to calculate perplexity: 0.14765178109519184
+Time to calculate perplexity: 0.15519971796311438
+Time to calculate perplexity: 0.15752887981943786
+Time to calculate perplexity: 0.1582110901363194
+Time to calculate perplexity: 0.1567036269698292
+Time to calculate perplexity: 0.1553071909584105
+Time to calculate perplexity: 0.15498475497588515
+Time to calculate perplexity: 0.1475961641408503
+Time to calculate perplexity: 0.15462308912537992
+Time to calculate perplexity: 0.14792604884132743
+Time to calculate perplexity: 0.14715096214786172
+Time to calculate perplexity: 0.14749095682054758
+Time to calculate perplexity: 0.14409372583031654
+Time to calculate perplexity: 0.15709334099665284
+Time to calculate average perplexity: 10.89234260097146
+Model: meta-llama/Llama-2-7b-hf generating with keyword_filter_generate filter with 475 potential generations.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.91s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.23s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.33s/it]
+Time to load model meta-llama/Llama-2-7b-hf: 3.1461720161605626
+170 generations in 1013.4276494118385 seconds.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.93s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.23s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.34s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.2509466188494116
+Time to calculate perplexity: 0.17613973910920322
+Time to calculate perplexity: 0.15440933895297348
+Time to calculate perplexity: 0.1478445630054921
+Time to calculate perplexity: 0.14814224117435515
+Time to calculate perplexity: 0.14519997290335596
+Time to calculate perplexity: 0.15553201478905976
+Time to calculate perplexity: 0.1562975139822811
+Time to calculate perplexity: 0.1430716069880873
+Time to calculate perplexity: 0.14823476714082062
+Time to calculate perplexity: 0.15615748590789735
+Time to calculate perplexity: 0.15912900306284428
+Time to calculate perplexity: 0.15709998807869852
+Time to calculate perplexity: 0.15702256001532078
+Time to calculate perplexity: 0.156879052054137
+Time to calculate perplexity: 0.1568082079757005
+Time to calculate perplexity: 0.15672261104919016
+Time to calculate perplexity: 0.15748620009981096
+Time to calculate perplexity: 0.15742001682519913
+Time to calculate perplexity: 0.15561573999002576
+Time to calculate perplexity: 0.15570440306328237
+Time to calculate perplexity: 0.15549361519515514
+Time to calculate perplexity: 0.15805081487633288
+Time to calculate perplexity: 0.15493281418457627
+Time to calculate perplexity: 0.1585735019762069
+Time to calculate perplexity: 0.15565011790022254
+Time to calculate perplexity: 0.15721277007833123
+Time to calculate perplexity: 0.15541666792705655
+Time to calculate perplexity: 0.14640047401189804
+Time to calculate perplexity: 0.1561323970090598
+Time to calculate perplexity: 0.15823006280697882
+Time to calculate perplexity: 0.1560060631018132
+Time to calculate perplexity: 0.1557346428744495
+Time to calculate perplexity: 0.15766633115708828
+Time to calculate perplexity: 0.1557250500191003
+Time to calculate perplexity: 0.15735387010499835
+Time to calculate perplexity: 0.14867792604491115
+Time to calculate perplexity: 0.14630891010165215
+Time to calculate perplexity: 0.147931374842301
+Time to calculate perplexity: 0.14833574602380395
+Time to calculate perplexity: 0.1467048500198871
+Time to calculate perplexity: 0.1443003360182047
+Time to calculate perplexity: 0.1730564939789474
+Time to calculate perplexity: 0.16001109988428652
+Time to calculate perplexity: 0.1497659171000123
+Time to calculate perplexity: 0.1440885670017451
+Time to calculate perplexity: 0.1534879868850112
+Time to calculate perplexity: 0.15743775595910847
+Time to calculate perplexity: 0.1570599270053208
+Time to calculate perplexity: 0.14849192602559924
+Time to calculate perplexity: 0.14663214283064008
+Time to calculate perplexity: 0.1551408690866083
+Time to calculate perplexity: 0.15522168204188347
+Time to calculate perplexity: 0.1565692878793925
+Time to calculate perplexity: 0.1451568470802158
+Time to calculate perplexity: 0.15729628084227443
+Time to calculate perplexity: 0.15473726112395525
+Time to calculate perplexity: 0.15208137105219066
+Time to calculate perplexity: 0.14748743595555425
+Time to calculate perplexity: 0.14326203684322536
+Time to calculate perplexity: 0.15581911406479776
+Time to calculate perplexity: 0.1454395221080631
+Time to calculate perplexity: 0.14801467000506818
+Time to calculate perplexity: 0.15779511211439967
+Time to calculate perplexity: 0.14602106111124158
+Time to calculate perplexity: 0.15514735598117113
+Time to calculate perplexity: 0.1559271679725498
+Time to calculate perplexity: 0.1549852939788252
+Time to calculate perplexity: 0.1567997068632394
+Time to calculate perplexity: 0.15586896403692663
+Time to calculate perplexity: 0.1469187990296632
+Time to calculate perplexity: 0.15468606306239963
+Time to calculate perplexity: 0.15371635602787137
+Time to calculate perplexity: 0.15402529016137123
+Time to calculate perplexity: 0.15648436499759555
+Time to calculate perplexity: 0.15086230798624456
+Time to calculate perplexity: 0.15882426197640598
+Time to calculate perplexity: 0.15558085101656616
+Time to calculate perplexity: 0.14612004603259265
+Time to calculate perplexity: 0.15516848885454237
+Time to calculate perplexity: 0.14296866091899574
+Time to calculate perplexity: 0.14467801293358207
+Time to calculate perplexity: 0.15688164997845888
+Time to calculate perplexity: 0.14800650510005653
+Time to calculate perplexity: 0.1454010270535946
+Time to calculate perplexity: 0.1559810012113303
+Time to calculate perplexity: 0.1460607119370252
+Time to calculate perplexity: 0.15638160798698664
+Time to calculate perplexity: 0.1460177858825773
+Time to calculate perplexity: 0.1581121829804033
+Time to calculate perplexity: 0.146422189893201
+Time to calculate perplexity: 0.1474067009985447
+Time to calculate perplexity: 0.14868709817528725
+Time to calculate perplexity: 0.14688070584088564
+Time to calculate perplexity: 0.15693457005545497
+Time to calculate perplexity: 0.14552993606776
+Time to calculate perplexity: 0.14529020292684436
+Time to calculate perplexity: 0.15713078482076526
+Time to calculate perplexity: 0.15550652309320867
+Time to calculate perplexity: 0.15600934298709035
+Time to calculate perplexity: 0.14685297897085547
+Time to calculate perplexity: 0.15643627103418112
+Time to calculate perplexity: 0.15721712401136756
+Time to calculate perplexity: 0.1592702919151634
+Time to calculate perplexity: 0.1557548688724637
+Time to calculate perplexity: 0.1561225699260831
+Time to calculate perplexity: 0.15473374514840543
+Time to calculate perplexity: 0.15768764889799058
+Time to calculate perplexity: 0.14550362015143037
+Time to calculate perplexity: 0.1499667321331799
+Time to calculate perplexity: 0.15740100480616093
+Time to calculate perplexity: 0.15621544211171567
+Time to calculate perplexity: 0.1563950281124562
+Time to calculate perplexity: 0.14486099407076836
+Time to calculate perplexity: 0.14624511799775064
+Time to calculate perplexity: 0.1483968880493194
+Time to calculate perplexity: 0.15871097100898623
+Time to calculate perplexity: 0.1564204681199044
+Time to calculate perplexity: 0.15726378397084773
+Time to calculate perplexity: 0.14507215889170766
+Time to calculate perplexity: 0.15698772785253823
+Time to calculate perplexity: 0.15662092389538884
+Time to calculate perplexity: 0.1566341589204967
+Time to calculate perplexity: 0.14826447400264442
+Time to calculate perplexity: 0.1568330880254507
+Time to calculate perplexity: 0.15575206000357866
+Time to calculate perplexity: 0.15596783603541553
+Time to calculate perplexity: 0.15945858391933143
+Time to calculate perplexity: 0.15768149797804654
+Time to calculate perplexity: 0.1582257600966841
+Time to calculate perplexity: 0.1439996911212802
+Time to calculate perplexity: 0.148126499960199
+Time to calculate perplexity: 0.1434401269070804
+Time to calculate perplexity: 0.14681050297804177
+Time to calculate perplexity: 0.1473774218466133
+Time to calculate perplexity: 0.15860712504945695
+Time to calculate perplexity: 0.14708029199391603
+Time to calculate perplexity: 0.15605182596482337
+Time to calculate perplexity: 0.15462361997924745
+Time to calculate perplexity: 0.15697720902971923
+Time to calculate perplexity: 0.1599534850101918
+Time to calculate perplexity: 0.15753874205984175
+Time to calculate perplexity: 0.1582629589829594
+Time to calculate perplexity: 0.14365380606614053
+Time to calculate perplexity: 0.1569026589859277
+Time to calculate perplexity: 0.15674002398736775
+Time to calculate perplexity: 0.15677609597332776
+Time to calculate perplexity: 0.14503485709428787
+Time to calculate perplexity: 0.14708998100832105
+Time to calculate perplexity: 0.14440031978301704
+Time to calculate perplexity: 0.1447348811198026
+Time to calculate perplexity: 0.15575434197671711
+Time to calculate perplexity: 0.15685703488998115
+Time to calculate perplexity: 0.1541343592107296
+Time to calculate perplexity: 0.14826647005975246
+Time to calculate perplexity: 0.15689795301295817
+Time to calculate perplexity: 0.14822515891864896
+Time to calculate perplexity: 0.14500872581265867
+Time to calculate perplexity: 0.1517148520797491
+Time to calculate perplexity: 0.14744908781722188
+Time to calculate perplexity: 0.14925482007674873
+Time to calculate perplexity: 0.15373968705534935
+Time to calculate perplexity: 0.15713185095228255
+Time to calculate perplexity: 0.14719683211296797
+
+Time to calculate perplexity: 0.15598124219104648
+Time to calculate perplexity: 0.1419829169753939
+Time to calculate perplexity: 0.1487769540399313
+Time to calculate perplexity: 0.14424832095392048
+Time to calculate perplexity: 0.14727961621247232
+Time to calculate perplexity: 0.14483476406894624
+Time to calculate perplexity: 0.14498538803309202
+Time to calculate average perplexity: 25.986739824991673
+Model: meta-llama/Llama-2-7b-hf generating with keyword_model_generate filter with 475 potential generations.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.93s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.23s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.34s/it]
+Time to load model meta-llama/Llama-2-7b-hf: 3.4717365871183574
+170 generations in 1092.9518476680387 seconds.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.93s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.23s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.33s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.28353745280765
+Time to calculate perplexity: 0.1751712211407721
+Time to calculate perplexity: 0.15552121098153293
+Time to calculate perplexity: 0.14522136910818517
+Time to calculate perplexity: 0.14560651988722384
+Time to calculate perplexity: 0.14346296899020672
+Time to calculate perplexity: 0.1553858290426433
+Time to calculate perplexity: 0.1567209418863058
+Time to calculate perplexity: 0.14388112886808813
+Time to calculate perplexity: 0.1478968809824437
+Time to calculate perplexity: 0.1577321190852672
+Time to calculate perplexity: 0.15580437006428838
+Time to calculate perplexity: 0.1569918622262776
+Time to calculate perplexity: 0.15493130590766668
+Time to calculate perplexity: 0.1558118110988289
+Time to calculate perplexity: 0.1573383528739214
+Time to calculate perplexity: 0.15740835899487138
+Time to calculate perplexity: 0.15591889386996627
+Time to calculate perplexity: 0.15610970999114215
+Time to calculate perplexity: 0.15746294893324375
+Time to calculate perplexity: 0.1557961800135672
+Time to calculate perplexity: 0.15920902998186648
+Time to calculate perplexity: 0.15706408396363258
+Time to calculate perplexity: 0.1561749749816954
+Time to calculate perplexity: 0.15639371215365827
+Time to calculate perplexity: 0.15591438999399543
+Time to calculate perplexity: 0.1571475239470601
+Time to calculate perplexity: 0.15621580299921334
+Time to calculate perplexity: 0.14859094796702266
+Time to calculate perplexity: 0.15781597001478076
+Time to calculate perplexity: 0.15740000107325613
+Time to calculate perplexity: 0.15631533809937537
+Time to calculate perplexity: 0.1552318329922855
+Time to calculate perplexity: 0.15746245300397277
+Time to calculate perplexity: 0.15621592081151903
+Time to calculate perplexity: 0.15670023299753666
+Time to calculate perplexity: 0.14464832306839526
+Time to calculate perplexity: 0.14752896991558373
+Time to calculate perplexity: 0.1485262829810381
+Time to calculate perplexity: 0.1444714260287583
+Time to calculate perplexity: 0.1466260338202119
+Time to calculate perplexity: 0.1490768340881914
+Time to calculate perplexity: 0.14566975296474993
+Time to calculate perplexity: 0.15551982098259032
+Time to calculate perplexity: 0.1465155880432576
+Time to calculate perplexity: 0.14353973092511296
+Time to calculate perplexity: 0.15239113895222545
+Time to calculate perplexity: 0.15636755293235183
+Time to calculate perplexity: 0.15494423499330878
+Time to calculate perplexity: 0.14932378381490707
+Time to calculate perplexity: 0.14440624206326902
+Time to calculate perplexity: 0.15584674011915922
+Time to calculate perplexity: 0.1549741590861231
+Time to calculate perplexity: 0.1571630840189755
+Time to calculate perplexity: 0.14770820597186685
+Time to calculate perplexity: 0.1564284882042557
+Time to calculate perplexity: 0.1549164759926498
+Time to calculate perplexity: 0.1504455809481442
+Time to calculate perplexity: 0.14764718106016517
+Time to calculate perplexity: 0.1436377950012684
+Time to calculate perplexity: 0.15575259109027684
+Time to calculate perplexity: 0.14528316003270447
+Time to calculate perplexity: 0.1467717948835343
+Time to calculate perplexity: 0.15505583211779594
+Time to calculate perplexity: 0.14563756412826478
+Time to calculate perplexity: 0.1548180899117142
+Time to calculate perplexity: 0.15547246602363884
+Time to calculate perplexity: 0.15566426096484065
+Time to calculate perplexity: 0.15620493097230792
+Time to calculate perplexity: 0.1578064151108265
+Time to calculate perplexity: 0.1480199119541794
+Time to calculate perplexity: 0.15604732395149767
+Time to calculate perplexity: 0.15647860406897962
+Time to calculate perplexity: 0.1523228669539094
+Time to calculate perplexity: 0.1560247279703617
+Time to calculate perplexity: 0.14723248989321291
+Time to calculate perplexity: 0.1562873530201614
+Time to calculate perplexity: 0.15598104195669293
+Time to calculate perplexity: 0.14588597393594682
+Time to calculate perplexity: 0.15502058202400804
+Time to calculate perplexity: 0.1464647869579494
+Time to calculate perplexity: 0.14466825709678233
+Time to calculate perplexity: 0.158734800061211
+Time to calculate perplexity: 0.146478678798303
+Time to calculate perplexity: 0.148124119034037
+Time to calculate perplexity: 0.15651046088896692
+Time to calculate perplexity: 0.14611371792852879
+Time to calculate perplexity: 0.15998193994164467
+Time to calculate perplexity: 0.14716992294415832
+Time to calculate perplexity: 0.15774483000859618
+Time to calculate perplexity: 0.1462258598767221
+Time to calculate perplexity: 0.14489581296220422
+Time to calculate perplexity: 0.1458366538863629
+Time to calculate perplexity: 0.14736883691512048
+Time to calculate perplexity: 0.15737766586244106
+Time to calculate perplexity: 0.14712335402145982
+Time to calculate perplexity: 0.14470003615133464
+Time to calculate perplexity: 0.15623689885251224
+Time to calculate perplexity: 0.1561704429332167
+Time to calculate perplexity: 0.15654681390151381
+Time to calculate perplexity: 0.15016892203129828
+Time to calculate perplexity: 0.16143557103350759
+Time to calculate perplexity: 0.1557511519640684
+Time to calculate perplexity: 0.1576874100137502
+Time to calculate perplexity: 0.15528599498793483
+Time to calculate perplexity: 0.15676560904830694
+Time to calculate perplexity: 0.15733002894558012
+Time to calculate perplexity: 0.1599569688551128
+Time to calculate perplexity: 0.14490197808481753
+Time to calculate perplexity: 0.14405937399715185
+Time to calculate perplexity: 0.15570117603056133
+Time to calculate perplexity: 0.1574415499344468
+Time to calculate perplexity: 0.15556243411265314
+Time to calculate perplexity: 0.14892338309437037
+Time to calculate perplexity: 0.1484564149286598
+Time to calculate perplexity: 0.14429615205153823
+Time to calculate perplexity: 0.1563992421142757
+Time to calculate perplexity: 0.15621779207140207
+Time to calculate perplexity: 0.15717015322297812
+Time to calculate perplexity: 0.14483299804851413
+Time to calculate perplexity: 0.15697435894981027
+Time to calculate perplexity: 0.15682181110605597
+Time to calculate perplexity: 0.15554395085200667
+Time to calculate perplexity: 0.14389728801324964
+Time to calculate perplexity: 0.15588984196074307
+Time to calculate perplexity: 0.15533173899166286
+Time to calculate perplexity: 0.15715990401804447
+Time to calculate perplexity: 0.15834791189990938
+Time to calculate perplexity: 0.1565971509553492
+Time to calculate perplexity: 0.15641604899428785
+Time to calculate perplexity: 0.14780873409472406
+Time to calculate perplexity: 0.14806952606886625
+Time to calculate perplexity: 0.14477663999423385
+Time to calculate perplexity: 0.14816368115134537
+Time to calculate perplexity: 0.14470852981321514
+Time to calculate perplexity: 0.15785826812498271
+Time to calculate perplexity: 0.1439918780233711
+Time to calculate perplexity: 0.15680070198141038
+Time to calculate perplexity: 0.15421649906784296
+Time to calculate perplexity: 0.15726113389246166
+Time to calculate perplexity: 0.15688322414644063
+Time to calculate perplexity: 0.15767606301233172
+Time to calculate perplexity: 0.1572180539369583
+Time to calculate perplexity: 0.14701786311343312
+Time to calculate perplexity: 0.15567997097969055
+Time to calculate perplexity: 0.15553077100776136
+Time to calculate perplexity: 0.15645861299708486
+Time to calculate perplexity: 0.14627031795680523
+Time to calculate perplexity: 0.1486997010651976
+Time to calculate perplexity: 0.14410826284438372
+Time to calculate perplexity: 0.14462829497642815
+Time to calculate perplexity: 0.1553256909828633
+Time to calculate perplexity: 0.15761597198434174
+Time to calculate perplexity: 0.15378795005381107
+Time to calculate perplexity: 0.1463168510235846
+Time to calculate perplexity: 0.15554303908720613
+Time to calculate perplexity: 0.1467991559766233
+Time to calculate perplexity: 0.1476676850579679
+Time to calculate perplexity: 0.15154287917539477
+Time to calculate perplexity: 0.16113103204406798
+Time to calculate perplexity: 0.160804842133075
+Time to calculate perplexity: 0.1647493839263916
+Time to calculate perplexity: 0.1671734619885683
+Time to calculate perplexity: 0.1499261069111526
+
+Time to calculate perplexity: 0.15605247300118208
+Time to calculate perplexity: 0.1506344408262521
+Time to calculate perplexity: 0.15003308607265353
+Time to calculate perplexity: 0.14886502316221595
+Time to calculate perplexity: 0.14567274507135153
+Time to calculate perplexity: 0.14882453298196197
+Time to calculate perplexity: 0.1487198960967362
+Time to calculate average perplexity: 26.001702257897705
