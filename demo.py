@@ -468,19 +468,22 @@ def main():
               "facebook/opt-2.7b", "facebook/opt-1.3b", "facebook/opt-6.7b", "facebook/galactica-1.3b", "facebook/galactica-6.7b",
               "meta-llama/Llama-2-13b-hf", "meta-llama/Llama-2-7b-hf"}
     
-    t1 = time.perf_counter()
-    context = get_context("pdf")
-    t2 = time.perf_counter()-t1
-    print(f"Time to parse context: {t2}")
+    parsers = ["html", "pdf"]
 
-    for model in models:
-        for filter in filters:
-            try:
-                print(f"Model: {model} generating with {str(filter)[10:str(filter).index(' at')]} filter with {len(context)*len(questions)} potential generations.")
-                write_to_file(model, context, output_name=f"{str(filter)[10:str(filter).index(' at')]}-{model[model.index('/')+1:]}", filter=filter)
-            except:
-                print(f"Error encountered running {model} with {str(filter)[10: str(filter).index(' at')]} filter.")
-                continue
+    for parser in parsers:
+        t1 = time.perf_counter()
+        context = get_context(parser)
+        t2 = time.perf_counter()-t1
+        print(f"Time to parse context: {t2}")
+        for model in models:
+            for filter in filters:
+                try:
+                    print(f"Model: {model} generating with {str(filter)[10:str(filter).index(' at')]} filter with {len(context)*len(questions)} potential generations.")
+                    write_to_file(model, context, output_name=f"{str(filter)[10:str(filter).index(' at')]}-{model[model.index('/')+1:]}-{parser}", filter=filter)
+                except Exception as e:
+                    print(f"Error encountered running {model} with {str(filter)[10: str(filter).index(' at')]} filter.")
+                    print(e)
+                    continue
 
 
 def test():
