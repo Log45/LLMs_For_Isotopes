@@ -21,34 +21,64 @@ keywords = {"separation", "Separation", "isolation", "Isolation", "chromatograph
             "eluted", "Eluted", "elution", "Elution", "elute", "Elute", "fraction", "Fraction", "resin", "Resin", "exchange", "Exchange", "acid", "Acid", "target", "Target"}
 
 example_context = "After irradiation of 5 h, the 64Ni target was dissolved in 6 M hydrochloride acid, and then the solution was load to an anion exchange column to separate into different components. The 64Ni was washed out with 6 M HCl and collected for recycling. Due to the elevated cost of enriched 64Ni, recycling of the target material for re-use could reduce the production cost of 64Cu, without sacriﬁcing the quality of subsequent 64Cu production. When the eluted was switched to 1 M HCl, the ﬁrst band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected and evaporated to dryness. The residue was dissolved in 0.1 M HCl for further use. The separation process of 64Cu took about 2.5 h after irradiation."
+example_context_2 = "225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra)."
+
 
 target_question = "What is the target material in the above reaction?"
 target_example_answer = "Since they say: 'the 64Ni target was dissolved in 6 M hydrochloride acid', then 64Ni, or Nickel-64, must be the target."
+target_example_answer_2 = "Since they say: 'Irradiated Th metal foils were dissolved in concentrated HNO3', then Th, or Thallium, must be the target."
 
 acid_question = "What acid is the target material dissolved in during the above reaction?"
 acid_example_answer = "Since they say: 'the 64Ni target was dissolved in 6 M hydrochloride acid', then 6M hydrochloride acid must be the acid used to dissolve the target."
+acid_example_answer_2 = "Since they say: 'the residue was dissolved in 3–8 M HNO3', then 3-8M HNO# must be the acid used to dissolve the target."
 
 resin_question = "What resin/column is the solution loaded into during the above reaction?"
 resin_example_answer = "Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column."
+resin_example_answer_2 = "Since they say: 'the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide', then a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide must be the resin/column."
 
 elution_question = "What acid is used in the elution during the above reaction?"
 elution_example_answer = "Since they say: 'When the eluted was switched to 1 M HCl', then 1 M HCl must be the acid used in the elution."
+elution_example_answer_2 = "Since they say: 'Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected.', then 5 M HNO3 must be the acid used in the elution."
 
 products_question = "What are the products of the above reaction?"
 products_example_answer = "Since they say: 'the ﬁrst band coming out was co-produced cobalt radioisotopes (approximately 1 mL), and the second was the 64Cu, which was collected', and the first and second bands represent products, then cobalt radioisotopes and 64Cu, or Copper-64, must be the products."
+products_example_answer_2 = "Since they say: ' 225Ac isolation. Actinium was isolated by the scheme', then 225Ac, or Actinium-225, must be the product."
 
-target_example = f"Context: {example_context}\n Question: {target_question}\n Answer: {target_example_answer}"
-acid_example = f"Context: {example_context}\n Question: {acid_question}\n Answer: {acid_example_answer}"
-resin_example = f"Context: {example_context}\n Question: {resin_question}\n Answer: {resin_example_answer}"
-elution_example = f"Context: {example_context}\n Question: {elution_question}\n Answer: {elution_example_answer}"
-products_example = f"Context: {example_context}\n Question: {products_question}\n Answer: {products_example_answer}"
+target_example_1 = f"Context: {example_context}\n Question: {target_question}\n Answer: {target_example_answer}\n"
+acid_example_1 = f"Context: {example_context}\n Question: {acid_question}\n Answer: {acid_example_answer}\n"
+resin_example_1 = f"Context: {example_context}\n Question: {resin_question}\n Answer: {resin_example_answer}\n"
+elution_example_1 = f"Context: {example_context}\n Question: {elution_question}\n Answer: {elution_example_answer}\n"
+products_example_1 = f"Context: {example_context}\n Question: {products_question}\n Answer: {products_example_answer}\n"
 
 questions = [target_question, acid_question, resin_question, elution_question, products_question]
-questions_examples_dict = {target_question : target_example,
-                           acid_question : acid_example,
-                           resin_question : resin_example,
-                           elution_question : elution_example,
-                           products_question : products_example}
+questions_examples_dict_1 = {target_question : target_example_1,
+                           acid_question : acid_example_1,
+                           resin_question : resin_example_1,
+                           elution_question : elution_example_1,
+                           products_question : products_example_1}
+
+target_example_2 = f"Context: {example_context}\n Question: {target_question}\n Answer: {target_example_answer}\n Context: {example_context_2}\n Question: {target_question}\n Answer: {target_example_answer_2}\n"
+acid_example_2 = f"Context: {example_context}\n Question: {acid_question}\n Answer: {acid_example_answer}\n Context: {example_context_2}\n Question: {acid_question}\n Answer: {acid_example_answer_2}\n"
+resin_example_2 = f"Context: {example_context}\n Question: {resin_question}\n Answer: {resin_example_answer}\n Context: {example_context_2}\n Question: {resin_question}\n Answer: {resin_example_answer_2}\n"
+elution_example_2 = f"Context: {example_context}\n Question: {elution_question}\n Answer: {elution_example_answer}\n Context: {example_context_2}\n Question: {elution_question}\n Answer: {elution_example_answer_2}\n"
+products_example_2 = f"Context: {example_context}\n Question: {products_question}\n Answer: {products_example_answer}\n Context: {example_context_2}\n Question: {products_question}\n Answer: {products_example_answer_2}\n"
+
+questions_examples_dict_2 = {target_question : target_example_2,
+                           acid_question : acid_example_2,
+                           resin_question : resin_example_2,
+                           elution_question : elution_example_2,
+                           products_question : products_example_2}
+
+questions_examples_dict_0 = {target_question : "",
+                           acid_question : "",
+                           resin_question : "",
+                           elution_question : "",
+                           products_question : ""}
+
+examples_dict = {0 : questions_examples_dict_0,
+                 1 : questions_examples_dict_1,
+                 2 : questions_examples_dict_2}
+
 
 answer_questions_dict = {}
 answer_context_dict = {}
@@ -179,7 +209,7 @@ def get_context(doc_type = "pdf"):
         return []
 
 
-def default_generate(model_name: str, contexts: list):
+def default_generate(model_name: str, contexts: list, example=1):
     """
     This function uses no filtering or accuracy techniques to act as a base benchmark for other techniques.
     
@@ -188,6 +218,7 @@ def default_generate(model_name: str, contexts: list):
     Args:
         model_name (str): A string representing the model as it is reprented in the transformers library.
         contexts (list): A list of different paragraphs from research papers to be used as context for the large language model.
+        example (int, optional): An int representing which example to use. (0 = Zero-Shot, 1 = Few-Shot w/ one example, 2 = Few-Shot w/ two examples). Defaults to 1.
 
     Returns:
         Tuple: 
@@ -196,14 +227,18 @@ def default_generate(model_name: str, contexts: list):
             t: float representing the time it took for the function to run
     """
     t1 = time.perf_counter()
+    questions_examples_dict = examples_dict[example]
     generations = []
     answers = []
     model, tokenizer = load_model(model_name)
     for context in contexts:
         for q in questions:
             example = questions_examples_dict[q]
-            input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
+            input = f"{example} Context: {context}\n Question: {q}\n Answer: "
+            gt1 = time.perf_counter()
             generation = generate(model, tokenizer, input)
+            gen_time = time.perf_counter()-gt1
+            print(f"Time to generate 1 response: {gen_time}")
             answer = generation[len(input):]
             # print(f"Answer: {answer} \n")
             answer_questions_dict[answer] = q
@@ -215,7 +250,7 @@ def default_generate(model_name: str, contexts: list):
     return generations, answers, t
 
 
-def keyword_filter_generate(model_name: str, contexts: list):
+def keyword_filter_generate(model_name: str, contexts: list, example=1):
     """
     This function uses keyword filtering only to make responses as efficient:
         keyword_filtering: Throws away all context paragraphs that don't contain any keywords specified in the keywords set at the top of the file.
@@ -225,6 +260,7 @@ def keyword_filter_generate(model_name: str, contexts: list):
     Args:
         model_name (str): A string representing the model as it is reprented in the transformers library.
         contexts (list): A list of different paragraphs from research papers to be used as context for the large language model.
+        example (int, optional): An int representing which example to use. (0 = Zero-Shot, 1 = Few-Shot w/ one example, 2 = Few-Shot w/ two examples). Defaults to 1.
 
     Returns:
         Tuple: 
@@ -233,17 +269,24 @@ def keyword_filter_generate(model_name: str, contexts: list):
             t: float representing the time it took for the function to run
     """
     t1 = time.perf_counter()
+    questions_examples_dict = examples_dict[example]
     generations = []
     answers = []
     model, tokenizer = load_model(model_name)
     for context in contexts:
+        kt1 = time.perf_counter()
         if len(set(context.split()).intersection(keywords)) > 0:
+            key_time = time.perf_counter()-kt1
+            print(f"Time to check keywords: {key_time}")
             for q in questions:
                 example = questions_examples_dict[q]
-                input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
+                input = f"{example} Context: {context}\n Question: {q}\n Answer: "
+                gt1 = time.perf_counter()
                 generation = generate(model, tokenizer, input)
+                gen_time = time.perf_counter()-gt1
+                print(f"Time to generate 1 response: {gen_time}")
                 answer = generation[len(input):]
-                # print(f"Answer: {answer} \n")
+                
                 answer_questions_dict[answer] = q
                 answer_context_dict[answer] = context
                 generations.append(generation)
@@ -253,16 +296,17 @@ def keyword_filter_generate(model_name: str, contexts: list):
     return generations, answers, t
 
 
-def model_filter_generate(model_name: str, contexts: list):
+def model_filter_generate(model_name: str, contexts: list, example=1):
     """
     This function uses model filtering only to be less wasteful in generating responses:
-        model_filtering: Asks the model to determine if the context paragraph contains a chemical extraction and continues if 'yes' in generated in the response.
+        model_filtering: Asks the model to determine if the context paragraph contains a chemical extraction and continues if 'yes' is generated in the response.
 
     The goal of this function is to use a large language model to analyze paragraphs and extract descriptions of chemical separations from chemistry research papers.
 
     Args:
         model_name (str): A string representing the model as it is reprented in the transformers library.
         contexts (list): A list of different paragraphs from research papers to be used as context for the large language model.
+        example (int, optional): An int representing which example to use. (0 = Zero-Shot, 1 = Few-Shot w/ one example, 2 = Few-Shot w/ two examples). Defaults to 1.
 
     Returns:
         Tuple: 
@@ -271,18 +315,25 @@ def model_filter_generate(model_name: str, contexts: list):
             t: float representing the time it took for the function to run
     """
     t1 = time.perf_counter()
+    questions_examples_dict = examples_dict[example]
     generations = []
     answers = []
     model, tokenizer = load_model(model_name)
     for context in contexts:
         c = f"Context: {context}\n Question: Yes or no, does the above context describe a chemical extraction?\n Answer: "
+        mt1 = time.perf_counter()
         filter = generate(model, tokenizer, c, max_new_tokens=20)
         answer = filter[len(c):]
+        m_filter_time = time.perf_counter()-mt1
+        print(f"Time for model filter: {m_filter_time}")
         if "Yes" in answer or "yes" in answer:
             for q in questions:
                 example = questions_examples_dict[q]
-                input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
+                input = f"{example} Context: {context}\n Question: {q}\n Answer: "
+                gt1 = time.perf_counter()
                 generation = generate(model, tokenizer, input)
+                gen_time = time.perf_counter()-gt1
+                print(f"Time to generate 1 response: {gen_time}")
                 answer = generation[len(input):]
                 # print(f"Answer: {answer} \n")
                 answer_questions_dict[answer] = q
@@ -294,17 +345,18 @@ def model_filter_generate(model_name: str, contexts: list):
     return generations, answers, t
 
 
-def keyword_model_generate(model_name: str, contexts: list):
+def keyword_model_generate(model_name: str, contexts: list, example=1):
     """
     This function combines two techniques to make responses as accurate as possible:
         keyword_filtering: Throws away all context paragraphs that don't contain any keywords specified in the keywords set at the top of the file.
-        model_filtering: Asks the model to determine if the context paragraph contains a chemical extraction and continues if 'yes' in generated in the response.
+        model_filtering: Asks the model to determine if the context paragraph contains a chemical extraction and continues if 'yes' is generated in the response.
 
     The goal of this function is to use a large language model to analyze paragraphs and extract descriptions of chemical separations from chemistry research papers.
 
     Args:
         model_name (str): A string representing the model as it is reprented in the transformers library.
         contexts (list): A list of different paragraphs from research papers to be used as context for the large language model.
+        example (int, optional): An int representing which example to use. (0 = Zero-Shot, 1 = Few-Shot w/ one example, 2 = Few-Shot w/ two examples). Defaults to 1.
 
     Returns:
         Tuple: 
@@ -313,19 +365,31 @@ def keyword_model_generate(model_name: str, contexts: list):
             t: float representing the time it took for the function to run
     """
     t1 = time.perf_counter()
+    questions_examples_dict = examples_dict[example]
     generations = []
     answers = []
     model, tokenizer = load_model(model_name)
     for context in contexts:
+        kt1 = time.perf_counter()
         if len(set(context.split()).intersection(keywords)) > 0:
+            key_time = time.perf_counter() - kt1
+            print(f"Time to check keywords: {key_time}")
+
+            mt1 = time.perf_counter()
             c = f"Context: {context}\n Question: Yes or no, does the above context describe a chemical extraction?\n Answer: "
             filter = generate(model, tokenizer, c, max_new_tokens=20)
             answer = filter[len(c):]
+            m_filter_time = time.perf_counter()-mt1
+            print(f"Time for model filter: {m_filter_time}")
+
             if "Yes" in answer or "yes" in answer:
                 for q in questions:
                     example = questions_examples_dict[q]
-                    input = f"{example}\n Context: {context}\n Question: {q}\n Answer: "
+                    input = f"{example} Context: {context}\n Question: {q}\n Answer: "
+                    gt1 = time.perf_counter()
                     generation = generate(model, tokenizer, input)
+                    gen_time = time.perf_counter()-gt1
+                    print(f"Time to generate 1 response: {gen_time}")
                     answer = generation[len(input):]
                     # print(f"Answer: {answer} \n")
                     answer_questions_dict[answer] = q
@@ -337,12 +401,11 @@ def keyword_model_generate(model_name: str, contexts: list):
     return generations, answers, t
 
 
-def keyword_model_expert_check_generate(model_name: str, contexts: list):
+def keyword_model_check_generate(model_name: str, contexts: list, example=1):
     """
     This function combines four techniques to make responses as accurate as possible:
         keyword_filtering: Throws away all context paragraphs that don't contain any keywords specified in the keywords set at the top of the file.
-        model_filtering: Asks the model to determine if the context paragraph contains a chemical extraction and continues if 'yes' in generated in the response.
-        expert_response: Asks the model to respond as if they are an expert at chemistry to try to make the response more accurate.
+        model_filtering: Asks the model to determine if the context paragraph contains a chemical extraction and continues if 'yes' is generated in the response.
         check_response: Asks the model to double check their answer by confirming if their response is truthful/accurate.
 
     The goal of this function is to use a large language model to analyze paragraphs and extract descriptions of chemical separations from chemistry research papers.
@@ -350,6 +413,7 @@ def keyword_model_expert_check_generate(model_name: str, contexts: list):
     Args:
         model_name (str): A string representing the model as it is reprented in the transformers library.
         contexts (list): A list of different paragraphs from research papers to be used as context for the large language model.
+        example (int, optional): An int representing which example to use. (0 = Zero-Shot, 1 = Few-Shot w/ one example, 2 = Few-Shot w/ two examples). Defaults to 1.
 
     Returns:
         Tuple: 
@@ -358,12 +422,16 @@ def keyword_model_expert_check_generate(model_name: str, contexts: list):
             t: float representing the time it took for the function to run
     """
     t1 = time.perf_counter()
+    questions_examples_dict = examples_dict[example]
     generations = []
     answers = []
     model, tokenizer = load_model(model_name)
     for context in contexts:
+        kt1 = time.perf_counter()
         if len(set(context.split()).intersection(keywords)) > 0:
-            
+            key_time = time.perf_counter() - kt1
+            print(f"Time to check keywords: {key_time}")
+
             mt1 = time.perf_counter()
             c = f"Context: {context}\n Question: Yes or no, does the above context describe a chemical extraction?\n Answer: "
             filter = generate(model, tokenizer, c, max_new_tokens=20)
@@ -374,7 +442,7 @@ def keyword_model_expert_check_generate(model_name: str, contexts: list):
             if "Yes" in answer or "yes" in answer:
                 for q in questions:
                     example = questions_examples_dict[q]
-                    input = f"{example}\n Context: {context}\n Question: {q}\n Respond as if you are an expert at chemistry.\n Answer: "
+                    input = f"{example} Context: {context}\n Question: {q}\n Answer: "
                     gt1 = time.perf_counter()
                     generation = generate(model, tokenizer, input)
                     gen_time = time.perf_counter()-gt1
@@ -405,7 +473,209 @@ def keyword_model_expert_check_generate(model_name: str, contexts: list):
     return generations, answers, t
 
 
-def write_to_file(model_name: str, context: list, output_name = "keyword_model_expert_check_output.txt", filter = keyword_model_expert_check_generate):
+def keyword_model_expert_generate(model_name: str, contexts: list, example=1):
+    """
+    This function combines four techniques to make responses as accurate as possible:
+        keyword_filtering: Throws away all context paragraphs that don't contain any keywords specified in the keywords set at the top of the file.
+        model_filtering: Asks the model to determine if the context paragraph contains a chemical extraction and continues if 'yes' is generated in the response.
+        expert_response: Asks the model to respond as if they are an expert at chemistry to try to make the response more accurate.
+
+    The goal of this function is to use a large language model to analyze paragraphs and extract descriptions of chemical separations from chemistry research papers.
+
+    Args:
+        model_name (str): A string representing the model as it is reprented in the transformers library.
+        contexts (list): A list of different paragraphs from research papers to be used as context for the large language model.
+        example (int, optional): An int representing which example to use. (0 = Zero-Shot, 1 = Few-Shot w/ one example, 2 = Few-Shot w/ two examples). Defaults to 1.
+
+    Returns:
+        Tuple: 
+            generations: list of the full responses generated by the model (includes context and examples)
+            answers: list of answers only generated by the model
+            t: float representing the time it took for the function to run
+    """
+    t1 = time.perf_counter()
+    questions_examples_dict = examples_dict[example]
+    generations = []
+    answers = []
+    model, tokenizer = load_model(model_name)
+    for context in contexts:
+        kt1 = time.perf_counter()
+        if len(set(context.split()).intersection(keywords)) > 0:
+            key_time = time.perf_counter() - kt1
+            print(f"Time to check keywords: {key_time}")
+
+            mt1 = time.perf_counter()
+            c = f"Context: {context}\n Question: Yes or no, does the above context describe a chemical extraction?\n Answer: "
+            filter = generate(model, tokenizer, c, max_new_tokens=20)
+            answer = filter[len(c):]
+            m_filter_time = time.perf_counter()-mt1
+            print(f"Time for model filter: {m_filter_time}")
+
+            if "Yes" in answer or "yes" in answer:
+                for q in questions:
+                    example = questions_examples_dict[q]
+                    input = f"{example} Context: {context}\n Question: {q}\n Respond as if you are an expert at chemistry.\n Answer: "
+                    gt1 = time.perf_counter()
+                    generation = generate(model, tokenizer, input)
+                    gen_time = time.perf_counter()-gt1
+                    print(f"Time to generate 1 response: {gen_time}")
+                    answer = generation[len(input):]
+                
+                    answer_context_dict[answer] = context
+                    generations.append(generation)
+                    answers.append(answer)
+    t = time.perf_counter() - t1
+    print(f"{len(answers)} generations in {t} seconds.")
+    return generations, answers, t
+
+
+def keyword_model_expert_check_generate(model_name: str, contexts: list, example=1):
+    """
+    This function combines four techniques to make responses as accurate as possible:
+        keyword_filtering: Throws away all context paragraphs that don't contain any keywords specified in the keywords set at the top of the file.
+        model_filtering: Asks the model to determine if the context paragraph contains a chemical extraction and continues if 'yes' is generated in the response.
+        expert_response: Asks the model to respond as if they are an expert at chemistry to try to make the response more accurate.
+        check_response: Asks the model to double check their answer by confirming if their response is truthful/accurate.
+
+    The goal of this function is to use a large language model to analyze paragraphs and extract descriptions of chemical separations from chemistry research papers.
+
+    Args:
+        model_name (str): A string representing the model as it is reprented in the transformers library.
+        contexts (list): A list of different paragraphs from research papers to be used as context for the large language model.
+        example (int, optional): An int representing which example to use. (0 = Zero-Shot, 1 = Few-Shot w/ one example, 2 = Few-Shot w/ two examples). Defaults to 1.
+
+    Returns:
+        Tuple: 
+            generations: list of the full responses generated by the model (includes context and examples)
+            answers: list of answers only generated by the model
+            t: float representing the time it took for the function to run
+    """
+    t1 = time.perf_counter()
+    questions_examples_dict = examples_dict[example]
+    generations = []
+    answers = []
+    model, tokenizer = load_model(model_name)
+    for context in contexts:
+        kt1 = time.perf_counter()
+        if len(set(context.split()).intersection(keywords)) > 0:
+            key_time = time.perf_counter() - kt1
+            print(f"Time to check keywords: {key_time}")
+
+            mt1 = time.perf_counter()
+            c = f"Context: {context}\n Question: Yes or no, does the above context describe a chemical extraction?\n Answer: "
+            filter = generate(model, tokenizer, c, max_new_tokens=20)
+            answer = filter[len(c):]
+            m_filter_time = time.perf_counter()-mt1
+            print(f"Time for model filter: {m_filter_time}")
+
+            if "Yes" in answer or "yes" in answer:
+                for q in questions:
+                    example = questions_examples_dict[q]
+                    input = f"{example} Context: {context}\n Question: {q}\n Respond as if you are an expert at chemistry.\n Answer: "
+                    gt1 = time.perf_counter()
+                    generation = generate(model, tokenizer, input)
+                    gen_time = time.perf_counter()-gt1
+                    print(f"Time to generate 1 response: {gen_time}")
+                    answer = generation[len(input):]
+                    # print(f"Answer: {answer} \n")
+                    # check = f"In regards to the context, {context}, is it correct to say that the response: {answer} is the correct evaluation of the question: {q} \n Respond yes or no: "
+                    check = f"Question: Answer yes or no: is the response, '{answer}' a truthful statement in regards to the context '{context}'? \n Answer:"
+
+                    ct1 = time.perf_counter()
+                    gen = generate(model, tokenizer, check, max_new_tokens=20)
+                    check_time = time.perf_counter()-ct1
+                    print(f"Time to check answer: {check_time}")
+
+                    confirm = gen[len(check):]
+                    # print(confirm)
+                    answer_questions_dict[answer] = q
+                    
+                    if "yes" in confirm or "Yes" in confirm:
+                        if "no" in confirm or "No" in confirm:
+                            pass
+                        else:
+                            answer_context_dict[answer] = context
+                            generations.append(generation)
+                            answers.append(answer)
+    t = time.perf_counter() - t1
+    print(f"{len(answers)} generations in {t} seconds.")
+    return generations, answers, t
+
+# TODO:
+def keyword_multi_model_expert_check_generate(model_name: str, contexts: list, example=1):
+    """
+    This function combines four techniques to make responses as accurate as possible:
+        keyword_filtering: Throws away all context paragraphs that don't contain any keywords specified in the keywords set at the top of the file.
+        multi_model_filtering: Asks the model to determine if the context paragraph contains a chemical extraction as well as if it describes a target, acid, elution, product, or resin and continues if 'yes' is generated in the response.
+        expert_response: Asks the model to respond as if they are an expert at chemistry to try to make the response more accurate.
+        check_response: Asks the model to double check their answer by confirming if their response is truthful/accurate.
+
+    The goal of this function is to use a large language model to analyze paragraphs and extract descriptions of chemical separations from chemistry research papers.
+
+    Args:
+        model_name (str): A string representing the model as it is reprented in the transformers library.
+        contexts (list): A list of different paragraphs from research papers to be used as context for the large language model.
+        example (int, optional): An int representing which example to use. (0 = Zero-Shot, 1 = Few-Shot w/ one example, 2 = Few-Shot w/ two examples). Defaults to 1.
+
+    Returns:
+        Tuple: 
+            generations: list of the full responses generated by the model (includes context and examples)
+            answers: list of answers only generated by the model
+            t: float representing the time it took for the function to run
+    """
+    t1 = time.perf_counter()
+    questions_examples_dict = examples_dict[example]
+    generations = []
+    answers = []
+    model, tokenizer = load_model(model_name)
+    for context in contexts:
+        kt1 = time.perf_counter()
+        if len(set(context.split()).intersection(keywords)) > 0:
+            key_time = time.perf_counter() - kt1
+            print(f"Time to check keywords: {key_time}")
+
+            mt1 = time.perf_counter()
+            c = f"Context: {context}\n Question: Yes or no, does the above context describe a chemical extraction?\n Answer: "
+            filter = generate(model, tokenizer, c, max_new_tokens=20)
+            answer = filter[len(c):]
+            m_filter_time = time.perf_counter()-mt1
+            print(f"Time for model filter: {m_filter_time}")
+
+            if "Yes" in answer or "yes" in answer:
+                for q in questions:
+                    example = questions_examples_dict[q]
+                    input = f"{example} Context: {context}\n Question: {q}\n Respond as if you are an expert at chemistry.\n Answer: "
+                    gt1 = time.perf_counter()
+                    generation = generate(model, tokenizer, input)
+                    gen_time = time.perf_counter()-gt1
+                    print(f"Time to generate 1 response: {gen_time}")
+                    answer = generation[len(input):]
+                    # print(f"Answer: {answer} \n")
+                    # check = f"In regards to the context, {context}, is it correct to say that the response: {answer} is the correct evaluation of the question: {q} \n Respond yes or no: "
+                    check = f"Question: Answer yes or no: is the response, '{answer}' a truthful statement in regards to the context '{context}'? \n Answer:"
+
+                    ct1 = time.perf_counter()
+                    gen = generate(model, tokenizer, check, max_new_tokens=20)
+                    check_time = time.perf_counter()-ct1
+                    print(f"Time to check answer: {check_time}")
+
+                    confirm = gen[len(check):]
+                    # print(confirm)
+                    answer_questions_dict[answer] = q
+                    
+                    if "yes" in confirm or "Yes" in confirm:
+                        if "no" in confirm or "No" in confirm:
+                            pass
+                        else:
+                            answer_context_dict[answer] = context
+                            generations.append(generation)
+                            answers.append(answer)
+    t = time.perf_counter() - t1
+    print(f"{len(answers)} generations in {t} seconds.")
+    return generations, answers, t
+
+
+def write_to_file(model_name: str, context: list, example=1, output_name = "keyword_model_expert_check_output.txt", filter = keyword_model_expert_check_generate):
     """
     This function takes a model name and a list of contexts, and writes the output of the generations by that model and context to a txt file with the name 
     specified by the output_name.
@@ -413,10 +683,11 @@ def write_to_file(model_name: str, context: list, output_name = "keyword_model_e
     Args:
         model_name (str): A string representing the model as it is reprented in the transformers library.
         context (list): A list of different paragraphs from research papers to be used as context for the large language model.
+        example (int, optional): An int representing which example to use. (0 = Zero-Shot, 1 = Few-Shot w/ one example, 2 = Few-Shot w/ two examples). Defaults to 1.
         output_name (str, optional): The name of the file to write to. Defaults to "keyword_filter_output.txt".
         filter (function, optional): The filter to use in the response generation. Defaults to keyword_filter_generate.
     """
-    _gen, _ans, _time = filter(model_name, context)
+    _gen, _ans, _time = filter(model_name, context, example)
 
     _time = round(_time, 2)
 
@@ -478,7 +749,7 @@ def main():
         for model in models:
             for filter in filters:
                 try:
-                    print(f"Model: {model} generating with {str(filter)[10:str(filter).index(' at')]} filter with {len(context)*len(questions)} potential generations.")
+                    print(f"Model: {model} generating with {str(filter)[10:str(filter).index(' at')]} filter with {len(context)*len(questions)} potential generations using example.")
                     write_to_file(model, context, output_name=f"{str(filter)[10:str(filter).index(' at')]}-{model[model.index('/')+1:]}-{parser}", filter=filter)
                 except Exception as e:
                     print(f"Error encountered running {model} with {str(filter)[10: str(filter).index(' at')]} filter.")
@@ -491,20 +762,34 @@ def test():
     parser = "html"
     context = get_context(parser)
 
-    relevant_models = {"facebook/opt-6.7b", "facebook/opt-2.7b", "meta-llama/Llama-2-13b-hf", "meta-llama/Llama-2-7b-hf"}
+    relevant_models = {"facebook/galactica-1.3b", "facebook/galactica-6.7b", "meta-llama/Llama-2-13b-hf", "meta-llama/Llama-2-7b-hf"}
     filters = {keyword_model_expert_check_generate, keyword_model_generate, keyword_filter_generate}
     
     for model in relevant_models:
         for filter in filters:
-            try:
-                print(f"Model: {model} generating with {str(filter)[10:str(filter).index(' at')]} filter with {len(context)*len(questions)} potential generations.")
-                write_to_file(model, context, output_name=f"{str(filter)[10:str(filter).index(' at')]}-{model[model.index('/')+1:]}-{parser}", filter=filter)
-            except Exception as e:
-                print(f"Error encountered running {model} with {str(filter)[10: str(filter).index(' at')]} filter.")
-                print(e)
-                continue
+            for i in range(0, 3):
+                try:
+                    print(f"Model: {model} generating with {str(filter)[10:str(filter).index(' at')]} filter with {len(context)*len(questions)} potential generations using example {i}.")
+                    write_to_file(model, context, i, output_name=f"{str(filter)[10:str(filter).index(' at')]}-{model[model.index('/')+1:]}-{parser}-{i}", filter=filter)
+                except Exception as e:
+                    print(f"Error encountered running {model} with {str(filter)[10: str(filter).index(' at')]} filter.")
+                    print(e)
+                    continue
 
+def context_test():
+    """"""
+    for i in range(0, 3):
+        print(i)
+        questions_examples_dict = examples_dict[i]
+        parser = "html"
+        contexts = get_context(parser)
+        context = contexts[0]
+        for q in questions:
+            example = questions_examples_dict[q]
+            input = f"{example} Context: {context}\n Question: {q}\n Respond as if you are an expert at chemistry.\n Answer: "
+            print(input)
 
 if __name__ == "__main__":
-     main()
-    # test()
+    # main()
+    test()
+    # context_test()
