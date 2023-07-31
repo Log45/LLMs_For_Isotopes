@@ -26,7 +26,7 @@ example_context_2 = "225Ac isolation. Actinium was isolated by the scheme shown 
 
 target_question = "What is the target material in the above reaction?"
 target_example_answer = "Since they say: 'the 64Ni target was dissolved in 6 M hydrochloride acid', then 64Ni, or Nickel-64, must be the target."
-target_example_answer_2 = "Since they say: 'Irradiated Th metal foils were dissolved in concentrated HNO3', then Th, or Thallium, must be the target."
+target_example_answer_2 = "Since they say: 'Irradiated Th metal foils were dissolved in concentrated HNO3', then Th, or Thorium, must be the target."
 
 acid_question = "What acid is the target material dissolved in during the above reaction?"
 acid_example_answer = "Since they say: 'the 64Ni target was dissolved in 6 M hydrochloride acid', then 6M hydrochloride acid must be the acid used to dissolve the target."
@@ -601,7 +601,7 @@ def keyword_model_expert_check_generate(model_name: str, contexts: list, example
     print(f"{len(answers)} generations in {t} seconds.")
     return generations, answers, t
 
-# TODO:
+# TODO: Maybe finish this and include for the paper, don't worry about it for the poster
 def keyword_multi_model_expert_check_generate(model_name: str, contexts: list, example=1):
     """
     This function combines four techniques to make responses as accurate as possible:
@@ -759,22 +759,24 @@ def main():
 
 def test():
 
-    parser = "html"
-    context = get_context(parser)
+    parsers = ["html", "pdf"]
+    
 
     relevant_models = {"facebook/galactica-1.3b", "facebook/galactica-6.7b", "meta-llama/Llama-2-13b-hf", "meta-llama/Llama-2-7b-hf"}
     filters = {keyword_model_expert_check_generate, keyword_model_generate, keyword_filter_generate}
     
-    for model in relevant_models:
-        for filter in filters:
-            for i in range(0, 3):
-                try:
-                    print(f"Model: {model} generating with {str(filter)[10:str(filter).index(' at')]} filter with {len(context)*len(questions)} potential generations using example {i}.")
-                    write_to_file(model, context, i, output_name=f"{str(filter)[10:str(filter).index(' at')]}-{model[model.index('/')+1:]}-{parser}-{i}", filter=filter)
-                except Exception as e:
-                    print(f"Error encountered running {model} with {str(filter)[10: str(filter).index(' at')]} filter.")
-                    print(e)
-                    continue
+    for parser in parsers:
+        context = get_context(parser)
+        for model in relevant_models:
+            for filter in filters:
+                for i in range(0, 3):
+                    try:
+                        print(f"Model: {model} generating with {str(filter)[10:str(filter).index(' at')]} filter with {len(context)*len(questions)} potential generations using example {i}.")
+                        write_to_file(model, context, i, output_name=f"{str(filter)[10:str(filter).index(' at')]}-{model[model.index('/')+1:]}-{parser}-{i}", filter=filter)
+                    except Exception as e:
+                        print(f"Error encountered running {model} with {str(filter)[10: str(filter).index(' at')]} filter.")
+                        print(e)
+                        continue
 
 def context_test():
     """"""
