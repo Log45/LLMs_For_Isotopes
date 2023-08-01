@@ -761,12 +761,10 @@ def main():
 
 def test():
 
-    parsers = ["html", "pdf"]
-    
-
+    parsers = ["pdf"]
     relevant_models = {"facebook/galactica-1.3b", "facebook/galactica-6.7b", "meta-llama/Llama-2-13b-hf", "meta-llama/Llama-2-7b-hf"}
     filters = {keyword_model_expert_check_generate, keyword_model_generate, keyword_filter_generate}
-    
+
     for parser in parsers:
         context = get_context(parser)
         for model in relevant_models:
@@ -779,6 +777,19 @@ def test():
                         print(f"Error encountered running {model} example {i} with {str(filter)[10: str(filter).index(' at')]} filter.")
                         print(e)
                         continue
+    
+    parser = "html"
+    context = get_context(parser)
+    i = 0
+    for model in relevant_models:
+        for filter in filters:
+            try:
+                print(f"Model: {model} generating with {str(filter)[10:str(filter).index(' at')]} filter with {len(context)*len(questions)} potential generations using example {i}.")
+                write_to_file(model, context, i, output_name=f"{str(filter)[10:str(filter).index(' at')]}-{model[model.index('/')+1:]}-{parser}-{i}", filter=filter)
+            except Exception as e:
+                print(f"Error encountered running {model} example {i} with {str(filter)[10: str(filter).index(' at')]} filter.")
+                print(e)
+                continue
 
 def context_test():
     """"""
