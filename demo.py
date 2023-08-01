@@ -69,11 +69,11 @@ questions_examples_dict_2 = {target_question : target_example_2,
                            elution_question : elution_example_2,
                            products_question : products_example_2}
 
-questions_examples_dict_0 = {target_question : "",
-                           acid_question : "",
-                           resin_question : "",
-                           elution_question : "",
-                           products_question : ""}
+questions_examples_dict_0 = {target_question : " ",
+                           acid_question : " ",
+                           resin_question : " ",
+                           elution_question : " ",
+                           products_question : " "}
 
 examples_dict = {0 : questions_examples_dict_0,
                  1 : questions_examples_dict_1,
