@@ -69,11 +69,11 @@ questions_examples_dict_2 = {target_question : target_example_2,
                            elution_question : elution_example_2,
                            products_question : products_example_2}
 
-questions_examples_dict_0 = {target_question : " ",
-                           acid_question : " ",
-                           resin_question : " ",
-                           elution_question : " ",
-                           products_question : " "}
+questions_examples_dict_0 = {target_question : "",
+                           acid_question : "",
+                           resin_question : "",
+                           elution_question : "",
+                           products_question : ""}
 
 examples_dict = {0 : questions_examples_dict_0,
                  1 : questions_examples_dict_1,
@@ -708,9 +708,11 @@ def write_to_file(model_name: str, context: list, example=1, output_name = "keyw
 
     k = f"Generated {len(_gen)} responses in {_time} seconds with average perplexity score of {round(avg_score, 2)}"
     for i in range(len(_gen)):
-        ans_idx = _gen[i].index('Answer:')
-        gen = _gen[i][ans_idx:]
-        gen = gen[gen.index('Context:'):]
+        gen = _gen[i]
+        if example != 0:
+            ans_idx = _gen[i].index('Answer:')
+            gen = _gen[i][ans_idx:]
+            gen = gen[gen.index('Context:'):]
         question_index = gen.index('Question:')
         ans = _ans[i]
         c = answer_context_dict[ans]
@@ -774,7 +776,7 @@ def test():
                         print(f"Model: {model} generating with {str(filter)[10:str(filter).index(' at')]} filter with {len(context)*len(questions)} potential generations using example {i}.")
                         write_to_file(model, context, i, output_name=f"{str(filter)[10:str(filter).index(' at')]}-{model[model.index('/')+1:]}-{parser}-{i}", filter=filter)
                     except Exception as e:
-                        print(f"Error encountered running {model} with {str(filter)[10: str(filter).index(' at')]} filter.")
+                        print(f"Error encountered running {model} example {i} with {str(filter)[10: str(filter).index(' at')]} filter.")
                         print(e)
                         continue
 
