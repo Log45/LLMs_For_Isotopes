@@ -1,0 +1,18 @@
+Generated 2 responses in 1438.53 seconds with average perplexity score of 12.65
+
+
+<s>  Context: High purity reagents were used for production of 64Cu in this study. Isotopically enriched 64Ni (99.32% 64Ni; 0.13% 58Ni; 0.07% 60Ni; 0.01% 61Ni; 0.47% 62Ni) was from Isoflex Company (San Francisco, CA, USA); (NH4)2SO4 (99.999% metals basis) from Alfa Aesar (Ward Hill, MA, USA); concentrated HCl (99.999% trace metals basis), HNO3 (99.999% trace metals basis), and NH4OH (99.99% trace metals basis) were purchased from Sigma-Aldrich (St. Louis, MO, USA); AG®1-X8 ion exchange resin was from Bio-Rad Laboratories (Hercules, CA, USA); platinum wire (99.997% metals basis) from Alfa Aesar (Ward Hill, MA, USA); Ni2+ analytical test strips from Qtantofix (Sigma-Aldrich, St. Louis, MO, USA); disposable PD-10 desalting columns were from GE Healthcare (Piscataway, NJ, USA).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni is the target material.
+Score: 14.05
+
+
+
+<s>  Context: Further investigation into the ZHER3 affibody involved modifying the chelator to determine if imaging qualities could be improved [135]. In addition to NOTA, which was used previously, DOTA-, NODAGA-, and DOTAGA-tagged ZHER3 were 57Co labeled. In vitro assays showed nearly equal, blockable binding of the affibody conjugated DOTA, NODAGA, and DOTAGA. The measured equilibrium disassociation constants, KD, were 0.2 nM for DOTA and DOTAGA constructs and 0.1 nM for the NOTA and NODAGA constructs. Interestingly, the internalization fraction of [57Co]Co-NOTA-ZHER3 in DU145 cells was observed to be 5% over 24 h, while their previous study showed as compared to 50% in their previous study [134]. In vivo, [57Co]Co-(NOTA/NODAGA/DOTA/DOTAGA)-ZHER3 were compared at 3 h and 24 h PI. The DOTA- and DOTAGA-conjugated affibodies showed more rapid blood clearance than those labeled with NOTA and NODAGA. [57Co]Co-DOTA-ZHER3 was compared to [68Ga]Ga-NODAGA-ZHER3 at 3 h post injection and [57Co]Co-DOTA-ZHER3 was followed to 24 h (see Figure 21 below). At 3 h, [68Ga]Ga-NODAGA-ZHER3 showed similar tumor uptake but lower blood, liver, and small intestine uptake. By 24 h, [57Co]Co-DOTA-ZHER3 showed similar tumor to organ ratios as 68Ga at 3 h PI [135].
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: 57Co-DOTA-ZHER3.
+Score: 11.25

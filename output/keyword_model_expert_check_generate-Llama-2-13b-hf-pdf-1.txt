@@ -1,0 +1,131 @@
+Generated 19 responses in 1370.3 seconds with average perplexity score of 21.24
+
+
+Context: Article Establishing Reliable Cu-64 Production Process: From Target Plating to Molecular Speciﬁc Tumor Micro-PET Imaging Qinghua Xie 1,2,†, Hua Zhu 2,†, Feng Wang 2, Xiangxi Meng 3, Qiushi Ren 3, Chuanqin Xia 1,* and Zhi Yang 2,* 1 College of Chemistry, Sichuan University, Chengdu 610064, China; qinghxie@163.com 2 Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education), Department of Nuclear Medicine, Peking University Cancer Hospital & Institute, Beijing 100142, China; zhuhuananjing@163.com (H.Z.); windtigerwf@163.com (F.W.)
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+
+
+Context: Article Establishing Reliable Cu-64 Production Process: From Target Plating to Molecular Speciﬁc Tumor Micro-PET Imaging Qinghua Xie 1,2,†, Hua Zhu 2,†, Feng Wang 2, Xiangxi Meng 3, Qiushi Ren 3, Chuanqin Xia 1,* and Zhi Yang 2,* 1 College of Chemistry, Sichuan University, Chengdu 610064, China; qinghxie@163.com 2 Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education), Department of Nuclear Medicine, Peking University Cancer Hospital & Institute, Beijing 100142, China; zhuhuananjing@163.com (H.Z.); windtigerwf@163.com (F.W.)
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl.
+Score: 22.02
+
+
+
+Context: techniques, to determine the uniformity, to characterize the metallic impurities, and to measure the thickness of 64Ni layer on Au-disk. The SEM (scanning electron microscopy) image (Figure 2b) of the 64Ni solid target showed the uniform layer of Ni on Au surface. The EDS (energy dispersive X-ray spectroscopy) (Table 1 and Figure 2c) results showed no signiﬁcant amount of metallic impurities in the 64Ni layer. The 64Ni target thickness on Au-disk was measured to be 10.73 µm by alpha step apparatus (Figure 2d).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni is the target material.
+Score: 17.75
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 28.25
+
+
+
+Context: In this study, we presented the improved method for the preparation of 64Cu, especially the improved efﬁciency of electroplating of 64Ni. The 64Ni solid target on an Au-disk has a uniform surface, with the thickness of 10.73 µm, and no metallic impurities. The total plated 64Ni was 70.6 ± 5.8 mg and the density of the plated 64Ni was 61.4 ± 5.0 mg/cm2 (assuming a uniform thickness). After irradiation of the target and puriﬁcation, the gamma spectrum of the produced 64Cu showed its radionuclide purity to be >99%, with both peaks at 511 keV and 1346 keV. In addition, the produced 64CuCl2 solution has high speciﬁc activity up to 5.6 GBq/µmoL. It was further incorporated into the modiﬁed monoclonal antibody DOTA-rituximab to synthesize 64Cu-DOTA-rituximab, which was further used successfully for micro-PET imaging. Acknowledgments: This work was supported, in part, by the National Natural Science Foundation of China (No. 81371592, No. 81401467, No. 81501519, No. 81571705 and No. 81671733), Beijing Natural Science Foundation (No. 7162041 and No. 7171002), Beijing Municipal Commission of Health and Family Planning (215 backbone program), and 2017 Beijing Science & Technology Nova Star Program (xx2017016). Author Contributions: Q.X., H.Z., X.M., Q.R., C.X. and Z.Y. conceived and designed the experiments; Q.X., H.Z., F.W. and X.M. performed the experiments; Q.X., H.Z. and X.M. analyzed the data; Q.X. and H.Z. wrote the paper.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni is the target material.
+Score: 17.75
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl.
+Score: 22.02
+
+
+
+Context: Cobalt-55 production was reported in 1938 from alpha irradiation of manganese [18] and has since been reported from many target materials and incident beams. Practically, two reactions are best suited for producing activities of cobalt-55 with few impurities: 58Ni(p,α)55Co and 54Fe(d,n)55Co, which are accessible on low energy cyclotrons [19]. These reactions have been thoroughly and recently reviewed by the International Atomic Energy Agency and signiﬁcant independent efforts resulting in recommended excitation functions for the reactions discussed below [20]. The 58Ni(p,α)55Co reaction has been employed by many groups [14,21–24]. Sev- eral radioisotopic and radionuclidic impurities can be formed in this process. Cobalt-57 (t1/2 = 271.7 d, Eγ= 1377 keV, Iγ = 81.7%) is produced from 58Ni(p,2p)57Co above 15 MeV [23], and production of cobalt-56 occurs above 25 MeV [25]. Nickel-57 (t1/2 = 35.68 h, β+ = 44%, Eγ= 1377.6 keV, Iγ = 81.7%) is primarily produced via the 58Ni(p,2p)57Cu, which decays to nickel-57 with a half-life of 196 ms [21]. This reaction occurs above the threshold of 12 MeV, and is useful for monitoring separation efﬁciency during process development. However, nickel-57 decays to cobalt-57, which cannot be separated from cobalt-55. Natural nickel targets can also be used, but result in increased impurities that limit downstream clinical work [26]. Cobalt-55 can also be produced by the 54Fe(d,n)55Co reaction [27]. Theoretically, this method affords radioisotopically pure cobalt-55 compared with the proton-induced route described above, avoiding cobalt-56 and cobalt-57. Practically, purities are limited by the achievable enrichment of the iron-56 target. The excitation function peaks near 7 MeV (Figure 1) [28]. Finally, manganese-52m is also coproduced via the 54Fe(d,α)52mMn reaction, which has a threshold energy of 4 MeV [28].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 58Ni(p,α)55Co and 54Fe(d,n)55Co are accessible on low energy cyclotrons. These reactions have been thoroughly and recently reviewed by the International Atomic Energy
+Score: 12.02
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 58Ni(p,α)55Co and 54Fe(d,n)55Co, which are accessible on low energy cyclotrons [19]. These reactions have been thoroughly and recently reviewed by
+Score: 12.05
+
+
+
+Context:  Figure 12. Excitation functions for the production of cobalt-58 from (α,n) reaction (a) and cobalt-57 (b) on manganese- 55 [29,30,32,35,78–84]. In addition to charged particle-induced reactions, several alternative and less prag- matic routes to cobalt-58m can be contemplated, e.g., quasi-monoenergetic neutron or triton irradiations. Quasi-monoenergetic neutrons can be produced via 2H(d,n)3He re- action on hydrogen-2 gas targets. The neutrons bombard nickel or cobalt induce the 58Ni(n,p)58mCo and 59Co(n,2n)58mCo reactions [29,75]. Tritons can be generated via the 6Li(n,α)3H reaction within a nuclear reactor with an energy of 2.736 MeV. These ions go on to bombard [56Fe]Fe2O3 targets to produce cobalt-58m,g via the 56Fe(t,n)58mCo reaction route [76,85]. These alternative reactions currently rely on rare accelerator infrastructure or on signiﬁcantly increased scale in terms of beam intensities. Overall, while the high cross section of 55Mn(α,n)58mCo makes it appealing, the 58Fe(p,n)58mCo and 57Fe(d,n)58mCo reactions are more practical for widespread use due to the accessibility of protons and deuterons in global accelerator installations. These are the only reactions whose literature descriptions include thick target yield measurements obtained in conjunction with radiochemical separations and radiolabeling efforts. A com- parison of the experimentally determined thick target yields and theoretical yields are shown in Figures 13–16. Figure 13. Thick target yield comparison between theoretical data and experimentally collected data for iron-54 targets at (a) 8.2 MeV and (b) 12 MeV [26,86,87].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 40.48
+
+
+
+Context:  Figure 14. Thick target yield comparison between theoretical data and experimentally collected data for nickel-58 targets at (a) 15 MeV and (b) 16 MeV [14,23,26]. Figure 15. Thick target yield comparison between theoretical data and experimentally collected data for iron-57 targets at 8.2 MeV [26].
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu and 64Ni.
+Score: 28.45
+
+
+
+Context:  The separation of cobalt-5x from iron-5x uses a two column technique, as shown in Figure 18. An AG1X8 anion-exchange resin packed column is used for the bulk separation of iron and cobalt, then a DGA column serves as a “clean up” to further improve the puriﬁcation of cobalt-5x [26]. While there has not been a publication speciﬁcally on the separation of manganese target material from cobalt-55,58m, the work performed by Pourmand et al. suggests branched DGA can also be used for radio-chemical isolation using 4–6 M HCl, where in this range manganese 2+ has minimal afﬁnity for the resin, and cobalt 2+ has a greater afﬁnity [95].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 32.62
+
+
+
+Context: The cell surface protein gastrin-releasing peptide receptor (GRPR) has become a popu- lar imaging target in recent years. GRPR is overexpressed by a large number of cancers including prostate, pancreatic, colon, and non-small cell lung cancers [108]. Agonist pep- tides such as bombesin bind to GRPR, trigger downstream signaling and are subsequently internalized into the cell. They have higher binding afﬁnity than antagonists and are taken up in organs with endogenous GRPR expression such as the pancreas, stomach, intestines and adrenal glands [109]. The lower binding afﬁnity of GRPR antagonists, however, may be advantageous for imaging studies as it leads to lower uptake in normal tissues [110]. The ﬁrst cobalt-55 imaging of GRPR was reported in 2016 by Dam et al. [111] and compared 55Co-, 57Co-, and 68Ga-labeled GRPR agonist NOTA-AMBA (NOTA-Gly-4-ABz- Gln-Trp-Ala-Gly-His-Leu-Met-NH2) in a PC3 prostate cancer. 57Co- and 68Ga-labeled NOTA-AMBA were found to have similar receptor afﬁnities, serum stabilities, and phar- macokinetics at 1 h and 4 h PI [55Co]Co-NOTA-AMBA enabled PET imaging at a 24 h timepoint (and beyond) which is not possible with [68Ga]Ga-NOTA-AMBA and revealed encouraging clearance of the tracer and stable late uptake of [5xCo]Co-NOTA-AMBA in the tumor [111]. In 2017, Mitran et al. reported radiolabeling GRPR antagonist RM26 (NOTA-PEG2- [D-Phe, Sta, Leu] bombesin [6–14]) with cobalt-55 and cobalt-57 [13]. Cell binding and internalization were investigated in PC3 cells and a mouse PC3 xenograft tumor model. They observed 12% cell internalization at 24 h which is similar to what has been reported for [111In]In-NOTA-PEG2-RM26 [112]. Biodistribution studies in PC3 tumor-bearing mice showed that at 3 h PI the tumor uptake was greater than uptake in any other organ including the kidneys. PET imaging studies using [55Co]Co-NOTA-PEG2-RM26 showed clear tumor uptake at 3 h PI and by 24 h PI the tumor showed high uptake (Figure 20). The IC50 for Co-NOTA-PEG2-RM26 (5.54 ± 0.4 nM) [10] is approximately 10-fold higher than Co-NOTA-AMBA (0.46 ± 0.20 nM) [13,111]. In vivo comparisons between [57Co]Co-NOTA-AMBA and [57Co]Co-NOTA-PEG2-RM26 are complicated as the early imaging times are not matched between studies. However, comparison at the 24 h timepoint shows greater uptake of [57Co]Co-NOTA-AMBA than [57Co]Co-NOTA-PEG2-RM26 in the tumor as well as many other organs. Even though the tumor uptake was less, the tumor to organ ratios for [57Co]Co-NOTA-PEG2-RM26 were sometimes 100-fold greater than what was observed with [57Co]Co-NOTA-AMBA. This was most notable in tissues with high GRPR expression such as the colon, pancreas, and stomach. The 24 h PI PET images provided, with both papers similarly showing lower non-target organ accumulation with the [55Co]Co-NOTA-PEG2-RM26 than with [55Co]Co-NOTA-AMBA. Recently, Mitran et al. investigated the impact chelator modiﬁcation had on PEG2- RM26 cell binding, internalization, and biodistribution in PC-3 prostate cancer [113]. PEG2- RM26 was bound to NOTA, DOTA, NODAGA, or DOTAGA and radiolabeled with cobalt- 55 and cobalt-57. The NOTA- and DOTA-labeled peptides showed the highest uptake in PC-3 cells in vitro and DOTA-labeled peptide had the highest tumor uptake in vivo by 24 h PI. In PET imaging studies, NOTA and DOTA PEG2-RM26 showed near-complete clearance of the radiotracer from the kidneys and GI tract by 24 h, whereas NODAGA and DOTAGA had residual GI and kidney uptake respectively.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 64Ni is a radioactive isotope of nickel. It is used in medical imaging and therapy. 64Ni is produced by the nuclear reaction of 64Ni(p,n)64
+Score: 4.65
+
+
+
+Context:  Further investigation into the ZHER3 afﬁbody involved modifying the chelator to determine if imaging qualities could be improved [135]. In addition to NOTA, which was used previously, DOTA-, NODAGA-, and DOTAGA-tagged ZHER3 were 57Co labeled. In vitro assays showed nearly equal, blockable binding of the afﬁbody conjugated DOTA, NODAGA, and DOTAGA. The measured equilibrium disassociation constants, KD, were 0.2 nM for DOTA and DOTAGA constructs and 0.1 nM for the NOTA and NODAGA con- structs. Interestingly, the internalization fraction of [57Co]Co-NOTA-ZHER3 in DU145 cells was observed to be 5% over 24 h, while their previous study showed as compared to 50% in their previous study [134]. In vivo, [57Co]Co-(NOTA/NODAGA/DOTA/DOTAGA)- ZHER3 were compared at 3 h and 24 h PI. The DOTA- and DOTAGA-conjugated afﬁbod- ies showed more rapid blood clearance than those labeled with NOTA and NODAGA. [57Co]Co-DOTA-ZHER3 was compared to [68Ga]Ga-NODAGA-ZHER3 at 3 h post injection and [57Co]Co-DOTA-ZHER3 was followed to 24 h (see Figure 21 below). At 3 h, [68Ga]Ga- NODAGA-ZHER3 showed similar tumor uptake but lower blood, liver, and small intestine uptake. By 24 h, [57Co]Co-DOTA-ZHER3 showed similar tumor to organ ratios as 68Ga at 3 h PI [135]. Figure 21. Chemical structures and charges of studied cobalt-chelate complexes (A). SPECT/CT images of the [57Co]Co- HEHEHE-ZHER3-X afﬁbody with NOTA, NODAGA, or DOTA chelator (B). For each agent tested, the later imaging timepoint produced better tumor contrast. PET/CT of [68Ga]Ga-HEHEHE-ZHER3-NODATA was only possible to 3 h PI and showed greater kidney accumulation (C) [135]. The anti-HER2 [57Co]Co-DOTA-Z2395-C and anti HER3 [57Co]Co-ZHER3 afﬁbodies showed promising tumor uptake, rapid blood clearance, and good imaging properties in the models tested. They would very likely translate well for labeling with 55Co for PET imaging. As a potential therapeutic, a 58mCo-labeled HER2/HER3 afﬁbody may not show signiﬁcant internalization needed for effective therapeutic response.
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 57Co is a radioactive isotope of cobalt.
+Score: 15.15
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.56
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl is used in the elution during the above reaction.
+Score: 38.75
+
+Question: What are the products of the above reaction?
+Answer:er: 57Co is a radioactive isotope of cobalt. It is a beta emitter with a half-life of 277 days. It is used in PET imaging.
+Score: 6.61
+
+
+
+Context: production of high speciﬁc activity 64Cu using a biomedical cyclotron. Nucl. Med. Biol. 1997, 24, 35–43. [CrossRef] Szelecsényi, F.; Blessing, G.; Qaim, S.M. Excitation functions of proton induced nuclear reactions on enriched Ni-62 and Ni-64: Possibility of production of no-carrier-added Cu-62 and Cu-64 at small cyclotron. Appl. Radiat. Isot. 1993, 44, 575–580. [CrossRef] 92. VOSBURGH, G.J.; FLEXNER, L.B.; COWIE, D.B. The determination of radioactive iron in biological material with particular reference to puriﬁcation and separation of iron with isopropyl ether, ashing and electroplating technique, and accuracy of the method. J. Biol. Chem. 1948, 175, 391–404. [CrossRef] 93. Graves, S.A.; Hernandez, R.; Valdovinos, H.F.; Ellison, P.A.; Engle, J.W.; Barnhart, T.E.; Cai, W.; Nickles, R.J. Preparation and in vivo characterization of 51MnCl2 as PET tracer of Ca2+ channel-mediated transport. Sci. Rep. 2017, 7, 1–8. [CrossRef] 94. Bate, L.C.; Leddicotte, G.W. The Radiochemistry of Cobalt; Oak Ridge National Lab: Oak Ridge, TN, USA, 1961. 95. Pourmand, A.; Dauphas, N. Distribution coefﬁcients of 60 elements on TODGA resin: Application to Ca, Lu, Hf, U and Th isotope
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni is the target material.
+Score: 17.75
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 23.9
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu and 64Ni.
+Score: 15.97

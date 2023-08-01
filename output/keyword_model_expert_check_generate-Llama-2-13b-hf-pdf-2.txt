@@ -1,0 +1,225 @@
+Generated 25 responses in 1395.7 seconds with average perplexity score of 18.45
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: 228Ac, or Actinium-228, must be the product.
+Score: 27.37
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1 M HCl.
+Score: 22.02
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu, or Copper-64, must be the product.
+Score: 13.44
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 64Cu is produced by the β+ decay of 64Ni. The 64Ni is enriched to 99.32% and then dissolved in 6 M HCl. The 
+Score: 7.09
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 17.4
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the product.
+Score: 18.23
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M HCl.
+Score: 24.21
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 64Ni is a radioactive isotope of nickel. It is a beta-emitter with a half-life of 76,000 years. It is used in medical imaging and therapy.
+Score: 5.91
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 5 M HNO3.
+Score: 24.32
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu, or Copper-64, must be the product.
+Score: 21.73
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 55Co is produced from the reaction of 56Fe with neutrons. The reaction is: 56Fe(n,γ)57Fe(β−)55Co.
+Score: 7.47
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 55Co is produced from the reaction 59Fe(d,n)58Co. The target material is iron. The target material is dissolved in 6 M HCl.
+Score: 17.02
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 58Ni(p,α)55Co and 54Fe(d,n)55Co, which are accessible on low energy cyclotrons [19]. These reactions have been thoroughly and recently reviewed by
+Score: 12.05
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 58Ni(p,α)55Co and 54Fe(d,n)55Co, which are accessible on low energy cyclotrons [19]. These reactions have been thoroughly and recently reviewed by
+Score: 12.05
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 58Fe, or Iron-58, must be the target.
+Score: 13.2
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 58Ni, or Nickel-58, must be the target.
+Score: 32.33
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er:  Since they say: 'the residue was dissolved in 5 M HNO3', then 5M HNO# must be the acid used to dissolve the target.
+Score: 38.67
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 55Co-NOTA-PEG2-RM26 was prepared by incubating 55Co-NOTA-PEG2-RM26 with 10 mM EDTA for 10 min
+Score: 8.3
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 57Co is a radioactive isotope of cobalt.
+Score: 13.46
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 57Co is a radioactive isotope of cobalt. It is a beta emitter with a half-life of 277 days. It is used in PET imaging and in radiotherapy.
+Score: 6.16
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 1. Since they say: 'the measured equilibrium disassociation constants, KD, were 0.2 nM for DOTA and DOTAGA constructs and 0.1 nM for the NOTA and NODA
+Score: 21.89
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 1. Since they say: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/
+Score: 31.11
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 17.4
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 3-8M HNO3 must be the acid used to dissolve the target.
+Score: 26.8
+
+
+
+Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction and extraction chromatography. Irradiated Th metal foils were dissolved in concentrated HNO3, the solution was evaporated to dryness, the residue was dissolved in 3–8 M HNO3, and Th was extracted with two portions of 1–5 M TBP or 0.1–0.5 M TOPO solution in toluene [21]. After the Th extraction, the aqueous phase was evaporated to dryness, concentrated HClO4 was added, and the solution was evaporated to dryness to remove Ru isotopes. For further purification, the residue was dissolved in 5 M HNO3 and subjected to extraction chromatography in 5 M HNO3 in a column (volume 2.5 ml) packed with a sorbent based on octylphenyl-N,N-diisobutylcarbamoylmethylphosphine oxide (TRUresin®, Eichrom Technologies, Inc.) [11, 22]. After washing the column with 15 ml of 5 M HNO3, Ac was eluted with the next 15 ml of 5 M HNO3, and the solution was collected. For complete purification of Ac, the extraction chromatography was performed twice. The radiochemical purity of 225Ac was determined by γ- and α-ray spectrometry with a semiconductor PIPS detector (Canberra).
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu, or Copper-64, must be the product.
+Score: 21.73

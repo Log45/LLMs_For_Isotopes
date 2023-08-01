@@ -1,0 +1,139 @@
+Generated 21 responses in 1949.73 seconds with average perplexity score of 12.77
+
+
+<s>  Context: Development of a procedure for separation of radiochemically pure 228Ac from natural thorium. It was shown that 228,232Th is extracted with HDEHP from a 4 M HNO3 solution nearly quantitatively (99%), with no 228Ra extracted in this case. An additional puriﬁ cation of 228Ra remaining in the aqueous phase to remove thorium was performed by its passing through a column with extraction-chromatographic sorbent LN, with 99.9% 228Ra and not more than 0.01% 228,232Th contained in the eluate. 228Ra and 228Ac were separated by the extraction-chromatographic method on the RE sorbent. It can be seen in Fig. 2, which shows a chromatogram, that 228Ra is quantitatively extracted in 2–5-mL fractions and 228Ac in 13–16-mL fractions. The ﬂ ow rate of the eluate was 1 mL/min, which makes it possible to separate 228Ra and 228Ac in 20 min. It was
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 228Ac
+Score: 8.94
+
+Question: What are the products of the above reaction?
+Answer:er: 228Ac and 228Ra.
+Score: 17.74
+
+
+
+<s>  Context: Article Establishing Reliable Cu-64 Production Process: From Target Plating to Molecular Speciﬁc Tumor Micro-PET Imaging Qinghua Xie 1,2,†, Hua Zhu 2,†, Feng Wang 2, Xiangxi Meng 3, Qiushi Ren 3, Chuanqin Xia 1,* and Zhi Yang 2,* 1 College of Chemistry, Sichuan University, Chengdu 610064, China; qinghxie@163.com 2 Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education), Department of Nuclear Medicine, Peking University Cancer Hospital & Institute, Beijing 100142, China; zhuhuananjing@163.com (H.Z.); windtigerwf@163.com (F.W.)
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 1.0 M HCl.
+Score: 6.33
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1.0 M HCl.
+Score: 6.53
+
+
+
+<s>  Context:  The quality of the 64Ni solid target prepared above was evaluated by a number of physical
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni
+Score: 7.98
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er:  HCl
+Score: 5.98
+
+
+
+<s>  Context: After electroplating, the 64Ni solid target was examined by measuring 64Ni thickness, composition and structure. The thickness was measured by alpha step apparatus, the composition was measured by scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM-EDS), and the structure was characterized by scanning electron microscopy (SEM). Meanwhile, the identity of metallic impurities of the 64Ni target was further analyzed by energy dispersive X-ray spectroscopy (EDS).
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 64Ni is a radioactive isotope of nickel. It is used in nuclear medicine for the treatment of cancer.
+Score: 7.89
+
+Question: What are the products of the above reaction?
+Answer:er: 64Ni(s) + 64Zn(s) → 64Ni(s) + 64Zn(s)
+Score: 5.22
+
+
+
+<s>  Context: dissolution of the target material took about 40 min under heating, and then the solution was loaded on an anion exchange column (AG 1-X8) pretreated with 18 MΩ·cm water and 6 M HCl, sequentially. The enriched 64Ni was eluted with 6 M HCl and collected for recycling, and the 64Cu fraction was eluted with 1 M HCl, which was further evaporated to dryness. The residue was ﬁnally dissolved in 0.1 M HCl for further use. All of these procedures were performed using an automated system and carried out in a hot cell with remote control (Figure 7, Sumitomo Heavy Industries, Ltd., Tokyo, Japan).
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: 64Ni(CO3)2 + 64Cu(CO3)2 → 64Ni(CO3)3 + 64Cu(CO3)2.
+Score: 5.74
+
+
+
+<s>  Context: loaded on an anion exchange column (AG 1-X8) pretreated with 18 MΩ·cm water and 6 M HCl, sequentially. The enriched 64Ni was eluted with 6 M HCl and collected for recycling, and the 64Cu fraction was eluted with 1 M HCl, which was further evaporated to dryness. The residue was finally dissolved in 0.1 M HCl for further use. All of these procedures were performed using an automated system and carried out in a hot cell with remote control (Figure 7, Sumitomo Heavy
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Cu
+Score: 28.24
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 6 M HCl
+Score: 28.03
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu is the product of the reaction.
+Score: 6.66
+
+
+
+<s>  Context: Both cobalt-55 and cobalt-58m are produced primarily from charged particle irradi- ation of iron or nickel targets. The availability of deuterons likely increases the purity of achievable cobalt-55 but has less bearing on the production of cobalt-58m except for from a target material cost perspective. Practically speaking, clinical application will always have to carefully consider target isotopic enrichment, but target fabrication and recovery are well developed (and reported) processes. These processes are described in greater detail below, treating the nuclear reactions relevant to each radionuclide separately. It should be stated that all radiation decay information comes from Brookhaven National Lab NuDat database [17].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:er: 58mCo is produced from the reaction of 58Co with a deuteron.
+Score: 20.66
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er:  HCl
+Score: 5.76
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1.0 M HCl
+Score: 27.54
+
+
+
+<s>  Context: Cobalt-55 production was reported in 1938 from alpha irradiation of manganese [18] and has since been reported from many target materials and incident beams. Practically, two reactions are best suited for producing activities of cobalt-55 with few impurities: 58Ni(p,α)55Co and 54Fe(d,n)55Co, which are accessible on low energy cyclotrons [19]. These reactions have been thoroughly and recently reviewed by the International Atomic Energy Agency and signiﬁcant independent efforts resulting in recommended excitation functions for the reactions discussed below [20]. The 58Ni(p,α)55Co reaction has been employed by many groups [14,21–24]. Sev- eral radioisotopic and radionuclidic impurities can be formed in this process. Cobalt-57 (t1/2 = 271.7 d, Eγ= 1377 keV, Iγ = 81.7%) is produced from 58Ni(p,2p)57Co above 15 MeV [23], and production of cobalt-56 occurs above 25 MeV [25]. Nickel-57 (t1/2 = 35.68 h, β+ = 44%, Eγ= 1377.6 keV, Iγ = 81.7%) is primarily produced via the 58Ni(p,2p)57Cu, which decays to nickel-57 with a half-life of 196 ms [21]. This reaction occurs above the threshold of 12 MeV, and is useful for monitoring separation efﬁciency during process development. However, nickel-57 decays to cobalt-57, which cannot be separated from cobalt-55. Natural nickel targets can also be used, but result in increased impurities that limit downstream clinical work [26]. Cobalt-55 can also be produced by the 54Fe(d,n)55Co reaction [27]. Theoretically, this method affords radioisotopically pure cobalt-55 compared with the proton-induced route described above, avoiding cobalt-56 and cobalt-57. Practically, purities are limited by the achievable enrichment of the iron-56 target. The excitation function peaks near 7 MeV (Figure 1) [28]. Finally, manganese-52m is also coproduced via the 54Fe(d,α)52mMn reaction, which has a threshold energy of 4 MeV [28].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er:  HCl
+Score: 23.78
+
+
+
+<s>  Context: As stated by Valdovinos et al., it is preferrable to use extraction chromatography instead of traditional ion exchange resins to increase separation yield and purity level [26]. This realization allowed for the implementation of N,N,N(cid:48),N(cid:48)-tetrakis-2-ethylhexyldiglycolamide (DGA Branched extraction resin). The most recent published separation methods from both nickel and iron targets of varying enrichments use branched DGA to chemically isolate radioactive cobalt.
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 1.0 M HCl.
+Score: 26.36
+
+
+
+<s>  Context: While not widely used for radiochemistry, early studies showed that cobalt can be separated from iron 3+ and nickel 2+ with the use of inorganic and organic absorbents [94]. Many of the inorganic separations were using alumina, a polar column chromatography absorbent [96]. The organic separations from iron 2+ and nickel 2+ rely on columns of 8-hydroxyquinoline, naphthaquinoline, and cupferron mixed with potato starch or dimethylglyoxime compound columns, as reported by Bate and Leddicotte, [94]. 5. Applications of Cobalt-55,58m 5.1. Free Cobalt-55 Free cobalt in the form of cobalt 2+ has been found to behave in the body similarly to calcium 2+ [97]. This has been found to be especially useful in tissues damaged by ischemia as these tissues contain high levels of intracellular calcium [98]. [55Co]CoCl2 PET has been used to image areas of the brain affected by ischemic stroke, showing that [55Co]CoCl2 uptake is inversely correlated to relative cerebral blood ﬂow (rCBF) [99]. Additionally,
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: 58mCo2+ + 2H+ + 2e- → 58mCo + H2O
+Score: 11.27
+
+
+
+<s>  Context: Targeting Agent Molecular Target
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 
+Score: 6.14
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 
+Score: 5.91
+
+Question: What are the products of the above reaction?
+Answer:er: 1-bromo-2-chloro-1,3-dioxane
+Score: 5.41
