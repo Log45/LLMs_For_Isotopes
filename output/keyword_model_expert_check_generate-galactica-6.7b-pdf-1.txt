@@ -1,0 +1,274 @@
+Generated 31 responses in 1579.82 seconds with average perplexity score of 21.91
+
+
+Context: Studies concerned with the possibility of targeted delivery of actinium examined the sorption of 225Ac on various supports in radiopharmpreparations. For example, it has been shown that it is possible to use liposomal carriers [11–14] or nanoparticles based on inorganic substances: LaPO4 [15–19], InPO4 [20], GdVO4 [21], and TiO2 [22]. At the same time, application of carbon nanomaterials (CNMs) seems to be promising because of the important properties: potential biocompatibility of their separate forms, accessibility in industrial amounts, low cost as compared with vector molecules, and the possibility of varying their biodistribution upon an appropriate modifi cation. However, the evidence about using CNMs as actinium supports is extremely scarce [23, 24]. In this context, the goal of the present study was to develop a method for quantitative isolation of 228Ac as a product of 228Ra decay from natural thorium, with their subsequent separation and using the isolated 228Ac in the radiochemically pure state to examine the sorption of actinium on CNM sample with varied structure and physicochemical properties.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.41
+
+
+
+Context:  mixture was kept for one month till the complete decay of 224Ra. In the fi nal stage, 228Ac was separated from 228Ra, 208Pb, and newly formed 228Th. For this purpose, a solution of 228Ra in HNO3 was evaporated to dryness in a glass fl ask on an electric hot plate, dissolved in 4 M HNO3; and the solution was placed in a column with RE extraction-chromatographic sorbent (Triskem Int., France, based on carbamoylmethylphosphine oxide and tributyl phosphate) with volume of 2 mL. 228Ra and 228Ac were separated by selective elution from the column: fi rst, 228Ra was eluted with a 4 M HNO3 solution, and then 228Ac, in 0.05 M HNO3, with fractions collected each having a volume of 1 mL The purity of 228Ac was determined by registering its gamma- spectrum during three days. To perform experiments on sorption of actinium on CNMs, the 228Ac eluate in 0.05 M HNO3 was evaporated to dryness and dissolved in several mL of a phosphate buff ered saline (PBS) with pH 7. Gamma-spectrometry. The content of thorium, radium, and actinium, in the samples was found by the gamma-spectrometry on a spectrometer equipped with a GR 3818 high-purity germanium detector (Canberra Industries, United States). Thorium was identifi ed by the gamma-peak of 228Th with energy of 84.4 keV. The content of 228Ra was determined by using the additionally introduced gamma-emitting 226Ra (186 keV, 3.6%) obtained via dissolution of 226RaBr2 in 0.01 M HCl. 228Ac was determined from the lines at 338 (11.3%) and 911 (25.8%) keV. Characterization of CNMs. We used in the study the following commercial samples of CNMs: powdered detonation nanodiamonds (DNDs) of UDA-TAN brand (Federal State Unitary Enterprise SKTB Tekhnolog, Russia), aqueous suspension of partly reuced graphite oxide (GO), and powdered multiwall carbon nanotubes (MWCNTs) (Nanotekhtsentr OOO, Tambov, Russia). The morphology of CNM particles was determined by high-resolution transmission electron microscopy (HR-TEM) on a JEM-2100F/Cs/GIF instrument (JEOL, Japan). The specifi c surface of the CNMs was determined by the method of thermal desorption of nitrogen in terms of the BET model. The content of impurity elements in the CNMs was found by mass spectrometry with inductively coupled plasma (ICP- MS) (X Series 2, Thermo Scientifi c, United States). The elemental composition of the CNM surface was determined by the method of X-ray photoelectron spectrometry (XPS) (Kratos Axis Ultra DLD, Kratos Analytical, Great Britain). The hydrodynamic diameter of CNM particles in hydrosols was determined by the method of dynamic light scattering (DLS) on a ZetaSizer Nano ZS (Red Badge, 633 nm) ZEN 3600 analyzer (Malvern Instruments, United States). Acid functional groups on the CNM surface were determined by potentiometric titration. The surface of the CNM samples was modifi ed by the procedures described in [29, 30]. DNDs were oxidized in a 3 : 1 mixture H2SO4/HNO3 at 120°C for 24 h, and GO and MWCNTs were hydrogenated in the Ar + 10% H2 atmosphere at 800°C for 5 h. Study of the sorption behavior of 228Ac on CNM. In a study of the sorption of Ac(III) on CNMs, a 100-μL portion of a CNM suspension was placed in polypropylene test tubes with a cover, and 900 μL of the resulting solution of 228Ac was added. The test tubes were shaken on a TS-100 shaker (Biosan, Latvia), and after that the mixture was centrifuged on a CM-50 centrifuge (Eppendorf, United States) for 20 min at 18000 g. Then, the gamma-spectrum of the 228Ac solution was recorded, and the counting rate of an aliquot of the solution was compared with that for a reference sample. To determine the amount of desorption, to the solution and precipitate remaining in the test tube was added a solution of bovine serum albumin (BSA) in PBS, with the content of BSA in the resulting solution being 40 g/L. The contents of the test tube were stirred up and placed on a shaker, after which the phases were separated by centrifuging for subsequent radiometric measurements.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:
+Score: 13.2
+
+
+
+Context:  Fig. 2. Extractive-chromatographic separation of 228Ra and 228Ac on RE sorbent in HNO3. Column volume 2 mL, diameter 0.7 cm. Fig. 3. Kinetics of Ac(III) sorption on CNM in PBS at 25°C, m/V ratio 100 μg/mL. found here that the yield of 228Ac is nearly quantitative (not less than 95% relative to the amount placed on the column), with the separation factor of 228Ra and 228Ac being 2.2 × 104. According to [31], 208Pb is eluted from the column together with 228Ra. Thus, we developed a method for separation 228Ac in the radiochemically pure state from large amounts of natural thorium. The isolated 228Ac can be used in scientifi c studies, including in vivo experiments. It was found that, with the developed method implemented, the loss of 228Ra does not exceed 0.005% of the amount placed in the column. Therefore, the starting 228Ra preparation can be repeatedly used. For this purpose, the fractions from 1 to 9 mL were evaporated and again dissolved in 1 mL of 4 M HNO3. It was shown that the results are reproducible because 228Ac could be eluted from the generator we developed not less than 20 times. In a prolonged use of the solution of 228Ra, there occurs accumulation of 228Th occurs due to the decay of 228Ac, but 228Th is quantitatively sorbed on the column with RE in the process of separation of 228Ra and 228Ac [31]. It is supposed that the columns with the sorbent are intended for single use, and, therefore, 228Th does not contaminate the solution of 228Ac being prepared. In the many-years use of the generator, the extract of 232Th can be repeatedly used to extract 228Ra accumulated in it.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.41
+
+
+
+Context:  The quality of the 64Ni solid target prepared above was evaluated by a number of physical
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.66
+
+
+
+Context: High purity reagents were used for production of 64Cu in this study. Isotopically enriched 64Ni (99.32% 64Ni; 0.13% 58Ni; 0.07% 60Ni; 0.01% 61Ni; 0.47% 62Ni) was from Isoflex Company (San Francisco, CA, USA); (NH4)2SO4 (99.999% metals basis) from Alfa Aesar (Ward Hill, MA, USA); concentrated HCl (99.999% trace metals basis), HNO3 (99.999% trace metals basis), and NH4OH (99.99% trace metals basis) were purchased from Sigma-Aldrich (St. Louis, MO, USA); AG®1-X8 ion exchange resin was from Bio-Rad Laboratories (Hercules, CA, USA); platinum wire (99.997% metals basis) from Alfa Aesar (Ward Hill, MA, USA); Ni2+ analytical test strips from Qtantofix (Sigma-Aldrich, St. Louis, MO, USA); disposable PD-10 desalting columns were from GE Healthcare (Piscataway, NJ, USA).
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 6M hydrochloric acid must be the acid used to dissolve the target.
+Score: 12.62
+
+
+
+Context: High purity reagents were used for production of 64Cu in this study. Isotopically enriched 64Ni (99.32% 64Ni; 0.13% 58Ni; 0.07% 60Ni; 0.01% 61Ni; 0.47% 62Ni) was from Isoflex Company (San Francisco, CA, USA); (NH4)2SO4 (99.999% metals basis) from Alfa Aesar (Ward Hill, MA, USA); concentrated HCl (99.999% trace metals basis), HNO3 (99.999% trace metals basis), and NH4OH (99.99% trace metals basis) were purchased from Sigma-Aldrich (St. Louis, MO, USA); AG®1-X8 ion exchange resin was from Bio-Rad Laboratories (Hercules, CA, USA); platinum wire (99.997% metals basis) from Alfa Aesar (Ward Hill, MA, USA); Ni2+ analytical test strips from Qtantofix (Sigma-Aldrich, St. Louis, MO, USA); disposable PD-10 desalting columns were from GE Healthcare (Piscataway, NJ, USA).
+ 
+
+Question: What are the products of the above reaction?
+Answer:wer: 64Cu is the product.
+Score: 13.15
+
+
+
+Context:  with 18 MΩ·cm water. The final solution was transferred to the electroplating cell for target plating.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:r: 6M hydrochloric acid is the acid used to dissolve the target.
+Score: 12.38
+
+
+
+Context:  with 18 MΩ·cm water. The final solution was transferred to the electroplating cell for target plating.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 37.22
+
+
+
+Context:  with 18 MΩ·cm water. The final solution was transferred to the electroplating cell for target plating.
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: 64Cu is the product.
+Score: 8.57
+
+
+
+Context: After electroplating, the 64Ni solid target was examined by measuring 64Ni thickness, composition and structure. The thickness was measured by alpha step apparatus, the composition was measured by scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM-EDS), and the structure was characterized by scanning electron microscopy (SEM). Meanwhile, the identity of metallic impurities of the 64Ni target was further analyzed by energy dispersive X-ray spectroscopy (EDS).
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:: 6M hydrochloric acid is the acid used to dissolve the target.
+Score: 14.41
+
+
+
+Context: In Figure 2, “m” indicates measurements of the direct formation of cobalt-58m, “c” indicates cumulative formation of cobalt-58g either after the complete decay of the iso- mer or with simultaneous accounting for the contribution from cobalt-58m decay, and “i” indicates measurement of the independent formation of cobalt-58g without contribution from cobalt-58m. The isomers cobalt-58m and cobalt-58g are co-produced in any charged particle irradiation. While the production of cobalt-58g is unavoidable, other radioiso- topic impurities can be reduced with careful modulation of proton energies and target material enrichments. The 58Fe(p,2n)57Co (t1/2 = 271.7 d, Eγ= 122.1 keV, Iγ = 85.6%) and 58Fe(p,3n)56Co (t1/2 = 77.2 d, β+ = 19.5%, Eγ= 846.8 keV, Iγ = 99.9%) nuclear reactions have a higher energy threshold than 58Fe(p,n)58Co, seen in Table 1 below [40]. Table 1. Nuclear reactions, thresholds, and Q-values for the production of Co radioisotopes from 58Fe targets.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 28.11
+
+
+
+Context: Deuteron bombardments can be used to produce cobalt-58m from enriched iron-57 via the (d,n) reaction, natural iron targets via the (d,n) reaction on iron-57 (2.2% abundance) or (d,2n) reaction on iron-56 (91.7%). Higher stopping power for deuterons reduces the quantity of isotopically enriched target material required, and deuteron-induced reactions’ excitation functions are often higher than similar reactions incited by proton beams. How- ever, the relative thermal power density deposited in the target by the deuteron beam is higher than for protons. Accelerators with deuteron beams are also less common, and where they do exist, they usually have energies too low to utilize the entirety of even (d,n) excitation functions. Deuteron irradiations to produce cobalt-58m proceed on iron isotopes iron-57 and iron-58, which both exist in relatively low abundance, so as with proton irradiations, significant costs are associated with target materials. As in Figure 2, in Figure 6 “m” indicates measurements of the direct formation of cobalt-58m, “c” indicates cumulative formation of cobalt-58g either after the complete decay of the isomer or with simultaneous accounting for the contribution from cobalt-58m decay, and “i” indicates measurement of the independent formation of cobalt-58g without contribution from cobalt-58m. Figure 6 above plots the excitation functions of natFe(d,xn) reactions that form cobalt-58m/g and enriched iron-57 can be used to increase yields and purities. Using lower-energy deuterons reduces the likelihood of the 57Fe(d,2n)57Co reaction occurring, which has a threshold energy of 3.9 MeV [40]. Overall, an enriched iron-57 target reduces radioisotopic impurities within the cobalt-58m sample. The possible 57Co-producing reactions excitation functions are shown in Figure 7. Sudar and Qaim examined the production ratio of the ground and metastable isomers of cobalt-58 from deuteron irradiations of natural iron targets [29] based on the assumptions that deuteron capture and iron-58 target reactions’ contributions are small, but to our knowledge, no measurements have been made of the formation of cobalt-58m/g using separated iron-57.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.41
+
+
+
+Context:  Figure 12. Excitation functions for the production of cobalt-58 from (α,n) reaction (a) and cobalt-57 (b) on manganese- 55 [29,30,32,35,78–84]. In addition to charged particle-induced reactions, several alternative and less prag- matic routes to cobalt-58m can be contemplated, e.g., quasi-monoenergetic neutron or triton irradiations. Quasi-monoenergetic neutrons can be produced via 2H(d,n)3He re- action on hydrogen-2 gas targets. The neutrons bombard nickel or cobalt induce the 58Ni(n,p)58mCo and 59Co(n,2n)58mCo reactions [29,75]. Tritons can be generated via the 6Li(n,α)3H reaction within a nuclear reactor with an energy of 2.736 MeV. These ions go on to bombard [56Fe]Fe2O3 targets to produce cobalt-58m,g via the 56Fe(t,n)58mCo reaction route [76,85]. These alternative reactions currently rely on rare accelerator infrastructure or on significantly increased scale in terms of beam intensities. Overall, while the high cross section of 55Mn(α,n)58mCo makes it appealing, the 58Fe(p,n)58mCo and 57Fe(d,n)58mCo reactions are more practical for widespread use due to the accessibility of protons and deuterons in global accelerator installations. These are the only reactions whose literature descriptions include thick target yield measurements obtained in conjunction with radiochemical separations and radiolabeling efforts. A com- parison of the experimentally determined thick target yields and theoretical yields are shown in Figures 13–16. Figure 13. Thick target yield comparison between theoretical data and experimentally collected data for iron-54 targets at (a) 8.2 MeV and (b) 12 MeV [26,86,87].
+ 
+
+Question: What is the target material in the above reaction?
+Answer:r: 55Mn, or Manganese-55, is the target.
+Score: 39.41
+
+
+
+Context:  Figure 12. Excitation functions for the production of cobalt-58 from (α,n) reaction (a) and cobalt-57 (b) on manganese- 55 [29,30,32,35,78–84]. In addition to charged particle-induced reactions, several alternative and less prag- matic routes to cobalt-58m can be contemplated, e.g., quasi-monoenergetic neutron or triton irradiations. Quasi-monoenergetic neutrons can be produced via 2H(d,n)3He re- action on hydrogen-2 gas targets. The neutrons bombard nickel or cobalt induce the 58Ni(n,p)58mCo and 59Co(n,2n)58mCo reactions [29,75]. Tritons can be generated via the 6Li(n,α)3H reaction within a nuclear reactor with an energy of 2.736 MeV. These ions go on to bombard [56Fe]Fe2O3 targets to produce cobalt-58m,g via the 56Fe(t,n)58mCo reaction route [76,85]. These alternative reactions currently rely on rare accelerator infrastructure or on significantly increased scale in terms of beam intensities. Overall, while the high cross section of 55Mn(α,n)58mCo makes it appealing, the 58Fe(p,n)58mCo and 57Fe(d,n)58mCo reactions are more practical for widespread use due to the accessibility of protons and deuterons in global accelerator installations. These are the only reactions whose literature descriptions include thick target yield measurements obtained in conjunction with radiochemical separations and radiolabeling efforts. A com- parison of the experimentally determined thick target yields and theoretical yields are shown in Figures 13–16. Figure 13. Thick target yield comparison between theoretical data and experimentally collected data for iron-54 targets at (a) 8.2 MeV and (b) 12 MeV [26,86,87].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 33.44
+
+
+
+Context:  4. Radiochemical Isolation and Preparation 4.1. Anion-Exchange Chromatography Because both cobalt-55 and cobalt-58m require isolation from iron or nickel target materials, many of the radiochemical isolation processes reported can be applied to multiple production schemes. Several anion-exchange resins such as Dowex-2, Amberlite IRA-400, and ANEX-L have been historically used for the separation of Co from various transition metals in HCl, HNO3, and HBr solutions [94]. Previously reported separation methods to remove nickel from cobalt used the AG 1 × 8 anion-exchange resin [14,24]. These methods included the use of multiple grams of resin packed into a glass column and equilibrated with 9 M HCl. The dissolved target solution in 9M HCl was loaded onto the column where the nickel elutes from the column in the eluate and 9M HCl wash in 10–40 mL. The cobalt-5x, which remains on the column during the large 9M HCl wash, is eluted from the column in 10 mL of 0.1 M HCl. The eluted cobalt fraction can then be evaporated to dryness and reconstituted in various matrices for further analysis and/or radiolabeling experiments. Anion-exchange chromatography also isolates cobalt-5x from iron target material [94]. After dissolving the target in acid, the iron is oxidized into the 3+ state with hydrogen peroxide. Instead of loading the cobalt-5x on to the anion-exchange resin and washing away the target material, as was performed in the nickel/cobalt anion-exchange separation, cobalt and iron are retained on the column when loaded. The cobalt can then be eluted form the anion-exchange column in 4 M HCl. The iron target will remain on the column during the 4 M HCl wash, but can be recovered in low concentrations of HCl. The HCl eluant containing cobalt-5x can also be evaporated and the cobalt-5x reconstituted in alternative matrices without incurring significant losses [26,28,86,87]. Separation of cobalt-5x from manganese is similar to the isolation of cobalt-5x from nickel targets, but can use even less concentrated acidic media. As summarized by Bate and Leddicotte in “The Radiochemistry of Cobalt”, manganese in a dissolved target solution passes through a AG1 × 8 anion-exchange resin in HCl concentrations > 4.5 HCl. Once the target material is removed, the column can be washed with <4.5 M HCl to elute cobalt-5x [94].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 43.38
+
+
+
+Context: While not widely used for radiochemistry, early studies showed that cobalt can be separated from iron 3+ and nickel 2+ with the use of inorganic and organic absorbents [94]. Many of the inorganic separations were using alumina, a polar column chromatography absorbent [96]. The organic separations from iron 2+ and nickel 2+ rely on columns of 8-hydroxyquinoline, naphthaquinoline, and cupferron mixed with potato starch or dimethylglyoxime compound columns, as reported by Bate and Leddicotte, [94]. 5. Applications of Cobalt-55,58m 5.1. Free Cobalt-55 Free cobalt in the form of cobalt 2+ has been found to behave in the body similarly to calcium 2+ [97]. This has been found to be especially useful in tissues damaged by ischemia as these tissues contain high levels of intracellular calcium [98]. [55Co]CoCl2 PET has been used to image areas of the brain affected by ischemic stroke, showing that [55Co]CoCl2 uptake is inversely correlated to relative cerebral blood flow (rCBF) [99]. Additionally,
+ 
+
+Question: What is the target material in the above reaction?
+Answer:r: [55Co]CoCl2 is produced by the 55Mn(p,n)55Co reaction.
+Score: 7.04
+
+
+
+Context: While not widely used for radiochemistry, early studies showed that cobalt can be separated from iron 3+ and nickel 2+ with the use of inorganic and organic absorbents [94]. Many of the inorganic separations were using alumina, a polar column chromatography absorbent [96]. The organic separations from iron 2+ and nickel 2+ rely on columns of 8-hydroxyquinoline, naphthaquinoline, and cupferron mixed with potato starch or dimethylglyoxime compound columns, as reported by Bate and Leddicotte, [94]. 5. Applications of Cobalt-55,58m 5.1. Free Cobalt-55 Free cobalt in the form of cobalt 2+ has been found to behave in the body similarly to calcium 2+ [97]. This has been found to be especially useful in tissues damaged by ischemia as these tissues contain high levels of intracellular calcium [98]. [55Co]CoCl2 PET has been used to image areas of the brain affected by ischemic stroke, showing that [55Co]CoCl2 uptake is inversely correlated to relative cerebral blood flow (rCBF) [99]. Additionally,
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:r: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 15.67
+
+
+
+Context: While not widely used for radiochemistry, early studies showed that cobalt can be separated from iron 3+ and nickel 2+ with the use of inorganic and organic absorbents [94]. Many of the inorganic separations were using alumina, a polar column chromatography absorbent [96]. The organic separations from iron 2+ and nickel 2+ rely on columns of 8-hydroxyquinoline, naphthaquinoline, and cupferron mixed with potato starch or dimethylglyoxime compound columns, as reported by Bate and Leddicotte, [94]. 5. Applications of Cobalt-55,58m 5.1. Free Cobalt-55 Free cobalt in the form of cobalt 2+ has been found to behave in the body similarly to calcium 2+ [97]. This has been found to be especially useful in tissues damaged by ischemia as these tissues contain high levels of intracellular calcium [98]. [55Co]CoCl2 PET has been used to image areas of the brain affected by ischemic stroke, showing that [55Co]CoCl2 uptake is inversely correlated to relative cerebral blood flow (rCBF) [99]. Additionally,
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:r: [55Co]CoCl2 is loaded into a cation exchange column.
+Score: 13.17
+
+
+
+Context: While not widely used for radiochemistry, early studies showed that cobalt can be separated from iron 3+ and nickel 2+ with the use of inorganic and organic absorbents [94]. Many of the inorganic separations were using alumina, a polar column chromatography absorbent [96]. The organic separations from iron 2+ and nickel 2+ rely on columns of 8-hydroxyquinoline, naphthaquinoline, and cupferron mixed with potato starch or dimethylglyoxime compound columns, as reported by Bate and Leddicotte, [94]. 5. Applications of Cobalt-55,58m 5.1. Free Cobalt-55 Free cobalt in the form of cobalt 2+ has been found to behave in the body similarly to calcium 2+ [97]. This has been found to be especially useful in tissues damaged by ischemia as these tissues contain high levels of intracellular calcium [98]. [55Co]CoCl2 PET has been used to image areas of the brain affected by ischemic stroke, showing that [55Co]CoCl2 uptake is inversely correlated to relative cerebral blood flow (rCBF) [99]. Additionally,
+ 
+
+Question: What acid is used in the elution during the above reaction?
+Answer:r: 1 M HCl is the acid used in the elution.
+Score: 8.29
+
+
+
+Context: While not widely used for radiochemistry, early studies showed that cobalt can be separated from iron 3+ and nickel 2+ with the use of inorganic and organic absorbents [94]. Many of the inorganic separations were using alumina, a polar column chromatography absorbent [96]. The organic separations from iron 2+ and nickel 2+ rely on columns of 8-hydroxyquinoline, naphthaquinoline, and cupferron mixed with potato starch or dimethylglyoxime compound columns, as reported by Bate and Leddicotte, [94]. 5. Applications of Cobalt-55,58m 5.1. Free Cobalt-55 Free cobalt in the form of cobalt 2+ has been found to behave in the body similarly to calcium 2+ [97]. This has been found to be especially useful in tissues damaged by ischemia as these tissues contain high levels of intracellular calcium [98]. [55Co]CoCl2 PET has been used to image areas of the brain affected by ischemic stroke, showing that [55Co]CoCl2 uptake is inversely correlated to relative cerebral blood flow (rCBF) [99]. Additionally,
+ 
+
+Question: What are the products of the above reaction?
+Answer:er: [55Co]CoCl2, [55Co]CoCl3, [55Co]CoCl4, [55Co]CoCl2O, [55Co]CoCl2O
+Score: 3.14
+
+
+
+Context: The somatostatin receptors (SSTRs) are a family of 5 G protein-coupled receptors that contain somatostatin-binding extracellular domains [101]. Somatostatin (SST) is a 14 amino acid peptide involved in neurotransmission and cell proliferation [101]. While most normal cell types express somatostatin receptors, several tumor types overexpress the somatostatin receptor type 2 (SSTR2) [102]. Variations of somatostatin have been developed to bind to the SSTRs for the detection and treatment of cancers. These analogs deviate from the base structure of SST in ways that increase binding specificity and plasma stability [103]. The first agent approved for PET imaging of SSTR2 was [68Ga]Ga-DOTATATE (Netspot) in 2016 [104]. Since its approval, there has been interest in developing a PET agent for somatostatin receptor imaging with a longer half-life than gallium-68 to simplify patient logistics and to image longer time courses post injection with improved clearance from blood and non-target tissues. In a study published in 2008, Heppeler et al. investigated the effect of changing the metal ion on the affinity of DOTATOC for SSTR analogs and compared their results to those published by Reubi et al. [105,106]. They found that Co-DOTATOC has higher affinity than DOTATOC labeled with gallium and yttrium as well as octreotide [106]. Biodistribution studies of [57Co]Co-DOTATOC in mice with AR42J tumors revealed high (25% ID/g) tumor uptake at 4 h post injection (PI), even higher than the kidneys which are a clearance route for peptides. However, the tumor to kidney ratio did not increase at the 24 h timepoint. Crystallography with Ga- and Co-DOTA revealed similar pseudooctahedral geometry but differing charge states which may explain their differing binding affinities [106]. This work led to a proof-of-concept study radiolabeling DOTATOC with cobalt- 55,56,58m [14]. In this study, the authors produced Co isotopes using the following reac- tions: 54Fe(d,n)55Co, natFe(p,x)56Co, and 58Fe(p,n)58mCo. They measured molar activities of >4 MBq/nmol for [58mCo]Co-DOTATOC and >0.21 MBq/nmol for [55Co]Co-DOTATOC, but [56Co]Co-DOTATOC wasnwas not examined [16]. Thisgaard et al. followed this work with a comparative in vivo evaluation of 57Co- labeled DOTATOC, DOTANOC, and DOTATATE with [111In]In-DOTATATE [107]. In a head-to-head comparison in AR42J cells, the three 57Co-labeled somatostatin analogues were found to have between 49 and 123% higher cellular uptake as compared to [111In]In- DOTATATE. All agents showed similar levels of nuclear translocation, with less than 10% of nuclear translocation observed up to 3 h post addition. The cell-killing abil- ity of the Auger emitter [58mCo]Co-DOTATATE was also compared to the beta emitter [177Lu]Lu-DOTATATE and the Auger emitter [111In]In-DOTATATE. At low concentra- tions, the [58mCo]Co-DOTATATE was more effective in causing DNA damage than 111In- labeled or 177Lu-labeled, while at higher concentrations the [177Lu]Lu-DOTATATE was most effective. When the cell-killing assay was normalized to cumulative decays, the [58mCo]Co-DOTATATE was consistently most effective at all concentrations tested. The authors attributed the limited degree of cell killing demonstrated by lutetium-177 to the cells being grown in monolayer, which restricts the ability of the emitted electrons to cross into adjacent cells to do damage. The superiority of 58mCo-over 111In-labeled DOTATATE may also be attributed to the higher binding affinity of the cobalt-labeled DOTATATE for SSTR2. Similarly to the 2008 study, the authors performed a biodistribution study with [57Co]Co-DOTATATE and found high tumor uptake 1–4 h PI. By 4 h, most uptake in organs with SSTR2 expression such as the stomach and pancreas had greatly decreased [106].
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:nswer: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 14.95
+
+
+
+Context: The somatostatin receptors (SSTRs) are a family of 5 G protein-coupled receptors that contain somatostatin-binding extracellular domains [101]. Somatostatin (SST) is a 14 amino acid peptide involved in neurotransmission and cell proliferation [101]. While most normal cell types express somatostatin receptors, several tumor types overexpress the somatostatin receptor type 2 (SSTR2) [102]. Variations of somatostatin have been developed to bind to the SSTRs for the detection and treatment of cancers. These analogs deviate from the base structure of SST in ways that increase binding specificity and plasma stability [103]. The first agent approved for PET imaging of SSTR2 was [68Ga]Ga-DOTATATE (Netspot) in 2016 [104]. Since its approval, there has been interest in developing a PET agent for somatostatin receptor imaging with a longer half-life than gallium-68 to simplify patient logistics and to image longer time courses post injection with improved clearance from blood and non-target tissues. In a study published in 2008, Heppeler et al. investigated the effect of changing the metal ion on the affinity of DOTATOC for SSTR analogs and compared their results to those published by Reubi et al. [105,106]. They found that Co-DOTATOC has higher affinity than DOTATOC labeled with gallium and yttrium as well as octreotide [106]. Biodistribution studies of [57Co]Co-DOTATOC in mice with AR42J tumors revealed high (25% ID/g) tumor uptake at 4 h post injection (PI), even higher than the kidneys which are a clearance route for peptides. However, the tumor to kidney ratio did not increase at the 24 h timepoint. Crystallography with Ga- and Co-DOTA revealed similar pseudooctahedral geometry but differing charge states which may explain their differing binding affinities [106]. This work led to a proof-of-concept study radiolabeling DOTATOC with cobalt- 55,56,58m [14]. In this study, the authors produced Co isotopes using the following reac- tions: 54Fe(d,n)55Co, natFe(p,x)56Co, and 58Fe(p,n)58mCo. They measured molar activities of >4 MBq/nmol for [58mCo]Co-DOTATOC and >0.21 MBq/nmol for [55Co]Co-DOTATOC, but [56Co]Co-DOTATOC wasnwas not examined [16]. Thisgaard et al. followed this work with a comparative in vivo evaluation of 57Co- labeled DOTATOC, DOTANOC, and DOTATATE with [111In]In-DOTATATE [107]. In a head-to-head comparison in AR42J cells, the three 57Co-labeled somatostatin analogues were found to have between 49 and 123% higher cellular uptake as compared to [111In]In- DOTATATE. All agents showed similar levels of nuclear translocation, with less than 10% of nuclear translocation observed up to 3 h post addition. The cell-killing abil- ity of the Auger emitter [58mCo]Co-DOTATATE was also compared to the beta emitter [177Lu]Lu-DOTATATE and the Auger emitter [111In]In-DOTATATE. At low concentra- tions, the [58mCo]Co-DOTATATE was more effective in causing DNA damage than 111In- labeled or 177Lu-labeled, while at higher concentrations the [177Lu]Lu-DOTATATE was most effective. When the cell-killing assay was normalized to cumulative decays, the [58mCo]Co-DOTATATE was consistently most effective at all concentrations tested. The authors attributed the limited degree of cell killing demonstrated by lutetium-177 to the cells being grown in monolayer, which restricts the ability of the emitted electrons to cross into adjacent cells to do damage. The superiority of 58mCo-over 111In-labeled DOTATATE may also be attributed to the higher binding affinity of the cobalt-labeled DOTATATE for SSTR2. Similarly to the 2008 study, the authors performed a biodistribution study with [57Co]Co-DOTATATE and found high tumor uptake 1–4 h PI. By 4 h, most uptake in organs with SSTR2 expression such as the stomach and pancreas had greatly decreased [106].
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:nswer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.03
+
+
+
+Context: The somatostatin receptors (SSTRs) are a family of 5 G protein-coupled receptors that contain somatostatin-binding extracellular domains [101]. Somatostatin (SST) is a 14 amino acid peptide involved in neurotransmission and cell proliferation [101]. While most normal cell types express somatostatin receptors, several tumor types overexpress the somatostatin receptor type 2 (SSTR2) [102]. Variations of somatostatin have been developed to bind to the SSTRs for the detection and treatment of cancers. These analogs deviate from the base structure of SST in ways that increase binding specificity and plasma stability [103]. The first agent approved for PET imaging of SSTR2 was [68Ga]Ga-DOTATATE (Netspot) in 2016 [104]. Since its approval, there has been interest in developing a PET agent for somatostatin receptor imaging with a longer half-life than gallium-68 to simplify patient logistics and to image longer time courses post injection with improved clearance from blood and non-target tissues. In a study published in 2008, Heppeler et al. investigated the effect of changing the metal ion on the affinity of DOTATOC for SSTR analogs and compared their results to those published by Reubi et al. [105,106]. They found that Co-DOTATOC has higher affinity than DOTATOC labeled with gallium and yttrium as well as octreotide [106]. Biodistribution studies of [57Co]Co-DOTATOC in mice with AR42J tumors revealed high (25% ID/g) tumor uptake at 4 h post injection (PI), even higher than the kidneys which are a clearance route for peptides. However, the tumor to kidney ratio did not increase at the 24 h timepoint. Crystallography with Ga- and Co-DOTA revealed similar pseudooctahedral geometry but differing charge states which may explain their differing binding affinities [106]. This work led to a proof-of-concept study radiolabeling DOTATOC with cobalt- 55,56,58m [14]. In this study, the authors produced Co isotopes using the following reac- tions: 54Fe(d,n)55Co, natFe(p,x)56Co, and 58Fe(p,n)58mCo. They measured molar activities of >4 MBq/nmol for [58mCo]Co-DOTATOC and >0.21 MBq/nmol for [55Co]Co-DOTATOC, but [56Co]Co-DOTATOC wasnwas not examined [16]. Thisgaard et al. followed this work with a comparative in vivo evaluation of 57Co- labeled DOTATOC, DOTANOC, and DOTATATE with [111In]In-DOTATATE [107]. In a head-to-head comparison in AR42J cells, the three 57Co-labeled somatostatin analogues were found to have between 49 and 123% higher cellular uptake as compared to [111In]In- DOTATATE. All agents showed similar levels of nuclear translocation, with less than 10% of nuclear translocation observed up to 3 h post addition. The cell-killing abil- ity of the Auger emitter [58mCo]Co-DOTATATE was also compared to the beta emitter [177Lu]Lu-DOTATATE and the Auger emitter [111In]In-DOTATATE. At low concentra- tions, the [58mCo]Co-DOTATATE was more effective in causing DNA damage than 111In- labeled or 177Lu-labeled, while at higher concentrations the [177Lu]Lu-DOTATATE was most effective. When the cell-killing assay was normalized to cumulative decays, the [58mCo]Co-DOTATATE was consistently most effective at all concentrations tested. The authors attributed the limited degree of cell killing demonstrated by lutetium-177 to the cells being grown in monolayer, which restricts the ability of the emitted electrons to cross into adjacent cells to do damage. The superiority of 58mCo-over 111In-labeled DOTATATE may also be attributed to the higher binding affinity of the cobalt-labeled DOTATATE for SSTR2. Similarly to the 2008 study, the authors performed a biodistribution study with [57Co]Co-DOTATATE and found high tumor uptake 1–4 h PI. By 4 h, most uptake in organs with SSTR2 expression such as the stomach and pancreas had greatly decreased [106].
+ 
+
+Question: What are the products of the above reaction?
+Answer:Answer: [57Co]Co-DOTATOC, [58mCo]Co-DOTATOC, and [55Co]Co-DOTATOC.
+Score: 5.08
+
+
+
+Context: The cell surface protein gastrin-releasing peptide receptor (GRPR) has become a popu- lar imaging target in recent years. GRPR is overexpressed by a large number of cancers including prostate, pancreatic, colon, and non-small cell lung cancers [108]. Agonist pep- tides such as bombesin bind to GRPR, trigger downstream signaling and are subsequently internalized into the cell. They have higher binding affinity than antagonists and are taken up in organs with endogenous GRPR expression such as the pancreas, stomach, intestines and adrenal glands [109]. The lower binding affinity of GRPR antagonists, however, may be advantageous for imaging studies as it leads to lower uptake in normal tissues [110]. The first cobalt-55 imaging of GRPR was reported in 2016 by Dam et al. [111] and compared 55Co-, 57Co-, and 68Ga-labeled GRPR agonist NOTA-AMBA (NOTA-Gly-4-ABz- Gln-Trp-Ala-Gly-His-Leu-Met-NH2) in a PC3 prostate cancer. 57Co- and 68Ga-labeled NOTA-AMBA were found to have similar receptor affinities, serum stabilities, and phar- macokinetics at 1 h and 4 h PI [55Co]Co-NOTA-AMBA enabled PET imaging at a 24 h timepoint (and beyond) which is not possible with [68Ga]Ga-NOTA-AMBA and revealed encouraging clearance of the tracer and stable late uptake of [5xCo]Co-NOTA-AMBA in the tumor [111]. In 2017, Mitran et al. reported radiolabeling GRPR antagonist RM26 (NOTA-PEG2- [D-Phe, Sta, Leu] bombesin [6–14]) with cobalt-55 and cobalt-57 [13]. Cell binding and internalization were investigated in PC3 cells and a mouse PC3 xenograft tumor model. They observed 12% cell internalization at 24 h which is similar to what has been reported for [111In]In-NOTA-PEG2-RM26 [112]. Biodistribution studies in PC3 tumor-bearing mice showed that at 3 h PI the tumor uptake was greater than uptake in any other organ including the kidneys. PET imaging studies using [55Co]Co-NOTA-PEG2-RM26 showed clear tumor uptake at 3 h PI and by 24 h PI the tumor showed high uptake (Figure 20). The IC50 for Co-NOTA-PEG2-RM26 (5.54 ± 0.4 nM) [10] is approximately 10-fold higher than Co-NOTA-AMBA (0.46 ± 0.20 nM) [13,111]. In vivo comparisons between [57Co]Co-NOTA-AMBA and [57Co]Co-NOTA-PEG2-RM26 are complicated as the early imaging times are not matched between studies. However, comparison at the 24 h timepoint shows greater uptake of [57Co]Co-NOTA-AMBA than [57Co]Co-NOTA-PEG2-RM26 in the tumor as well as many other organs. Even though the tumor uptake was less, the tumor to organ ratios for [57Co]Co-NOTA-PEG2-RM26 were sometimes 100-fold greater than what was observed with [57Co]Co-NOTA-AMBA. This was most notable in tissues with high GRPR expression such as the colon, pancreas, and stomach. The 24 h PI PET images provided, with both papers similarly showing lower non-target organ accumulation with the [55Co]Co-NOTA-PEG2-RM26 than with [55Co]Co-NOTA-AMBA. Recently, Mitran et al. investigated the impact chelator modification had on PEG2- RM26 cell binding, internalization, and biodistribution in PC-3 prostate cancer [113]. PEG2- RM26 was bound to NOTA, DOTA, NODAGA, or DOTAGA and radiolabeled with cobalt- 55 and cobalt-57. The NOTA- and DOTA-labeled peptides showed the highest uptake in PC-3 cells in vitro and DOTA-labeled peptide had the highest tumor uptake in vivo by 24 h PI. In PET imaging studies, NOTA and DOTA PEG2-RM26 showed near-complete clearance of the radiotracer from the kidneys and GI tract by 24 h, whereas NODAGA and DOTAGA had residual GI and kidney uptake respectively.
+ 
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:nswer: 6M hydrochloride acid must be the acid used to dissolve the target.
+Score: 14.95
+
+
+
+Context: The cell surface protein gastrin-releasing peptide receptor (GRPR) has become a popu- lar imaging target in recent years. GRPR is overexpressed by a large number of cancers including prostate, pancreatic, colon, and non-small cell lung cancers [108]. Agonist pep- tides such as bombesin bind to GRPR, trigger downstream signaling and are subsequently internalized into the cell. They have higher binding affinity than antagonists and are taken up in organs with endogenous GRPR expression such as the pancreas, stomach, intestines and adrenal glands [109]. The lower binding affinity of GRPR antagonists, however, may be advantageous for imaging studies as it leads to lower uptake in normal tissues [110]. The first cobalt-55 imaging of GRPR was reported in 2016 by Dam et al. [111] and compared 55Co-, 57Co-, and 68Ga-labeled GRPR agonist NOTA-AMBA (NOTA-Gly-4-ABz- Gln-Trp-Ala-Gly-His-Leu-Met-NH2) in a PC3 prostate cancer. 57Co- and 68Ga-labeled NOTA-AMBA were found to have similar receptor affinities, serum stabilities, and phar- macokinetics at 1 h and 4 h PI [55Co]Co-NOTA-AMBA enabled PET imaging at a 24 h timepoint (and beyond) which is not possible with [68Ga]Ga-NOTA-AMBA and revealed encouraging clearance of the tracer and stable late uptake of [5xCo]Co-NOTA-AMBA in the tumor [111]. In 2017, Mitran et al. reported radiolabeling GRPR antagonist RM26 (NOTA-PEG2- [D-Phe, Sta, Leu] bombesin [6–14]) with cobalt-55 and cobalt-57 [13]. Cell binding and internalization were investigated in PC3 cells and a mouse PC3 xenograft tumor model. They observed 12% cell internalization at 24 h which is similar to what has been reported for [111In]In-NOTA-PEG2-RM26 [112]. Biodistribution studies in PC3 tumor-bearing mice showed that at 3 h PI the tumor uptake was greater than uptake in any other organ including the kidneys. PET imaging studies using [55Co]Co-NOTA-PEG2-RM26 showed clear tumor uptake at 3 h PI and by 24 h PI the tumor showed high uptake (Figure 20). The IC50 for Co-NOTA-PEG2-RM26 (5.54 ± 0.4 nM) [10] is approximately 10-fold higher than Co-NOTA-AMBA (0.46 ± 0.20 nM) [13,111]. In vivo comparisons between [57Co]Co-NOTA-AMBA and [57Co]Co-NOTA-PEG2-RM26 are complicated as the early imaging times are not matched between studies. However, comparison at the 24 h timepoint shows greater uptake of [57Co]Co-NOTA-AMBA than [57Co]Co-NOTA-PEG2-RM26 in the tumor as well as many other organs. Even though the tumor uptake was less, the tumor to organ ratios for [57Co]Co-NOTA-PEG2-RM26 were sometimes 100-fold greater than what was observed with [57Co]Co-NOTA-AMBA. This was most notable in tissues with high GRPR expression such as the colon, pancreas, and stomach. The 24 h PI PET images provided, with both papers similarly showing lower non-target organ accumulation with the [55Co]Co-NOTA-PEG2-RM26 than with [55Co]Co-NOTA-AMBA. Recently, Mitran et al. investigated the impact chelator modification had on PEG2- RM26 cell binding, internalization, and biodistribution in PC-3 prostate cancer [113]. PEG2- RM26 was bound to NOTA, DOTA, NODAGA, or DOTAGA and radiolabeled with cobalt- 55 and cobalt-57. The NOTA- and DOTA-labeled peptides showed the highest uptake in PC-3 cells in vitro and DOTA-labeled peptide had the highest tumor uptake in vivo by 24 h PI. In PET imaging studies, NOTA and DOTA PEG2-RM26 showed near-complete clearance of the radiotracer from the kidneys and GI tract by 24 h, whereas NODAGA and DOTAGA had residual GI and kidney uptake respectively.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:nswer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 32.03
+
+
+
+Context: Folate receptors (FR) are expressed on the surface of cells and reduce extracellular folic acid derivatives, delivering them across the cell membrane [119]. Their overexpression by many cancers makes them interesting pharmacological targets [119,120]. Radford et al. 55Co-labeled two folate receptor-targeting constructs, cm10 (DOTA tagged) and rf42
+ 
+
+Question: What is the target material in the above reaction?
+Answer:: 55Co, or Cobalt-55, must be the target.
+Score: 11.01
+
+Question: What acid is used in the elution during the above reaction?
+Answer:: 1 M HCl is the acid used in the elution.
+Score: 17.38
+
+
+
+Context:  (NODAGA tagged) [121]. In vitro and in vivo up uptake waweres evaluated in the KB cervical cancer cell line which expresses high levels of FR [122]. The two agents had similar uptake and biodistributions, achieving >15% ID/g in xenografted tumors and underwent renal clearance [121]. Compared to a previous study using 64Cu- and 68Ga-labeled rf42, tumor to blood and tumor to kidney ratios were similar for all three agents [123]. However, tumor to liver ratios for the 55Co- and 68Ga-labeled tracers were higher than for the 64Cu- labeled version. Free copper is known to exhibit preferential liver uptake due to high levels of transcuprein [124]. Some of the challenges facing a therapeutic target to folate receptors include the lack of specificity towards folate receptor isoform α versus isoform β. While FRα is primarily expressed by epithelial cancers, it has high expression in the kidneys [125]. FRβ is expressed in adult tissues primarily in immune cells such as macrophages, neutrophils and monocytes [120]. Delivery of a folate receptor-targeted therapy to the tumor while sparing the kidneys has been demonstrated to be a difficult challenge [126]. The constructs cm10 and rf42 each contain an albumin-binding domain which contributes to lowering kidney uptake, which may allow them to be used therapeutically.
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 36.94
+
+
+
+Context: 26. Valdovinos, H.F.; Hernandez, R.; Graves, S.; Ellison, P.A.; Barnhart, T.E.; Theuer, C.P.; Engle, J.W.; Cai, W.; Nickles, R.J. Cyclotron production and radiochemical separation of 55Co and 58mCo from 54Fe, 58Ni and 57Fe targets. Appl. Radiat. Isot. 2017, 130, 90–101. [CrossRef] [PubMed] 27. Vlasov, N.A.; Kalinin, S.P.; Ogloblin, A.A.; Pankramov, V.M.; Rudakov, V.P.; Serikov, I.N.; Sidorov, V.A. Excitation functions for the reactions Mg21(d, α)Na22, Fe54(d, α)Mn52 Fe54(d, n)Co55, and Zn56(d, 2n)Ga66. Sov. J. At. Energy 1957, 2, 189–192. [CrossRef] 28. Zaman, M.; Spellerberg, S.; Qaim, S. Production of Co-55 via the Fe-54(d, n)-process and excitation functions of Fe-54(d, t)Fe-53
+ 
+
+Question: What are the products of the above reaction?
+Answer:r: 26. Valdovinos, H.F.; Hernandez, R.; Graves, S.; Ellison, P.A.; Barnhart, T.E.; Theuer, C.P.; Engle,
+Score: 16.23
+
+
+
+Context: production of high specific activity 64Cu using a biomedical cyclotron. Nucl. Med. Biol. 1997, 24, 35–43. [CrossRef] Szelecsényi, F.; Blessing, G.; Qaim, S.M. Excitation functions of proton induced nuclear reactions on enriched Ni-62 and Ni-64: Possibility of production of no-carrier-added Cu-62 and Cu-64 at small cyclotron. Appl. Radiat. Isot. 1993, 44, 575–580. [CrossRef] 92. VOSBURGH, G.J.; FLEXNER, L.B.; COWIE, D.B. The determination of radioactive iron in biological material with particular reference to purification and separation of iron with isopropyl ether, ashing and electroplating technique, and accuracy of the method. J. Biol. Chem. 1948, 175, 391–404. [CrossRef] 93. Graves, S.A.; Hernandez, R.; Valdovinos, H.F.; Ellison, P.A.; Engle, J.W.; Barnhart, T.E.; Cai, W.; Nickles, R.J. Preparation and in vivo characterization of 51MnCl2 as PET tracer of Ca2+ channel-mediated transport. Sci. Rep. 2017, 7, 1–8. [CrossRef] 94. Bate, L.C.; Leddicotte, G.W. The Radiochemistry of Cobalt; Oak Ridge National Lab: Oak Ridge, TN, USA, 1961. 95. Pourmand, A.; Dauphas, N. Distribution coefficients of 60 elements on TODGA resin: Application to Ca, Lu, Hf, U and Th isotope
+ 
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:wer: 'the solution was load to an anion exchange column to separate into different components', and an 'anion exchange column' is a resin/column, then an anion exchange column must be the resin/column.
+Score: 37.31
+
+
+
+Context: production of high specific activity 64Cu using a biomedical cyclotron. Nucl. Med. Biol. 1997, 24, 35–43. [CrossRef] Szelecsényi, F.; Blessing, G.; Qaim, S.M. Excitation functions of proton induced nuclear reactions on enriched Ni-62 and Ni-64: Possibility of production of no-carrier-added Cu-62 and Cu-64 at small cyclotron. Appl. Radiat. Isot. 1993, 44, 575–580. [CrossRef] 92. VOSBURGH, G.J.; FLEXNER, L.B.; COWIE, D.B. The determination of radioactive iron in biological material with particular reference to purification and separation of iron with isopropyl ether, ashing and electroplating technique, and accuracy of the method. J. Biol. Chem. 1948, 175, 391–404. [CrossRef] 93. Graves, S.A.; Hernandez, R.; Valdovinos, H.F.; Ellison, P.A.; Engle, J.W.; Barnhart, T.E.; Cai, W.; Nickles, R.J. Preparation and in vivo characterization of 51MnCl2 as PET tracer of Ca2+ channel-mediated transport. Sci. Rep. 2017, 7, 1–8. [CrossRef] 94. Bate, L.C.; Leddicotte, G.W. The Radiochemistry of Cobalt; Oak Ridge National Lab: Oak Ridge, TN, USA, 1961. 95. Pourmand, A.; Dauphas, N. Distribution coefficients of 60 elements on TODGA resin: Application to Ca, Lu, Hf, U and Th isotope
+ 
+
+Question: What are the products of the above reaction?
+Answer:swer: 92. VOSBURGH, G.J.; FLEXNER, L.B.; COWIE, D.B. The determination of radioactive iron in biological material with particular reference to purification and separation of iron with isopropyl
+Score: 28.27
