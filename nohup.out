@@ -3557,3 +3557,726 @@ Error encountered running facebook/galactica-6.7b example 2 with keyword_filter_
                         https://huggingface.co/docs/transformers/main/en/main_classes/quantization#offload-between-cpu-and-gpu
                         for more details.
                         
+Model: facebook/galactica-6.7b generating with keyword_filter_generate filter with 475 potential generations using example 2.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:05<00:05,  5.37s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:07<00:00,  3.46s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:07<00:00,  3.74s/it]
+/home/lendes/anaconda3/envs/suli/lib/python3.8/site-packages/transformers/generation/utils.py:1270: UserWarning: You have modified the pretrained model configuration to control generation. This is a deprecated strategy to control generation and will be removed soon, in a future version. Please use a generation configuration file (see https://huggingface.co/docs/transformers/main_classes/text_generation )
+  warnings.warn(
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Time to load model facebook/galactica-6.7b: 9.771500329021364
+Time to check keywords: 2.4464912712574005e-05
+Time to generate 1 response: 8.947620797902346
+Time to generate 1 response: 8.143849494168535
+Time to generate 1 response: 8.241862680064514
+Time to generate 1 response: 8.178935748059303
+Time to generate 1 response: 8.137618873966858
+Time to check keywords: 1.1464115232229233e-05
+Time to generate 1 response: 8.174143709940836
+Time to generate 1 response: 8.348376012174413
+Time to generate 1 response: 8.295811923919246
+Time to generate 1 response: 8.24231781088747
+Time to generate 1 response: 8.221638425020501
+Time to check keywords: 2.0931009203195572e-05
+Time to generate 1 response: 8.332231431035325
+Time to generate 1 response: 8.32145367981866
+Time to generate 1 response: 8.293048008112237
+Time to generate 1 response: 8.355587227968499
+Time to generate 1 response: 8.289172659162432
+Time to check keywords: 1.6141915693879128e-05
+Time to generate 1 response: 8.15858533908613
+Time to generate 1 response: 8.15512792696245
+Time to generate 1 response: 8.304883476812392
+Time to generate 1 response: 8.102027813903987
+Time to generate 1 response: 8.183688163990155
+Time to check keywords: 2.2126128897070885e-05
+Time to generate 1 response: 8.231603740015998
+Time to generate 1 response: 8.194135235156864
+Time to generate 1 response: 8.381356179015711
+Time to generate 1 response: 8.276907149003819
+Time to generate 1 response: 8.307076666038483
+Time to check keywords: 2.3894943296909332e-05
+Time to generate 1 response: 8.289987368974835
+Time to generate 1 response: 8.321207270026207
+Time to generate 1 response: 8.299288540147245
+Time to generate 1 response: 8.277100642910227
+Time to generate 1 response: 8.242590009002015
+Time to check keywords: 1.4689052477478981e-05
+Time to generate 1 response: 8.24210690613836
+Time to generate 1 response: 8.268861376214772
+Time to generate 1 response: 8.311963472981006
+Time to generate 1 response: 8.14134220709093
+Time to generate 1 response: 8.199718059971929
+Time to check keywords: 2.3531029000878334e-05
+Time to generate 1 response: 8.238222334068269
+Time to generate 1 response: 8.310630607884377
+Time to generate 1 response: 8.35494299698621
+Time to generate 1 response: 8.236228191992268
+Time to generate 1 response: 8.217102041933686
+Time to check keywords: 2.3415079340338707e-05
+Time to generate 1 response: 8.2532424449455
+Time to generate 1 response: 8.192337301094085
+Time to generate 1 response: 8.305229305988178
+Time to generate 1 response: 8.330665318062529
+Time to generate 1 response: 8.044048693962395
+Time to check keywords: 1.498498022556305e-05
+Time to generate 1 response: 8.260717167984694
+Time to generate 1 response: 7.997348811943084
+Time to generate 1 response: 8.267413284163922
+Time to generate 1 response: 8.195339505095035
+Time to generate 1 response: 8.264865509001538
+Time to check keywords: 1.1763069778680801e-05
+Time to generate 1 response: 8.234988592099398
+Time to generate 1 response: 8.213709176983684
+Time to generate 1 response: 8.263430359074846
+Time to generate 1 response: 8.21548674418591
+Time to generate 1 response: 8.136139768874273
+Time to check keywords: 1.7364975064992905e-05
+Time to generate 1 response: 8.193719608010724
+Time to generate 1 response: 8.076697079930454
+Time to generate 1 response: 8.214034660020843
+Time to generate 1 response: 8.047865857137367
+Time to generate 1 response: 8.135960089042783
+Time to check keywords: 2.4163862690329552e-05
+Time to generate 1 response: 8.155590555863455
+Time to generate 1 response: 8.169834990985692
+Time to generate 1 response: 8.229726708028466
+Time to generate 1 response: 8.170612577116117
+Time to generate 1 response: 8.144123910926282
+Time to check keywords: 9.765848517417908e-06
+Time to generate 1 response: 8.160124371992424
+Time to generate 1 response: 8.221096264896914
+Time to generate 1 response: 8.182681914884597
+Time to generate 1 response: 8.184253530809656
+Time to generate 1 response: 8.182564495131373
+Time to check keywords: 1.7765909433364868e-05
+Time to generate 1 response: 8.132330123102292
+Time to generate 1 response: 8.153365344041958
+Time to generate 1 response: 8.139565733028576
+Time to generate 1 response: 8.07649879786186
+Time to generate 1 response: 8.095260963076726
+Time to check keywords: 2.9613031074404716e-05
+Time to generate 1 response: 8.095602968940511
+Time to generate 1 response: 8.333135475870222
+Time to generate 1 response: 8.312767598079517
+Time to generate 1 response: 8.280784353846684
+Time to generate 1 response: 8.199991375906393
+Time to check keywords: 8.9230015873909e-06
+Time to generate 1 response: 8.069389877840877
+Time to generate 1 response: 8.233372414950281
+Time to generate 1 response: 8.389776008902118
+Time to generate 1 response: 8.029299549059942
+Time to generate 1 response: 8.087182954885066
+Time to check keywords: 1.2692064046859741e-05
+Time to generate 1 response: 8.252479560906067
+Time to generate 1 response: 8.221371459076181
+Time to generate 1 response: 8.286944185150787
+Time to generate 1 response: 8.165502602932975
+Time to generate 1 response: 8.193202958907932
+Time to check keywords: 2.0690960809588432e-05
+Time to generate 1 response: 8.036658091004938
+Time to generate 1 response: 8.14488311088644
+Time to generate 1 response: 8.306193722877651
+Time to generate 1 response: 8.0388491100166
+Time to generate 1 response: 8.258714228868484
+Time to check keywords: 1.5152152627706528e-05
+Time to generate 1 response: 8.365985753014684
+Time to generate 1 response: 8.651711232960224
+Time to generate 1 response: 8.913058943115175
+Time to generate 1 response: 8.572276679100469
+Time to generate 1 response: 8.23020467814058
+Time to check keywords: 1.243804581463337e-05
+Time to generate 1 response: 8.236730940872803
+Time to generate 1 response: 8.256964379921556
+Time to generate 1 response: 8.311310223070905
+Time to generate 1 response: 8.105514045804739
+Time to generate 1 response: 8.201922820182517
+Time to check keywords: 2.1728919818997383e-05
+Time to generate 1 response: 8.221934957196936
+Time to generate 1 response: 8.261267100926489
+Time to generate 1 response: 8.382705757860094
+Time to generate 1 response: 8.183414985891432
+Time to generate 1 response: 8.24351184698753
+Time to check keywords: 1.9903061911463737e-05
+Time to generate 1 response: 8.229020635131747
+Time to generate 1 response: 8.239227988990024
+Time to generate 1 response: 8.270197849953547
+Time to generate 1 response: 8.237509927013889
+Time to generate 1 response: 8.271074051968753
+Time to check keywords: 1.6805017367005348e-05
+Time to generate 1 response: 8.188490021042526
+Time to generate 1 response: 8.206490329001099
+Time to generate 1 response: 8.284554693847895
+Time to generate 1 response: 8.307534341001883
+Time to generate 1 response: 8.236976006999612
+Time to check keywords: 1.561082899570465e-05
+Time to generate 1 response: 8.212745141936466
+Time to generate 1 response: 8.220380133017898
+Time to generate 1 response: 8.356293068965897
+Time to generate 1 response: 8.13195455702953
+Time to generate 1 response: 8.25714033190161
+Time to check keywords: 1.1038035154342651e-05
+Time to generate 1 response: 8.285613000160083
+Time to generate 1 response: 8.081889664987102
+Time to generate 1 response: 8.243702633073553
+Time to generate 1 response: 8.123808334115893
+Time to generate 1 response: 8.374054725049064
+Time to check keywords: 1.3913027942180634e-05
+Time to generate 1 response: 8.274528693873435
+Time to generate 1 response: 8.272029537940398
+Time to generate 1 response: 8.28908499609679
+Time to generate 1 response: 8.357467278139666
+Time to generate 1 response: 8.31271246704273
+Time to check keywords: 1.5315134078264236e-05
+Time to generate 1 response: 8.168200424173847
+Time to generate 1 response: 8.187259644968435
+Time to generate 1 response: 8.226002390962094
+Time to generate 1 response: 8.14207481406629
+Time to generate 1 response: 8.197576445061713
+Time to check keywords: 1.544598489999771e-05
+Time to generate 1 response: 8.139196573989466
+Time to generate 1 response: 8.214742449112236
+Time to generate 1 response: 8.256612885044888
+Time to generate 1 response: 8.123771904036403
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Time to generate 1 response: 8.316175027983263
+Time to check keywords: 1.0292045772075653e-05
+Time to generate 1 response: 8.088883701944724
+Time to generate 1 response: 8.17539138183929
+Time to generate 1 response: 8.235511288046837
+Time to generate 1 response: 8.17647244501859
+Time to generate 1 response: 8.359829302178696
+Time to check keywords: 1.0980991646647453e-05
+Time to generate 1 response: 8.13106621406041
+Time to generate 1 response: 8.216645712032914
+Time to generate 1 response: 8.19816389400512
+Time to generate 1 response: 8.23114734212868
+Time to generate 1 response: 8.26494664605707
+Time to check keywords: 1.5523983165621758e-05
+Time to generate 1 response: 8.134885272942483
+Time to generate 1 response: 8.230520331067964
+Time to generate 1 response: 8.312059900956228
+Time to generate 1 response: 8.109257695963606
+Time to generate 1 response: 8.349003853043541
+Time to check keywords: 2.337503246963024e-05
+Time to generate 1 response: 8.194024204043671
+Time to generate 1 response: 8.179463644977659
+Time to generate 1 response: 8.2885477039963
+Time to generate 1 response: 8.143146538874134
+Time to generate 1 response: 8.131687732879072
+Time to check keywords: 3.5610049962997437e-05
+Time to generate 1 response: 8.207074695033953
+Time to generate 1 response: 8.235388561151922
+Time to generate 1 response: 8.333517051069066
+Time to generate 1 response: 8.206796379992738
+Time to generate 1 response: 8.229355562012643
+170 generations in 1409.464569587959 seconds.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:05<00:05,  5.30s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:07<00:00,  3.42s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:07<00:00,  3.70s/it]Time to load model facebook/galactica-6.7b: 8.08789609814994
+Time to calculate perplexity: 0.20556104090064764
+Time to calculate perplexity: 0.1752186929807067
+Time to calculate perplexity: 0.17359438305720687
+Time to calculate perplexity: 0.17605154681950808
+Time to calculate perplexity: 0.17532527400180697
+Time to calculate perplexity: 0.1749701478984207
+Time to calculate perplexity: 0.1790011110715568
+Time to calculate perplexity: 0.1750048000831157
+Time to calculate perplexity: 0.17588301980867982
+Time to calculate perplexity: 0.173636294901371
+Time to calculate perplexity: 0.17399748205207288
+Time to calculate perplexity: 0.175190620822832
+Time to calculate perplexity: 0.17673622514121234
+Time to calculate perplexity: 0.24045332497917116
+Time to calculate perplexity: 0.18360029510222375
+Time to calculate perplexity: 0.1754025318659842
+Time to calculate perplexity: 0.1759717829991132
+Time to calculate perplexity: 0.1736470682080835
+Time to calculate perplexity: 0.1770433539059013
+Time to calculate perplexity: 0.17670927406288683
+Time to calculate perplexity: 0.1762831979431212
+Time to calculate perplexity: 0.17877165088430047
+Time to calculate perplexity: 0.172559873200953
+Time to calculate perplexity: 0.17669389001093805
+Time to calculate perplexity: 0.17512427200563252
+Time to calculate perplexity: 0.17863578093238175
+Time to calculate perplexity: 0.17740024696104228
+Time to calculate perplexity: 0.1735414459835738
+Time to calculate perplexity: 0.17563210194930434
+Time to calculate perplexity: 0.17474901513196528
+Time to calculate perplexity: 0.17669884394854307
+Time to calculate perplexity: 0.17773490399122238
+Time to calculate perplexity: 0.17813573498278856
+Time to calculate perplexity: 0.1745205109473318
+Time to calculate perplexity: 0.17495935200713575
+Time to calculate perplexity: 0.17521183309145272
+Time to calculate perplexity: 0.1765402660239488
+Time to calculate perplexity: 0.1729389000684023
+Time to calculate perplexity: 0.1786537899170071
+Time to calculate perplexity: 0.174436470028013
+Time to calculate perplexity: 0.24680163292214274
+Time to calculate perplexity: 0.18007070501334965
+Time to calculate perplexity: 0.1725671230815351
+Time to calculate perplexity: 0.17751162685453892
+Time to calculate perplexity: 0.17616251204162836
+Time to calculate perplexity: 0.17444440792314708
+Time to calculate perplexity: 0.17477170610800385
+Time to calculate perplexity: 0.17166111804544926
+Time to calculate perplexity: 0.17670368705876172
+Time to calculate perplexity: 0.17496664193458855
+Time to calculate perplexity: 0.17621159786358476
+Time to calculate perplexity: 0.17966292682103813
+Time to calculate perplexity: 0.17429360887035728
+Time to calculate perplexity: 0.17679520905949175
+Time to calculate perplexity: 0.17253285413607955
+Time to calculate perplexity: 0.17859993502497673
+Time to calculate perplexity: 0.172908300999552
+Time to calculate perplexity: 0.17629554611630738
+Time to calculate perplexity: 0.17832727008499205
+Time to calculate perplexity: 0.17531218309886754
+Time to calculate perplexity: 0.19141043117269874
+Time to calculate perplexity: 0.19165316596627235
+Time to calculate perplexity: 0.17052562115713954
+Time to calculate perplexity: 0.1765216188505292
+Time to calculate perplexity: 0.17811068007722497
+Time to calculate perplexity: 0.17727510817348957
+Time to calculate perplexity: 0.17927381698973477
+Time to calculate perplexity: 0.17454993189312518
+Time to calculate perplexity: 0.17679282021708786
+Time to calculate perplexity: 0.17695715697482228
+Time to calculate perplexity: 0.21508532809093595
+Time to calculate perplexity: 0.20950666000135243
+Time to calculate perplexity: 0.17792983003892004
+Time to calculate perplexity: 0.1747453440912068
+Time to calculate perplexity: 0.17533075506798923
+Time to calculate perplexity: 0.17603633599355817
+Time to calculate perplexity: 0.17633062903769314
+Time to calculate perplexity: 0.17852007993496954
+Time to calculate perplexity: 0.1758164749480784
+Time to calculate perplexity: 0.17527401307597756
+Time to calculate perplexity: 0.17505326215177774
+Time to calculate perplexity: 0.17462037596851587
+Time to calculate perplexity: 0.17376074194908142
+Time to calculate perplexity: 0.17956109112128615
+Time to calculate perplexity: 0.17733595008030534
+Time to calculate perplexity: 0.17623800178989768
+Time to calculate perplexity: 0.17486989009194076
+Time to calculate perplexity: 0.17400554078631103
+Time to calculate perplexity: 0.17532481788657606
+Time to calculate perplexity: 0.17651407211087644
+Time to calculate perplexity: 0.17714497912675142
+Time to calculate perplexity: 0.17537002684548497
+Time to calculate perplexity: 0.17424703412689269
+Time to calculate perplexity: 0.17660935898311436
+Time to calculate perplexity: 0.1743220870848745
+Time to calculate perplexity: 0.17562501202337444
+Time to calculate perplexity: 0.17998624802567065
+Time to calculate perplexity: 0.1735095540061593
+Time to calculate perplexity: 0.17636031797155738
+Time to calculate perplexity: 0.17654505814425647
+Time to calculate perplexity: 0.17479491489939392
+Time to calculate perplexity: 0.175619789166376
+Time to calculate perplexity: 0.17669736314564943
+Time to calculate perplexity: 0.17904618685133755
+Time to calculate perplexity: 0.17506866599433124
+Time to calculate perplexity: 0.1780507219955325
+Time to calculate perplexity: 0.23863645503297448
+Time to calculate perplexity: 0.17742083594202995
+Time to calculate perplexity: 0.17907354817725718
+Time to calculate perplexity: 0.17628531786613166
+Time to calculate perplexity: 0.17581923492252827
+Time to calculate perplexity: 0.17496964195743203
+Time to calculate perplexity: 0.174516896950081
+Time to calculate perplexity: 0.17480567283928394
+Time to calculate perplexity: 0.17448152508586645
+Time to calculate perplexity: 0.17636178387328982
+Time to calculate perplexity: 0.17785880621522665
+Time to calculate perplexity: 0.17534272791817784
+Time to calculate perplexity: 0.17636884492821991
+Time to calculate perplexity: 0.1749324151314795
+Time to calculate perplexity: 0.17538903281092644
+Time to calculate perplexity: 0.1765631102025509
+Time to calculate perplexity: 0.17791482689790428
+Time to calculate perplexity: 0.1768458599690348
+Time to calculate perplexity: 0.1743591958656907
+Time to calculate perplexity: 0.17203207802958786
+Time to calculate perplexity: 0.17780437390320003
+Time to calculate perplexity: 0.17345081502571702
+Time to calculate perplexity: 0.17952417791821063
+Time to calculate perplexity: 0.17518564802594483
+Time to calculate perplexity: 0.17536643706262112
+Time to calculate perplexity: 0.1744574629701674
+Time to calculate perplexity: 0.17750780493952334
+Time to calculate perplexity: 0.18057234003208578
+Time to calculate perplexity: 0.17634536605328321
+Time to calculate perplexity: 0.17778666806407273
+Time to calculate perplexity: 0.17618681280873716
+Time to calculate perplexity: 0.17468936601653695
+Time to calculate perplexity: 0.1787680529523641
+Time to calculate perplexity: 0.17614160501398146
+Time to calculate perplexity: 0.17276811506599188
+Time to calculate perplexity: 0.17982360091991723
+Time to calculate perplexity: 0.17716570291668177
+Time to calculate perplexity: 0.17787931789644063
+Time to calculate perplexity: 0.17564711719751358
+Time to calculate perplexity: 0.17369139497168362
+Time to calculate perplexity: 0.17651356919668615
+Time to calculate perplexity: 0.17435411806218326
+Time to calculate perplexity: 0.23956438503228128
+Time to calculate perplexity: 0.1847659999039024
+Time to calculate perplexity: 0.17724088300019503
+Time to calculate perplexity: 0.17520435387268662
+Time to calculate perplexity: 0.17266885680146515
+Time to calculate perplexity: 0.17368779587559402
+Time to calculate perplexity: 0.17789384280331433
+Time to calculate perplexity: 0.1753640950191766
+Time to calculate perplexity: 0.17278130701743066
+Time to calculate perplexity: 0.17358085187152028
+Time to calculate perplexity: 0.17517523397691548
+Time to calculate perplexity: 0.17584603000432253
+Time to calculate perplexity: 0.17663382389582694
+Time to calculate perplexity: 0.1757307650987059
+Time to calculate perplexity: 0.17260798905044794
+
+Time to calculate perplexity: 0.1771876998245716
+Time to calculate perplexity: 0.1739898689556867
+Time to calculate perplexity: 0.17399809695780277
+Time to calculate perplexity: 0.17251427890732884
+Time to calculate perplexity: 0.17817445704713464
+Time to calculate perplexity: 0.17779812309890985
+Time to calculate perplexity: 0.17548328288830817
+Time to calculate average perplexity: 30.38054032693617
