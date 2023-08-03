@@ -95,5 +95,38 @@ def pdf_to_context():
         # print(_, end="\t \end/ \n\n")
     return context
 
+
+def single_pdf_to_context(pdf_file_name):
+    """
+    Parameters:
+        pdf_file_name: A string representation of the name of the pdf file.
+    
+    Returns:
+        context: list with different paragraphs from the text file that may be able to be used as context for large language models.
+        
+    Note: While this program does split pdfs into different paragraphs, it is not guaranteed that the produced paragraphs are all usable, and there 
+    are still a good number of paragraphs that are simply acknowledgements or unusable blocks of text from the pdfs.
+    """
+
+    # Check if converted txt file already exists
+    directory2 = "data/txt"
+    if ".pdf" in pdf_file_name:
+        fname = f"{pdf_file_name[:-4]}.txt"
+    f = os.path.join(directory2, fname)
+    if os.path.isfile(f) and f.endswith(".txt"):
+        return extract_context(fname)
+    
+    # Convert pdf to txt file
+    directory1 = "data/pdf"
+    f = os.path.join(directory1, pdf_file_name)
+    if os.path.isfile(f) and f.endswith(".pdf"):
+        convert_to_txt(pdf_file_name)
+    
+    # Return txt file as list of contexts
+    f = os.path.join(directory2, f"{fname}.txt")
+    if os.path.isfile(f) and f.endswith(".txt"):
+        return extract_context(fname)
+
+
 if __name__ == "__main__":
     pdf_to_context()
