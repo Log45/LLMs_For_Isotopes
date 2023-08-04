@@ -82,7 +82,8 @@ def html_to_context():
 
 
 def single_html_to_context(html_file_name):
-    """"""
+    """
+    """
     directory = "data/html"
     if ".html" not in html_file_name:
         html_file_name = f"{html_file_name}.html"
