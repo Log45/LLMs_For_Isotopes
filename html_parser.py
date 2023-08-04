@@ -81,5 +81,17 @@ def html_to_context():
     return context
 
 
+def single_html_to_context(html_file_name):
+    """"""
+    directory = "data/html"
+    if ".html" not in html_file_name:
+        html_file_name = f"{html_file_name}.html"
+    f = os.path.join(directory, html_file_name)
+    # check if it exists
+    if os.path.isfile(f) and f.endswith(".html"):
+        return extract_context(html_file_name)
+    print("Invalid html file: " + html_file_name)
+
+
 if __name__ == "__main__":
     html_to_context()
