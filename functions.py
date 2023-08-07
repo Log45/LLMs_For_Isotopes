@@ -716,6 +716,7 @@ def write_to_file(model_name: str, context: list, example=1, output_name = "keyw
         question_index = gen.index('Question:')
         ans = _ans[i]
         c = answer_context_dict[ans]
+        print(c)
         if not (c in k):
             k += "\n\n\n" + gen[:question_index] + "\n"
 
@@ -762,7 +763,7 @@ def main():
 def test():
 
     parsers = ["html"]
-    relevant_models = {"facebook/galactica-6.7b"}
+    relevant_models = {"facebook/galactica-1.3b"}
     filters = {keyword_filter_generate}
 
     for parser in parsers:
