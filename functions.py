@@ -717,7 +717,7 @@ def write_to_file(model_name: str, context: list, example=1, output_name = "keyw
         ans = _ans[i]
         c = answer_context_dict[ans]
         #print(c)
-        if not (c in k):
+        if c not in k:
             print(c)
             k += "\n\n\n" + gen[:question_index] + "\n"
             print(k)
