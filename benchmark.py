@@ -204,39 +204,220 @@ def run_benchmark():
                     for c in context:
                         relevant_context = response_context_dict[c]   
                         qna = context_qna_dict[c]
-                        for tup in qna:
-                            if tup[0] in paragraph_questions_dict[relevant_context]:
-                                relevant_tracker+=1
-                                # Make conditions for each question and answer and add to score if has certain parts in the string
-                                if relevant_context == p1:
-                                    pass
-                                elif relevant_context == p2:
-                                    pass
-                                elif relevant_context == p3:
-                                    pass
-                                elif relevant_context == p4:
-                                    pass
-                                elif relevant_context == p5:
-                                    pass
-                                elif relevant_context == p6:
-                                    pass
-                                elif relevant_context == p7:
-                                    pass
-                                elif relevant_context == p8:
-                                    pass
-                                elif relevant_context == p9:
-                                    pass
-                                elif relevant_context == p10:
-                                    pass
-                                elif relevant_context == p11:
-                                    pass
-                                elif relevant_context == p12:
-                                    pass
-                                elif relevant_context == p13:
-                                    pass
-                                elif relevant_context == p14:
-                                    pass
-                                elif relevant_context == p15:
-                                    pass
-                                elif relevant_context == p16:
-                                    pass
+                        if relevant_context is not None:
+                            for tup in qna:
+                                q = tup[0]
+                                a = tup[1]
+                                paragraph_questions = paragraph_questions_dict[relevant_context]
+                                if q in paragraph_questions:
+                                    relevant_tracker+=1
+                                    # Make conditions for each question and answer and add to score if has certain parts in the string
+                                    if relevant_context == p1:
+                                        if q == target_question:
+                                            if "Iron" in a or "iron" in a or "Fe" in a:
+                                                score+=0.5
+                                            if "Nickel" in a or "nickel" in a or "Ni" in a:
+                                                score+=0.5
+                                        elif q == acid_question:
+                                            if "HCl" in a:
+                                                score+=0.34
+                                            if "HNO3" in a:
+                                                score+=0.33
+                                            if "HBr" in a:
+                                                score+=0.33
+                                        elif q == resin_question:
+                                            if "Dowex-2" in a:
+                                                score+=0.34
+                                            if "Amberlite IRA-400" in a:
+                                                score+=0.33
+                                            if "ANEX-L" in a:
+                                                score+=0.33
+                                        elif q == products_question:
+                                            if "cobalt-55" in a or "Cobalt-55" in a or "55Co" in a:
+                                                score+=0.5
+                                            if "cobalt-58m" in a or "Cobalt-58m" in a or "58mCo" in a:
+                                                score+=0.5
+                                    elif relevant_context == p2:
+                                        if q == target_question:
+                                            if "nickel" in a or "Nickel" in a:
+                                                score+=1
+                                        elif q == acid_question:
+                                            if "9M HCl" in a or "9 M HCl" in a or ("9M" in a and "HCl" in a):
+                                                score+=1
+                                        elif q == resin_question:
+                                            if "AG 1 × 8" in a or "AG1×8" in a or "AG 1×8" in a or ("AG" in a and "anion-exchange resin" in a):
+                                                score+=1
+                                        elif q == elution_question:
+                                            if "0.1M HCl" in a or "0.1 M HCl" in a:
+                                                score+=1
+                                        elif q == products_question:
+                                            if "cobalt" in a or "Cobalt" in a or "Co" in a:
+                                                score+=1
+                                    elif relevant_context == p3:
+                                        if q == target_question:
+                                            if "Iron" in a or "iron" in a or "Fe" in a:
+                                                score+=1
+                                        elif q == resin_question:
+                                            if "anion-exchane" in a or "Anion-exchange" in a:
+                                                score+=1
+                                        elif q == elution_question:
+                                            if "4M HCl" in a or "4 M HCl" in a:
+                                                score+=1
+                                        elif q == products_question:
+                                            if "cobalt-5x" in a or "Cobalt-5x" in a or "5xCo" in a:
+                                                score+=1
+                                    elif relevant_context == p4:
+                                        if q == target_question:
+                                            if "manganese" in a or "Manganese" in a or "Mn" in a:
+                                                score+=1
+                                        elif q == acid_question:
+                                            if ">" in a:
+                                                score+=0.5
+                                            if "4.5M HCl" in a or "4.5 M HCl" in a:
+                                                score+=0.5
+                                        elif q == resin_question:
+                                            if "anion-exchange" in a or "Anion-exchange" in a:
+                                                score+=0.5
+                                            if "AG1 × 8 " in a or ("AG" in a and "1" in a and "8" in a):
+                                                score+=0.5
+                                        elif q == elution_question:
+                                            if "<" in a:
+                                                score+=0.5
+                                            if "4.5M HCl" in a or "4.5 M HCl" in a:
+                                                score+=0.5 
+                                        elif q == products_question:
+                                            if "Cobalt-5x" in a or "cobalt-5x" in a or "5xCo" in a:
+                                                score+=1
+                                    elif relevant_context == p5:
+                                        if q == target_question:
+                                            if "Nickel" in a or "nickel" in a or "Ni" in a:
+                                                score+=0.5
+                                            if "Iron" in a or "iron" in a or "Fe" in a:
+                                                score+=0.5
+                                        elif q == resin_question:
+                                            if "N,N,N0 ,N0 -tetrakis-2-ethylhexyldiglycolamide" in a or "DGA Branched extraction resin" in a or ("DGA" in a and "resin" in a) or ("DGA" in a and "branched" in a):
+                                                score+=1
+                                        elif q == products_question:
+                                            if "radioactive cobalt" in a or "Radioactive cobalt" in a or "Radioactive Cobalt" in a:
+                                                score+=1
+                                    elif relevant_context == p6:
+                                        if q == target_question:
+                                            if "nickel" in a or "Nickel" in a or "Ni" in a:
+                                                score+=1
+                                        elif q == resin_question:
+                                            if "DGA" in a and ("branched" in a or "Branched" in a):
+                                                score+=1
+                                        elif q == products_question:
+                                            if "cobalt" in a or "Cobalt" in a or "Co" in a:
+                                                score+=1
+                                    elif relevant_context == p7:
+                                        if q == target_question:
+                                            if "iron-5x" in a or "Iron-5x" in a or "5xFe" in a:
+                                                score+=1
+                                        elif q == resin_question:
+                                            if "AG1X8" in a:
+                                                score+=0.5
+                                            if "DGA" in a:
+                                                score+=0.5
+                                        elif q == products_question:
+                                            if "cobalt-5x" in a or "Cobalt-5x" in a or "5xCo" in a:
+                                                score+=1
+                                    elif relevant_context == p8:
+                                        if q == target_question:
+                                            pass
+                                        elif q == acid_question:
+                                            pass
+                                        elif q == resin_question:
+                                            pass
+                                        elif q == elution_question:
+                                            pass
+                                        elif q == products_question:
+                                            pass
+                                    elif relevant_context == p9:
+                                        if q == target_question:
+                                            pass
+                                        elif q == acid_question:
+                                            pass
+                                        elif q == resin_question:
+                                            pass
+                                        elif q == elution_question:
+                                            pass
+                                        elif q == products_question:
+                                            pass
+                                    elif relevant_context == p10:
+                                        if q == target_question:
+                                            pass
+                                        elif q == acid_question:
+                                            pass
+                                        elif q == resin_question:
+                                            pass
+                                        elif q == elution_question:
+                                            pass
+                                        elif q == products_question:
+                                            pass
+                                    elif relevant_context == p11:
+                                        if q == target_question:
+                                            pass
+                                        elif q == acid_question:
+                                            pass
+                                        elif q == resin_question:
+                                            pass
+                                        elif q == elution_question:
+                                            pass
+                                        elif q == products_question:
+                                            pass
+                                    elif relevant_context == p12:
+                                        if q == target_question:
+                                            pass
+                                        elif q == acid_question:
+                                            pass
+                                        elif q == resin_question:
+                                            pass
+                                        elif q == elution_question:
+                                            pass
+                                        elif q == products_question:
+                                            pass
+                                    elif relevant_context == p13:
+                                        if q == target_question:
+                                            pass
+                                        elif q == acid_question:
+                                            pass
+                                        elif q == resin_question:
+                                            pass
+                                        elif q == elution_question:
+                                            pass
+                                        elif q == products_question:
+                                            pass
+                                    elif relevant_context == p14:
+                                        if q == target_question:
+                                            pass
+                                        elif q == acid_question:
+                                            pass
+                                        elif q == resin_question:
+                                            pass
+                                        elif q == elution_question:
+                                            pass
+                                        elif q == products_question:
+                                            pass
+                                    elif relevant_context == p15:
+                                        if q == target_question:
+                                            pass
+                                        elif q == acid_question:
+                                            pass
+                                        elif q == resin_question:
+                                            pass
+                                        elif q == elution_question:
+                                            pass
+                                        elif q == products_question:
+                                            pass
+                                    elif relevant_context == p16:
+                                        if q == target_question:
+                                            pass
+                                        elif q == acid_question:
+                                            pass
+                                        elif q == resin_question:
+                                            pass
+                                        elif q == elution_question:
+                                            pass
+                                        elif q == products_question:
+                                            pass
