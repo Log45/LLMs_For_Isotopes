@@ -689,7 +689,7 @@ def write_to_file(model_name: str, context: list, example=1, output_name = "keyw
         filter (function, optional): The filter to use in the response generation. Defaults to keyword_filter_generate.
     """
     _gen, _ans, _time = filter(model_name, context, example)
-
+    torch.cuda.empty_cache()
     _time = round(_time, 2)
 
     model, tokenizer = load_model(model_name)
