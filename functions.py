@@ -604,6 +604,7 @@ def keyword_model_expert_check_generate(model_name: str, contexts: list, example
 # TODO: Maybe finish this and include for the paper, don't worry about it for the poster
 def keyword_multi_model_expert_check_generate(model_name: str, contexts: list, example=1):
     """
+    NOTE: THIS IS NOT IMPLEMENTED, IT IS FUNCTIONALLY THE SAME AS THE KEYWORD_MODEL_EXPERT_CHECK_GENERATE FUNCTION, THOUGH I THINK THIS WOULD BE WORTH USING IN THE FUTURE TO ENSURE MORE ACCURATE GENERATIONS
     This function combines four techniques to make responses as accurate as possible:
         keyword_filtering: Throws away all context paragraphs that don't contain any keywords specified in the keywords set at the top of the file.
         multi_model_filtering: Asks the model to determine if the context paragraph contains a chemical extraction as well as if it describes a target, acid, elution, product, or resin and continues if 'yes' is generated in the response.
