@@ -58,7 +58,7 @@ q16 = (target_question, acid_question, products_question)
 relevant_contexts = [p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11, p12, p13, p14, p15, p16]
 paragraph_questions_dict = {p1:q1, p2:q2, p3:q3, p4:q4, p5:q5, p6:q6, p7:q7, p8:q8, p9:q9, p10:q10, p11:q11, p12:q12, p13:q13, p14:q14, p15:q15, p16:q16}
    
-def find_paragraph(s: set, context:list, response_context_dict: dict):
+def find_paragraph(s: set, context:list):
     """_summary_
 
     Args:
@@ -84,7 +84,7 @@ def find_paragraph(s: set, context:list, response_context_dict: dict):
                 if len(s1.intersection(test_set_dict[t])) == len(test_set_dict[t]):
                     if(len(t)) > 2:
                         overlap.append(t)
-    relevant = overlap[0]
+    relevant = overlap[0] if len(overlap) > 0 else ""
     # Sort out weird outlier matches
     for c in overlap:
         if len(c) > len(relevant):
@@ -111,7 +111,7 @@ def find_relevant_paragraphs(relevant_contexts: list, context: list):
     paragraphs = []
     response_context_dict = {}
     for s in relevant_sets:
-        i = relevant_contexts.index(s)
+        i = relevant_sets.index(s)
         paragraph = find_paragraph(s, context)
         paragraphs.append(paragraph)
         response_context_dict[paragraph] = relevant_contexts[i]
@@ -202,9 +202,9 @@ def run_benchmark():
                         response_context_dict = find_relevant_paragraphs(relevant_contexts, context)
                     relevant_tracker = 0
                     for c in context:
-                        relevant_context = response_context_dict[c]   
-                        qna = context_qna_dict[c]
-                        if relevant_context is not None:
+                        relevant_context = response_context_dict[c] if c in response_context_dict.keys() else None
+                        qna = context_qna_dict[c] if c in context_qna_dict.keys() else None
+                        if relevant_context is not None and qna is not None:
                             for tup in qna:
                                 q = tup[0]
                                 a = tup[1]
@@ -324,62 +324,85 @@ def run_benchmark():
                                                 score+=1
                                     elif relevant_context == p8:
                                         if q == target_question:
-                                            pass
+                                            if "manganese" in a or "Manganese" in a or "Mn" in a:
+                                                score+=1
                                         elif q == acid_question:
-                                            pass
+                                            if ("4–6 M" in a or "4–6M" in a) and "HCl" in a:
+                                                score+=1
                                         elif q == resin_question:
-                                            pass
-                                        elif q == elution_question:
-                                            pass
+                                            if "DGA" in a and ("branched" in a or "Branched" in a):
+                                                score+=1
                                         elif q == products_question:
-                                            pass
+                                            if "cobalt-55" in a or "Cobalt-55" in a or "55Co" in a:
+                                                score+=0.5
+                                            if "cobalt-58m" in a or "Cobalt-58m" in a or "58mCo" in a:
+                                                score+=0.5
                                     elif relevant_context == p9:
                                         if q == target_question:
-                                            pass
-                                        elif q == acid_question:
-                                            pass
+                                            if "Iron" in a or "iron" in a or "Fe" in a:
+                                                score+=0.5
+                                            if "Nickel" in a or "nickel" in a or "Ni" in a:
+                                                score+=0.5
                                         elif q == resin_question:
-                                            pass
-                                        elif q == elution_question:
-                                            pass
+                                            if "alumina" in a or "Alumina" in a:
+                                                score+=0.25
+                                            if "8-hydroxyquinoline" in a:
+                                                score+=0.25
+                                            if "naphthaquinoline" in a:
+                                                score+=0.25
+                                            if "cupferron" in a and ("potator starch" in a or "dimethylglyoxime" in a):
+                                                score+=0.25
                                         elif q == products_question:
-                                            pass
+                                            if "Cobalt" in a or "cobalt" in a or "Co" in a:
+                                                score+=1
                                     elif relevant_context == p10:
                                         if q == target_question:
-                                            pass
-                                        elif q == acid_question:
-                                            pass
-                                        elif q == resin_question:
-                                            pass
-                                        elif q == elution_question:
-                                            pass
-                                        elif q == products_question:
-                                            pass
+                                            if "Nickel-64" in a or "nickel-64" in a or "64Ni" in a:
+                                                score+=1
                                     elif relevant_context == p11:
                                         if q == target_question:
-                                            pass
+                                            if "Nickel-64" in a or "nickel-64" in a or "64Ni" in a:
+                                                score+=1
                                         elif q == acid_question:
-                                            pass
+                                            if "6 M HCl" in a or "6M HCl" in a or "6 M hydrochloride acid" in a:
+                                                score+=1
                                         elif q == resin_question:
-                                            pass
+                                            if "anion exchange" in a or "Anion exchange" in a or "Anion Exchange" in a:
+                                                score+=1
                                         elif q == elution_question:
-                                            pass
+                                            if "1 M HCl" in a or "1M HCl" in a:
+                                                score+=1
                                         elif q == products_question:
-                                            pass
+                                            if "Copper-64" in a or "copper-64" in a or "64Cu" in a:
+                                                score+=0.5
+                                            if "cobalt" in a or "Cobalt" in a:
+                                                score+=0.5
                                     elif relevant_context == p12:
                                         if q == target_question:
-                                            pass
+                                            if "Nickel-64" in a or "nickel-64" in a or "64Ni" in a:
+                                                score+=1
                                         elif q == acid_question:
-                                            pass
+                                            if "6 M HCl" in a or "6M HCl" in a or "6 M hydrochloride acid" in a:
+                                                score+=1
                                         elif q == resin_question:
-                                            pass
+                                            if "anion exchange" in a or "Anion exchange" in a or "Anion Exchange" in a:
+                                                score+=0.5
+                                            if "AG 1-X8" in a or "AG 1" in a:
+                                                score+=0.5
                                         elif q == elution_question:
-                                            pass
+                                            if "1 M HCl" in a or "1M HCl" in a:
+                                                score+=1
                                         elif q == products_question:
-                                            pass
+                                            if "Copper-64" in a or "copper-64" in a or "64Cu" in a:
+                                                score+=0.5
                                     elif relevant_context == p13:
                                         if q == target_question:
-                                            pass
+                                            if "Thorium" in a or "thorium" in a or "Th" in a:
+                                                score+=0.5
+                                            if "232" in a:
+                                                score+=0.25
+                                            if "228" in a:
+                                                score+=0.25
                                         elif q == acid_question:
                                             pass
                                         elif q == resin_question:
@@ -421,3 +444,5 @@ def run_benchmark():
                                             pass
                                         elif q == products_question:
                                             pass
+                print(score, f)
+run_benchmark()
