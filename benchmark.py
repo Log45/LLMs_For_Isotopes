@@ -184,265 +184,327 @@ def extract_context_qna(filepath: str):
 def run_benchmark():
     """"""   
     directory = "output" 
+    output_list = []
     for name in os.listdir(directory):
         d = os.path.join(directory, name)
         if os.path.isdir(d):
             for file in os.listdir(d):
                 f = os.path.join(d, file)
-                if os.path.isfile(f):
-                    score = 0
-                    context = extract_context(f)
-                    context_qna_dict = extract_context_qna(f)
-                    if "html" in f:
-                        total_points = 45
-                        r_contexts = relevant_contexts[:-4]
-                        response_context_dict = find_relevant_paragraphs(r_contexts, context)
-                    else:
-                        total_points = 61
-                        response_context_dict = find_relevant_paragraphs(relevant_contexts, context)
-                    relevant_tracker = 0
-                    for c in context:
-                        relevant_context = response_context_dict[c] if c in response_context_dict.keys() else None
-                        qna = context_qna_dict[c] if c in context_qna_dict.keys() else None
-                        if relevant_context is not None and qna is not None:
-                            for tup in qna:
-                                q = tup[0]
-                                a = tup[1]
-                                paragraph_questions = paragraph_questions_dict[relevant_context]
-                                if q in paragraph_questions:
-                                    relevant_tracker+=1
-                                    # Make conditions for each question and answer and add to score if has certain parts in the string
-                                    if relevant_context == p1:
-                                        if q == target_question:
-                                            if "Iron" in a or "iron" in a or "Fe" in a:
-                                                score+=0.5
-                                            if "Nickel" in a or "nickel" in a or "Ni" in a:
-                                                score+=0.5
-                                        elif q == acid_question:
-                                            if "HCl" in a:
-                                                score+=0.34
-                                            if "HNO3" in a:
-                                                score+=0.33
-                                            if "HBr" in a:
-                                                score+=0.33
-                                        elif q == resin_question:
-                                            if "Dowex-2" in a:
-                                                score+=0.34
-                                            if "Amberlite IRA-400" in a:
-                                                score+=0.33
-                                            if "ANEX-L" in a:
-                                                score+=0.33
-                                        elif q == products_question:
-                                            if "cobalt-55" in a or "Cobalt-55" in a or "55Co" in a:
-                                                score+=0.5
-                                            if "cobalt-58m" in a or "Cobalt-58m" in a or "58mCo" in a:
-                                                score+=0.5
-                                    elif relevant_context == p2:
-                                        if q == target_question:
-                                            if "nickel" in a or "Nickel" in a:
-                                                score+=1
-                                        elif q == acid_question:
-                                            if "9M HCl" in a or "9 M HCl" in a or ("9M" in a and "HCl" in a):
-                                                score+=1
-                                        elif q == resin_question:
-                                            if "AG 1 × 8" in a or "AG1×8" in a or "AG 1×8" in a or ("AG" in a and "anion-exchange resin" in a):
-                                                score+=1
-                                        elif q == elution_question:
-                                            if "0.1M HCl" in a or "0.1 M HCl" in a:
-                                                score+=1
-                                        elif q == products_question:
-                                            if "cobalt" in a or "Cobalt" in a or "Co" in a:
-                                                score+=1
-                                    elif relevant_context == p3:
-                                        if q == target_question:
-                                            if "Iron" in a or "iron" in a or "Fe" in a:
-                                                score+=1
-                                        elif q == resin_question:
-                                            if "anion-exchane" in a or "Anion-exchange" in a:
-                                                score+=1
-                                        elif q == elution_question:
-                                            if "4M HCl" in a or "4 M HCl" in a:
-                                                score+=1
-                                        elif q == products_question:
-                                            if "cobalt-5x" in a or "Cobalt-5x" in a or "5xCo" in a:
-                                                score+=1
-                                    elif relevant_context == p4:
-                                        if q == target_question:
-                                            if "manganese" in a or "Manganese" in a or "Mn" in a:
-                                                score+=1
-                                        elif q == acid_question:
-                                            if ">" in a:
-                                                score+=0.5
-                                            if "4.5M HCl" in a or "4.5 M HCl" in a:
-                                                score+=0.5
-                                        elif q == resin_question:
-                                            if "anion-exchange" in a or "Anion-exchange" in a:
-                                                score+=0.5
-                                            if "AG1 × 8 " in a or ("AG" in a and "1" in a and "8" in a):
-                                                score+=0.5
-                                        elif q == elution_question:
-                                            if "<" in a:
-                                                score+=0.5
-                                            if "4.5M HCl" in a or "4.5 M HCl" in a:
-                                                score+=0.5 
-                                        elif q == products_question:
-                                            if "Cobalt-5x" in a or "cobalt-5x" in a or "5xCo" in a:
-                                                score+=1
-                                    elif relevant_context == p5:
-                                        if q == target_question:
-                                            if "Nickel" in a or "nickel" in a or "Ni" in a:
-                                                score+=0.5
-                                            if "Iron" in a or "iron" in a or "Fe" in a:
-                                                score+=0.5
-                                        elif q == resin_question:
-                                            if "N,N,N0 ,N0 -tetrakis-2-ethylhexyldiglycolamide" in a or "DGA Branched extraction resin" in a or ("DGA" in a and "resin" in a) or ("DGA" in a and "branched" in a):
-                                                score+=1
-                                        elif q == products_question:
-                                            if "radioactive cobalt" in a or "Radioactive cobalt" in a or "Radioactive Cobalt" in a:
-                                                score+=1
-                                    elif relevant_context == p6:
-                                        if q == target_question:
-                                            if "nickel" in a or "Nickel" in a or "Ni" in a:
-                                                score+=1
-                                        elif q == resin_question:
-                                            if "DGA" in a and ("branched" in a or "Branched" in a):
-                                                score+=1
-                                        elif q == products_question:
-                                            if "cobalt" in a or "Cobalt" in a or "Co" in a:
-                                                score+=1
-                                    elif relevant_context == p7:
-                                        if q == target_question:
-                                            if "iron-5x" in a or "Iron-5x" in a or "5xFe" in a:
-                                                score+=1
-                                        elif q == resin_question:
-                                            if "AG1X8" in a:
-                                                score+=0.5
-                                            if "DGA" in a:
-                                                score+=0.5
-                                        elif q == products_question:
-                                            if "cobalt-5x" in a or "Cobalt-5x" in a or "5xCo" in a:
-                                                score+=1
-                                    elif relevant_context == p8:
-                                        if q == target_question:
-                                            if "manganese" in a or "Manganese" in a or "Mn" in a:
-                                                score+=1
-                                        elif q == acid_question:
-                                            if ("4–6 M" in a or "4–6M" in a) and "HCl" in a:
-                                                score+=1
-                                        elif q == resin_question:
-                                            if "DGA" in a and ("branched" in a or "Branched" in a):
-                                                score+=1
-                                        elif q == products_question:
-                                            if "cobalt-55" in a or "Cobalt-55" in a or "55Co" in a:
-                                                score+=0.5
-                                            if "cobalt-58m" in a or "Cobalt-58m" in a or "58mCo" in a:
-                                                score+=0.5
-                                    elif relevant_context == p9:
-                                        if q == target_question:
-                                            if "Iron" in a or "iron" in a or "Fe" in a:
-                                                score+=0.5
-                                            if "Nickel" in a or "nickel" in a or "Ni" in a:
-                                                score+=0.5
-                                        elif q == resin_question:
-                                            if "alumina" in a or "Alumina" in a:
-                                                score+=0.25
-                                            if "8-hydroxyquinoline" in a:
-                                                score+=0.25
-                                            if "naphthaquinoline" in a:
-                                                score+=0.25
-                                            if "cupferron" in a and ("potator starch" in a or "dimethylglyoxime" in a):
-                                                score+=0.25
-                                        elif q == products_question:
-                                            if "Cobalt" in a or "cobalt" in a or "Co" in a:
-                                                score+=1
-                                    elif relevant_context == p10:
-                                        if q == target_question:
-                                            if "Nickel-64" in a or "nickel-64" in a or "64Ni" in a:
-                                                score+=1
-                                    elif relevant_context == p11:
-                                        if q == target_question:
-                                            if "Nickel-64" in a or "nickel-64" in a or "64Ni" in a:
-                                                score+=1
-                                        elif q == acid_question:
-                                            if "6 M HCl" in a or "6M HCl" in a or "6 M hydrochloride acid" in a:
-                                                score+=1
-                                        elif q == resin_question:
-                                            if "anion exchange" in a or "Anion exchange" in a or "Anion Exchange" in a:
-                                                score+=1
-                                        elif q == elution_question:
-                                            if "1 M HCl" in a or "1M HCl" in a:
-                                                score+=1
-                                        elif q == products_question:
-                                            if "Copper-64" in a or "copper-64" in a or "64Cu" in a:
-                                                score+=0.5
-                                            if "cobalt" in a or "Cobalt" in a:
-                                                score+=0.5
-                                    elif relevant_context == p12:
-                                        if q == target_question:
-                                            if "Nickel-64" in a or "nickel-64" in a or "64Ni" in a:
-                                                score+=1
-                                        elif q == acid_question:
-                                            if "6 M HCl" in a or "6M HCl" in a or "6 M hydrochloride acid" in a:
-                                                score+=1
-                                        elif q == resin_question:
-                                            if "anion exchange" in a or "Anion exchange" in a or "Anion Exchange" in a:
-                                                score+=0.5
-                                            if "AG 1-X8" in a or "AG 1" in a:
-                                                score+=0.5
-                                        elif q == elution_question:
-                                            if "1 M HCl" in a or "1M HCl" in a:
-                                                score+=1
-                                        elif q == products_question:
-                                            if "Copper-64" in a or "copper-64" in a or "64Cu" in a:
-                                                score+=0.5
-                                    elif relevant_context == p13:
-                                        if q == target_question:
-                                            if "Thorium" in a or "thorium" in a or "Th" in a:
-                                                score+=0.5
-                                            if "232" in a:
-                                                score+=0.25
-                                            if "228" in a:
-                                                score+=0.25
-                                        elif q == acid_question:
-                                            pass
-                                        elif q == resin_question:
-                                            pass
-                                        elif q == elution_question:
-                                            pass
-                                        elif q == products_question:
-                                            pass
-                                    elif relevant_context == p14:
-                                        if q == target_question:
-                                            pass
-                                        elif q == acid_question:
-                                            pass
-                                        elif q == resin_question:
-                                            pass
-                                        elif q == elution_question:
-                                            pass
-                                        elif q == products_question:
-                                            pass
-                                    elif relevant_context == p15:
-                                        if q == target_question:
-                                            pass
-                                        elif q == acid_question:
-                                            pass
-                                        elif q == resin_question:
-                                            pass
-                                        elif q == elution_question:
-                                            pass
-                                        elif q == products_question:
-                                            pass
-                                    elif relevant_context == p16:
-                                        if q == target_question:
-                                            pass
-                                        elif q == acid_question:
-                                            pass
-                                        elif q == resin_question:
-                                            pass
-                                        elif q == elution_question:
-                                            pass
-                                        elif q == products_question:
-                                            pass
-                print(score, f)
-run_benchmark()
+                if ".out" in file or "placeholder" in file:
+                    pass
+                else:
+                    if os.path.isfile(f):
+                        generations, time, perp_score = get_stats(f)
+                        score = 0
+                        context = extract_context(f)
+                        context_qna_dict = extract_context_qna(f)
+                        if "html" in f:
+                            total_points = 45
+                            r_contexts = relevant_contexts[:-4]
+                            response_context_dict = find_relevant_paragraphs(r_contexts, context)
+                        else:
+                            total_points = 61
+                            response_context_dict = find_relevant_paragraphs(relevant_contexts, context)
+                        relevant_tracker = 0
+                        for c in context:
+                            relevant_context = response_context_dict[c] if c in response_context_dict.keys() else None
+                            qna = context_qna_dict[c] if c in context_qna_dict.keys() else None
+                            if relevant_context is not None and qna is not None:
+                                for tup in qna:
+                                    q = tup[0]
+                                    a = tup[1]
+                                    paragraph_questions = paragraph_questions_dict[relevant_context]
+                                    if q in paragraph_questions:
+                                        relevant_tracker+=1
+                                        # Make conditions for each question and answer and add to score if has certain parts in the string
+                                        if relevant_context == p1:
+                                            if q == target_question:
+                                                if "Iron" in a or "iron" in a or "Fe" in a:
+                                                    score+=0.5
+                                                if "Nickel" in a or "nickel" in a or "Ni" in a:
+                                                    score+=0.5
+                                            elif q == acid_question:
+                                                if "HCl" in a:
+                                                    score+=0.34
+                                                if "HNO3" in a:
+                                                    score+=0.33
+                                                if "HBr" in a:
+                                                    score+=0.33
+                                            elif q == resin_question:
+                                                if "Dowex-2" in a:
+                                                    score+=0.34
+                                                if "Amberlite IRA-400" in a:
+                                                    score+=0.33
+                                                if "ANEX-L" in a:
+                                                    score+=0.33
+                                            elif q == products_question:
+                                                if "cobalt-55" in a or "Cobalt-55" in a or "55Co" in a:
+                                                    score+=0.5
+                                                if "cobalt-58m" in a or "Cobalt-58m" in a or "58mCo" in a:
+                                                    score+=0.5
+                                        elif relevant_context == p2:
+                                            if q == target_question:
+                                                if "nickel" in a or "Nickel" in a:
+                                                    score+=1
+                                            elif q == acid_question:
+                                                if "9M HCl" in a or "9 M HCl" in a or ("9M" in a and "HCl" in a):
+                                                    score+=1
+                                            elif q == resin_question:
+                                                if "AG 1 × 8" in a or "AG1×8" in a or "AG 1×8" in a or ("AG" in a and "anion-exchange resin" in a):
+                                                    score+=1
+                                            elif q == elution_question:
+                                                if "0.1M HCl" in a or "0.1 M HCl" in a:
+                                                    score+=1
+                                            elif q == products_question:
+                                                if "cobalt" in a or "Cobalt" in a or "Co" in a:
+                                                    score+=1
+                                        elif relevant_context == p3:
+                                            if q == target_question:
+                                                if "Iron" in a or "iron" in a or "Fe" in a:
+                                                    score+=1
+                                            elif q == resin_question:
+                                                if "anion-exchane" in a or "Anion-exchange" in a:
+                                                    score+=1
+                                            elif q == elution_question:
+                                                if "4M HCl" in a or "4 M HCl" in a:
+                                                    score+=1
+                                            elif q == products_question:
+                                                if "cobalt-5x" in a or "Cobalt-5x" in a or "5xCo" in a:
+                                                    score+=1
+                                        elif relevant_context == p4:
+                                            if q == target_question:
+                                                if "manganese" in a or "Manganese" in a or "Mn" in a:
+                                                    score+=1
+                                            elif q == acid_question:
+                                                if ">" in a:
+                                                    score+=0.5
+                                                if "4.5M HCl" in a or "4.5 M HCl" in a:
+                                                    score+=0.5
+                                            elif q == resin_question:
+                                                if "anion-exchange" in a or "Anion-exchange" in a:
+                                                    score+=0.5
+                                                if "AG1 × 8 " in a or ("AG" in a and "1" in a and "8" in a):
+                                                    score+=0.5
+                                            elif q == elution_question:
+                                                if "<" in a:
+                                                    score+=0.5
+                                                if "4.5M HCl" in a or "4.5 M HCl" in a:
+                                                    score+=0.5 
+                                            elif q == products_question:
+                                                if "Cobalt-5x" in a or "cobalt-5x" in a or "5xCo" in a:
+                                                    score+=1
+                                        elif relevant_context == p5:
+                                            if q == target_question:
+                                                if "Nickel" in a or "nickel" in a or "Ni" in a:
+                                                    score+=0.5
+                                                if "Iron" in a or "iron" in a or "Fe" in a:
+                                                    score+=0.5
+                                            elif q == resin_question:
+                                                if "N,N,N0 ,N0 -tetrakis-2-ethylhexyldiglycolamide" in a or "DGA Branched extraction resin" in a or ("DGA" in a and "resin" in a) or ("DGA" in a and "branched" in a):
+                                                    score+=1
+                                            elif q == products_question:
+                                                if "radioactive cobalt" in a or "Radioactive cobalt" in a or "Radioactive Cobalt" in a:
+                                                    score+=1
+                                        elif relevant_context == p6:
+                                            if q == target_question:
+                                                if "nickel" in a or "Nickel" in a or "Ni" in a:
+                                                    score+=1
+                                            elif q == resin_question:
+                                                if "DGA" in a and ("branched" in a or "Branched" in a):
+                                                    score+=1
+                                            elif q == products_question:
+                                                if "cobalt" in a or "Cobalt" in a or "Co" in a:
+                                                    score+=1
+                                        elif relevant_context == p7:
+                                            if q == target_question:
+                                                if "iron-5x" in a or "Iron-5x" in a or "5xFe" in a:
+                                                    score+=1
+                                            elif q == resin_question:
+                                                if "AG1X8" in a:
+                                                    score+=0.5
+                                                if "DGA" in a:
+                                                    score+=0.5
+                                            elif q == products_question:
+                                                if "cobalt-5x" in a or "Cobalt-5x" in a or "5xCo" in a:
+                                                    score+=1
+                                        elif relevant_context == p8:
+                                            if q == target_question:
+                                                if "manganese" in a or "Manganese" in a or "Mn" in a:
+                                                    score+=1
+                                            elif q == acid_question:
+                                                if ("4–6 M" in a or "4–6M" in a) and "HCl" in a:
+                                                    score+=1
+                                            elif q == resin_question:
+                                                if "DGA" in a and ("branched" in a or "Branched" in a):
+                                                    score+=1
+                                            elif q == products_question:
+                                                if "cobalt-55" in a or "Cobalt-55" in a or "55Co" in a:
+                                                    score+=0.5
+                                                if "cobalt-58m" in a or "Cobalt-58m" in a or "58mCo" in a:
+                                                    score+=0.5
+                                        elif relevant_context == p9:
+                                            if q == target_question:
+                                                if "Iron" in a or "iron" in a or "Fe" in a:
+                                                    score+=0.5
+                                                if "Nickel" in a or "nickel" in a or "Ni" in a:
+                                                    score+=0.5
+                                            elif q == resin_question:
+                                                if "alumina" in a or "Alumina" in a:
+                                                    score+=0.25
+                                                if "8-hydroxyquinoline" in a:
+                                                    score+=0.25
+                                                if "naphthaquinoline" in a:
+                                                    score+=0.25
+                                                if "cupferron" in a and ("potator starch" in a or "dimethylglyoxime" in a):
+                                                    score+=0.25
+                                            elif q == products_question:
+                                                if "Cobalt" in a or "cobalt" in a or "Co" in a:
+                                                    score+=1
+                                        elif relevant_context == p10:
+                                            if q == target_question:
+                                                if "Nickel-64" in a or "nickel-64" in a or "64Ni" in a:
+                                                    score+=1
+                                        elif relevant_context == p11:
+                                            if q == target_question:
+                                                if "Nickel-64" in a or "nickel-64" in a or "64Ni" in a:
+                                                    score+=1
+                                            elif q == acid_question:
+                                                if "6 M HCl" in a or "6M HCl" in a or "6 M hydrochloride acid" in a:
+                                                    score+=1
+                                            elif q == resin_question:
+                                                if "anion exchange" in a or "Anion exchange" in a or "Anion Exchange" in a:
+                                                    score+=1
+                                            elif q == elution_question:
+                                                if "1 M HCl" in a or "1M HCl" in a:
+                                                    score+=1
+                                            elif q == products_question:
+                                                if "Copper-64" in a or "copper-64" in a or "64Cu" in a:
+                                                    score+=0.5
+                                                if "cobalt" in a or "Cobalt" in a:
+                                                    score+=0.5
+                                        elif relevant_context == p12:
+                                            if q == target_question:
+                                                if "Nickel-64" in a or "nickel-64" in a or "64Ni" in a:
+                                                    score+=1
+                                            elif q == acid_question:
+                                                if "6 M HCl" in a or "6M HCl" in a or "6 M hydrochloride acid" in a:
+                                                    score+=1
+                                            elif q == resin_question:
+                                                if "anion exchange" in a or "Anion exchange" in a or "Anion Exchange" in a:
+                                                    score+=0.5
+                                                if "AG 1-X8" in a or "AG 1" in a:
+                                                    score+=0.5
+                                            elif q == elution_question:
+                                                if "1 M HCl" in a or "1M HCl" in a:
+                                                    score+=1
+                                            elif q == products_question:
+                                                if "Copper-64" in a or "copper-64" in a or "64Cu" in a:
+                                                    score+=0.5
+                                        elif relevant_context == p13:
+                                            if q == target_question:
+                                                if "Thorium" in a or "thorium" in a or "Th" in a:
+                                                    score+=0.5
+                                                if "232" in a:
+                                                    score+=0.25
+                                                if "228" in a:
+                                                    score+=0.25
+                                            elif q == acid_question:
+                                                if "di(2-ethylhexyl)phosphoric" in a or "HDEHP" in a:
+                                                    score+=0.5
+                                                if "4 M HNO3" in a or "4M HNO3" in a:
+                                                    score+=0.5
+                                            elif q == resin_question:
+                                                if "chromatographic sorbent" in a or "LN" in a:
+                                                    score+=1
+                                            elif q == products_question:
+                                                if "Actinium-228" in a or "actinium-228" in a or "228Ac" in a:
+                                                    score+=1
+                                        elif relevant_context == p14:
+                                            if q == target_question:
+                                                if "Radium-228" in a or "radium-228" in a or "228Ra" in a:
+                                                    score+=0.34
+                                                if "Lead-208" in a or "lead-208" in a or "208Pb" in a:
+                                                    score+=0.33
+                                                if "Thorium-228" in a or "thorium-228" in a or "228Th" in a:
+                                                    score+=0.33
+                                            elif q == acid_question:
+                                                if "4 M HNO3" in a or "4M HNO3" in a:
+                                                    score+=1
+                                            elif q == resin_question:
+                                                if "RE" in a or "chromatographic sorbent" in a:
+                                                    score+=1
+                                            elif q == elution_question:
+                                                if "0.05 M HNO3" in a or "0.05M HNO3" in a:
+                                                    score+=1
+                                            elif q == products_question:
+                                                if "Actinium-228" in a or "actinium-228" in a or "228Ac" in a:
+                                                    score+=1
+                                        elif relevant_context == p15:
+                                            if q == target_question:
+                                                if "Thorium" in a or "thorium" in a or "Th" in a:
+                                                    score+=0.5
+                                                if "Radium-228" in a or "radium-228" in a or "228Ra" in a:
+                                                    score+=0.5
+                                            elif q == acid_question:
+                                                if "4 M HNO3" in a or "4M HNO3" in a:
+                                                    score+=1
+                                            elif q == resin_question:
+                                                if "RE" in a or "chromatographic sorbent" in a:
+                                                    score+=1
+                                            elif q == products_question:
+                                                if "Actinium-228" in a or "actinium-228" in a or "228Ac" in a:
+                                                    score+=1
+                                        elif relevant_context == p16:
+                                            if q == target_question:
+                                                if "Radium-228" in a or "radium-228" in a or "228Ra" in a:
+                                                    score+=1
+                                            elif q == acid_question:
+                                                if "4 M HNO3" in a or "4M HNO3" in a:
+                                                    score+=1
+                                            elif q == products_question:
+                                                if "Actinium-228" in a or "actinium-228" in a or "228Ac" in a:
+                                                    score+=1
+                    parser = "html" if "html" in f else "pdf"
+                    ratio = round(score/total_points, 2)
+                    generations = int(generations)
+                    time = float(time)
+                    # Tuple format:
+                    # filename, score, total generations, total time, efficiency (gen/min), perplexity score, relevant generations, percent of relevent generations generated, wasted generations, parser
+                    output_list.append((f[len("output/"):],ratio, generations, time, (generations/time)*60, perp_score, relevant_tracker, relevant_tracker/total_points, generations-relevant_tracker, parser))
+    return output_list
+
+
+def get_stats(filepath):
+    """_summary_
+
+    Args:
+        file (_type_): _description_
+    """
+    with open(filepath, "r", encoding="UTF-8") as file:
+        line = file.readline()
+        generations = line[line.index("Generated ")+10: line.index(" responses")]
+        time = line[line.index("in ")+3: line.index(" seconds")]
+        if "initial" not in filepath:
+            perp_score = 0
+        else:
+            perp_score = line[line.index("of ")+3: line.index("\n")]
+        return (generations, time, perp_score)
+
+
+def write_to_csv():
+    """_summary_
+    """
+    output_list = run_benchmark()
+    with open("results.csv", "w", encoding="UTF-8") as f:
+        f.write("filename,score,total generations,total time,efficiency (gen/min),perplexity score,relevant generations,percent of relevant generations generated,wasted generations,parser\n")
+        for tup in output_list:
+            # Tuple format:
+            # filename, score, total generations, total time, efficiency (gen/min), perplexity score, relevant generations, percent of relevant generations generated, wasted generations, parser
+            filename, score, generations, time, efficiency, perplexity, relevent_gens, percent_relevant, wasted_gens, parser = tup
+            filename = filename.replace("\ ", "/")
+            if "fourth_test" in filename and "-2" in filename:
+                pass
+            else:
+                f.write(f"{filename},{score},{generations},{time},{efficiency},{perplexity},{relevent_gens},{percent_relevant},{wasted_gens},{parser}\n")
+            
+write_to_csv()
