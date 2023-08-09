@@ -5,8 +5,10 @@ each file and calculates the average with regards to the model, the filter, and 
 
 Author: Logan Endes @Log45 on github
 """
-
+from benchmark import *
 import matplotlib.pyplot as plt
+
+write_to_csv()
 
 with open("results.csv", "r", encoding="UTF-8") as f:
     output_lst = []

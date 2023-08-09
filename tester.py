@@ -74,6 +74,6 @@ def makeup_testing():
             
             
 if __name__ == "__main__":
-    makeup_testing()
+    # makeup_testing()
     write_to_csv()
     
