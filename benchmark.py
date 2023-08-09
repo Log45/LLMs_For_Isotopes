@@ -484,7 +484,7 @@ def get_stats(filepath):
         line = file.readline()
         generations = line[line.index("Generated ")+10: line.index(" responses")]
         time = line[line.index("in ")+3: line.index(" seconds")]
-        if "initial" not in filepath:
+        if "initial" in filepath:
             perp_score = 0
         else:
             perp_score = line[line.index("of ")+3: line.index("\n")]
