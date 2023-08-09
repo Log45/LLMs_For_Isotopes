@@ -1,0 +1,52 @@
+Generated 7 responses in 1427.03 seconds with average perplexity score of 7.29
+
+
+The quality of the 64Ni solid target prepared above was evaluated by a number of physical techniques, to determine the uniformity, to characterize the metallic impurities, and to measure the thickness of 64Ni layer on Au-disk. The SEM (scanning electron microscopy) image (Figure 2b) of the 64Ni solid target showed the uniform layer of Ni on Au surface. The EDS (energy dispersive X-ray spectroscopy) (Table 1 and Figure 2c) results showed no significant amount of metallic impurities in the 64Ni layer. The 64Ni target thickness on Au-disk was measured to be 10.73 μm by alpha step apparatus (Figure 2d).
+
+Question: What are the products of the above reaction?
+Answer:er: 64Ni(p,2n)64Zn. The 64Ni(p,2n)64Zn reaction was studied in the energy range of 1.5 to 2.5 MeV
+Score: 4.19
+
+
+
+Overall, while the high cross section of 55Mn(α,n)58mCo makes it appealing, the 58Fe(p,n)58mCo and 57Fe(d,n)58mCo reactions are more practical for widespread use due to the accessibility of protons and deuterons in global accelerator installations. These are the only reactions whose literature descriptions include thick target yield measurements obtained in conjunction with radiochemical separations and radiolabeling efforts. A comparison of the experimentally determined thick target yields and theoretical yields are shown in Figure 13, Figure 14, Figure 15 and Figure 16.
+
+Question: What is the target material in the above reaction?
+Answer:er: 55Mn.
+Score: 8.61
+
+
+
+To determine the best route for producing Co-58m, one has to consider accelerator capabilities, target material expenses and also potential co-produced contaminants. From Table 2, it would appear that producing Co-58m from Mn-51 would be the most economically feasible due to the 100% abundance of Mn-51. However, many biomedical accelerators do not have the ability to produce an alpha particle beam. Therefore, iron-57 targets are suggested to produce cobalt-58m via the d,n reaction due to the higher cross section compared to the other two methods discussed using proton irradiation. Figure 6 does not show the yield for an enriched target; the plotted value should be scaled to account for the natural abundance of iron-57.
+
+Question: What are the products of the above reaction?
+Answer:er: 58Co, 57Fe, 1n, 1H, 1H, 1H, 1H, 1H, 1H, 1H, 1H, 1H, 
+Score: 4.46
+
+
+
+Separation of cobalt-5x from manganese is similar to the isolation of cobalt-5x from nickel targets, but can use even less concentrated acidic media. As summarized by Bate and Leddicotte in “The Radiochemistry of Cobalt”, manganese in a dissolved target solution passes through a AG1 × 8 anion-exchange resin in HCl concentrations > 4.5 HCl. Once the target material is removed, the column can be washed with <4.5 M HCl to elute cobalt-5x [94].
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 4.5 M HCl.
+Score: 7.33
+
+
+
+As stated by Valdovinos et al., it is preferrable to use extraction chromatography instead of traditional ion exchange resins to increase separation yield and purity level [26]. This realization allowed for the implementation of N,N,N′,N′-tetrakis-2-ethylhexyldiglycolamide (DGA Branched extraction resin). The most recent published separation methods from both nickel and iron targets of varying enrichments use branched DGA to chemically isolate radioactive cobalt.
+
+Question: What acid is the target material dissolved in during the above reaction?
+Answer:er: 1.0 M HCl.
+Score: 7.13
+
+
+
+While there has not been a publication specifically on the separation of manganese target material from cobalt-55,58m, the work performed by Pourmand et al. suggests branched DGA can also be used for radio-chemical isolation using 4–6 M HCl, where in this range manganese 2+ has minimal affinity for the resin, and cobalt 2+ has a greater affinity [95].
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 100 mg of Dowex 1X8-200 resin (100–200 mesh) is loaded into a 10 mL column.
+Score: 10.19
+
+Question: What acid is used in the elution during the above reaction?
+Answer:er: 4–6 M HCl.
+Score: 9.1

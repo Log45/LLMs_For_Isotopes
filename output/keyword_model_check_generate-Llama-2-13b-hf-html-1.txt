@@ -1,0 +1,40 @@
+Generated 5 responses in 1297.18 seconds with average perplexity score of 29.02
+
+
+Overall, while the high cross section of 55Mn(α,n)58mCo makes it appealing, the 58Fe(p,n)58mCo and 57Fe(d,n)58mCo reactions are more practical for widespread use due to the accessibility of protons and deuterons in global accelerator installations. These are the only reactions whose literature descriptions include thick target yield measurements obtained in conjunction with radiochemical separations and radiolabeling efforts. A comparison of the experimentally determined thick target yields and theoretical yields are shown in Figure 13, Figure 14, Figure 15 and Figure 16.
+
+Question: What are the products of the above reaction?
+Answer:er: 58mCo, or Cobalt-58, must be the product.
+Score: 24.16
+
+
+
+Separation of cobalt-5x from manganese is similar to the isolation of cobalt-5x from nickel targets, but can use even less concentrated acidic media. As summarized by Bate and Leddicotte in “The Radiochemistry of Cobalt”, manganese in a dissolved target solution passes through a AG1 × 8 anion-exchange resin in HCl concentrations > 4.5 HCl. Once the target material is removed, the column can be washed with <4.5 M HCl to elute cobalt-5x [94].
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'the column can be washed with <4.5 M HCl to elute cobalt-5x', and an 'anion exchange column' is a resin/column, then an anion exchange column
+Score: 41.61
+
+
+
+The separation of cobalt-5x from iron-5x uses a two column technique, as shown in Figure 18. An AG1X8 anion-exchange resin packed column is used for the bulk separation of iron and cobalt, then a DGA column serves as a “clean up” to further improve the purification of cobalt-5x [26].
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er:  Since they say: 'an AG1X8 anion-exchange resin packed column is used for the bulk separation of iron and cobalt', and an 'anion-exchange resin packed column' is a resin/
+Score: 27.61
+
+
+
+While there has not been a publication specifically on the separation of manganese target material from cobalt-55,58m, the work performed by Pourmand et al. suggests branched DGA can also be used for radio-chemical isolation using 4–6 M HCl, where in this range manganese 2+ has minimal affinity for the resin, and cobalt 2+ has a greater affinity [95].
+
+Question: What resin/column is the solution loaded into during the above reaction?
+Answer:er: 4–6 M HCl is a solution, so the solution is loaded into the resin/column.
+Score: 41.97
+
+
+
+Some of the challenges facing a therapeutic target to folate receptors include the lack of specificity towards folate receptor isoform α versus isoform β. While FRα is primarily expressed by epithelial cancers, it has high expression in the kidneys [125]. FRβ is expressed in adult tissues primarily in immune cells such as macrophages, neutrophils and monocytes [120]. Delivery of a folate receptor-targeted therapy to the tumor while sparing the kidneys has been demonstrated to be a difficult challenge [126]. The constructs cm10 and rf42 each contain an albumin-binding domain which contributes to lowering kidney uptake, which may allow them to be used therapeutically.
+
+Question: What is the target material in the above reaction?
+Answer:er: 64Ni, or Nickel-64, must be the target.
+Score: 9.76
