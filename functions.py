@@ -403,7 +403,7 @@ def keyword_model_generate(model_name: str, contexts: list, example=1):
 
 def keyword_model_check_generate(model_name: str, contexts: list, example=1):
     """
-    This function combines four techniques to make responses as accurate as possible:
+    This function combines three techniques to make responses as accurate as possible:
         keyword_filtering: Throws away all context paragraphs that don't contain any keywords specified in the keywords set at the top of the file.
         model_filtering: Asks the model to determine if the context paragraph contains a chemical extraction and continues if 'yes' is generated in the response.
         check_response: Asks the model to double check their answer by confirming if their response is truthful/accurate.
@@ -475,7 +475,7 @@ def keyword_model_check_generate(model_name: str, contexts: list, example=1):
 
 def keyword_model_expert_generate(model_name: str, contexts: list, example=1):
     """
-    This function combines four techniques to make responses as accurate as possible:
+    This function combines three techniques to make responses as accurate as possible:
         keyword_filtering: Throws away all context paragraphs that don't contain any keywords specified in the keywords set at the top of the file.
         model_filtering: Asks the model to determine if the context paragraph contains a chemical extraction and continues if 'yes' is generated in the response.
         expert_response: Asks the model to respond as if they are an expert at chemistry to try to make the response more accurate.
@@ -705,7 +705,9 @@ def write_to_file(model_name: str, context: list, example=1, output_name = "keyw
     avg_score = total_score/len(perplexity_scores)
     avg_time = time.perf_counter()-at1
     print(f"Time to calculate average perplexity: {avg_time}")
-
+    
+    if filter == keyword_model_expert_generate:
+        print(_gen)
 
     k = f"Generated {len(_gen)} responses in {_time} seconds with average perplexity score of {round(avg_score, 2)}"
     for i in range(len(_gen)):
