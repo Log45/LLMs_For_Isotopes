@@ -1,5 +1,10 @@
 Model: meta-llama/Llama-2-13b-hf generating with model_filter_generate filter with 475 potential generations using example 0.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.86s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.61s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:12<00:00,  3.79s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:12<00:00,  4.04s/it]Time to load model meta-llama/Llama-2-13b-hf: 13.017856072168797
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:09,  4.86s/it]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.61s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:12<00:00,  3.79s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:12<00:00,  4.04s/it]Time to load model meta-llama/Llama-2-13b-hf: 13.017856072168797
 Time for model filter: 4.2774173258803785
 Time for model filter: 3.6374388597905636
 Time for model filter: 3.8230522158555686
@@ -452,15 +457,24 @@ Time to generate 1 response: 9.087255915626884
 Time to generate 1 response: 8.568721412215382
 Time to generate 1 response: 8.820887326728553
 355 generations in 3544.7257030652836 seconds.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:02<?, ?it/s]
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:02<?, ?it/s]
 Error encountered running meta-llama/Llama-2-13b-hf example 0 with model_filter_generate filter.
 CUDA out of memory. Tried to allocate 68.00 MiB (GPU 0; 23.63 GiB total capacity; 16.84 GiB already allocated; 79.38 MiB free; 17.66 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
 Model: meta-llama/Llama-2-13b-hf generating with model_filter_generate filter with 475 potential generations using example 1.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
 Error encountered running meta-llama/Llama-2-13b-hf example 1 with model_filter_generate filter.
 CUDA out of memory. Tried to allocate 136.00 MiB (GPU 0; 23.63 GiB total capacity; 16.50 GiB already allocated; 79.38 MiB free; 17.66 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
 Model: meta-llama/Llama-2-13b-hf generating with model_filter_generate filter with 475 potential generations using example 2.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.93s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:04<00:02,  2.20s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.86s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.92s/it]Time to load model meta-llama/Llama-2-13b-hf: 6.502167765982449
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.93s/it]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:04<00:02,  2.20s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.86s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.92s/it]Time to load model meta-llama/Llama-2-13b-hf: 6.502167765982449
 Time for model filter: 3.636733843944967
 Time for model filter: 3.7052153679542243
 Time for model filter: 3.7147886538878083
@@ -913,15 +927,24 @@ Time to generate 1 response: 9.497171605937183
 Time to generate 1 response: 9.087787357158959
 Time to generate 1 response: 9.116203899029642
 355 generations in 3651.393969147932 seconds.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
 Error encountered running meta-llama/Llama-2-13b-hf example 2 with model_filter_generate filter.
 CUDA out of memory. Tried to allocate 136.00 MiB (GPU 0; 23.63 GiB total capacity; 15.91 GiB already allocated; 33.25 MiB free; 17.71 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
 Model: meta-llama/Llama-2-13b-hf generating with keyword_model_expert_generate filter with 475 potential generations using example 0.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
 Error encountered running meta-llama/Llama-2-13b-hf example 0 with keyword_model_expert_generate filter.
 CUDA out of memory. Tried to allocate 68.00 MiB (GPU 0; 23.63 GiB total capacity; 15.81 GiB already allocated; 33.25 MiB free; 17.71 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
 Model: meta-llama/Llama-2-13b-hf generating with keyword_model_expert_generate filter with 475 potential generations using example 1.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.87s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.96s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.64s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.72s/it]Time to load model meta-llama/Llama-2-13b-hf: 5.896488888654858
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.87s/it]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.96s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.64s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.72s/it]Time to load model meta-llama/Llama-2-13b-hf: 5.896488888654858
 Time to check keywords: 3.007706254720688e-05
 Time for model filter: 3.666850422974676
 Time to check keywords: 1.2147240340709686e-05
@@ -1117,15 +1140,24 @@ Time to generate 1 response: 8.698227525688708
 Time to generate 1 response: 8.870539328083396
 Time to generate 1 response: 8.783228173851967
 125 generations in 1280.639195767697 seconds.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
 Error encountered running meta-llama/Llama-2-13b-hf example 1 with keyword_model_expert_generate filter.
 CUDA out of memory. Tried to allocate 136.00 MiB (GPU 0; 23.63 GiB total capacity; 15.91 GiB already allocated; 99.25 MiB free; 17.64 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
 Model: meta-llama/Llama-2-13b-hf generating with keyword_model_expert_generate filter with 475 potential generations using example 2.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
 Error encountered running meta-llama/Llama-2-13b-hf example 2 with keyword_model_expert_generate filter.
 CUDA out of memory. Tried to allocate 68.00 MiB (GPU 0; 23.63 GiB total capacity; 15.88 GiB already allocated; 31.25 MiB free; 17.71 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
 Model: meta-llama/Llama-2-13b-hf generating with keyword_filter_generate filter with 475 potential generations using example 0.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.85s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.95s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.63s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.71s/it]Time to load model meta-llama/Llama-2-13b-hf: 5.83475089026615
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.85s/it]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.95s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.63s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.71s/it]Time to load model meta-llama/Llama-2-13b-hf: 5.83475089026615
 Time to check keywords: 2.5002751499414444e-05
 Time to generate 1 response: 9.257202540989965
 Time to generate 1 response: 9.205462826881558
@@ -1332,15 +1364,24 @@ Time to generate 1 response: 9.207466499879956
 Time to generate 1 response: 9.048896643798798
 Time to generate 1 response: 9.010748119093478
 170 generations in 1547.2683038073592 seconds.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
 Error encountered running meta-llama/Llama-2-13b-hf example 0 with keyword_filter_generate filter.
 CUDA out of memory. Tried to allocate 136.00 MiB (GPU 0; 23.63 GiB total capacity; 15.91 GiB already allocated; 105.19 MiB free; 17.64 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
 Model: meta-llama/Llama-2-13b-hf generating with keyword_filter_generate filter with 475 potential generations using example 1.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
 Error encountered running meta-llama/Llama-2-13b-hf example 1 with keyword_filter_generate filter.
 CUDA out of memory. Tried to allocate 68.00 MiB (GPU 0; 23.63 GiB total capacity; 15.88 GiB already allocated; 37.19 MiB free; 17.70 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
 Model: meta-llama/Llama-2-13b-hf generating with keyword_filter_generate filter with 475 potential generations using example 2.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.86s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.95s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.63s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.71s/it]Time to load model meta-llama/Llama-2-13b-hf: 5.818052042275667
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.86s/it]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.95s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.63s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.71s/it]Time to load model meta-llama/Llama-2-13b-hf: 5.818052042275667
 Time to check keywords: 5.007302388548851e-05
 Time to generate 1 response: 9.270281750243157
 Time to generate 1 response: 9.469068488106132
@@ -1547,15 +1588,24 @@ Time to generate 1 response: 9.769845459144562
 Time to generate 1 response: 8.56379374396056
 Time to generate 1 response: 9.170229273848236
 170 generations in 1593.7863893830217 seconds.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
 Error encountered running meta-llama/Llama-2-13b-hf example 2 with keyword_filter_generate filter.
 CUDA out of memory. Tried to allocate 136.00 MiB (GPU 0; 23.63 GiB total capacity; 15.91 GiB already allocated; 22.31 MiB free; 17.72 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
 Model: meta-llama/Llama-2-13b-hf generating with keyword_model_check_generate filter with 475 potential generations using example 0.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
 Error encountered running meta-llama/Llama-2-13b-hf example 0 with keyword_model_check_generate filter.
 CUDA out of memory. Tried to allocate 68.00 MiB (GPU 0; 23.63 GiB total capacity; 15.81 GiB already allocated; 22.31 MiB free; 17.72 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
 Model: meta-llama/Llama-2-13b-hf generating with keyword_model_check_generate filter with 475 potential generations using example 1.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.91s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.97s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.64s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.72s/it]Time to load model meta-llama/Llama-2-13b-hf: 5.869943011086434
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.91s/it]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.97s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.64s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.72s/it]Time to load model meta-llama/Llama-2-13b-hf: 5.869943011086434
 Time to check keywords: 3.7251971662044525e-05
 Time for model filter: 3.6493742330931127
 Time to check keywords: 1.3187061995267868e-05
@@ -1876,15 +1926,24 @@ Time to check answer: 0.8448520959354937
 Time to generate 1 response: 8.76028230600059
 Time to check answer: 0.8456356818787754
 5 generations in 1557.0576357338578 seconds.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
 Error encountered running meta-llama/Llama-2-13b-hf example 1 with keyword_model_check_generate filter.
 CUDA out of memory. Tried to allocate 136.00 MiB (GPU 0; 23.63 GiB total capacity; 15.92 GiB already allocated; 97.06 MiB free; 17.64 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
 Model: meta-llama/Llama-2-13b-hf generating with keyword_model_check_generate filter with 475 potential generations using example 2.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
 Error encountered running meta-llama/Llama-2-13b-hf example 2 with keyword_model_check_generate filter.
 CUDA out of memory. Tried to allocate 68.00 MiB (GPU 0; 23.63 GiB total capacity; 15.89 GiB already allocated; 29.06 MiB free; 17.71 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
 Model: meta-llama/Llama-2-13b-hf generating with keyword_model_expert_check_generate filter with 475 potential generations using example 0.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.89s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.96s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.64s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.72s/it]Time to load model meta-llama/Llama-2-13b-hf: 5.871831222902983
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.89s/it]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.96s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.64s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.72s/it]Time to load model meta-llama/Llama-2-13b-hf: 5.871831222902983
 Time to check keywords: 2.6428140699863434e-05
 Time for model filter: 3.654861314687878
 Time to check keywords: 1.1653173714876175e-05
@@ -2205,15 +2264,24 @@ Time to check answer: 3.766354769933969
 Time to generate 1 response: 9.25341292284429
 Time to check answer: 1.0618372280150652
 2 generations in 1717.5108791650273 seconds.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
 Error encountered running meta-llama/Llama-2-13b-hf example 0 with keyword_model_expert_check_generate filter.
 CUDA out of memory. Tried to allocate 136.00 MiB (GPU 0; 23.63 GiB total capacity; 15.92 GiB already allocated; 97.81 MiB free; 17.64 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
 Model: meta-llama/Llama-2-13b-hf generating with keyword_model_expert_check_generate filter with 475 potential generations using example 1.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
 Error encountered running meta-llama/Llama-2-13b-hf example 1 with keyword_model_expert_check_generate filter.
 CUDA out of memory. Tried to allocate 68.00 MiB (GPU 0; 23.63 GiB total capacity; 15.89 GiB already allocated; 29.81 MiB free; 17.71 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
 Model: meta-llama/Llama-2-13b-hf generating with keyword_model_expert_check_generate filter with 475 potential generations using example 2.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.90s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.96s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.63s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.72s/it]Time to load model meta-llama/Llama-2-13b-hf: 5.858594432007521
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.90s/it]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.96s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.63s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.72s/it]Time to load model meta-llama/Llama-2-13b-hf: 5.858594432007521
 Time to check keywords: 2.7588102966547012e-05
 Time for model filter: 3.653159301262349
 Time to check keywords: 1.0685995221138e-05
@@ -2534,15 +2602,24 @@ Time to check answer: 3.802039561793208
 Time to generate 1 response: 8.976450407877564
 Time to check answer: 0.8400412062183022
 8 generations in 1583.9244664451107 seconds.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
 Error encountered running meta-llama/Llama-2-13b-hf example 2 with keyword_model_expert_check_generate filter.
 CUDA out of memory. Tried to allocate 136.00 MiB (GPU 0; 23.63 GiB total capacity; 15.92 GiB already allocated; 95.69 MiB free; 17.64 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
 Model: meta-llama/Llama-2-13b-hf generating with keyword_model_generate filter with 475 potential generations using example 0.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
 Error encountered running meta-llama/Llama-2-13b-hf example 0 with keyword_model_generate filter.
 CUDA out of memory. Tried to allocate 68.00 MiB (GPU 0; 23.63 GiB total capacity; 15.89 GiB already allocated; 27.69 MiB free; 17.71 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
 Model: meta-llama/Llama-2-13b-hf generating with keyword_model_generate filter with 475 potential generations using example 1.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.89s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.96s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.63s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.71s/it]Time to load model meta-llama/Llama-2-13b-hf: 5.830723297316581
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.89s/it]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.96s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.63s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.71s/it]Time to load model meta-llama/Llama-2-13b-hf: 5.830723297316581
 Time to check keywords: 2.5375280529260635e-05
 Time for model filter: 3.6732739340513945
 Time to check keywords: 1.1836644262075424e-05
@@ -2738,11 +2815,15 @@ Time to generate 1 response: 9.516476907767355
 Time to generate 1 response: 8.897912818938494
 Time to generate 1 response: 8.694271082989872
 125 generations in 1280.701217182912 seconds.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]
 Error encountered running meta-llama/Llama-2-13b-hf example 1 with keyword_model_generate filter.
 CUDA out of memory. Tried to allocate 136.00 MiB (GPU 0; 23.63 GiB total capacity; 15.91 GiB already allocated; 127.50 MiB free; 17.63 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
 Model: meta-llama/Llama-2-13b-hf generating with keyword_model_generate filter with 475 potential generations using example 2.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]Error encountered running meta-llama/Llama-2-13b-hf example 2 with keyword_model_generate filter.
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/3 [00:01<?, ?it/s]Error encountered running meta-llama/Llama-2-13b-hf example 2 with keyword_model_generate filter.
 CUDA out of memory. Tried to allocate 68.00 MiB (GPU 0; 23.63 GiB total capacity; 15.88 GiB already allocated; 59.50 MiB free; 17.70 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
 Model: facebook/galactica-6.7b generating with model_filter_generate filter with 475 potential generations using example 0.
 Error encountered running facebook/galactica-6.7b example 0 with model_filter_generate filter.
@@ -2926,7 +3007,11 @@ Error encountered running facebook/galactica-6.7b example 2 with keyword_model_g
                         for more details.
                         
 Model: meta-llama/Llama-2-7b-hf generating with model_filter_generate filter with 475 potential generations using example 0.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:04<00:04,  4.61s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  2.81s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.08s/it]Time to load model meta-llama/Llama-2-7b-hf: 6.815125600900501
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:04<00:04,  4.61s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  2.81s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.08s/it]Time to load model meta-llama/Llama-2-7b-hf: 6.815125600900501
 Time for model filter: 3.0410674698650837
 Time to generate 1 response: 7.247584939002991
 Time to generate 1 response: 6.979082869365811
@@ -3499,7 +3584,11 @@ Time to generate 1 response: 7.12054167734459
 Time to generate 1 response: 7.247508849948645
 Time to generate 1 response: 6.954838445875794
 475 generations in 3640.5614463449456 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:03<00:03,  3.44s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  1.92s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  2.15s/it]Time to load model meta-llama/Llama-2-7b-hf: 4.975903595797718
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:03<00:03,  3.44s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  1.92s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:04<00:00,  2.15s/it]Time to load model meta-llama/Llama-2-7b-hf: 4.975903595797718
 Time to calculate perplexity: 0.24348255898803473
 Time to calculate perplexity: 0.234760835301131
 Time to calculate perplexity: 0.18568003084510565
@@ -3978,7 +4067,11 @@ Time to calculate perplexity: 0.17901563830673695
 Time to calculate perplexity: 0.18115868093445897
 Time to calculate average perplexity: 88.20567738404498
 Model: meta-llama/Llama-2-7b-hf generating with model_filter_generate filter with 475 potential generations using example 1.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.98s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.2520451969467103
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.98s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.2520451969467103
 Time for model filter: 3.0462438771501184
 Time to generate 1 response: 7.089222542010248
 Time to generate 1 response: 7.232696565799415
@@ -4551,7 +4644,11 @@ Time to generate 1 response: 7.039417973719537
 Time to generate 1 response: 6.955001042224467
 Time to generate 1 response: 7.1199645809829235
 475 generations in 3673.174630234018 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.99s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.3714566030539572
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.99s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.3714566030539572
 Time to calculate perplexity: 0.23152612568810582
 Time to calculate perplexity: 0.19640752021223307
 Time to calculate perplexity: 0.18240263313055038
@@ -5030,7 +5127,11 @@ Time to calculate perplexity: 0.20069185877218843
 Time to calculate perplexity: 0.19646004401147366
 Time to calculate average perplexity: 91.30865909485146
 Model: meta-llama/Llama-2-7b-hf generating with model_filter_generate filter with 475 potential generations using example 2.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.97s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.23s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.34s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.395223650150001
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.97s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.23s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.34s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.395223650150001
 Time for model filter: 3.138289767783135
 Time to generate 1 response: 7.125729002989829
 Time to generate 1 response: 6.913892238866538
@@ -5603,7 +5704,11 @@ Time to generate 1 response: 7.462042775936425
 Time to generate 1 response: 7.112813630141318
 Time to generate 1 response: 7.287882145028561
 475 generations in 3685.6063880529255 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.97s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.3908991920761764
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.97s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.3908991920761764
 Time to calculate perplexity: 0.2301478278823197
 Time to calculate perplexity: 0.19528381619602442
 Time to calculate perplexity: 0.18055734178051353
@@ -6082,7 +6187,11 @@ Time to calculate perplexity: 0.19790518609806895
 Time to calculate perplexity: 0.2575031453743577
 Time to calculate average perplexity: 89.96612585289404
 Model: meta-llama/Llama-2-7b-hf generating with keyword_model_expert_generate filter with 475 potential generations using example 0.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.98s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.26s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.37s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.3712483886629343
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.98s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.26s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.37s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.3712483886629343
 Time to check keywords: 3.3037737011909485e-05
 Time for model filter: 3.075770757161081
 Time to generate 1 response: 7.394222658593208
@@ -6323,7 +6432,11 @@ Time to generate 1 response: 7.54287234088406
 Time to generate 1 response: 7.435296594630927
 Time to generate 1 response: 7.273861940950155
 170 generations in 1316.0082175829448 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:02<00:02,  2.05s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.27s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.38s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.590235535055399
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:02<00:02,  2.05s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.27s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.38s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.590235535055399
 Time to calculate perplexity: 0.20940111903473735
 Time to calculate perplexity: 0.18061287002637982
 Time to calculate perplexity: 0.2008291189558804
@@ -6499,7 +6612,11 @@ Time to calculate average perplexity: 31.909980102907866
 Error encountered running meta-llama/Llama-2-7b-hf example 0 with keyword_model_expert_generate filter.
 'er: 64Ni is the target material in the above reaction.\n Question: What is the target material in the above reaction?\n Answer: 64Ni is the target material in the above reaction.\n Question: What is the target'
 Model: meta-llama/Llama-2-7b-hf generating with keyword_model_expert_generate filter with 475 potential generations using example 1.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.98s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.346261194907129
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.98s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.346261194907129
 Time to check keywords: 2.7151312679052353e-05
 Time for model filter: 3.0431761839427054
 Time to generate 1 response: 7.1620958358980715
@@ -6740,7 +6857,11 @@ Time to generate 1 response: 6.829073062166572
 Time to generate 1 response: 7.168758214917034
 Time to generate 1 response: 7.2456087986938655
 170 generations in 1318.9412105018273 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.99s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.36s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.396100752055645
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.99s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.36s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.396100752055645
 Time to calculate perplexity: 0.21360104996711016
 Time to calculate perplexity: 0.1955046239309013
 Time to calculate perplexity: 0.18231257796287537
@@ -6916,7 +7037,11 @@ Time to calculate average perplexity: 32.91169170476496
 Error encountered running meta-llama/Llama-2-7b-hf example 1 with keyword_model_expert_generate filter.
 'er: 64Ni is the target material.\n Context: The 64Cu is a radioisotope used in positron emission tomography (PET) imaging. The 64Cu is produced by the irrad'
 Model: meta-llama/Llama-2-7b-hf generating with keyword_model_expert_generate filter with 475 potential generations using example 2.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:02<00:02,  2.04s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.26s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.38s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.3351684510707855
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:02<00:02,  2.04s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.26s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.38s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.3351684510707855
 Time to check keywords: 2.9575079679489136e-05
 Time for model filter: 3.1202096859924495
 Time to generate 1 response: 7.229373591020703
@@ -7157,7 +7282,11 @@ Time to generate 1 response: 7.530762163456529
 Time to generate 1 response: 7.226595466025174
 Time to generate 1 response: 7.08827571105212
 170 generations in 1327.7886068872176 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.99s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.25s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.36s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.411594393197447
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.99s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.25s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.36s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.411594393197447
 Time to calculate perplexity: 0.20890657976269722
 Time to calculate perplexity: 0.19720101775601506
 Time to calculate perplexity: 0.1791732097044587
@@ -7333,7 +7462,11 @@ Time to calculate average perplexity: 32.501181960105896
 Error encountered running meta-llama/Llama-2-7b-hf example 2 with keyword_model_expert_generate filter.
 'er: 64Ni is the target.\n Context: The 64Cu was produced by the irradiation of 64Ni target in a cyclotron. The 64Ni target was dissolved in 6'
 Model: meta-llama/Llama-2-7b-hf generating with keyword_filter_generate filter with 475 potential generations using example 0.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:02<00:02,  2.00s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.25s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.37s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.278784069698304
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:02<00:02,  2.00s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.25s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.37s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.278784069698304
 Time to check keywords: 4.3007079511880875e-05
 Time to generate 1 response: 7.25747527461499
 Time to generate 1 response: 7.08434161124751
@@ -7540,7 +7673,11 @@ Time to generate 1 response: 6.996122698765248
 Time to generate 1 response: 7.54310284787789
 Time to generate 1 response: 7.45072542084381
 170 generations in 1212.8153606019914 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:02<00:02,  2.01s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.26s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.37s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.4210348706692457
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:02<00:02,  2.01s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.26s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.37s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.4210348706692457
 Time to calculate perplexity: 0.20200726902112365
 Time to calculate perplexity: 0.19706649612635374
 Time to calculate perplexity: 0.18007107684388757
@@ -7714,7 +7851,11 @@ Time to calculate perplexity: 0.19656025525182486
 Time to calculate perplexity: 0.18283022893592715
 Time to calculate average perplexity: 31.56069656694308
 Model: meta-llama/Llama-2-7b-hf generating with keyword_filter_generate filter with 475 potential generations using example 1.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.99s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.25s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.36s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.259395349305123
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.99s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.25s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.36s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.259395349305123
 Time to check keywords: 2.537621185183525e-05
 Time to generate 1 response: 7.1830897447653115
 Time to generate 1 response: 7.291580963414162
@@ -7921,7 +8062,11 @@ Time to generate 1 response: 6.766295443754643
 Time to generate 1 response: 7.234034277033061
 Time to generate 1 response: 7.348735311999917
 170 generations in 1213.5019610431045 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.99s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.25s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.36s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.441208123229444
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.99s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.25s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.36s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.441208123229444
 Time to calculate perplexity: 0.24601195380091667
 Time to calculate perplexity: 0.21624161303043365
 Time to calculate perplexity: 0.17994750011712313
@@ -8095,7 +8240,11 @@ Time to calculate perplexity: 0.17960909521207213
 Time to calculate perplexity: 0.17989330273121595
 Time to calculate average perplexity: 32.921703866217285
 Model: meta-llama/Llama-2-7b-hf generating with keyword_filter_generate filter with 475 potential generations using example 2.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.99s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.26s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.37s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.287419743835926
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.99s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.26s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.37s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.287419743835926
 Time to check keywords: 2.8523150831460953e-05
 Time to generate 1 response: 7.15673185698688
 Time to generate 1 response: 6.836391042917967
@@ -8302,7 +8451,11 @@ Time to generate 1 response: 7.238968361634761
 Time to generate 1 response: 7.3608333831653
 Time to generate 1 response: 7.249676859937608
 170 generations in 1223.1222092350945 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:02<00:02,  2.01s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.26s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.38s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.517544030211866
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:02<00:02,  2.01s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.26s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.38s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.517544030211866
 Time to calculate perplexity: 0.22178491996601224
 Time to calculate perplexity: 0.19699765415862203
 Time to calculate perplexity: 0.1809939742088318
@@ -8476,7 +8629,11 @@ Time to calculate perplexity: 0.18164472561329603
 Time to calculate perplexity: 0.1855584653094411
 Time to calculate average perplexity: 32.69760378403589
 Model: meta-llama/Llama-2-7b-hf generating with keyword_model_check_generate filter with 475 potential generations using example 0.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.99s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.26s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.37s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.328007100149989
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.99s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.26s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.37s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.328007100149989
 Time to check keywords: 2.5641173124313354e-05
 Time for model filter: 3.040568140335381
 Time to generate 1 response: 7.2650188892148435
@@ -8887,7 +9044,11 @@ Time to check answer: 3.255255880765617
 Time to generate 1 response: 7.903733100742102
 Time to check answer: 3.348732047714293
 48 generations in 1857.7630443880334 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:02<00:02,  2.03s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.27s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.38s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:02<00:02,  2.03s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.27s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.38s/it]
 Time to load model meta-llama/Llama-2-7b-hf: 3.4930676999501884
 Time to calculate perplexity: 0.2085483679547906
 Time to calculate perplexity: 0.2040718737989664
@@ -8939,7 +9100,11 @@ Time to calculate perplexity: 0.1891596019268036
 Time to calculate perplexity: 0.18319881288334727
 Time to calculate average perplexity: 9.80496539361775
 Model: meta-llama/Llama-2-7b-hf generating with keyword_model_check_generate filter with 475 potential generations using example 1.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:02<00:02,  2.02s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.27s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.38s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.3275888031348586
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:02<00:02,  2.02s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.27s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.38s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.3275888031348586
 Time to check keywords: 2.4290289729833603e-05
 Time for model filter: 3.101628664880991
 Time to generate 1 response: 7.274028879124671
@@ -9350,7 +9515,11 @@ Time to check answer: 3.039825463667512
 Time to generate 1 response: 7.384072051849216
 Time to check answer: 2.9970532529987395
 80 generations in 1876.4398083207197 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:02<00:02,  2.01s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.26s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.37s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:02<00:02,  2.01s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.26s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.37s/it]
 Time to load model meta-llama/Llama-2-7b-hf: 3.490322843659669
 Time to calculate perplexity: 0.21102214884012938
 Time to calculate perplexity: 0.19977845018729568
@@ -9434,7 +9603,11 @@ Time to calculate perplexity: 0.18392441887408495
 Time to calculate perplexity: 0.19699723506346345
 Time to calculate average perplexity: 15.700716798193753
 Model: meta-llama/Llama-2-7b-hf generating with keyword_model_check_generate filter with 475 potential generations using example 2.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.99s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.26s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.37s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.4136660150252283
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.99s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.26s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.37s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.4136660150252283
 Time to check keywords: 2.644304186105728e-05
 Time for model filter: 3.063601688016206
 Time to generate 1 response: 7.127539786975831
@@ -9845,7 +10018,11 @@ Time to check answer: 3.140545097179711
 Time to generate 1 response: 7.214478050824255
 Time to check answer: 2.888110182248056
 65 generations in 1836.5283575258218 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.98s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.25s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.36s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.98s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.25s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.36s/it]
 Time to load model meta-llama/Llama-2-7b-hf: 3.4316979800350964
 Time to calculate perplexity: 0.27727506682276726
 Time to calculate perplexity: 0.2116991369985044
@@ -9914,7 +10091,11 @@ Time to calculate perplexity: 0.18580897990614176
 Time to calculate perplexity: 0.1823572856374085
 Time to calculate average perplexity: 12.504445542115718
 Model: meta-llama/Llama-2-7b-hf generating with keyword_model_expert_check_generate filter with 475 potential generations using example 0.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  2.00s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.25s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.37s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.562822313979268
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  2.00s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.25s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.37s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.562822313979268
 Time to check keywords: 2.722814679145813e-05
 Time for model filter: 3.0546872070990503
 Time to generate 1 response: 7.446384081151336
@@ -10325,7 +10506,11 @@ Time to check answer: 2.472712405025959
 Time to generate 1 response: 5.967733074910939
 Time to check answer: 2.438459230121225
 31 generations in 1654.1568119600415 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.96s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.23s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.34s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.96s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.23s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.34s/it]
 Time to load model meta-llama/Llama-2-7b-hf: 3.394678993150592
 Time to calculate perplexity: 0.16670225700363517
 Time to calculate perplexity: 0.14791568322107196
@@ -10360,7 +10545,11 @@ Time to calculate perplexity: 0.1478641126304865
 Time to calculate perplexity: 0.1466561066918075
 Time to calculate average perplexity: 4.634318105876446
 Model: meta-llama/Llama-2-7b-hf generating with keyword_model_expert_check_generate filter with 475 potential generations using example 1.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.97s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.23s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.34s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.2941545248031616
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.97s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.23s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.34s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.2941545248031616
 Time to check keywords: 2.5883782655000687e-05
 Time for model filter: 2.5721740117296576
 Time to generate 1 response: 5.942625881172717
@@ -10771,7 +10960,11 @@ Time to check answer: 2.4934842851944268
 Time to generate 1 response: 6.017444096971303
 Time to check answer: 2.494580374099314
 71 generations in 1529.2720075510442 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.97s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.97s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]
 Time to load model meta-llama/Llama-2-7b-hf: 3.3722489131614566
 Time to calculate perplexity: 0.17440914502367377
 Time to calculate perplexity: 0.15630518272519112
@@ -10846,7 +11039,11 @@ Time to calculate perplexity: 0.1489434726536274
 Time to calculate perplexity: 0.16172705125063658
 Time to calculate average perplexity: 10.90207625925541
 Model: meta-llama/Llama-2-7b-hf generating with keyword_model_expert_check_generate filter with 475 potential generations using example 2.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.97s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.276797588914633
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.97s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.276797588914633
 Time to check keywords: 2.4439767003059387e-05
 Time for model filter: 2.511193559039384
 Time to generate 1 response: 6.011618305929005
@@ -11257,7 +11454,11 @@ Time to check answer: 2.4973881877958775
 Time to generate 1 response: 5.950161020737141
 Time to check answer: 2.4949113219045103
 72 generations in 1518.6006448138505 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.97s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.97s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]
 Time to load model meta-llama/Llama-2-7b-hf: 3.4178298260085285
 Time to calculate perplexity: 0.16643140697851777
 Time to calculate perplexity: 0.15905198780819774
@@ -11333,7 +11534,11 @@ Time to calculate perplexity: 0.14801235822960734
 Time to calculate perplexity: 0.14825727185234427
 Time to calculate average perplexity: 11.29718369198963
 Model: meta-llama/Llama-2-7b-hf generating with keyword_model_generate filter with 475 potential generations using example 0.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.98s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.36s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.3376314393244684
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.98s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.36s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.3376314393244684
 Time to check keywords: 2.4257227778434753e-05
 Time for model filter: 2.5007640291005373
 Time to generate 1 response: 6.2526662717573345
@@ -11574,7 +11779,11 @@ Time to generate 1 response: 5.889605718199164
 Time to generate 1 response: 6.1245734873227775
 Time to generate 1 response: 6.092290599830449
 170 generations in 1094.4097095667385 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.98s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.3766744947060943
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.98s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.3766744947060943
 Time to calculate perplexity: 0.15754053089767694
 Time to calculate perplexity: 0.15668815886601806
 Time to calculate perplexity: 0.145651675760746
@@ -11748,7 +11957,11 @@ Time to calculate perplexity: 0.1552714710123837
 Time to calculate perplexity: 0.14611961506307125
 Time to calculate average perplexity: 25.1029707826674
 Model: meta-llama/Llama-2-7b-hf generating with keyword_model_generate filter with 475 potential generations using example 1.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.98s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.2545055029913783
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.98s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.2545055029913783
 Time to check keywords: 2.4863053113222122e-05
 Time for model filter: 2.5237712138332427
 Time to generate 1 response: 6.000804703217
@@ -11989,7 +12202,11 @@ Time to generate 1 response: 5.660959747154266
 Time to generate 1 response: 6.009127841796726
 Time to generate 1 response: 6.031529011204839
 170 generations in 1092.0818077907898 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.97s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.4433046588674188
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.97s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.4433046588674188
 Time to calculate perplexity: 0.17743222089484334
 Time to calculate perplexity: 0.15490795811638236
 Time to calculate perplexity: 0.1427720719948411
@@ -12163,7 +12380,11 @@ Time to calculate perplexity: 0.144564647693187
 Time to calculate perplexity: 0.14456424489617348
 Time to calculate average perplexity: 25.880777995102108
 Model: meta-llama/Llama-2-7b-hf generating with keyword_model_generate filter with 475 potential generations using example 2.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.97s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.3531674779951572
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.97s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.3531674779951572
 Time to check keywords: 2.638576552271843e-05
 Time for model filter: 2.48808120097965
 Time to generate 1 response: 5.982996937818825
@@ -12404,7 +12625,11 @@ Time to generate 1 response: 5.939038689248264
 Time to generate 1 response: 6.017793301027268
 Time to generate 1 response: 6.030898658093065
 170 generations in 1094.433687205892 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.97s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.3553793048486114
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.97s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.24s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.35s/it]Time to load model meta-llama/Llama-2-7b-hf: 3.3553793048486114
 Time to calculate perplexity: 0.16896600741893053
 Time to calculate perplexity: 0.1541002462618053
 Time to calculate perplexity: 0.1423431788571179
@@ -12578,7 +12803,11 @@ Time to calculate perplexity: 0.144119368866086
 Time to calculate perplexity: 0.14515093341469765
 Time to calculate average perplexity: 25.614056488033384
 Model: tiiuae/falcon-7b-instruct generating with model_filter_generate filter with 475 potential generations using example 0.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:09<00:09,  9.11s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:12<00:00,  5.99s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:12<00:00,  6.46s/it]Time to load model tiiuae/falcon-7b-instruct: 13.519846308976412
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:09<00:09,  9.11s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:12<00:00,  5.99s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:12<00:00,  6.46s/it]Time to load model tiiuae/falcon-7b-instruct: 13.519846308976412
 Time for model filter: 0.1284125060774386
 Time for model filter: 0.09996372507885098
 Time for model filter: 0.3767980244010687
@@ -13013,7 +13242,11 @@ Time to generate 1 response: 4.554158689919859
 Time to generate 1 response: 1.5526735540479422
 Time to generate 1 response: 4.528174144681543
 335 generations in 995.9618077198975 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:09<00:09,  9.27s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:12<00:00,  5.94s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:12<00:00,  6.44s/it]Time to load model tiiuae/falcon-7b-instruct: 13.586002449970692
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:09<00:09,  9.27s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:12<00:00,  5.94s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:12<00:00,  6.44s/it]Time to load model tiiuae/falcon-7b-instruct: 13.586002449970692
 Time to calculate perplexity: 0.13772314507514238
 Time to calculate perplexity: 0.0830548438243568
 Time to calculate perplexity: 0.08407785277813673
@@ -13352,7 +13585,11 @@ Time to calculate perplexity: 0.08147443598136306
 Time to calculate perplexity: 0.08771304693073034
 Time to calculate average perplexity: 29.109821393620223
 Model: tiiuae/falcon-7b-instruct generating with model_filter_generate filter with 475 potential generations using example 1.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:07<00:07,  7.30s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:10<00:00,  4.98s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:10<00:00,  5.33s/it]Time to load model tiiuae/falcon-7b-instruct: 11.169170098379254
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:07<00:07,  7.30s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:10<00:00,  4.98s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:10<00:00,  5.33s/it]Time to load model tiiuae/falcon-7b-instruct: 11.169170098379254
 Time for model filter: 0.11463734088465571
 Time for model filter: 0.09812990110367537
 Time for model filter: 0.3792907730676234
@@ -13785,7 +14022,11 @@ Time to generate 1 response: 1.227827288210392
 Time to generate 1 response: 0.5772457621060312
 Time to generate 1 response: 1.927895287051797
 335 generations in 1324.0855028769001 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:07<00:07,  7.07s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:10<00:00,  4.73s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:10<00:00,  5.08s/it]Time to load model tiiuae/falcon-7b-instruct: 10.81406487384811
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:07<00:07,  7.07s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:10<00:00,  4.73s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:10<00:00,  5.08s/it]Time to load model tiiuae/falcon-7b-instruct: 10.81406487384811
 Time to calculate perplexity: 0.138211979996413
 Time to calculate perplexity: 0.08199044223874807
 Time to calculate perplexity: 0.08605931466445327
@@ -14124,7 +14365,11 @@ Time to calculate perplexity: 0.08233029814437032
 Time to calculate perplexity: 0.08963276585564017
 Time to calculate average perplexity: 29.044982854742557
 Model: tiiuae/falcon-7b-instruct generating with model_filter_generate filter with 475 potential generations using example 2.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.59s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.55s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.86s/it]Time to load model tiiuae/falcon-7b-instruct: 10.23709179321304
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.59s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.55s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.86s/it]Time to load model tiiuae/falcon-7b-instruct: 10.23709179321304
 Time for model filter: 0.11454553762450814
 Time for model filter: 0.09893838502466679
 Time for model filter: 0.3793942667543888
@@ -14557,7 +14802,11 @@ Time to generate 1 response: 6.15896024601534
 Time to generate 1 response: 5.676009945571423
 Time to generate 1 response: 5.768120683263987
 335 generations in 2146.7863258887082 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.61s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.56s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.86s/it]Time to load model tiiuae/falcon-7b-instruct: 10.380171714816242
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.61s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.56s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.86s/it]Time to load model tiiuae/falcon-7b-instruct: 10.380171714816242
 Time to calculate perplexity: 0.10859813401475549
 Time to calculate perplexity: 0.08379306178539991
 Time to calculate perplexity: 0.08142028469592333
@@ -14896,7 +15145,11 @@ Time to calculate perplexity: 0.08110342267900705
 Time to calculate perplexity: 0.08724264800548553
 Time to calculate average perplexity: 29.160095782019198
 Model: tiiuae/falcon-7b-instruct generating with keyword_model_expert_generate filter with 475 potential generations using example 0.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.51s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.48s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.79s/it]Time to load model tiiuae/falcon-7b-instruct: 10.084583542309701
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.51s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.48s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.79s/it]Time to load model tiiuae/falcon-7b-instruct: 10.084583542309701
 Time to check keywords: 2.2376887500286102e-05
 Time for model filter: 0.11612926283851266
 Time to check keywords: 1.0541174560785294e-05
@@ -15087,7 +15340,11 @@ Time to generate 1 response: 4.838462400715798
 Time to generate 1 response: 4.843701411038637
 Time to generate 1 response: 4.82414579205215
 120 generations in 306.19209477864206 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.70s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.60s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.91s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.70s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.60s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.91s/it]
 Time to load model tiiuae/falcon-7b-instruct: 10.478902409784496
 Time to calculate perplexity: 0.1002849810756743
 Time to calculate perplexity: 0.08812037017196417
@@ -15213,7 +15470,11 @@ Time to calculate average perplexity: 10.497504442930222
 Error encountered running tiiuae/falcon-7b-instruct example 0 with keyword_model_expert_generate filter.
 '64Ni was loaded into a cation exchange resin column.<|endoftext|>'
 Model: tiiuae/falcon-7b-instruct generating with keyword_model_expert_generate filter with 475 potential generations using example 1.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.48s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.47s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.78s/it]Time to load model tiiuae/falcon-7b-instruct: 10.094261624850333
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.48s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.47s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.78s/it]Time to load model tiiuae/falcon-7b-instruct: 10.094261624850333
 Time to check keywords: 2.270517870783806e-05
 Time for model filter: 0.11657022777944803
 Time to check keywords: 1.0119285434484482e-05
@@ -15404,7 +15665,11 @@ Time to generate 1 response: 5.670436233282089
 Time to generate 1 response: 5.579495443031192
 Time to generate 1 response: 5.687863990198821
 120 generations in 370.0591005589813 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.60s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.51s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.83s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.60s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.51s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.83s/it]
 Time to load model tiiuae/falcon-7b-instruct: 10.29035572707653
 Time to calculate perplexity: 0.10148103395476937
 Time to calculate perplexity: 0.08863820787519217
@@ -15530,7 +15795,11 @@ Time to calculate average perplexity: 10.350829611998051
 Error encountered running tiiuae/falcon-7b-instruct example 1 with keyword_model_expert_generate filter.
 "'The solution was loaded into an anion exchange column to separate into different components.'<|endoftext|>"
 Model: tiiuae/falcon-7b-instruct generating with keyword_model_expert_generate filter with 475 potential generations using example 2.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.42s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.45s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.74s/it]Time to load model tiiuae/falcon-7b-instruct: 10.009475647006184
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.42s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.45s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.74s/it]Time to load model tiiuae/falcon-7b-instruct: 10.009475647006184
 Time to check keywords: 2.3134984076023102e-05
 Time for model filter: 0.11514824070036411
 Time to check keywords: 1.0645948350429535e-05
@@ -15721,7 +15990,11 @@ Time to generate 1 response: 8.142620304133743
 Time to generate 1 response: 7.615076018963009
 Time to generate 1 response: 7.691942741163075
 120 generations in 787.4275602288544 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.74s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.62s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.94s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.74s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.62s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.94s/it]
 Time to load model tiiuae/falcon-7b-instruct: 10.592205182183534
 Time to calculate perplexity: 0.11024355096742511
 Time to calculate perplexity: 0.08457304304465652
@@ -15847,7 +16120,11 @@ Time to calculate average perplexity: 10.484037095215172
 Error encountered running tiiuae/falcon-7b-instruct example 2 with keyword_model_expert_generate filter.
 "'The target material in the above reaction is 64Ni, or Nickel-64.'\n Context: 225Ac isolation. Actinium was isolated by the scheme shown in Fig. 1. The procedure consisted of the steps of liquid extraction"
 Model: tiiuae/falcon-7b-instruct generating with keyword_filter_generate filter with 475 potential generations using example 0.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.63s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.57s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.88s/it]Time to load model tiiuae/falcon-7b-instruct: 10.280846803914756
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.63s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.57s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.88s/it]Time to load model tiiuae/falcon-7b-instruct: 10.280846803914756
 Time to check keywords: 2.435082569718361e-05
 Time to generate 1 response: 1.1432130807079375
 Time to generate 1 response: 4.722893626894802
@@ -16054,7 +16331,11 @@ Time to generate 1 response: 4.796432744245976
 Time to generate 1 response: 4.806989844888449
 Time to generate 1 response: 4.79596463823691
 170 generations in 483.738743014168 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.56s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.51s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.82s/it]Time to load model tiiuae/falcon-7b-instruct: 10.264289219863713
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.56s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.51s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.82s/it]Time to load model tiiuae/falcon-7b-instruct: 10.264289219863713
 Time to calculate perplexity: 0.10120595106855035
 Time to calculate perplexity: 0.08992865681648254
 Time to calculate perplexity: 0.0837334981188178
@@ -16228,7 +16509,11 @@ Time to calculate perplexity: 0.08377549797296524
 Time to calculate perplexity: 0.08373099938035011
 Time to calculate average perplexity: 14.644693641923368
 Model: tiiuae/falcon-7b-instruct generating with keyword_filter_generate filter with 475 potential generations using example 1.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.57s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.52s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.83s/it]Time to load model tiiuae/falcon-7b-instruct: 10.157856745179743
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.57s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.52s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.83s/it]Time to load model tiiuae/falcon-7b-instruct: 10.157856745179743
 Time to check keywords: 2.81590037047863e-05
 Time to generate 1 response: 4.872111206874251
 Time to generate 1 response: 4.845225003082305
@@ -16435,7 +16720,11 @@ Time to generate 1 response: 5.533921786118299
 Time to generate 1 response: 5.451098466292024
 Time to generate 1 response: 5.607931344769895
 170 generations in 726.3685968699865 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.55s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.52s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.83s/it]Time to load model tiiuae/falcon-7b-instruct: 10.41058420483023
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.55s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.52s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.83s/it]Time to load model tiiuae/falcon-7b-instruct: 10.41058420483023
 Time to calculate perplexity: 0.10987736796960235
 Time to calculate perplexity: 0.08966932306066155
 Time to calculate perplexity: 0.08859416376799345
@@ -16609,7 +16898,11 @@ Time to calculate perplexity: 0.08376272721216083
 Time to calculate perplexity: 0.08541984902694821
 Time to calculate average perplexity: 14.704735829029232
 Model: tiiuae/falcon-7b-instruct generating with keyword_filter_generate filter with 475 potential generations using example 2.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.61s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.55s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.86s/it]Time to load model tiiuae/falcon-7b-instruct: 10.214747614692897
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.61s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.55s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.86s/it]Time to load model tiiuae/falcon-7b-instruct: 10.214747614692897
 Time to check keywords: 2.346700057387352e-05
 Time to generate 1 response: 6.309455877169967
 Time to generate 1 response: 6.4076668079942465
@@ -16816,7 +17109,11 @@ Time to generate 1 response: 8.07802035426721
 Time to generate 1 response: 7.524218385107815
 Time to generate 1 response: 7.615996595006436
 170 generations in 1092.9374386947602 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.58s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.54s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.85s/it]Time to load model tiiuae/falcon-7b-instruct: 10.335645075887442
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.58s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.54s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.85s/it]Time to load model tiiuae/falcon-7b-instruct: 10.335645075887442
 Time to calculate perplexity: 0.10658473474904895
 Time to calculate perplexity: 0.08419515891000628
 Time to calculate perplexity: 0.08099618600681424
@@ -16990,7 +17287,11 @@ Time to calculate perplexity: 0.0854813028126955
 Time to calculate perplexity: 0.08695683209225535
 Time to calculate average perplexity: 14.85137704666704
 Model: tiiuae/falcon-7b-instruct generating with keyword_model_check_generate filter with 475 potential generations using example 0.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.57s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.53s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.84s/it]Time to load model tiiuae/falcon-7b-instruct: 10.211341575719416
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.57s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.53s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.84s/it]Time to load model tiiuae/falcon-7b-instruct: 10.211341575719416
 Time to check keywords: 2.5665853172540665e-05
 Time for model filter: 0.1173567078076303
 Time to check keywords: 1.041637733578682e-05
@@ -17301,7 +17602,11 @@ Time to check answer: 2.017737259157002
 Time to generate 1 response: 4.800394398160279
 Time to check answer: 0.49067625822499394
 85 generations in 405.1929679256864 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.53s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.51s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.81s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.53s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.51s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.81s/it]
 Time to load model tiiuae/falcon-7b-instruct: 10.283496257849038
 Time to calculate perplexity: 0.10082727298140526
 Time to calculate perplexity: 0.09011804405599833
@@ -17390,7 +17695,11 @@ Time to calculate perplexity: 0.0832261242903769
 Time to calculate perplexity: 0.08386320574209094
 Time to calculate average perplexity: 7.333944476675242
 Model: tiiuae/falcon-7b-instruct generating with keyword_model_check_generate filter with 475 potential generations using example 1.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.49s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.51s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.81s/it]Time to load model tiiuae/falcon-7b-instruct: 10.12370030907914
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.49s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.51s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.81s/it]Time to load model tiiuae/falcon-7b-instruct: 10.12370030907914
 Time to check keywords: 2.552475780248642e-05
 Time for model filter: 0.11508643673732877
 Time to check keywords: 1.032138243317604e-05
@@ -17701,7 +18010,11 @@ Time to check answer: 0.7809926583431661
 Time to generate 1 response: 5.613626515027136
 Time to check answer: 0.205012870952487
 97 generations in 538.6606421712786 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.70s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.56s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.88s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.70s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.56s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.88s/it]
 Time to load model tiiuae/falcon-7b-instruct: 10.408523362595588
 Time to calculate perplexity: 0.09844223875552416
 Time to calculate perplexity: 0.08093718392774463
@@ -17802,7 +18115,11 @@ Time to calculate perplexity: 0.08511071978136897
 Time to calculate perplexity: 0.08611527225002646
 Time to calculate average perplexity: 8.379194238688797
 Model: tiiuae/falcon-7b-instruct generating with keyword_model_check_generate filter with 475 potential generations using example 2.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.50s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.47s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.78s/it]Time to load model tiiuae/falcon-7b-instruct: 10.085914434865117
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.50s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.47s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.78s/it]Time to load model tiiuae/falcon-7b-instruct: 10.085914434865117
 Time to check keywords: 2.4205073714256287e-05
 Time for model filter: 0.11452136607840657
 Time to check keywords: 1.0229181498289108e-05
@@ -18113,7 +18430,11 @@ Time to check answer: 0.19976739399135113
 Time to generate 1 response: 7.618496017996222
 Time to check answer: 0.19637371692806482
 112 generations in 821.8600974767469 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.67s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.54s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.86s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.67s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.54s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.86s/it]
 Time to load model tiiuae/falcon-7b-instruct: 10.366379104088992
 Time to calculate perplexity: 0.10629188874736428
 Time to calculate perplexity: 0.08731746207922697
@@ -18229,7 +18550,11 @@ Time to calculate perplexity: 0.08391245128586888
 Time to calculate perplexity: 0.0875777262263
 Time to calculate average perplexity: 9.770118825137615
 Model: tiiuae/falcon-7b-instruct generating with keyword_model_expert_check_generate filter with 475 potential generations using example 0.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.40s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.44s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.73s/it]Time to load model tiiuae/falcon-7b-instruct: 9.98300501704216
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.40s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.44s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.73s/it]Time to load model tiiuae/falcon-7b-instruct: 9.98300501704216
 Time to check keywords: 2.490915358066559e-05
 Time for model filter: 0.11494494508951902
 Time to check keywords: 1.1282041668891907e-05
@@ -18540,7 +18865,11 @@ Time to check answer: 2.025317959021777
 Time to generate 1 response: 4.796895280946046
 Time to check answer: 0.19381558895111084
 98 generations in 337.3991418508813 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.66s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.64s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.94s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.66s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.64s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.94s/it]
 Time to load model tiiuae/falcon-7b-instruct: 10.615936022717506
 Time to calculate perplexity: 0.10036197304725647
 Time to calculate perplexity: 0.08769187703728676
@@ -18642,7 +18971,11 @@ Time to calculate perplexity: 0.10583277978003025
 Time to calculate perplexity: 0.08527479181066155
 Time to calculate average perplexity: 8.570600491017103
 Model: tiiuae/falcon-7b-instruct generating with keyword_model_expert_check_generate filter with 475 potential generations using example 1.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.45s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.51s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.80s/it]Time to load model tiiuae/falcon-7b-instruct: 10.098077727016062
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.45s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.51s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.80s/it]Time to load model tiiuae/falcon-7b-instruct: 10.098077727016062
 Time to check keywords: 2.2829975932836533e-05
 Time for model filter: 0.11465621832758188
 Time to check keywords: 1.0215211659669876e-05
@@ -18953,7 +19286,11 @@ Time to check answer: 0.19461554614827037
 Time to generate 1 response: 5.694968685973436
 Time to check answer: 0.19491592794656754
 108 generations in 396.8151330710389 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.50s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.48s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.78s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.50s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.48s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.78s/it]
 Time to load model tiiuae/falcon-7b-instruct: 10.207899638917297
 Time to calculate perplexity: 0.10058134375140071
 Time to calculate perplexity: 0.08737515890970826
@@ -19065,7 +19402,11 @@ Time to calculate perplexity: 0.08281988697126508
 Time to calculate perplexity: 0.08231488289311528
 Time to calculate average perplexity: 9.350966471247375
 Model: tiiuae/falcon-7b-instruct generating with keyword_model_expert_check_generate filter with 475 potential generations using example 2.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.50s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.52s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.82s/it]Time to load model tiiuae/falcon-7b-instruct: 10.190761303063482
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.50s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.52s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.82s/it]Time to load model tiiuae/falcon-7b-instruct: 10.190761303063482
 Time to check keywords: 2.5922898203134537e-05
 Time for model filter: 0.11449195863679051
 Time to check keywords: 1.0471325367689133e-05
@@ -19376,7 +19717,11 @@ Time to check answer: 0.19750098325312138
 Time to generate 1 response: 7.691286197863519
 Time to check answer: 0.20234344294294715
 112 generations in 823.2614412782714 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.53s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.51s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.81s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.53s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.51s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.81s/it]
 Time to load model tiiuae/falcon-7b-instruct: 10.390344435814768
 Time to calculate perplexity: 0.10922785894945264
 Time to calculate perplexity: 0.08492164872586727
@@ -19492,7 +19837,11 @@ Time to calculate perplexity: 0.08303029974922538
 Time to calculate perplexity: 0.08689627982676029
 Time to calculate average perplexity: 9.759143916890025
 Model: tiiuae/falcon-7b-instruct generating with keyword_model_generate filter with 475 potential generations using example 0.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.52s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.48s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.79s/it]Time to load model tiiuae/falcon-7b-instruct: 10.117824811022729
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.52s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.48s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.79s/it]Time to load model tiiuae/falcon-7b-instruct: 10.117824811022729
 Time to check keywords: 2.356385812163353e-05
 Time for model filter: 0.11559518007561564
 Time to check keywords: 1.044711098074913e-05
@@ -19683,7 +20032,11 @@ Time to generate 1 response: 4.906605465803295
 Time to generate 1 response: 4.9582382454536855
 Time to generate 1 response: 4.88345190603286
 120 generations in 355.93088932335377 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.56s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.53s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.83s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.56s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.53s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.83s/it]
 Time to load model tiiuae/falcon-7b-instruct: 10.345321815926582
 Time to calculate perplexity: 0.10316198179498315
 Time to calculate perplexity: 0.08895696187391877
@@ -19807,7 +20160,11 @@ Time to calculate perplexity: 0.08435281179845333
 Time to calculate perplexity: 0.08346139686182141
 Time to calculate average perplexity: 10.499854146968573
 Model: tiiuae/falcon-7b-instruct generating with keyword_model_generate filter with 475 potential generations using example 1.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.52s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.48s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.79s/it]Time to load model tiiuae/falcon-7b-instruct: 10.119350342079997
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.52s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.48s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.79s/it]Time to load model tiiuae/falcon-7b-instruct: 10.119350342079997
 Time to check keywords: 2.3006927222013474e-05
 Time for model filter: 0.11444321228191257
 Time to check keywords: 1.0056886821985245e-05
@@ -19998,7 +20355,11 @@ Time to generate 1 response: 5.533615777269006
 Time to generate 1 response: 5.443337000906467
 Time to generate 1 response: 5.597432461101562
 120 generations in 508.631895523984 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.57s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.51s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.82s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.57s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.51s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.82s/it]
 Time to load model tiiuae/falcon-7b-instruct: 10.302002605050802
 Time to calculate perplexity: 0.09943828918039799
 Time to calculate perplexity: 0.08068795409053564
@@ -20122,7 +20483,11 @@ Time to calculate perplexity: 0.08381468895822763
 Time to calculate perplexity: 0.08598328614607453
 Time to calculate average perplexity: 10.358517283108085
 Model: tiiuae/falcon-7b-instruct generating with keyword_model_generate filter with 475 potential generations using example 2.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.45s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.45s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.75s/it]Time to load model tiiuae/falcon-7b-instruct: 10.064059562981129
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.45s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.45s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.75s/it]Time to load model tiiuae/falcon-7b-instruct: 10.064059562981129
 Time to check keywords: 2.6265159249305725e-05
 Time for model filter: 0.1145018208771944
 Time to check keywords: 1.0292977094650269e-05
@@ -20313,7 +20678,11 @@ Time to generate 1 response: 8.110248408280313
 Time to generate 1 response: 7.555033325217664
 Time to generate 1 response: 7.630631514824927
 120 generations in 785.6083332998678 seconds.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.58s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.55s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.86s/it]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.58s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.55s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:09<00:00,  4.86s/it]
 The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
 Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
 The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
@@ -34906,7 +35275,12 @@ Time to calculate perplexity: 0.012003416195511818
 Time to calculate perplexity: 0.012552584987133741
 Time to calculate average perplexity: 1.19843565300107
 Model: meta-llama/Llama-2-13b-hf generating with model_filter_generate filter with 980 potential generations using example 0.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:08,  4.21s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:08<00:04,  4.50s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:12<00:00,  3.94s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:12<00:00,  4.06s/it]Time to load model meta-llama/Llama-2-13b-hf: 12.790449300315231
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:08,  4.21s/it]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:08<00:04,  4.50s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:12<00:00,  3.94s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:12<00:00,  4.06s/it]Time to load model meta-llama/Llama-2-13b-hf: 12.790449300315231
 Time for model filter: 3.170791945885867
 Time to generate 1 response: 7.201672976836562
 Time to generate 1 response: 7.585483612958342
@@ -35725,7 +36099,12 @@ Time to generate 1 response: 7.399056832306087
 Time to generate 1 response: 7.418830920942128
 Time to generate 1 response: 7.903218788094819
 620 generations in 5245.449266492855 seconds.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:08,  4.45s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.74s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:10<00:00,  3.25s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:10<00:00,  3.62s/it]Time to load model meta-llama/Llama-2-13b-hf: 12.375956362113357
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:04<00:08,  4.45s/it]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:09<00:04,  4.74s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:10<00:00,  3.25s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:10<00:00,  3.62s/it]Time to load model meta-llama/Llama-2-13b-hf: 12.375956362113357
 Time to calculate perplexity: 0.269886062014848
 Time to calculate perplexity: 0.2058725063689053
 Time to calculate perplexity: 0.20340404380112886
@@ -36349,7 +36728,12 @@ Time to calculate perplexity: 0.20004774304106832
 Time to calculate perplexity: 0.20173354912549257
 Time to calculate average perplexity: 125.14870126731694
 Model: meta-llama/Llama-2-13b-hf generating with model_filter_generate filter with 980 potential generations using example 1.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.94s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.94s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.61s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.70s/it]Time to load model meta-llama/Llama-2-13b-hf: 5.750164377968758
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.94s/it]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.94s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.61s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.70s/it]Time to load model meta-llama/Llama-2-13b-hf: 5.750164377968758
 Time for model filter: 3.194396040868014
 Time to generate 1 response: 7.426693344023079
 Time to generate 1 response: 7.532195660751313
@@ -37168,7 +37552,12 @@ Time to generate 1 response: 7.97970215883106
 Time to generate 1 response: 7.622792755253613
 Time to generate 1 response: 7.948089924175292
 620 generations in 5349.580334641971 seconds.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.97s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.96s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.63s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.72s/it]Time to load model meta-llama/Llama-2-13b-hf: 6.053154926281422
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.97s/it]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.96s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.63s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.72s/it]Time to load model meta-llama/Llama-2-13b-hf: 6.053154926281422
 Time to calculate perplexity: 0.2382474741898477
 Time to calculate perplexity: 0.2000110219232738
 Time to calculate perplexity: 0.20040254201740026
@@ -37792,4 +38181,9 @@ Time to calculate perplexity: 0.20109123969450593
 Time to calculate perplexity: 0.20124765392392874
 Time to calculate average perplexity: 125.03970213700086
 Model: meta-llama/Llama-2-13b-hf generating with model_filter_generate filter with 980 potential generations using example 2.
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.89s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.92s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.60s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.68s/it]
+
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]
+Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:03,  1.89s/it]
+Loading checkpoint shards:  67%|██████▋   | 2/3 [00:03<00:01,  1.92s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.60s/it]
+Loading checkpoint shards: 100%|██████████| 3/3 [00:05<00:00,  1.68s/it]

@@ -133,13 +133,15 @@ def extract_context(filepath:str):
         filename (str): _description_
     """
     context = []
-    with open(filepath, encoding="UTF-8") as file:
+    with open(filepath, "r", encoding="UTF-8") as file:
         context_counter = 0
         for line in file:
-            if "Context: " in line:
+            if "Context: " in line or ():
                 context_counter += 1
                 idx = line.index("Context: ")
                 context.append(line[idx+9:].strip())
+            elif "Generated" not in line and "Question:" not in line and "Answer" not in line:
+                context.append(line.strip())
     return context
 
 
@@ -157,8 +159,8 @@ def extract_context_qna(filepath: str):
         for line in ofile:
             f+=line
         
-        sections = f.split("Con")
-        
+        sections = f.split("\n\n\n")
+        #print(sections)
     
         for section in sections:
             c = ""
@@ -166,26 +168,41 @@ def extract_context_qna(filepath: str):
             a = ""
             qna = []
             lines = section.split("\n")
+            #print(lines)
             for line in lines:
                 
-                if "text: " in line:
-                    contexts.append(line[len("text: "):].strip())
-                    c = line[len("text: "): ].strip()
+                if line == "":
+                    pass
+                else:
+                    if line != "\n" and line != "\n\n" and "Question:" not in line and "Answer:" not in line and "Score:" not in line:
+                        if "\n" in line.strip():
+                            line = line.removeprefix("\n")
+                        contexts.append(line.strip())
+                        c = line.strip()
+                        #print(c)
+                        #print((c))
+                        
+                    elif "Question: " in line:
+                        q = line[len("Question: "):].strip()
+                        #print(q)
                     
-                elif "Question: " in line:
-                    q = line[len("Question: "):].strip()
-                   
-                elif "Answer:" in line:
-                    a = line[len("Answer:"):].strip()
+                    elif "Answer:" in line:
+                        #print(line)
+                        a = line[len("Answer:"):].strip()
+                        #print(a)
+                        #print(a)
 
-                if c != "" and a != "" and q !="":
-                    qc = q
-                    ac = a
-                    qna = qna + [(qc, ac)]
-                    qnac = qna
-                    context_qna_dict[c] = qnac
-                    q = ""
-                    a = ""
+                    #print("Context: ", c, "\n", "Q:", q, "\n", "A:", a)
+                    if c != "" and a != "" and q != "":
+                        qc = q
+                        ac = a
+                        qna = qna + [(qc, ac)]
+                        qnac = qna
+                        context_qna_dict[c] = qnac
+                        #print(qnac)
+                        q = ""
+                        a = ""
+    print(context_qna_dict)
     return context_qna_dict          
 
 
@@ -194,18 +211,23 @@ def run_benchmark():
     directory = "output" 
     output_list = []
     for name in os.listdir(directory):
+        #print(name)
         d = os.path.join(directory, name)
         if os.path.isdir(d):
             for file in os.listdir(d):
                 f = os.path.join(d, file)
+                #print(f)
                 if ".out" in file or "placeholder" in file:
                     pass
                 else:
                     if os.path.isfile(f):
+                        #print(f)
                         generations, time, perp_score = get_stats(f)
-                        score = 0
+                        # print(generations, time, perp_score)
                         context = extract_context(f)
+                        #print(context)
                         context_qna_dict = extract_context_qna(f)
+                        score = 0
                         if "html" in f:
                             total_points = 45
                             r_contexts = relevant_contexts[:-4]
@@ -215,17 +237,23 @@ def run_benchmark():
                             response_context_dict = find_relevant_paragraphs(relevant_contexts, context)
                         relevant_tracker = 0
                         for c in context:
+                            #print(c)
                             relevant_context = response_context_dict[c] if c in response_context_dict.keys() else None
+                            #print(relevant_context)
                             qna = context_qna_dict[c] if c in context_qna_dict.keys() else None
                             if relevant_context is not None and qna is not None:
                                 for tup in qna:
+                                    #print(tup)
                                     q = tup[0]
                                     a = tup[1]
                                     paragraph_questions = paragraph_questions_dict[relevant_context]
+                                    #print(paragraph_questions)
                                     if q in paragraph_questions:
+                                        #print(q)
                                         relevant_tracker+=1
                                         # Make conditions for each question and answer and add to score if has certain parts in the string
                                         if relevant_context == p1:
+                                            
                                             if q == target_question:
                                                 if "Iron" in a or "iron" in a or "Fe" in a:
                                                     score+=0.5
@@ -472,13 +500,17 @@ def run_benchmark():
                                             elif q == products_question:
                                                 if "Actinium-228" in a or "actinium-228" in a or "228Ac" in a:
                                                     score+=1
-                    parser = "html" if "html" in f else "pdf"
-                    ratio = round(score/total_points, 2)
-                    generations = int(generations)
-                    time = float(time)
-                    # Tuple format:
-                    # filename, score, total generations, total time, efficiency (gen/min), perplexity score, relevant generations, percent of relevent generations generated, wasted generations, parser
-                    output_list.append((f[len("output/"):],ratio, generations, time, (generations/time)*60, perp_score, relevant_tracker, relevant_tracker/total_points, generations-relevant_tracker, parser))
+                                        
+                        #print(score)
+                        parser = "html" if "html" in f else "pdf"
+                        print(total_points)
+                        ratio = round(score/total_points, 2)
+                        print(ratio)
+                        generations = int(generations)
+                        time = float(time)
+                        # Tuple format:
+                        # filename, score, total generations, total time, efficiency (gen/min), perplexity score, relevant generations, percent of relevent generations generated, wasted generations, parser
+                        output_list.append((f[len("output/"):],ratio, generations, time, (generations/time)*60, perp_score, relevant_tracker, relevant_tracker/total_points, generations-relevant_tracker, parser))
     return output_list
 
 
@@ -510,8 +542,10 @@ def write_to_csv():
         for tup in output_list:
             # Tuple format:
             # filename, score, total generations, total time, efficiency (gen/min), perplexity score, relevant generations, percent of relevant generations generated, wasted generations, parser
+            #print(tup)
             filename, score, generations, time, efficiency, perplexity, relevent_gens, percent_relevant, wasted_gens, parser = tup
             filename = filename.replace("\ ", "/")
+            print(score)
             if "fourth_test" in filename and "-2" in filename:
                 pass
             else:

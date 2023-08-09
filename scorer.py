@@ -8,7 +8,7 @@ Author: Logan Endes @Log45 on github
 from benchmark import *
 import matplotlib.pyplot as plt
 
-write_to_csv()
+#write_to_csv()
 
 with open("results.csv", "r", encoding="UTF-8") as f:
     output_lst = []
@@ -33,7 +33,7 @@ with open("results.csv", "r", encoding="UTF-8") as f:
         else:
             #filename,score,total generations,total time,efficiency (gen/min),perplexity score,relevant generations,percent of relevant generations generated,wasted generations,parser
             name, acc, gens, time, eff, perp, relgen, percrelgen, wasted, parser = line.strip().split(",")
-            print(perp)
+            print(acc)
             output_lst.append((name, acc, gens, time, eff, perp, relgen, percrelgen, wasted, parser))
             model_dict[name] = (acc, eff, perp, int(wasted)/int(gens))
             # classify by models
@@ -136,6 +136,7 @@ eff = 0
 perp = 0
 waste = 0
 for output in falcon:
+    print(output)
     acc += float(model_dict[output][0])
     eff += float(model_dict[output][1])
     perp += float(model_dict[output][2])
@@ -345,8 +346,9 @@ for key in model_dict.keys():
 n = greatest[1]
 if "html" in n:
     model = n[n.index("ate-")+4:n.index("-html")]
-else:
+elif "pdf" in n:
     model = n[n.index("ate-")+4:n.index("-pdf")]
 
+
 with open("most_accurate.txt", "w", encoding="UTF-8") as f:
-    f.write(f"Most accurate result is {model} with {accuracy} accuracy, {round(float(model_dict[n][1]),2)} gen/min efficiency, {round(float(model_dict[n][2]),2)} perplexity, and {round(float(model_dict[n][3]),2)} wasted generations.")
+    f.write(f"Most accurate result is {model} with {accuracy} accuracy, {round(float(model_dict[n][1]),2)} gen/min efficiency, {round(float(model_dict[n][2]),2)} perplexity, and {round(float(model_dict[n][3]),2)} wasted generations. \n {n}")
