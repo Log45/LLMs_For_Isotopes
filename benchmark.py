@@ -1,3 +1,7 @@
+"""
+This file acts as the scoring rubric for the accuracy of generations by the LLMs tested.
+Author: Logan Endes @Log45 on github
+"""
 #from functions import *
 import os
 
@@ -59,11 +63,15 @@ relevant_contexts = [p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11, p12, p13, p14
 paragraph_questions_dict = {p1:q1, p2:q2, p3:q3, p4:q4, p5:q5, p6:q6, p7:q7, p8:q8, p9:q9, p10:q10, p11:q11, p12:q12, p13:q13, p14:q14, p15:q15, p16:q16}
    
 def find_paragraph(s: set, context:list):
-    """_summary_
+    """
+    This function compares the given set corresponding with a relevant paragraph to every paragraph in the list of contexts.
 
     Args:
-        s (set): _description_
-        context (list): _description_
+        s (set): Set representing the relevant paragraph to be compared to.
+        context (list): List of context paragraphs from document parser.
+
+    Returns:
+        relevant (str): String representing the paragraph corresponding to the given set s.
     """
     test_sets = []
     test_set_dict = {}
@@ -492,7 +500,9 @@ def get_stats(filepath):
 
 
 def write_to_csv():
-    """_summary_
+    """
+    Takes the results of the benchmark and writes them into a csv with the format:
+    filename, score, total generations, total time, efficiency (gen/min), perplexity score, relevant generations, percent of relevant generations generated, wasted generations, parser
     """
     output_list = run_benchmark()
     with open("results.csv", "w", encoding="UTF-8") as f:
@@ -506,5 +516,6 @@ def write_to_csv():
                 pass
             else:
                 f.write(f"{filename},{score},{generations},{time},{efficiency},{perplexity},{relevent_gens},{percent_relevant},{wasted_gens},{parser}\n")
-            
-write_to_csv()
+
+if __name__ == "__main__":  
+    write_to_csv()

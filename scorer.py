@@ -1,3 +1,11 @@
+"""
+Sorry for the spaghetti-code:
+This file goes through the results.csv file and extracts the accuracy, efficiency, perplexity, and wastefulness of 
+each file and calculates the average with regards to the model, the filter, and the prompt used. 
+
+Author: Logan Endes @Log45 on github
+"""
+
 import matplotlib.pyplot as plt
 
 with open("results.csv", "r", encoding="UTF-8") as f:
@@ -51,7 +59,7 @@ with open("results.csv", "r", encoding="UTF-8") as f:
                 mf.append(name)
             elif "model_check" in name:
                 kmc.append(name)
-            elif "model_expert" in name:
+            elif "model_expert_generate" in name:
                 kme.append(name)
             elif "model_expert_check" in name:
                 kmec.append(name)
@@ -325,3 +333,18 @@ plt.ylabel("Accuracy")
 plt.title("Accuracy by Prompt")
 plt.savefig('prompt_accuracy.png')
 plt.close()
+
+greatest = (0, "")
+for key in model_dict.keys():
+    accuracy = float(model_dict[key][0])
+    if accuracy > greatest[0]:
+        greatest = (accuracy, key)
+
+n = greatest[1]
+if "html" in n:
+    model = n[n.index("ate-")+4:n.index("-html")]
+else:
+    model = n[n.index("ate-")+4:n.index("-pdf")]
+
+with open("most_accurate.txt", "w", encoding="UTF-8") as f:
+    f.write(f"Most accurate result is {model} with {accuracy} accuracy, {round(float(model_dict[n][1]),2)} gen/min efficiency, {round(float(model_dict[n][2]),2)} perplexity, and {round(float(model_dict[n][3]),2)} wasted generations.")

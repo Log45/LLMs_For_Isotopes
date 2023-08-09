@@ -14,7 +14,9 @@ import os
 from bs4 import BeautifulSoup
 
 def extract_context(html_file_name):
-    """"""
+    """
+    Extracts paragraphs from HTML files from mdpi.com based on the class name representing paragraphs.
+    """
     HTMLFile = open(f"data/html/{html_file_name}" if ".html" in html_file_name else f"data/html/{html_file_name}.html", 
                     "r", encoding="utf-8")
 
@@ -70,7 +72,11 @@ def extract_context(html_file_name):
         
 
 def html_to_context():
-    """"""
+    """
+    Returns:
+        context: list with different paragraphs from the text file that may be able to be used as context for large language models.
+        
+    """
     directory = "data/html"
     context = []
     for filename in os.listdir(directory):
@@ -83,6 +89,12 @@ def html_to_context():
 
 def single_html_to_context(html_file_name):
     """
+    Parameters:
+        html_file_name: A string representation of the name of the html file.
+    
+    Returns:
+        context: list with different paragraphs from the text file that may be able to be used as context for large language models.
+    
     """
     directory = "data/html"
     if ".html" not in html_file_name:

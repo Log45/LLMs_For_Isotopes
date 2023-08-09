@@ -1,5 +1,5 @@
 """
-This file will be testing large language models from transformers being used in tandem with pdf_parser and html_parser to extract descriptions of chemical separations from research papers.
+This file contains fucntions for testing large language models from transformers being used in tandem with pdf_parser and html_parser to extract descriptions of chemical separations from research papers.
 Author: Logan Endes https://github.com/Log45
 
 Goals: Using few-shot CoT, answer these questions with different prompts
@@ -86,6 +86,13 @@ answer_context_dict = {}
 
 
 def calculate_perplexity(model, tokenizer, text):
+    """
+    Function from https://towardsdatascience.com/introduction-to-weight-quantization-2494701b9c0c 
+    Instead of trying to see if one output makes more sense than the others, we can quantify it by calculating the perplexity of each output. 
+    This is a common metric used to evaluate language models, which measures the uncertainty of a model in predicting the next token in a sequence. 
+    In this comparison, we make the common assumption that the lower the score, the better the model is. 
+    In practice, a sentence with a high perplexity could also be correct.
+    """
     device = "cuda" if torch.cuda.is_available() else "cpu"
     pt1 = time.perf_counter()
     # Encode the text

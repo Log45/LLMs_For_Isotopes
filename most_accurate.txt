@@ -1,0 +1,1 @@
+Most accurate result is Llama-2-13b-hf with 0.31 accuracy, 7.9 gen/min efficiency, 0.0 perplexity, and 0.73 wasted generations.
