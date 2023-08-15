@@ -342,6 +342,7 @@ for key in model_dict.keys():
     accuracy = float(model_dict[key][0])
     if accuracy > greatest[0]:
         greatest = (accuracy, key)
+    print(greatest)
 
 n = greatest[1]
 if "html" in n:
@@ -351,4 +352,4 @@ elif "pdf" in n:
 
 
 with open("most_accurate.txt", "w", encoding="UTF-8") as f:
-    f.write(f"Most accurate result is {model} with {accuracy} accuracy, {round(float(model_dict[n][1]),2)} gen/min efficiency, {round(float(model_dict[n][2]),2)} perplexity, and {round(float(model_dict[n][3]),2)} wasted generations. \n {n}")
+    f.write(f"Most accurate result is {model} with {greatest[0]} accuracy, {round(float(model_dict[n][1]),2)} gen/min efficiency, {round(float(model_dict[n][2]),2)} perplexity, and {round(float(model_dict[n][3]),2)} wasted generations. \n {n}")

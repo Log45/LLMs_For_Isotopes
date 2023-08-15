@@ -1,2 +1,2 @@
-Most accurate result is Llama-2-13b-hf with 0.5 accuracy, 7.58 gen/min efficiency, 27.06 perplexity, and 0.67 wasted generations. 
-final_test\keyword_filter_generate-Llama-2-13b-hf-html-2.txt
+Most accurate result is Llama-2-13b-hf with 0.64 accuracy, 7.58 gen/min efficiency, 27.06 perplexity, and 0.67 wasted generations. 
+ final_test\keyword_filter_generate-Llama-2-13b-hf-html-2.txt

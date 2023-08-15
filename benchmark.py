@@ -276,7 +276,7 @@ def run_benchmark():
                                             elif q == products_question:
                                                 if "cobalt-55" in a or "Cobalt-55" in a or "55Co" in a:
                                                     score+=0.5
-                                                if "cobalt-58m" in a or "Cobalt-58m" in a or "58mCo" in a:
+                                                if "cobalt-58" in a or "Cobalt-58" in a or "58mCo" in a or "58Co" in a:
                                                     score+=0.5
                                         elif relevant_context == p2:
                                             if q == target_question:
@@ -299,7 +299,7 @@ def run_benchmark():
                                                 if "Iron" in a or "iron" in a or "Fe" in a:
                                                     score+=1
                                             elif q == resin_question:
-                                                if "anion-exchane" in a or "Anion-exchange" in a:
+                                                if "anion-exchange" in a or "Anion-exchange" in a:
                                                     score+=1
                                             elif q == elution_question:
                                                 if "4M HCl" in a or "4 M HCl" in a or "4.0 M HCl" in a or "4.0M HCl" in a:
@@ -426,12 +426,12 @@ def run_benchmark():
                                                 if "6 M HCl" in a or "6M HCl" in a or "6 M hydrochloride acid" in a or "6M hydrochloride acid" in a or "6.0 M HCl" in a or "6.0M HCl" in a:
                                                     score+=1
                                             elif q == resin_question:
-                                                if "anion exchange" in a or "Anion exchange" in a or "Anion Exchange" in a:
+                                                if "anion exchange" in a or "Anion exchange" in a or "Anion Exchange" in a or "anion-exchange" in a:
                                                     score+=0.5
-                                                if "AG 1-X8" in a or "AG 1" in a:
+                                                if "AG 1-X8" in a or "AG 1" in a or "AG1" in a:
                                                     score+=0.5
                                             elif q == elution_question:
-                                                if "1 M HCl" in a or "1M HCl" in a:
+                                                if "1 M HCl" in a or "1M HCl" in a or "1.0 M HCl" in a or "1.0M HCl" in a:
                                                     score+=1
                                             elif q == products_question:
                                                 if "Copper-64" in a or "copper-64" in a or "64Cu" in a:
