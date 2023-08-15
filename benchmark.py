@@ -283,7 +283,7 @@ def run_benchmark():
                                                 if "nickel" in a or "Nickel" in a:
                                                     score+=1
                                             elif q == acid_question:
-                                                if "9M HCl" in a or "9 M HCl" in a or ("9M" in a and "HCl" in a):
+                                                if "9M HCl" in a or "9 M HCl" in a or "9.0 M HCl" in a or "9.0M HCl" in a or ("9M" in a and "HCl" in a):
                                                     score+=1
                                             elif q == resin_question:
                                                 if "AG 1 × 8" in a or "AG1×8" in a or "AG 1×8" in a or ("AG" in a and "anion-exchange resin" in a):
@@ -302,7 +302,7 @@ def run_benchmark():
                                                 if "anion-exchane" in a or "Anion-exchange" in a:
                                                     score+=1
                                             elif q == elution_question:
-                                                if "4M HCl" in a or "4 M HCl" in a:
+                                                if "4M HCl" in a or "4 M HCl" in a or "4.0 M HCl" in a or "4.0M HCl" in a:
                                                     score+=1
                                             elif q == products_question:
                                                 if "cobalt-5x" in a or "Cobalt-5x" in a or "5xCo" in a:
@@ -405,13 +405,13 @@ def run_benchmark():
                                                 if "Nickel-64" in a or "nickel-64" in a or "64Ni" in a:
                                                     score+=1
                                             elif q == acid_question:
-                                                if "6 M HCl" in a or "6M HCl" in a or "6 M hydrochloride acid" in a:
+                                                if "6 M HCl" in a or "6M HCl" in a or "6 M hydrochloride acid" in a or "6M hydrochloride acid" in a or "6.0 M HCl" in a or "6.0M HCl" in a:
                                                     score+=1
                                             elif q == resin_question:
                                                 if "anion exchange" in a or "Anion exchange" in a or "Anion Exchange" in a:
                                                     score+=1
                                             elif q == elution_question:
-                                                if "1 M HCl" in a or "1M HCl" in a:
+                                                if "1 M HCl" in a or "1M HCl" in a or "1.0 M HCl" in a or "1.0M HCl" in a:
                                                     score+=1
                                             elif q == products_question:
                                                 if "Copper-64" in a or "copper-64" in a or "64Cu" in a:
@@ -423,7 +423,7 @@ def run_benchmark():
                                                 if "Nickel-64" in a or "nickel-64" in a or "64Ni" in a:
                                                     score+=1
                                             elif q == acid_question:
-                                                if "6 M HCl" in a or "6M HCl" in a or "6 M hydrochloride acid" in a:
+                                                if "6 M HCl" in a or "6M HCl" in a or "6 M hydrochloride acid" in a or "6M hydrochloride acid" in a or "6.0 M HCl" in a or "6.0M HCl" in a:
                                                     score+=1
                                             elif q == resin_question:
                                                 if "anion exchange" in a or "Anion exchange" in a or "Anion Exchange" in a:
@@ -464,7 +464,7 @@ def run_benchmark():
                                                 if "Thorium-228" in a or "thorium-228" in a or "228Th" in a:
                                                     score+=0.33
                                             elif q == acid_question:
-                                                if "4 M HNO3" in a or "4M HNO3" in a:
+                                                if "4 M HNO3" in a or "4M HNO3" in a or "4.0 M HNO3" in a or "4.0M HNO3" in a:
                                                     score+=1
                                             elif q == resin_question:
                                                 if "RE" in a or "chromatographic sorbent" in a:
@@ -495,7 +495,7 @@ def run_benchmark():
                                                 if "Radium-228" in a or "radium-228" in a or "228Ra" in a:
                                                     score+=1
                                             elif q == acid_question:
-                                                if "4 M HNO3" in a or "4M HNO3" in a:
+                                                if "4 M HNO3" in a or "4M HNO3" in a or "4.0 M HNO3" in a or "4.0M HNO3" in a:
                                                     score+=1
                                             elif q == products_question:
                                                 if "Actinium-228" in a or "actinium-228" in a or "228Ac" in a:
